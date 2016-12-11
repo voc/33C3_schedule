@@ -1,4 +1,39 @@
 {
+    "Session:Tor# 597a60bf1df02da1110f843b155078a9": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Session should be used to connect with all the people who work for the various projects within or related with tor."
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Julius", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Julius", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Tor"
+        ], 
+        "Has duration": [], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Tor", 
+        "Has end time": []
+    }, 
     "Session:Angewandte konsensdemokratie# 69d80409f438f0741ff3257e7a97372a": {
         "Held in language": [
             "de - German"
