@@ -697,7 +697,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1109, 
+                                "id": 1110, 
                                 "guid": "42fc3badce6e91ea0ecfb85cb8434a1f", 
                                 "logo": null, 
                                 "date": "2016-12-28T03:00:00+01:00", 
@@ -725,7 +725,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1110, 
+                                "id": 1111, 
                                 "guid": "c34d388fc65ca7945372d2f3c603589c", 
                                 "logo": null, 
                                 "date": "2016-12-28T02:00:00+01:00", 
@@ -810,10 +810,10 @@
                         "Hall A.1": [
                             {
                                 "id": 1108, 
-                                "guid": "27b5025dd294b5fa15d8915eac1b6f73", 
+                                "guid": "06de81ba9b71b450d9cbf61661471ee5", 
                                 "logo": null, 
-                                "date": "2016-12-28T02:00:00+01:00", 
-                                "start": "02:00", 
+                                "date": "2016-12-28T01:00:00+01:00", 
+                                "start": "01:00", 
                                 "duration": "1:00", 
                                 "room": "Hall A.1", 
                                 "slug": "", 
@@ -837,11 +837,11 @@
                                 ]
                             }, 
                             {
-                                "id": 1111, 
-                                "guid": "06de81ba9b71b450d9cbf61661471ee5", 
+                                "id": 1109, 
+                                "guid": "27b5025dd294b5fa15d8915eac1b6f73", 
                                 "logo": null, 
-                                "date": "2016-12-28T01:00:00+01:00", 
-                                "start": "01:00", 
+                                "date": "2016-12-28T02:00:00+01:00", 
+                                "start": "02:00", 
                                 "duration": "1:00", 
                                 "room": "Hall A.1", 
                                 "slug": "", 
@@ -1093,7 +1093,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1024, 
+                                "id": 1025, 
                                 "guid": "fdd8a9c86e797d9c002a514c55992e1d", 
                                 "logo": null, 
                                 "date": "2016-12-28T15:00:00+01:00", 
@@ -1120,7 +1120,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1027, 
+                                "id": 1026, 
                                 "guid": "8ba93735bba7d3bfbd659432e4e1a209", 
                                 "logo": null, 
                                 "date": "2016-12-28T12:00:00+01:00", 
@@ -1291,7 +1291,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1025, 
+                                "id": 1024, 
                                 "guid": "3e5566423bb7179b1698b34b8fba2524", 
                                 "logo": null, 
                                 "date": "2016-12-28T11:00:00+01:00", 
@@ -1318,7 +1318,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1026, 
+                                "id": 1027, 
                                 "guid": "f7580cf27bd0d4bb0bd704612ab55f0e", 
                                 "logo": null, 
                                 "date": "2016-12-28T15:00:00+01:00", 
@@ -1886,7 +1886,35 @@
                                 ]
                             }, 
                             {
-                                "id": 1113, 
+                                "id": 1112, 
+                                "guid": "390998a1ab9f42dbefdc4f9bf1f69e29", 
+                                "logo": null, 
+                                "date": "2016-12-29T00:30:00+01:00", 
+                                "start": "00:30", 
+                                "duration": "1:00", 
+                                "room": "Hall 13-14", 
+                                "slug": "", 
+                                "title": "Skillconvention b", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "all travelers of a certain skill will be invented to join their respective session", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Reisende", 
+                                        "public_name": "Reisende"
+                                    }
+                                ], 
+                                "links": [
+                                    "http://thereisnogame.de", 
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Skillconvention_b"
+                                ]
+                            }, 
+                            {
+                                "id": 1114, 
                                 "guid": "b71ce3ffa02dca5f83180aaf66581567", 
                                 "logo": null, 
                                 "date": "2016-12-29T01:30:00+01:00", 
@@ -1914,39 +1942,11 @@
                                 ]
                             }, 
                             {
-                                "id": 1114, 
+                                "id": 1115, 
                                 "guid": "b06e4dfefe4629fdaf4c0ae1e5116d41", 
                                 "logo": null, 
                                 "date": "2016-12-29T02:30:00+01:00", 
                                 "start": "02:30", 
-                                "duration": "1:00", 
-                                "room": "Hall 13-14", 
-                                "slug": "", 
-                                "title": "Skillconvention b", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "meeting", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "all travelers of a certain skill will be invented to join their respective session", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Reisende", 
-                                        "public_name": "Reisende"
-                                    }
-                                ], 
-                                "links": [
-                                    "http://thereisnogame.de", 
-                                    "https://events.ccc.de/congress/2016/wiki/Session:Skillconvention_b"
-                                ]
-                            }, 
-                            {
-                                "id": 1116, 
-                                "guid": "390998a1ab9f42dbefdc4f9bf1f69e29", 
-                                "logo": null, 
-                                "date": "2016-12-29T00:30:00+01:00", 
-                                "start": "00:30", 
                                 "duration": "1:00", 
                                 "room": "Hall 13-14", 
                                 "slug": "", 
@@ -2108,7 +2108,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1112, 
+                                "id": 1113, 
                                 "guid": "58e0cb7cce31f817c96521e059bf40e1", 
                                 "logo": null, 
                                 "date": "2016-12-29T01:30:00+01:00", 
@@ -2136,7 +2136,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1115, 
+                                "id": 1116, 
                                 "guid": "70c8429502d619a4df08c3b41d47c88c", 
                                 "logo": null, 
                                 "date": "2016-12-29T00:30:00+01:00", 
@@ -2764,7 +2764,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1117, 
+                                "id": 1118, 
                                 "guid": "a1496422476dce53d2f614263adbeeca", 
                                 "logo": null, 
                                 "date": "2016-12-30T01:30:00+01:00", 
@@ -2792,7 +2792,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1118, 
+                                "id": 1119, 
                                 "guid": "e359d1f9d3b1ca042ad6170cb80f550f", 
                                 "logo": null, 
                                 "date": "2016-12-30T00:30:00+01:00", 
@@ -2993,7 +2993,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1119, 
+                                "id": 1117, 
                                 "guid": "15f21480446aabdd28aa3fe571253266", 
                                 "logo": null, 
                                 "date": "2016-12-30T00:30:00+01:00", 
