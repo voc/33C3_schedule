@@ -1,0 +1,3158 @@
+{
+    "schedule": {
+        "conference": {
+            "acronym": "33c3", 
+            "title": "33. Chaos Communication Congress", 
+            "start": "2016-12-27", 
+            "end": "2016-12-30", 
+            "daysCount": 5, 
+            "timeslot_duration": "00:15", 
+            "days": [
+                {
+                    "date": "2016-12-26", 
+                    "index": 0, 
+                    "day_end": "2016-12-27T04:00:00+01:00", 
+                    "rooms": {
+                        "Hall 13-14": [
+                            {
+                                "id": 1133, 
+                                "guid": "b4642dca82f3b99a0285cda5da1d8655", 
+                                "logo": null, 
+                                "date": "2016-12-26T20:00:00+01:00", 
+                                "start": "20:00", 
+                                "duration": "1:30", 
+                                "room": "Hall 13-14", 
+                                "slug": "", 
+                                "title": "Translation meetings", 
+                                "subtitle": "day 0, pre-meeting", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "The translation angels (interpreters) meet twice per day to self-organise (day 0, evening to day 4, afternoon)", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Sebalis", 
+                                        "public_name": "Sebalis"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Translation_meetings"
+                                ]
+                            }
+                        ], 
+                        "Hall B": [
+                            {
+                                "id": 1042, 
+                                "guid": "7609f4184e8e8b2c2145f6a02bb27577", 
+                                "logo": null, 
+                                "date": "2016-12-26T19:45:00+01:00", 
+                                "start": "19:45", 
+                                "duration": "1:00", 
+                                "room": "Hall B", 
+                                "slug": "", 
+                                "title": "Engelmeeting", 
+                                "subtitle": "Welcome meeting", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Knuth", 
+                                        "public_name": "Knuth"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting"
+                                ]
+                            }, 
+                            {
+                                "id": 1044, 
+                                "guid": "82605b18023ab9bf304023036613d153", 
+                                "logo": null, 
+                                "date": "2016-12-26T15:00:00+01:00", 
+                                "start": "15:00", 
+                                "duration": "1:00", 
+                                "room": "Hall B", 
+                                "slug": "", 
+                                "title": "Engelmeeting", 
+                                "subtitle": "Introduction Meeting for new angels", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Knuth", 
+                                        "public_name": "Knuth"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting"
+                                ]
+                            }, 
+                            {
+                                "id": 1051, 
+                                "guid": "8dfd36020c289da34158859546960fe4", 
+                                "logo": null, 
+                                "date": "2016-12-26T13:00:00+01:00", 
+                                "start": "13:00", 
+                                "duration": "1:00", 
+                                "room": "Hall B", 
+                                "slug": "", 
+                                "title": "Engelmeeting", 
+                                "subtitle": "Buildup- and welcome meeting", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Knuth", 
+                                        "public_name": "Knuth"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting"
+                                ]
+                            }
+                        ]
+                    }, 
+                    "day_start": "2016-12-26T06:00:00+01:00"
+                }, 
+                {
+                    "date": "2016-12-27", 
+                    "index": 1, 
+                    "day_end": "2016-12-28T04:00:00+01:00", 
+                    "rooms": {
+                        "Hall C.1": [
+                            {
+                                "id": 1015, 
+                                "guid": "a5a1f9f1e38b6dd01be85740aa155bc6", 
+                                "logo": null, 
+                                "date": "2016-12-27T12:00:00+01:00", 
+                                "start": "12:00", 
+                                "duration": "1:00", 
+                                "room": "Hall C.1", 
+                                "slug": "", 
+                                "title": "An UnCivilization Commune ReWilded Life Shared with Squirrels", 
+                                "subtitle": "First meetup", 
+                                "track": "self organized sessions", 
+                                "type": "other", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Looking forward to meet new and old friends interested in UnCivilization! \n\nWe are a group of people interested in intersection of technology & society, politics, activism, art, and critical of techno-optimism. We share a mailing list since 2012, called UnCivilization, inspired (but not otherwise connected to) Dark Mountain \"Uncivilization Manifesto\", as well as Ursula LeGuin, Derrick Jensen, Heather Marsh, John Zerzan, Naomi Klein, Daniel Quinn, Ursula Franklin, and other feminist, anarchist, anti-supremacist authors. \n\nGoal of this meetup is to catch-up, give each other hugs & support, and plan our activities for the next months & years (e.g. another LikaCamp?!)", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Becha", 
+                                        "public_name": "Becha"
+                                    }
+                                ], 
+                                "links": [
+                                    "http://unciv.nl", 
+                                    "https://events.ccc.de/congress/2016/wiki/Session:An_UnCivilization_Commune_ReWilded_Life_Shared_with_Squirrels"
+                                ]
+                            }, 
+                            {
+                                "id": 1022, 
+                                "guid": "da6dbae49e1ecb56a980368402616b5a", 
+                                "logo": null, 
+                                "date": "2016-12-27T15:00:00+01:00", 
+                                "start": "15:00", 
+                                "duration": "1:00", 
+                                "room": "Hall C.1", 
+                                "slug": "", 
+                                "title": "CmS L\u00f6tworkshop Vorbesprechung f\u00fcr Helfer", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Vorbesprechung f\u00fcr die Helfer des Chaos macht Schule-L\u00f6tworkshops", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Djim", 
+                                        "public_name": "Djim"
+                                    }, 
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Benni", 
+                                        "public_name": "Benni"
+                                    }, 
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Duisburch", 
+                                        "public_name": "Duisburch"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2016/wiki/Session:CmS_L%C3%B6tworkshop_Vorbesprechung_f%C3%BCr_Helfer"
+                                ]
+                            }, 
+                            {
+                                "id": 1072, 
+                                "guid": "c255a27a386bf121d02a429e711a09c0", 
+                                "logo": null, 
+                                "date": "2016-12-27T18:00:00+01:00", 
+                                "start": "18:00", 
+                                "duration": "1:30", 
+                                "room": "Hall C.1", 
+                                "slug": "", 
+                                "title": "Introduction to LEAP encryption access project and Pixelated", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "talk", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "We talk about the current state of VPN and encrypted email services and the use cases for providers and end users.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Varac", 
+                                        "public_name": "Varac"
+                                    }, 
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Kali", 
+                                        "public_name": "Kali"
+                                    }, 
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Zara", 
+                                        "public_name": "Zara"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://leap.se", 
+                                    "https://pixelated-project.org/", 
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Introduction_to_LEAP_encryption_access_project_and_Pixelated"
+                                ]
+                            }, 
+                            {
+                                "id": 1104, 
+                                "guid": "4a992d9add2bc71db38142ddb1e0d6c2", 
+                                "logo": null, 
+                                "date": "2016-12-27T16:30:00+01:00", 
+                                "start": "16:30", 
+                                "duration": "1:30", 
+                                "room": "Hall C.1", 
+                                "slug": "", 
+                                "title": "Queer Feminist Geeks Gathering", 
+                                "subtitle": "Spare room in case we split up groups", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "A meetup for all the queer feminist geek folk.\n\nWe will talk a bit about our assembly and what we are doing there, exchange projects and ideas, and network with each other. This meetup is open to people of all genders, but please be mindful of how much space you are taking up. Especially if you are white, male, straight and cis, please try to actively listen instead of talking. \n\nThis is our Code of Conduct: https://events.ccc.de/congress/2015/wiki/Projects:Code_of_Conduct_of_the_Queer_Feminist_Geek_Assembly", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Obaz", 
+                                        "public_name": "Obaz"
+                                    }, 
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:UMT", 
+                                        "public_name": "UMT"
+                                    }, 
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:CoopDot", 
+                                        "public_name": "CoopDot"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Queer_Feminist_Geeks_Gathering"
+                                ]
+                            }
+                        ], 
+                        "Hall C.2": [
+                            {
+                                "id": 1122, 
+                                "guid": "b787a13c30041f982fc7186223360be6", 
+                                "logo": null, 
+                                "date": "2016-12-27T16:00:00+01:00", 
+                                "start": "16:00", 
+                                "duration": "3:00", 
+                                "room": "Hall C.2", 
+                                "slug": "", 
+                                "title": "Space Hacking", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "talk", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Grenzen\u00fcberschreitende Aktionen an scheinbar unzug\u00e4nglichen Orten, ein\nSchiff als Arena schwimmender Spontandemos,  Hausfassaden, die innerhalb\nweniger Minuten in Farbe getaucht werden, Wandbild-Brigaden als\ninternationalistische Politikarbeit und mittendrin: ein Raum f\u00fcr\nKulturKunstPartyPolitik\u2026\n\nWie nehmen wir uns den \u00f6ffentlichen Raum, umgehen seine Vorschriften und\nReglementierungen?\nWie schaffen wir Orte f\u00fcr Kollektivit\u00e4t und basisdemokratisches\nZusammenleben?\nWelche kulturellen Praxen halten wir den Spielregeln der freien\nMarktwirtschaft entgegen?\n\nPr\u00e4sentation mit Wermke/Leinkauf, Freimeutern, Urban Divas,\nInterbrigadas, Graffitiarchiv und Mensch Meier.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Jona", 
+                                        "public_name": "Jona"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Space_Hacking"
+                                ]
+                            }
+                        ], 
+                        "Hall C.3": [
+                            {
+                                "id": 1055, 
+                                "guid": "1abd7c17935bde0ff1b06e2140a82a19", 
+                                "logo": null, 
+                                "date": "2016-12-27T17:00:00+01:00", 
+                                "start": "17:00", 
+                                "duration": "1:30", 
+                                "room": "Hall C.3", 
+                                "slug": "", 
+                                "title": "Fiction Writers' Session", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Meet-up for all fiction-writing entities: Share your experiences over mate & coffee.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Christina", 
+                                        "public_name": "Christina"
+                                    }
+                                ], 
+                                "links": [
+                                    "http://www.jokoren.de/33C3.html", 
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Fiction_Writers%27_Session"
+                                ]
+                            }, 
+                            {
+                                "id": 1145, 
+                                "guid": "a81b206c2434a1f268a76104982400a4", 
+                                "logo": null, 
+                                "date": "2016-12-27T20:00:00+01:00", 
+                                "start": "20:00", 
+                                "duration": "3:00", 
+                                "room": "Hall C.3", 
+                                "slug": "", 
+                                "title": "Wordclock", 
+                                "subtitle": "Workshop1", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "", 
+                                "abstract": "", 
+                                "description": "Wir bauen wieder Wordclocks.\nBitte unbedingt vorher per mail an fabian@fabmail.org registrieren, da die Teilnehmerzahl auf 15 Personen beschr\u00e4nkt ist.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Fabianurban", 
+                                        "public_name": "Fabianurban"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://github.com/fablabnbg/OpenWordClock", 
+                                    "http://imgur.com/a/oHxLx", 
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Wordclock"
+                                ]
+                            }
+                        ], 
+                        "Hall C.4": [
+                            {
+                                "id": 1059, 
+                                "guid": "5a2a5016d5c815ea9649c944640ba2c6", 
+                                "logo": null, 
+                                "date": "2016-12-27T17:00:00+01:00", 
+                                "start": "17:00", 
+                                "duration": "1:30", 
+                                "room": "Hall C.4", 
+                                "slug": "", 
+                                "title": "GPG Schl\u00fcsselverteilung", 
+                                "subtitle": "GPG Schl\u00fcsselverteilung", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Um EndeZuEnde-Verschl\u00fcsselung f\u00fcr die breite Masse nutzbar zu machen, ben\u00f6tigen wir Verfahren, welche mit m\u00f6glichst geringen Aufwand und wenig Vorkenntnisse auch von Laien nutzbar sind. Als Einf\u00fchrung in das Thema, stellt ein kurzer Vortrag die aktuellen Entwicklungen vor, um eine Grundlage f\u00fcr die anschlie\u00dfende Diskussion zu bereiten.", 
+                                "persons": [], 
+                                "links": [
+                                    "https://www.keys4all.de/", 
+                                    "https://events.ccc.de/congress/2016/wiki/Session:GPG_Schl%C3%BCsselverteilung"
+                                ]
+                            }, 
+                            {
+                                "id": 1098, 
+                                "guid": "879d60a3732c2a57d7135e0054308fdf", 
+                                "logo": null, 
+                                "date": "2016-12-27T15:00:00+01:00", 
+                                "start": "15:00", 
+                                "duration": "2:00", 
+                                "room": "Hall C.4", 
+                                "slug": "", 
+                                "title": "PCB design for beginners using KiCad", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "hands-on", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "You will learn how to create basic schematics, select footprints and finally design the actual PCB using KiCad.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Kbeckmann", 
+                                        "public_name": "Kbeckmann"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2016/wiki/Session:PCB_design_for_beginners_using_KiCad"
+                                ]
+                            }, 
+                            {
+                                "id": 1106, 
+                                "guid": "1c31dc167d00b0f7457e1611738004ac", 
+                                "logo": null, 
+                                "date": "2016-12-27T19:30:00+01:00", 
+                                "start": "19:30", 
+                                "duration": "1:30", 
+                                "room": "Hall C.4", 
+                                "slug": "", 
+                                "title": "Radio Lockdown Directive", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "This will be a meeting for political organisations that work on the radio lockdown directive.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Eal", 
+                                        "public_name": "Eal"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Radio_Lockdown_Directive:_coordinating_future_steps"
+                                ]
+                            }
+                        ], 
+                        "Hall B": [
+                            {
+                                "id": 1046, 
+                                "guid": "00888f6062ff7c2f3f8fa508c3fd5ae4", 
+                                "logo": null, 
+                                "date": "2016-12-27T13:00:00+01:00", 
+                                "start": "13:00", 
+                                "duration": "1:00", 
+                                "room": "Hall B", 
+                                "slug": "", 
+                                "title": "Engelmeeting", 
+                                "subtitle": "Angel meeting day 1", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Knuth", 
+                                        "public_name": "Knuth"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting"
+                                ]
+                            }, 
+                            {
+                                "id": 1048, 
+                                "guid": "dfad004af29a4928e21fc593833ccad8", 
+                                "logo": null, 
+                                "date": "2016-12-27T19:45:00+01:00", 
+                                "start": "19:45", 
+                                "duration": "0:30", 
+                                "room": "Hall B", 
+                                "slug": "", 
+                                "title": "Engelmeeting", 
+                                "subtitle": "Angelmeeting Day 1", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Knuth", 
+                                        "public_name": "Knuth"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting"
+                                ]
+                            }, 
+                            {
+                                "id": 1050, 
+                                "guid": "36dbc1feca09488704db9acac8b61603", 
+                                "logo": null, 
+                                "date": "2016-12-27T15:00:00+01:00", 
+                                "start": "15:00", 
+                                "duration": "1:00", 
+                                "room": "Hall B", 
+                                "slug": "", 
+                                "title": "Engelmeeting", 
+                                "subtitle": "Introduction meeting for new angels", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Knuth", 
+                                        "public_name": "Knuth"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting"
+                                ]
+                            }, 
+                            {
+                                "id": 1102, 
+                                "guid": "59be5c85949ce87027b75f249e4d8589", 
+                                "logo": null, 
+                                "date": "2016-12-27T18:00:00+01:00", 
+                                "start": "18:00", 
+                                "duration": "1:00", 
+                                "room": "Hall B", 
+                                "slug": "", 
+                                "title": "Privacy by default with pretty Easy privacy (p\u2261p)", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "talk", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "The pretty Easy privacy project (p\u2261p) is a project to turn the cyberpunk movement's dream into reality that everyone should be able to protect his/her privacy using technical tools. Overall p\u2261p is about changing today's default of digital written communications from unencrypted, unanonymized and unverified to encrypted, anonymized and verified. p\u2261p's vision is to offer an automatic and easy to use solution to make all end-to-end written digital communications over the Internet \u2018Private and Secure by Default and Design\u2018. With that 'unencrypted' e-mails become the exception not the norm. The p\u2261p project aims at encrypting existing written digital communications and does not force users to switch to platform-centric or other crypto solutions, in which users are likely to be locked.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Eal", 
+                                        "public_name": "Eal"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://pep.foundation/", 
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Privacy_by_default_with_pretty_Easy_privacy_(p%E2%89%A1p)"
+                                ]
+                            }, 
+                            {
+                                "id": 1105, 
+                                "guid": "ab74b1ddd8dddae3bd8d62de3de60a88", 
+                                "logo": null, 
+                                "date": "2016-12-27T16:00:00+01:00", 
+                                "start": "16:00", 
+                                "duration": "2:00", 
+                                "room": "Hall B", 
+                                "slug": "", 
+                                "title": "Queer Feminist Geeks Gathering", 
+                                "subtitle": "Start of the gathering", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "A meetup for all the queer feminist geek folk.\n\nWe will talk a bit about our assembly and what we are doing there, exchange projects and ideas, and network with each other. This meetup is open to people of all genders, but please be mindful of how much space you are taking up. Especially if you are white, male, straight and cis, please try to actively listen instead of talking. \n\nThis is our Code of Conduct: https://events.ccc.de/congress/2015/wiki/Projects:Code_of_Conduct_of_the_Queer_Feminist_Geek_Assembly", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Obaz", 
+                                        "public_name": "Obaz"
+                                    }, 
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:UMT", 
+                                        "public_name": "UMT"
+                                    }, 
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:CoopDot", 
+                                        "public_name": "CoopDot"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Queer_Feminist_Geeks_Gathering"
+                                ]
+                            }
+                        ], 
+                        "Hall F": [
+                            {
+                                "id": 1075, 
+                                "guid": "57c679ae529436a05dfdcee1bdce0f4e", 
+                                "logo": null, 
+                                "date": "2016-12-28T01:00:00+01:00", 
+                                "start": "01:00", 
+                                "duration": "23:00", 
+                                "room": "Hall F", 
+                                "slug": "", 
+                                "title": "Junghackertag", 
+                                "subtitle": "L\u00f6tworkshop von Chaos Macht Schule", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "L\u00f6tworkshop von Chaos Macht Schule f\u00fcr Junghacker", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Djim", 
+                                        "public_name": "Djim"
+                                    }, 
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Duisburch", 
+                                        "public_name": "Duisburch"
+                                    }, 
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Benni", 
+                                        "public_name": "Benni"
+                                    }, 
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Cbass", 
+                                        "public_name": "Cbass"
+                                    }, 
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Stean", 
+                                        "public_name": "Stean"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Junghackertag"
+                                ]
+                            }
+                        ], 
+                        "Hall 13-14": [
+                            {
+                                "id": 1068, 
+                                "guid": "d98726a333e13e17bc39011beaa3f6dc", 
+                                "logo": null, 
+                                "date": "2016-12-27T16:00:00+01:00", 
+                                "start": "16:00", 
+                                "duration": "3:00", 
+                                "room": "Hall 13-14", 
+                                "slug": "", 
+                                "title": "How to Survive 33C3 CryptoParty", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Yuvadm", 
+                                        "public_name": "Yuvadm"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://www.cryptoparty.in", 
+                                    "https://events.ccc.de/congress/2016/wiki/Session:How_to_Survive_33C3_CryptoParty"
+                                ]
+                            }, 
+                            {
+                                "id": 1090, 
+                                "guid": "495f918c6608a0336b180bb6cd1a548b", 
+                                "logo": null, 
+                                "date": "2016-12-28T00:15:00+01:00", 
+                                "start": "00:15", 
+                                "duration": "1:40", 
+                                "room": "Hall 13-14", 
+                                "slug": "", 
+                                "title": "Network concepts introduction & wireshark workshop", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "'''Ever wondered how webpages arrive in your browser? How zmap works? Want to get your first hands-on experience using ''wireshark''?'''\n\nTo learn all that you need to learn the basic networking concepts. You're in luck as this is a hands-on networking workshop preceded by a lecture. We will cover such topics as the ISO/OSI model, Ethernet, IP, TCP, UDP, routing, and wireshark.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Kirils", 
+                                        "public_name": "Kirils"
+                                    }
+                                ], 
+                                "links": [
+                                    "http://kirils.org/", 
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Network_concepts_introduction_%26_wireshark_workshop"
+                                ]
+                            }, 
+                            {
+                                "id": 1109, 
+                                "guid": "42fc3badce6e91ea0ecfb85cb8434a1f", 
+                                "logo": null, 
+                                "date": "2016-12-28T03:00:00+01:00", 
+                                "start": "03:00", 
+                                "duration": "1:00", 
+                                "room": "Hall 13-14", 
+                                "slug": "", 
+                                "title": "Skillconvention a", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "all travelers with a certain skill will be invited to these sessions.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Reisende", 
+                                        "public_name": "Reisende"
+                                    }
+                                ], 
+                                "links": [
+                                    "http://thereisnogame.de", 
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Skillconvention_a"
+                                ]
+                            }, 
+                            {
+                                "id": 1110, 
+                                "guid": "c34d388fc65ca7945372d2f3c603589c", 
+                                "logo": null, 
+                                "date": "2016-12-28T02:00:00+01:00", 
+                                "start": "02:00", 
+                                "duration": "1:00", 
+                                "room": "Hall 13-14", 
+                                "slug": "", 
+                                "title": "Skillconvention a", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "all travelers with a certain skill will be invited to these sessions.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Reisende", 
+                                        "public_name": "Reisende"
+                                    }
+                                ], 
+                                "links": [
+                                    "http://thereisnogame.de", 
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Skillconvention_a"
+                                ]
+                            }, 
+                            {
+                                "id": 1131, 
+                                "guid": "d6363e66156d0473f5f996f9726e7805", 
+                                "logo": null, 
+                                "date": "2016-12-27T15:10:00+01:00", 
+                                "start": "15:10", 
+                                "duration": "0:50", 
+                                "room": "Hall 13-14", 
+                                "slug": "", 
+                                "title": "Translation meetings", 
+                                "subtitle": "day 1, afternoon meeting", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "The translation angels (interpreters) meet twice per day to self-organise (day 0, evening to day 4, afternoon)", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Sebalis", 
+                                        "public_name": "Sebalis"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Translation_meetings"
+                                ]
+                            }, 
+                            {
+                                "id": 1135, 
+                                "guid": "0a4fe5181783d435230396b59ecd3fe6", 
+                                "logo": null, 
+                                "date": "2016-12-27T19:40:00+01:00", 
+                                "start": "19:40", 
+                                "duration": "0:50", 
+                                "room": "Hall 13-14", 
+                                "slug": "", 
+                                "title": "Translation meetings", 
+                                "subtitle": "day 1, evening meeting", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "The translation angels (interpreters) meet twice per day to self-organise (day 0, evening to day 4, afternoon)", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Sebalis", 
+                                        "public_name": "Sebalis"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Translation_meetings"
+                                ]
+                            }
+                        ], 
+                        "Hall A.1": [
+                            {
+                                "id": 1108, 
+                                "guid": "27b5025dd294b5fa15d8915eac1b6f73", 
+                                "logo": null, 
+                                "date": "2016-12-28T02:00:00+01:00", 
+                                "start": "02:00", 
+                                "duration": "1:00", 
+                                "room": "Hall A.1", 
+                                "slug": "", 
+                                "title": "Skillconvention a", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "all travelers with a certain skill will be invited to these sessions.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Reisende", 
+                                        "public_name": "Reisende"
+                                    }
+                                ], 
+                                "links": [
+                                    "http://thereisnogame.de", 
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Skillconvention_a"
+                                ]
+                            }, 
+                            {
+                                "id": 1111, 
+                                "guid": "06de81ba9b71b450d9cbf61661471ee5", 
+                                "logo": null, 
+                                "date": "2016-12-28T01:00:00+01:00", 
+                                "start": "01:00", 
+                                "duration": "1:00", 
+                                "room": "Hall A.1", 
+                                "slug": "", 
+                                "title": "Skillconvention a", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "all travelers with a certain skill will be invited to these sessions.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Reisende", 
+                                        "public_name": "Reisende"
+                                    }
+                                ], 
+                                "links": [
+                                    "http://thereisnogame.de", 
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Skillconvention_a"
+                                ]
+                            }
+                        ]
+                    }, 
+                    "day_start": "2016-12-27T06:00:00+01:00"
+                }, 
+                {
+                    "date": "2016-12-28", 
+                    "index": 2, 
+                    "day_end": "2016-12-29T04:00:00+01:00", 
+                    "rooms": {
+                        "Hall C.1": [
+                            {
+                                "id": 1062, 
+                                "guid": "945f1586a6c6583e89e03bad18b89754", 
+                                "logo": null, 
+                                "date": "2016-12-28T14:00:00+01:00", 
+                                "start": "14:00", 
+                                "duration": "2:00", 
+                                "room": "Hall C.1", 
+                                "slug": "", 
+                                "title": "Hacking democracy with MEP Marietje Schaake", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "discussion", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Member of the European Parliament Marietje Schaake wants to talk about a number of laws that are currently being contemplated in the European Union which might affect the work of hackers, and get your input in order to make them right.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Marietje_Schaake", 
+                                        "public_name": "Marietje Schaake"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Hacking_democracy_with_MEP_Marietje_Schaake"
+                                ]
+                            }, 
+                            {
+                                "id": 1063, 
+                                "guid": "f00af22092f270256172469e8c7509ca", 
+                                "logo": null, 
+                                "date": "2016-12-28T18:00:00+01:00", 
+                                "start": "18:00", 
+                                "duration": "2:00", 
+                                "room": "Hall C.1", 
+                                "slug": "", 
+                                "title": "Haftung f\u00fcr Devices und Software gestalten", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "discussion", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Billige Webcams, Plasterouter  und Gl\u00fchbirnen in Bonnets bedrohen die Internet-Infrastruktur, f\u00fcr einen Update-Pfad hat der Hersteller keine Kostenstelle vorgesehen. Als L\u00f6sung wird von vielen Seiten eine Herstellerhaftung f\u00fcr Sicherheitsl\u00fccken vorgeschlagen. Wir wollen uns Gedanken machen, wie diese ausgestaltet werden k\u00f6nnen, ohne dass unerw\u00fcnschte Nebenwirkungen wie millionenschwere Haftungsrisiken Open Source-Software oder Endverbraucher bedrohen. Wer soll \u00fcberhaupt haftbar sein, die chinesische Fabrik, der Distributor, der sein Logo draufklebt, der Autor des letzten Commits der Firmware (oder der Software, von der sie abgeleitet ist) oder der Benutzer, der eine alternative Software installiert oder nur die Standardkonfiguration ver\u00e4ndert hat?", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Atdotde", 
+                                        "public_name": "Atdotde"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://docs.google.com/document/d/1hTYnLYdzDjeZAs_45HFx_HfMaZI2FrYJTV9YaXCHwrw/edit?usp=sharing", 
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Haftung_f%C3%BCr_Devices_und_Software_gestalten"
+                                ]
+                            }, 
+                            {
+                                "id": 1080, 
+                                "guid": "bec83b1291bce978036df2a2648fc517", 
+                                "logo": null, 
+                                "date": "2016-12-28T16:00:00+01:00", 
+                                "start": "16:00", 
+                                "duration": "0:45", 
+                                "room": "Hall C.1", 
+                                "slug": "", 
+                                "title": "Kopf aus dem Sand - Wie du ohne Parteien die Politik beeinflussen kannst!", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "talk", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "#KopfausdemSand - Wenn du denkst Unterschriftenlisten und nie beachtete Demos sind die einzigen Methoden um die Politik in \u00d6sterreich, Deutschland oder der EU zu beeinflussen, dann m\u00f6chte ich dir hier einen \u00dcberblick geben welche M\u00f6glichkeiten es noch gibt um die Gesetzgebung und Verwaltung zu unseren Gunsten zu beeinflussen.\nMan kann zwar Gesetze selbst nicht schaffen, aber der Einfluss ist noch lange nicht bei 0! Wir haben sowohl die Netzneutralit\u00e4t Gro\u00dfteils gerettet als auch schon einmal die Vorratsdatenspeicherung gekippt.\nF\u00fcr Neueinsteiger, Menschen und andere Lebensformen die meinen sie k\u00f6nnten noch etwas Neues lernen.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Eest9", 
+                                        "public_name": "Eest9"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Kopf_aus_dem_Sand_-_Wie_du_ohne_Parteien_die_Politik_beeinflussen_kannst!"
+                                ]
+                            }
+                        ], 
+                        "Hall C.2": [
+                            {
+                                "id": 1052, 
+                                "guid": "c5bce8af22940d51c942e1826f801c86", 
+                                "logo": null, 
+                                "date": "2016-12-28T14:00:00+01:00", 
+                                "start": "14:00", 
+                                "duration": "1:00", 
+                                "room": "Hall C.2", 
+                                "slug": "", 
+                                "title": "Entscheidungsfindung/Konsens", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "talk", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Schwierigkeiten und L\u00f6sungsans\u00e4tze der konsensbasierten Entscheidungsfindung und andere Fallstricke.\nTheoretische Einf\u00fchrung und Erfahrungsberichte aus 10 Jahren linker Kollektivarbeit.", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Entscheidungsfindung/Konsens"
+                                ]
+                            }, 
+                            {
+                                "id": 1082, 
+                                "guid": "b819f54577f99f8993cb65e10a058942", 
+                                "logo": null, 
+                                "date": "2016-12-28T17:00:00+01:00", 
+                                "start": "17:00", 
+                                "duration": "2:00", 
+                                "room": "Hall C.2", 
+                                "slug": "", 
+                                "title": "LEAP Platform for vpn + LEAP and Pixelated platform for email providers", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "We'll show you how to setup a LEAP provider to self-host a vpn and/or encrypted email service.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Varac", 
+                                        "public_name": "Varac"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://leap.se", 
+                                    "https://pixelated-project.org/", 
+                                    "https://events.ccc.de/congress/2016/wiki/Session:LEAP_Platform_for_vpn_%2B_LEAP_and_Pixelated_platform_for_email_providers"
+                                ]
+                            }, 
+                            {
+                                "id": 1092, 
+                                "guid": "c61b9a40163f12ce5d0a42bc1defe320", 
+                                "logo": null, 
+                                "date": "2016-12-28T16:00:00+01:00", 
+                                "start": "16:00", 
+                                "duration": "1:00", 
+                                "room": "Hall C.2", 
+                                "slug": "", 
+                                "title": "NewPipe", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "talk", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "NewPipe is a Free Youtube/Streaming app for Android. This talk will be about how NewPipe works, and what the features of NewPipe will be. The app was created as a hobby project one year ago, but slowly evolves.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Eal", 
+                                        "public_name": "Eal"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://newpipe.schabi.org/", 
+                                    "https://events.ccc.de/congress/2016/wiki/Session:NewPipe"
+                                ]
+                            }
+                        ], 
+                        "Hall C.3": [
+                            {
+                                "id": 1021, 
+                                "guid": "a037e08c4aa3d678b65d746dce96d6e9", 
+                                "logo": null, 
+                                "date": "2016-12-28T15:00:00+01:00", 
+                                "start": "15:00", 
+                                "duration": "1:00", 
+                                "room": "Hall C.3", 
+                                "slug": "", 
+                                "title": "Boat instruments hacking", 
+                                "subtitle": "meeting", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Session for meeting up and discussing all things around electronics in boats.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Lassekarstensen", 
+                                        "public_name": "Lassekarstensen"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Boat_instruments_hacking"
+                                ]
+                            }, 
+                            {
+                                "id": 1024, 
+                                "guid": "8ba93735bba7d3bfbd659432e4e1a209", 
+                                "logo": null, 
+                                "date": "2016-12-28T12:00:00+01:00", 
+                                "start": "12:00", 
+                                "duration": "1:00", 
+                                "room": "Hall C.3", 
+                                "slug": "", 
+                                "title": "Coder Dojo", 
+                                "subtitle": "Slot 2 Room 1", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Nana_berlin", 
+                                        "public_name": "Nana berlin"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Coder_Dojo"
+                                ]
+                            }, 
+                            {
+                                "id": 1025, 
+                                "guid": "fdd8a9c86e797d9c002a514c55992e1d", 
+                                "logo": null, 
+                                "date": "2016-12-28T15:00:00+01:00", 
+                                "start": "15:00", 
+                                "duration": "1:00", 
+                                "room": "Hall C.3", 
+                                "slug": "", 
+                                "title": "Coder Dojo", 
+                                "subtitle": "Slot 3 Room 1", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Nana_berlin", 
+                                        "public_name": "Nana berlin"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Coder_Dojo"
+                                ]
+                            }, 
+                            {
+                                "id": 1028, 
+                                "guid": "82b6f15ab0e1d33b37e9817f997864d8", 
+                                "logo": null, 
+                                "date": "2016-12-28T11:00:00+01:00", 
+                                "start": "11:00", 
+                                "duration": "1:00", 
+                                "room": "Hall C.3", 
+                                "slug": "", 
+                                "title": "Coder Dojo", 
+                                "subtitle": "Slot 1 Room 1", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Nana_berlin", 
+                                        "public_name": "Nana berlin"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Coder_Dojo"
+                                ]
+                            }, 
+                            {
+                                "id": 1087, 
+                                "guid": "3ff8b33aa5258a8ff682e5254c7d0758", 
+                                "logo": null, 
+                                "date": "2016-12-28T18:00:00+01:00", 
+                                "start": "18:00", 
+                                "duration": "1:30", 
+                                "room": "Hall C.3", 
+                                "slug": "", 
+                                "title": "Mate", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "You probably know Club Mate and Flora Mate, as they are available at the 33c3. But there are more kinds of Mate and we will taste them!\nYou can bring own bottles by yourself, too. It is possible that we will not have all existing brands.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Leodin", 
+                                        "public_name": "Leodin"
+                                    }, 
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Xilent", 
+                                        "public_name": "Xilent"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Mate"
+                                ]
+                            }, 
+                            {
+                                "id": 1137, 
+                                "guid": "f8e579f83b5d861b4995f59d9dde973b", 
+                                "logo": null, 
+                                "date": "2016-12-28T13:00:00+01:00", 
+                                "start": "13:00", 
+                                "duration": "1:30", 
+                                "room": "Hall C.3", 
+                                "slug": "", 
+                                "title": "UMUM", 
+                                "subtitle": "Friends Of MikroTik Meeting", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Meeting of users and not-yet-users of MikroTik devices  to get in contact and share their wisdom. This meeting is private organized!", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Njumaen", 
+                                        "public_name": "Njumaen"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2016/wiki/Session:UMUM"
+                                ]
+                            }, 
+                            {
+                                "id": 1144, 
+                                "guid": "b1382fa6ee8217cf189b843ec5e06c5f", 
+                                "logo": null, 
+                                "date": "2016-12-28T20:00:00+01:00", 
+                                "start": "20:00", 
+                                "duration": "3:00", 
+                                "room": "Hall C.3", 
+                                "slug": "", 
+                                "title": "Wordclock", 
+                                "subtitle": "Workshop2", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "", 
+                                "abstract": "", 
+                                "description": "Wir bauen wieder Wordclocks.\nBitte unbedingt vorher per mail an fabian@fabmail.org registrieren, da die Teilnehmerzahl auf 15 Personen beschr\u00e4nkt ist.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Fabianurban", 
+                                        "public_name": "Fabianurban"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://github.com/fablabnbg/OpenWordClock", 
+                                    "http://imgur.com/a/oHxLx", 
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Wordclock"
+                                ]
+                            }, 
+                            {
+                                "id": 1146, 
+                                "guid": "0e82b1cb18d1fac1e9981aa274ccfdf6", 
+                                "logo": null, 
+                                "date": "2016-12-28T15:00:00+01:00", 
+                                "start": "15:00", 
+                                "duration": "2:00", 
+                                "room": "Hall C.3", 
+                                "slug": "", 
+                                "title": "Your own Glowing Micropet!", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "hands-on", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Enter this Workshop to get a sample of your very own glow-in-the-dark pet! We will be playing around with Aliibvibrio Fischeri, a bioluminescent bacterium living all over the world's oceans.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:A.Vibrio.F.", 
+                                        "public_name": "A.Vibrio.F."
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Your_own_Glowing_Micropet!"
+                                ]
+                            }
+                        ], 
+                        "Hall C.4": [
+                            {
+                                "id": 1000, 
+                                "guid": "dfd962d6793cb171bfc56df56774404f", 
+                                "logo": null, 
+                                "date": "2016-12-28T20:00:00+01:00", 
+                                "start": "20:00", 
+                                "duration": "1:00", 
+                                "room": "Hall C.4", 
+                                "slug": "", 
+                                "title": "\"My\" software, like \"my\" hand or like \"my car\"?", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "discussion", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Floridi argues that '...in favour of the interpretation of the protection of privacy as protection of personal identity: \u201cmy\u201d in \u201cmy data\u201d is not the same \u201cmy\u201d as in \u201cmy car\u201d, it is the same \u201cmy\u201d as in \u201cmy hand\u201d, because personal information plays a constitutive  role of who I am and can become.\u201d But when my hand is part of a prosthetic arm running on proprietary software, how \u201cmy\u201d is \u201cmy hand\u201d in this case? Is \u201cmy\u201d the same as in \u201cmy car\u201d or as in \u201cmy data\u201d?\n\nOlga Gkotsopoulou is a FSFE trainee and holder of a Law Degree, a LL.M in International Human Rights and Humanitarian Law and a M.A. in History and Theory of Law. In the past, Olga worked for various organizations, including the Hellenic Data Protection Authority, the World Health Organization (WHO), the Institute of International Relations and the Greek Council for Refugees. She is also co-founder of the pro bono organisation, Union for Children's Rights.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Eal", 
+                                        "public_name": "Eal"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2016/wiki/Session:%22My%22_software,_like_%22my%22_hand_or_like_%22my_car%22%3F"
+                                ]
+                            }, 
+                            {
+                                "id": 1023, 
+                                "guid": "3e5566423bb7179b1698b34b8fba2524", 
+                                "logo": null, 
+                                "date": "2016-12-28T11:00:00+01:00", 
+                                "start": "11:00", 
+                                "duration": "1:00", 
+                                "room": "Hall C.4", 
+                                "slug": "", 
+                                "title": "Coder Dojo", 
+                                "subtitle": "Slot 1 Room 2", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Nana_berlin", 
+                                        "public_name": "Nana berlin"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Coder_Dojo"
+                                ]
+                            }, 
+                            {
+                                "id": 1026, 
+                                "guid": "114bbdf055b462c90916308a51310575", 
+                                "logo": null, 
+                                "date": "2016-12-28T12:00:00+01:00", 
+                                "start": "12:00", 
+                                "duration": "1:00", 
+                                "room": "Hall C.4", 
+                                "slug": "", 
+                                "title": "Coder Dojo", 
+                                "subtitle": "Slot 2 Room 2", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Nana_berlin", 
+                                        "public_name": "Nana berlin"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Coder_Dojo"
+                                ]
+                            }, 
+                            {
+                                "id": 1027, 
+                                "guid": "f7580cf27bd0d4bb0bd704612ab55f0e", 
+                                "logo": null, 
+                                "date": "2016-12-28T15:00:00+01:00", 
+                                "start": "15:00", 
+                                "duration": "1:00", 
+                                "room": "Hall C.4", 
+                                "slug": "", 
+                                "title": "Coder Dojo", 
+                                "subtitle": "Slot 3 Room 2", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Nana_berlin", 
+                                        "public_name": "Nana berlin"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Coder_Dojo"
+                                ]
+                            }, 
+                            {
+                                "id": 1071, 
+                                "guid": "2e3ae7e1eed32991d1e513792a5bcc0e", 
+                                "logo": null, 
+                                "date": "2016-12-28T15:00:00+01:00", 
+                                "start": "15:00", 
+                                "duration": "1:00", 
+                                "room": "Hall C.4", 
+                                "slug": "", 
+                                "title": "Implications of the EU copyright reform on Free Software", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "The meeting is designed to bring together advocates to\ndiscuss and exchange the views about the implications of on-going\ncopyright reform on Free Software, in particular the inclusion of\nfar-reaching DRM measures in the latest proposal for the directive and\nhow this can have an impact on Free Software.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Eal", 
+                                        "public_name": "Eal"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://fsfe.org/news/2016/news-20160928-01.en.html", 
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Implications_of_the_EU_copyright_reform_on_Free_Software"
+                                ]
+                            }, 
+                            {
+                                "id": 1096, 
+                                "guid": "afb476729e7b1c943d0120dec5187fcc", 
+                                "logo": null, 
+                                "date": "2016-12-28T16:00:00+01:00", 
+                                "start": "16:00", 
+                                "duration": "1:30", 
+                                "room": "Hall C.4", 
+                                "slug": "", 
+                                "title": "Open Education Workshop", 
+                                "subtitle": "New school, Old school - How can we hack education?", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Despite high expectations, \"digital education\" has not much advanced beyond sharing single-purpose worksheets as pdf. Existing Open Educational Resources (OER) often tend to reinforce current teaching scenarios and top-down structures, missing out on the potential for new forms of participation. To prepare new education projects, we invite you to share your experiences and ideas: How can digital methods / concepts / tools contribute to a more inclusive pedagogy, enabling and motivating learners for co-creation? What else can we do within existing frameworks, and how to approach it effectively in class?", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:NMarkus", 
+                                        "public_name": "NMarkus"
+                                    }, 
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:PeterVanPan", 
+                                        "public_name": "PeterVanPan"
+                                    }
+                                ], 
+                                "links": [
+                                    "http://education.okfn.org/", 
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Open_Education_Workshop"
+                                ]
+                            }, 
+                            {
+                                "id": 1100, 
+                                "guid": "409f460d73b5c1d5a6e2efb9b593635a", 
+                                "logo": null, 
+                                "date": "2016-12-28T11:00:00+01:00", 
+                                "start": "11:00", 
+                                "duration": "2:00", 
+                                "room": "Hall C.4", 
+                                "slug": "", 
+                                "title": "Pixelated hands-on", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "hands-on", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "--- session will be in English, German and Brazilian Portuguese ---\n\nWe are organising this hands-on session to invite people to learn about Pixelated, an open source solution for automatised email encryption.\nIn the session we will invite you too try things out, to give us feedback, and we will show you how to install and set up Pixelated on your machine or on a remote server.\n\nLooking forward to see you there and as a future contributor. ;)", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Varac", 
+                                        "public_name": "Varac"
+                                    }, 
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Zara", 
+                                        "public_name": "Zara"
+                                    }
+                                ], 
+                                "links": [
+                                    "http://pixelated-project.org", 
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Pixelated_hands-on"
+                                ]
+                            }, 
+                            {
+                                "id": 1107, 
+                                "guid": "3ef0602faa4a92ba21a0b5d2b7bc8970", 
+                                "logo": null, 
+                                "date": "2016-12-28T19:00:00+01:00", 
+                                "start": "19:00", 
+                                "duration": "1:00", 
+                                "room": "Hall C.4", 
+                                "slug": "", 
+                                "title": "Radio Lockdown", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "The Radio Equipment Directive (2014/53/EU) contains a provision requiring hardware manufacturers to check all software installable on their devices. Community WiFi projects heavily rely on (free software) firmware they modify for their purposes and install on consumer-grade hardware. Action is needed to mitigate this threat, but there's a promising course of action: Community WiFi initiatives of Europe, unite!", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:KaerF", 
+                                        "public_name": "KaerF"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://juliareda.eu/2015/10/dear-european-governments-dont-endanger-free-and-open-wifi-networks/", 
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Radio_Lockdown:_Community_WiFis_unite!"
+                                ]
+                            }, 
+                            {
+                                "id": 1138, 
+                                "guid": "bd5c68b79365c734e0ba53a1874c96b0", 
+                                "logo": null, 
+                                "date": "2016-12-28T19:00:00+01:00", 
+                                "start": "19:00", 
+                                "duration": "1:00", 
+                                "room": "Hall C.4", 
+                                "slug": "", 
+                                "title": "Veripeditus AR Game Framework", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "talk", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Veripeditus is the first free and open source framework that enables everyone to develop augmented reality mobile games like Ingress or Pok\u00e9mon Go. It brings the creative side of such games to everyone, including, but not limited to, class rooms, along with a great new way of learning programming skills with Python.\n\nPresented by Nik, a 26 year-old software developer and network admin from Bonn, but better known as head of Teckids e.V., a youth organisation establishing a FOSS community among children.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Eal", 
+                                        "public_name": "Eal"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Veripeditus_AR_Game_Framework"
+                                ]
+                            }, 
+                            {
+                                "id": 1142, 
+                                "guid": "690b20d9c78f916880b0127d7034bc09", 
+                                "logo": null, 
+                                "date": "2016-12-28T13:00:00+01:00", 
+                                "start": "13:00", 
+                                "duration": "1:00", 
+                                "room": "Hall C.4", 
+                                "slug": "", 
+                                "title": "Wikidata query and visualization", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "talk", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "This is a talk about visualization with wikidata, how wikidata\u200b works and how people can contribute\u200b, also what are some of the project where people can get involve\u200b\u200b. We will learn what is a query and how you can use them to visualize and combine information of data from wikidata.\n\nGreta Do\u00e7i is an ICT engineer student who contributes to Open Source/Free Software since 2013. She is one of the board members of Wikimedians of Albanian User Group. Greta is currently working as an security support assistant at a government institution.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Eal", 
+                                        "public_name": "Eal"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://www.wikidata.org", 
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Wikidata_query_and_visualization"
+                                ]
+                            }, 
+                            {
+                                "id": 1143, 
+                                "guid": "eb38492af6c27a43e14bfbed50abf298", 
+                                "logo": null, 
+                                "date": "2016-12-28T14:00:00+01:00", 
+                                "start": "14:00", 
+                                "duration": "1:00", 
+                                "room": "Hall C.4", 
+                                "slug": "", 
+                                "title": "Wikidata, the encyclopedia by bots, for bots", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "This workshop aims to explain what Wikidata is, and how to use it. We'll explore the data mode, web API, and query interface.\n\nWikidata is the world's largest free general purpose knowledge base. As a Wikimedia-run sister project of Wikipedia, it provides machine readable information about just about anything. It's the encyclopedia by bots, for bots.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Brightbyte", 
+                                        "public_name": "Brightbyte"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://wikidata.org", 
+                                    "https://query.wikidata.org/", 
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Wikidata,_the_encyclopedia_by_bots,_for_bots"
+                                ]
+                            }
+                        ], 
+                        "Hall B": [
+                            {
+                                "id": 1013, 
+                                "guid": "ad46e433c91a0bfa880b4f5684677345", 
+                                "logo": null, 
+                                "date": "2016-12-28T19:00:00+01:00", 
+                                "start": "19:00", 
+                                "duration": "2:00", 
+                                "room": "Hall B", 
+                                "slug": "", 
+                                "title": "A walk through pEp's tech", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "p\u2261p engine hackers show you the inner workings of the p\u2261p engine, which is used to drive the crypto used in p\u2261p, message transport and -- most importantly -- automatic key management and synchronization. In this session you also can get technical answers to questions concerning future developments of the p\u2261p technology.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Pf", 
+                                        "public_name": "Pf"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://pep-project.org", 
+                                    "https://pep.foundation", 
+                                    "https://events.ccc.de/congress/2016/wiki/Session:A_walk_through_pEp%27s_tech"
+                                ]
+                            }, 
+                            {
+                                "id": 1041, 
+                                "guid": "8e5b07a7ad7ea771c8b3f9d10ca70ad5", 
+                                "logo": null, 
+                                "date": "2016-12-28T13:00:00+01:00", 
+                                "start": "13:00", 
+                                "duration": "1:00", 
+                                "room": "Hall B", 
+                                "slug": "", 
+                                "title": "Engelmeeting", 
+                                "subtitle": "Angelmeeting Day 2", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Knuth", 
+                                        "public_name": "Knuth"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting"
+                                ]
+                            }, 
+                            {
+                                "id": 1043, 
+                                "guid": "80dd81cc8c3b304d9b1707f131c929b7", 
+                                "logo": null, 
+                                "date": "2016-12-28T19:45:00+01:00", 
+                                "start": "19:45", 
+                                "duration": "0:30", 
+                                "room": "Hall B", 
+                                "slug": "", 
+                                "title": "Engelmeeting", 
+                                "subtitle": "Angelmeeting day 2", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Knuth", 
+                                        "public_name": "Knuth"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting"
+                                ]
+                            }, 
+                            {
+                                "id": 1139, 
+                                "guid": "6e4bdaf45e4e94f8668e61a8877fb85d", 
+                                "logo": null, 
+                                "date": "2016-12-28T14:00:00+01:00", 
+                                "start": "14:00", 
+                                "duration": "5:00", 
+                                "room": "Hall B", 
+                                "slug": "", 
+                                "title": "We Fix the Net", 
+                                "subtitle": "Talks", 
+                                "track": "self organized sessions", 
+                                "type": "talk", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "We Fix the Net session will include talks on developing secure alternatives to current internet protocols.  We might hold an organized discussion or panel as well.  This session is organized by GNUnet and pEp, and acts as a successor to the YBTI sessions of previous years.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Jeffburdges", 
+                                        "public_name": "Jeffburdges"
+                                    }
+                                ], 
+                                "links": [
+                                    "http://gnunet.org", 
+                                    "http://pep.foundation/", 
+                                    "https://events.ccc.de/congress/2016/wiki/Session:We_Fix_the_Net"
+                                ]
+                            }
+                        ], 
+                        "Hall 13-14": [
+                            {
+                                "id": 1054, 
+                                "guid": "d132d8604f7ecac61db1cbf423ca9e6e", 
+                                "logo": null, 
+                                "date": "2016-12-28T20:30:00+01:00", 
+                                "start": "20:30", 
+                                "duration": "1:00", 
+                                "room": "Hall 13-14", 
+                                "slug": "", 
+                                "title": "FSaaS", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "discussion", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Of all the Free Software business models, Software-as-a-Service (SaaS) is one of the most appealing. Wordpresss blazed a path over a decade ago that few have managed to follow. How do Free Software businesses of this nature work? What are their biggest challenges? And why aren't there more of them? Bring your ideas for a discussion.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Eal", 
+                                        "public_name": "Eal"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2016/wiki/Session:FSaaS:_Challenges_for_%27Free_Software_as_a_Service%27_in_business"
+                                ]
+                            }, 
+                            {
+                                "id": 1065, 
+                                "guid": "604c461088a5dddfa6c031af4cd054e4", 
+                                "logo": null, 
+                                "date": "2016-12-28T16:00:00+01:00", 
+                                "start": "16:00", 
+                                "duration": "1:00", 
+                                "room": "Hall 13-14", 
+                                "slug": "", 
+                                "title": "How To Run A Bitcoin Node", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Bitcoin is among the world\u2019s most widely deployed decentralized cryptographic systems. We will give a short introduction into the mechanisms behind Bitcoin and then configure a Bitcoin Core node suitable for running at home. Topics that will be covered include:\n* How to get statistics from the network and how to interpret them.\n* How to use the RPC interface to create (multisig-)transactions.\n* How to set limits on resource usage.\n* How to make use of Tor.\n* How to securely store coins.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Nickler", 
+                                        "public_name": "Nickler"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2016/wiki/Session:How_To_Run_A_Bitcoin_Node"
+                                ]
+                            }, 
+                            {
+                                "id": 1069, 
+                                "guid": "20371a76b601f1e4bea5b1c0244d0cc9", 
+                                "logo": null, 
+                                "date": "2016-12-28T13:00:00+01:00", 
+                                "start": "13:00", 
+                                "duration": "2:00", 
+                                "room": "Hall 13-14", 
+                                "slug": "", 
+                                "title": "IT-solutions for humanitarian crisis problems", 
+                                "subtitle": "IT-solutions for humanitarian crisis problems", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Syrien, ein Land welches innerhalb von 5 Jahren von einem hohen technischen Level zur\u00fcck in die Steinzeit gebombt wurde. Weite Teile des Landes sind ohne Internet. Telefonnetze sind von unterschiedlicher Qualit\u00e4t und Verf\u00fcgbarkeit. Viele Regionen des Landes sind auf Grund der Vorherrschaft unterschiedlichster Milizen nicht passierbar f\u00fcr Helfer*innen in der humanit\u00e4ren Arbeit. \nNur ein Beispiel, wo es neue L\u00f6sungen braucht f\u00fcr humanit\u00e4re Notlagen. Wenn wir die Betroffenen nicht selbst erreichen k\u00f6nnen, wie k\u00f6nnen wir dann doch mit innovativen Methoden vor Ort Hilfe leisten?\n\nCADUS e.V. arbeitet seit \u00fcber 2 Jahren in verschiedenen Krisenregionen. In dem Workshop dient CADUS als Fallgeberin f\u00fcr akute Problemstellungen in den Regionen vor Ort. In Arbeitsgruppen wollen wir L\u00f6sungsm\u00f6glichkeiten f\u00fcr (Teil-)Probleme erarbeiten, und deren Durchf\u00fchrbarkeit direkt mit Menschen diskutieren, die den Bogen von der Theorie zur Praxis schlagen k\u00f6nnen.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Cadus", 
+                                        "public_name": "Cadus"
+                                    }
+                                ], 
+                                "links": [
+                                    "http://www.cadus.org", 
+                                    "https://events.ccc.de/congress/2016/wiki/Session:IT-solutions_for_humanitarian_crisis_problems"
+                                ]
+                            }, 
+                            {
+                                "id": 1099, 
+                                "guid": "f9594c5389f5af798acfa9766534b62a", 
+                                "logo": null, 
+                                "date": "2016-12-28T11:00:00+01:00", 
+                                "start": "11:00", 
+                                "duration": "1:30", 
+                                "room": "Hall 13-14", 
+                                "slug": "", 
+                                "title": "Pixel Art Workshop", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "You'll get an introduction to the techniques and principles of pixel art, as well as useful hints, learning resources and software recommendations. After that, we'll paint a few 16x16 pixel-sized pictures together. If you use Twitter, you'll like this format, as well! :)", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Blinry", 
+                                        "public_name": "Blinry"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Pixel_Art_Workshop"
+                                ]
+                            }, 
+                            {
+                                "id": 1103, 
+                                "guid": "e4648cc036bc044ba52e220226e31772", 
+                                "logo": null, 
+                                "date": "2016-12-28T21:30:00+01:00", 
+                                "start": "21:30", 
+                                "duration": "0:30", 
+                                "room": "Hall 13-14", 
+                                "slug": "", 
+                                "title": "Prototype Fund - 1.2 Million Euros for Free Software Projects", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "discussion", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "The Prototype Fund supports the implementation of ideas in civic tech, data literacy, data security and software infrastructure. With a grant of up to \u20ac30,000, software developers, hackers and creatives can write code and develop open source prototypes over a period of six months.\n\nApplying is as easy as possible and the next deadline at the begin of February. Come, hear and ask us everything about the Prototype Fund.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Eal", 
+                                        "public_name": "Eal"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://prototypefund.de", 
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Prototype_Fund_-_1.2_Million_Euros_for_Free_Software_Projects"
+                                ]
+                            }, 
+                            {
+                                "id": 1113, 
+                                "guid": "b71ce3ffa02dca5f83180aaf66581567", 
+                                "logo": null, 
+                                "date": "2016-12-29T01:30:00+01:00", 
+                                "start": "01:30", 
+                                "duration": "1:00", 
+                                "room": "Hall 13-14", 
+                                "slug": "", 
+                                "title": "Skillconvention b", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "all travelers of a certain skill will be invented to join their respective session", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Reisende", 
+                                        "public_name": "Reisende"
+                                    }
+                                ], 
+                                "links": [
+                                    "http://thereisnogame.de", 
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Skillconvention_b"
+                                ]
+                            }, 
+                            {
+                                "id": 1114, 
+                                "guid": "b06e4dfefe4629fdaf4c0ae1e5116d41", 
+                                "logo": null, 
+                                "date": "2016-12-29T02:30:00+01:00", 
+                                "start": "02:30", 
+                                "duration": "1:00", 
+                                "room": "Hall 13-14", 
+                                "slug": "", 
+                                "title": "Skillconvention b", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "all travelers of a certain skill will be invented to join their respective session", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Reisende", 
+                                        "public_name": "Reisende"
+                                    }
+                                ], 
+                                "links": [
+                                    "http://thereisnogame.de", 
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Skillconvention_b"
+                                ]
+                            }, 
+                            {
+                                "id": 1116, 
+                                "guid": "390998a1ab9f42dbefdc4f9bf1f69e29", 
+                                "logo": null, 
+                                "date": "2016-12-29T00:30:00+01:00", 
+                                "start": "00:30", 
+                                "duration": "1:00", 
+                                "room": "Hall 13-14", 
+                                "slug": "", 
+                                "title": "Skillconvention b", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "all travelers of a certain skill will be invented to join their respective session", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Reisende", 
+                                        "public_name": "Reisende"
+                                    }
+                                ], 
+                                "links": [
+                                    "http://thereisnogame.de", 
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Skillconvention_b"
+                                ]
+                            }, 
+                            {
+                                "id": 1128, 
+                                "guid": "bca665493d417362b5428314e596ebf3", 
+                                "logo": null, 
+                                "date": "2016-12-28T18:00:00+01:00", 
+                                "start": "18:00", 
+                                "duration": "1:00", 
+                                "room": "Hall 13-14", 
+                                "slug": "", 
+                                "title": "The user-friendly guide to mobile freedom", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "talk", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "A guide to use your multiple devices with Free Software and synchronize them", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Eal", 
+                                        "public_name": "Eal"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2016/wiki/Session:The_user-friendly_guide_to_mobile_freedom"
+                                ]
+                            }, 
+                            {
+                                "id": 1132, 
+                                "guid": "d18b6c2f9bccb7fcaae47ed524788ae1", 
+                                "logo": null, 
+                                "date": "2016-12-28T19:40:00+01:00", 
+                                "start": "19:40", 
+                                "duration": "0:50", 
+                                "room": "Hall 13-14", 
+                                "slug": "", 
+                                "title": "Translation meetings", 
+                                "subtitle": "day 2, evening meeting", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "The translation angels (interpreters) meet twice per day to self-organise (day 0, evening to day 4, afternoon)", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Sebalis", 
+                                        "public_name": "Sebalis"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Translation_meetings"
+                                ]
+                            }, 
+                            {
+                                "id": 1136, 
+                                "guid": "415473cd68f9363bb56f229dfd94bb7b", 
+                                "logo": null, 
+                                "date": "2016-12-28T15:10:00+01:00", 
+                                "start": "15:10", 
+                                "duration": "0:50", 
+                                "room": "Hall 13-14", 
+                                "slug": "", 
+                                "title": "Translation meetings", 
+                                "subtitle": "day 2, afternoon meeting", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "The translation angels (interpreters) meet twice per day to self-organise (day 0, evening to day 4, afternoon)", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Sebalis", 
+                                        "public_name": "Sebalis"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Translation_meetings"
+                                ]
+                            }, 
+                            {
+                                "id": 1141, 
+                                "guid": "73db3246145a85eb6d6d6835c00e578e", 
+                                "logo": null, 
+                                "date": "2016-12-28T17:00:00+01:00", 
+                                "start": "17:00", 
+                                "duration": "1:00", 
+                                "room": "Hall 13-14", 
+                                "slug": "", 
+                                "title": "What makes a secure mobile messenger? -- A comparison of WhatsApp competitors", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "talk", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "There are an increasing number of mobile SMS-like applications that offer different levels of crypto and privacy features. This talk will give an overview over some popular and some less well known apps and discuss certain aspects that get too little attention in mainstream debates.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Eal", 
+                                        "public_name": "Eal"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2016/wiki/Session:What_makes_a_secure_mobile_messenger%3F_--_A_comparison_of_WhatsApp_competitors"
+                                ]
+                            }
+                        ], 
+                        "Hall A.1": [
+                            {
+                                "id": 1058, 
+                                "guid": "ee11e913b5d3cc454bc08e138bb2f129", 
+                                "logo": null, 
+                                "date": "2016-12-28T19:30:00+01:00", 
+                                "start": "19:30", 
+                                "duration": "1:30", 
+                                "room": "Hall A.1", 
+                                "slug": "", 
+                                "title": "GNUNet e.V. meeting", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "GNUNet e.V. meeting", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Jeffburdges", 
+                                        "public_name": "Jeffburdges"
+                                    }
+                                ], 
+                                "links": [
+                                    "http://gnunet.org", 
+                                    "https://events.ccc.de/congress/2016/wiki/Session:GNUNet_e.V._meeting"
+                                ]
+                            }, 
+                            {
+                                "id": 1112, 
+                                "guid": "58e0cb7cce31f817c96521e059bf40e1", 
+                                "logo": null, 
+                                "date": "2016-12-29T01:30:00+01:00", 
+                                "start": "01:30", 
+                                "duration": "1:00", 
+                                "room": "Hall A.1", 
+                                "slug": "", 
+                                "title": "Skillconvention b", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "all travelers of a certain skill will be invented to join their respective session", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Reisende", 
+                                        "public_name": "Reisende"
+                                    }
+                                ], 
+                                "links": [
+                                    "http://thereisnogame.de", 
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Skillconvention_b"
+                                ]
+                            }, 
+                            {
+                                "id": 1115, 
+                                "guid": "70c8429502d619a4df08c3b41d47c88c", 
+                                "logo": null, 
+                                "date": "2016-12-29T00:30:00+01:00", 
+                                "start": "00:30", 
+                                "duration": "1:00", 
+                                "room": "Hall A.1", 
+                                "slug": "", 
+                                "title": "Skillconvention b", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "all travelers of a certain skill will be invented to join their respective session", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Reisende", 
+                                        "public_name": "Reisende"
+                                    }
+                                ], 
+                                "links": [
+                                    "http://thereisnogame.de", 
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Skillconvention_b"
+                                ]
+                            }
+                        ]
+                    }, 
+                    "day_start": "2016-12-28T06:00:00+01:00"
+                }, 
+                {
+                    "date": "2016-12-29", 
+                    "index": 3, 
+                    "day_end": "2016-12-30T04:00:00+01:00", 
+                    "rooms": {
+                        "Hall C.1": [
+                            {
+                                "id": 1038, 
+                                "guid": "47eef5188e2d083502a5c329ead28328", 
+                                "logo": null, 
+                                "date": "2016-12-29T17:00:00+01:00", 
+                                "start": "17:00", 
+                                "duration": "1:00", 
+                                "room": "Hall C.1", 
+                                "slug": "", 
+                                "title": "Design in Free Software & Open Source", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "talk", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Design in free software & open source is improving in recent years, but we still have a lot to do. If we want people to use free software, it needs to be as simple & easy to use as proprietary counterparts.\n\nThe Open Source Design collective pushes design in free software. We organize design tracks at well-known events like FOSDEM and FOSSASIA, have a job board to get designers involved, provide open design resources to developers and designers and more.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Eal", 
+                                        "public_name": "Eal"
+                                    }
+                                ], 
+                                "links": [
+                                    "http://opensourcedesign.net", 
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Design_in_Free_Software_%26_Open_Source"
+                                ]
+                            }, 
+                            {
+                                "id": 1061, 
+                                "guid": "02d2176d13ad88e61f8285f69bafd2d6", 
+                                "logo": null, 
+                                "date": "2016-12-29T14:00:00+01:00", 
+                                "start": "14:00", 
+                                "duration": "1:30", 
+                                "room": "Hall C.1", 
+                                "slug": "", 
+                                "title": "Hackerspace in a graphic novel", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "discussion", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Hacker movement in popculture has been reduced to black-hat cliches and even technologically plausible representations like Mr Robot fail to draw its complexities. I'd like to change that with my next project: an online graphic novel featuring a realistic hackerspace community, showcasing people with different and varied approaches to hacking. I'd love to hear your ideas, learn about new sources and existing representations I haven't heard of to create something really worthwhile!", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Alxd", 
+                                        "public_name": "Alxd"
+                                    }
+                                ], 
+                                "links": [
+                                    "http://glider.ink", 
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Hackerspace_in_a_graphic_novel"
+                                ]
+                            }, 
+                            {
+                                "id": 1066, 
+                                "guid": "539cdd3e3d798ac3c3fe23c8b7003ee8", 
+                                "logo": null, 
+                                "date": "2016-12-29T15:00:00+01:00", 
+                                "start": "15:00", 
+                                "duration": "0:30", 
+                                "room": "Hall C.1", 
+                                "slug": "", 
+                                "title": "How to Make Humanoid Robots", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "We will share our knowledge in making humanoid robots with you.\nThe workshop will cover mostly hardware but also software.\nWe will bring some of our robots with us for a hands on.\nIf you want you can also just stop by to ask questions.\nWe will speak mainly in English, but we speak also German and French.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:SammyRamone", 
+                                        "public_name": "SammyRamone"
+                                    }
+                                ], 
+                                "links": [
+                                    "http://bit-bots.de", 
+                                    "https://events.ccc.de/congress/2016/wiki/Session:How_to_Make_Humanoid_Robots"
+                                ]
+                            }, 
+                            {
+                                "id": 1067, 
+                                "guid": "a16011b4eeabaa057517fefd6c958655", 
+                                "logo": null, 
+                                "date": "2016-12-29T18:15:00+01:00", 
+                                "start": "18:15", 
+                                "duration": "1:30", 
+                                "room": "Hall C.1", 
+                                "slug": "", 
+                                "title": "How to Organize a CryptoParty", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "discussion", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "**How to CryptoParty**\n\nCryptoParties have been organized all over the world for more than four years. The goal of this session is to help anyone interested to organize one themselves.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Dawning-sun", 
+                                        "public_name": "Dawning-sun"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://www.cryptoparty.in/organize/howto", 
+                                    "https://events.ccc.de/congress/2016/wiki/Session:How_to_Organize_a_CryptoParty"
+                                ]
+                            }, 
+                            {
+                                "id": 1120, 
+                                "guid": "aa9e9ee7e459ed3b4d191db2246d22f7", 
+                                "logo": null, 
+                                "date": "2016-12-29T20:15:00+01:00", 
+                                "start": "20:15", 
+                                "duration": "2:30", 
+                                "room": "Hall C.1", 
+                                "slug": "", 
+                                "title": "Social Engineering Poetry Slam", 
+                                "subtitle": "Orga room", 
+                                "track": "self organized sessions", 
+                                "type": "other", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Listen to social engineering attack stories from fellow hackers. Presented in a poetry slam style! Or present your social engineering experience or fictional story on how to deceive or manipulate people.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Uebelhacker", 
+                                        "public_name": "Uebelhacker"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Social_Engineering_Poetry_Slam"
+                                ]
+                            }
+                        ], 
+                        "Hall C.2": [
+                            {
+                                "id": 1053, 
+                                "guid": "795fd747f8fae62c65f2bafe0973de3b", 
+                                "logo": null, 
+                                "date": "2016-12-29T15:00:00+01:00", 
+                                "start": "15:00", 
+                                "duration": "1:30", 
+                                "room": "Hall C.2", 
+                                "slug": "", 
+                                "title": "Eris Rising", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "talk", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Why hack machines, when you can hack people?\n\nA talk postulating a new type of hacker, the 'Eris': a blackhat sociologist who social engineers groups rather than individuals. Certain group ideologies or behaviors allow easy manipulation, and politically active communities like the hacker community will be in the targets in the coming era.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Colum", 
+                                        "public_name": "Colum"
+                                    }
+                                ], 
+                                "links": [
+                                    "http://cjpaget.co.uk", 
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Eris_Rising"
+                                ]
+                            }, 
+                            {
+                                "id": 1088, 
+                                "guid": "c494a35ec988936702ac0a1e1fbb5160", 
+                                "logo": null, 
+                                "date": "2016-12-29T18:00:00+01:00", 
+                                "start": "18:00", 
+                                "duration": "1:30", 
+                                "room": "Hall C.2", 
+                                "slug": "", 
+                                "title": "Meier 3", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "talk", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Meier_3"
+                                ]
+                            }
+                        ], 
+                        "Hall C.3": [
+                            {
+                                "id": 1074, 
+                                "guid": "5fc8056ed8ebfff4669f211c66e5e25a", 
+                                "logo": null, 
+                                "date": "2016-12-29T12:00:00+01:00", 
+                                "start": "12:00", 
+                                "duration": "1:30", 
+                                "room": "Hall C.3", 
+                                "slug": "", 
+                                "title": "IoT by beginners for beginners", 
+                                "subtitle": "The ESP 8266 WiFi SoC", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Getting started with the Internet of Things using the ESP8266 WiFi SoC. A basic how-to for beginners by beginners: \n- which software u need to install - how to flash the NoceMCU Firmware - how to start with your first small LUA script, connecting the WiFi module to the world - bring your laptop with you and try out ... (Prerequisites: Java, Python2.7)", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:TobiOrNotTobi", 
+                                        "public_name": "TobiOrNotTobi"
+                                    }, 
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Trema", 
+                                        "public_name": "Trema"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2016/wiki/Session:IoT_by_beginners_for_beginners:_Getting_started_with_NodeMCU"
+                                ]
+                            }, 
+                            {
+                                "id": 1097, 
+                                "guid": "d93aeca26ff9fa5a1b03992460914abb", 
+                                "logo": null, 
+                                "date": "2016-12-29T14:00:00+01:00", 
+                                "start": "14:00", 
+                                "duration": "3:00", 
+                                "room": "Hall C.3", 
+                                "slug": "", 
+                                "title": "Open Science Workshop", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Do you think science is as open, transparent and reproducible as it could be? Are we using the full potential of digitalization and the internet for our research. Are non-scientist sufficiently aware of and embedded into the scientific process? We want to discuss all this and want to hear your voice and experiences! Open Access, Open Data, Open Notebooks, Open Source, Open Educational Resources Citizen science - those topics and more will be in the center of this participant-driven meeting. More importantly we want to connect people interested in a more open and better science.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Konrad", 
+                                        "public_name": "Konrad"
+                                    }, 
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Aleimba", 
+                                        "public_name": "Aleimba"
+                                    }, 
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Rupi", 
+                                        "public_name": "Rupi"
+                                    }
+                                ], 
+                                "links": [
+                                    "http://science.okfn.org/", 
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Open_Science_Workshop"
+                                ]
+                            }
+                        ], 
+                        "Hall C.4": [
+                            {
+                                "id": 1035, 
+                                "guid": "450a3e60ee53be55666c2db513b364a0", 
+                                "logo": null, 
+                                "date": "2016-12-29T15:00:00+01:00", 
+                                "start": "15:00", 
+                                "duration": "2:00", 
+                                "room": "Hall C.4", 
+                                "slug": "", 
+                                "title": "DIY Religion", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Lu_cyp", 
+                                        "public_name": "Lu cyp"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2016/wiki/Session:DIY_Religion"
+                                ]
+                            }, 
+                            {
+                                "id": 1039, 
+                                "guid": "6cc22c4c4e007033d2720248eb98797d", 
+                                "logo": null, 
+                                "date": "2016-12-29T18:00:00+01:00", 
+                                "start": "18:00", 
+                                "duration": "2:00", 
+                                "room": "Hall C.4", 
+                                "slug": "", 
+                                "title": "Dn42", 
+                                "subtitle": "Presentations and Discussion", 
+                                "track": "self organized sessions", 
+                                "type": "discussion", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "dn42 is a big dynamic VPN, which employs Internet technologies (BGP, whois database, DNS, etc). Participants connect to each other using network tunnels (GRE, OpenVPN, Tinc, IPsec) and exchange routes thanks to the Border Gateway Protocol. dn42 can be used to learn networking and to connect private networks, such as hackerspaces or community networks. But above all, experimenting with routing in dn42 is fun! This session will start with an introduction to dn42, followed by some short presentations from participants about their projects with dn42 and will finish with free-form discussion about where to take the network in the future.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Irl", 
+                                        "public_name": "Irl"
+                                    }, 
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Ana", 
+                                        "public_name": "Ana"
+                                    }
+                                ], 
+                                "links": [
+                                    "http://dn42.net/", 
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Dn42:_Decentralised_Network_42"
+                                ]
+                            }, 
+                            {
+                                "id": 1093, 
+                                "guid": "1991d7c2adefc5daab2a75f4b429a67d", 
+                                "logo": null, 
+                                "date": "2016-12-29T11:00:00+01:00", 
+                                "start": "11:00", 
+                                "duration": "3:00", 
+                                "room": "Hall C.4", 
+                                "slug": "", 
+                                "title": "Numerical Weather Prediction Tutorial", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "A workshop about running your own Numerical Weather Prediction (NWP) model.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Tecer", 
+                                        "public_name": "Tecer"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Numerical_Weather_Prediction_Tutorial"
+                                ]
+                            }
+                        ], 
+                        "Hall B": [
+                            {
+                                "id": 1045, 
+                                "guid": "b667c273cc0ea6bfc41077c37c7daca4", 
+                                "logo": null, 
+                                "date": "2016-12-29T13:00:00+01:00", 
+                                "start": "13:00", 
+                                "duration": "1:00", 
+                                "room": "Hall B", 
+                                "slug": "", 
+                                "title": "Engelmeeting", 
+                                "subtitle": "Angelmeeting day 3", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Knuth", 
+                                        "public_name": "Knuth"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting"
+                                ]
+                            }, 
+                            {
+                                "id": 1047, 
+                                "guid": "7b2a2ebb53b4e58845bc13580d788dad", 
+                                "logo": null, 
+                                "date": "2016-12-29T19:45:00+01:00", 
+                                "start": "19:45", 
+                                "duration": "0:30", 
+                                "room": "Hall B", 
+                                "slug": "", 
+                                "title": "Engelmeeting", 
+                                "subtitle": "Angel meeting day 3", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Knuth", 
+                                        "public_name": "Knuth"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting"
+                                ]
+                            }, 
+                            {
+                                "id": 1121, 
+                                "guid": "3b37eebbde0ae5877170aef80a7a1a7d", 
+                                "logo": null, 
+                                "date": "2016-12-29T20:45:00+01:00", 
+                                "start": "20:45", 
+                                "duration": "3:00", 
+                                "room": "Hall B", 
+                                "slug": "", 
+                                "title": "Social Engineering Poetry Slam", 
+                                "subtitle": "Slam room", 
+                                "track": "self organized sessions", 
+                                "type": "other", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Listen to social engineering attack stories from fellow hackers. Presented in a poetry slam style! Or present your social engineering experience or fictional story on how to deceive or manipulate people.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Uebelhacker", 
+                                        "public_name": "Uebelhacker"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Social_Engineering_Poetry_Slam"
+                                ]
+                            }
+                        ], 
+                        "Hall F": [
+                            {
+                                "id": 1056, 
+                                "guid": "e8e7292727500d0072186d9f2d0d0add", 
+                                "logo": null, 
+                                "date": "2016-12-29T18:00:00+01:00", 
+                                "start": "18:00", 
+                                "duration": "2:15", 
+                                "room": "Hall F", 
+                                "slug": "", 
+                                "title": "Film-Blocker", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Blocked for Film Screenings by Content Team", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Film-Blocker"
+                                ]
+                            }, 
+                            {
+                                "id": 1057, 
+                                "guid": "afdd31277e2c1f456697250610dab6c4", 
+                                "logo": null, 
+                                "date": "2016-12-29T21:00:00+01:00", 
+                                "start": "21:00", 
+                                "duration": "3:00", 
+                                "room": "Hall F", 
+                                "slug": "", 
+                                "title": "Film-Blocker", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Blocked for Film Screenings by Content Team", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Film-Blocker"
+                                ]
+                            }, 
+                            {
+                                "id": 1081, 
+                                "guid": "9d38911f81e502bac62a018ea4e1a347", 
+                                "logo": null, 
+                                "date": "2016-12-29T20:15:00+01:00", 
+                                "start": "20:15", 
+                                "duration": "0:45", 
+                                "room": "Hall F", 
+                                "slug": "", 
+                                "title": "Kurzfilm-Screening", 
+                                "subtitle": "Kurzfilm screening", 
+                                "track": "self organized sessions", 
+                                "type": "other", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Kurzfilm-Screening 61 Tage - Deutschland auf der Flucht  -  Was w\u00e4re, wenn WIR fliehen m\u00fcssten!?", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:DerNiko", 
+                                        "public_name": "DerNiko"
+                                    }
+                                ], 
+                                "links": [
+                                    "http://www.facebook.com/61tagefilm", 
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Kurzfilm-Screening:_%2261-Tage%22_Deutschland_auf_der_Flucht"
+                                ]
+                            }
+                        ], 
+                        "Hall 13-14": [
+                            {
+                                "id": 1019, 
+                                "guid": "0043166f5c425145741cb5a178a7ac3c", 
+                                "logo": null, 
+                                "date": "2016-12-29T20:30:00+01:00", 
+                                "start": "20:30", 
+                                "duration": "1:00", 
+                                "room": "Hall 13-14", 
+                                "slug": "", 
+                                "title": "Are decentralized services unable to innovate?", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "talk", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "On Signal, XMPP and the future of decentralized services.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Eal", 
+                                        "public_name": "Eal"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Are_decentralized_services_unable_to_innovate%3F"
+                                ]
+                            }, 
+                            {
+                                "id": 1060, 
+                                "guid": "222753fa4ab554d18d3b16a66070f707", 
+                                "logo": null, 
+                                "date": "2016-12-29T14:00:00+01:00", 
+                                "start": "14:00", 
+                                "duration": "1:00", 
+                                "room": "Hall 13-14", 
+                                "slug": "", 
+                                "title": "Gender diversity in the Free Software community", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "talk", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Only about 3% of contributors in free software are women (even though 25% of software developers are) \u2013 a considerable gap compared to male contributors. There are many reasons for this, and some we want to talk about are: - Is the environment friendly enough? - What can free software projects & companies do to fix the gap? - Why do we need the diversity?\n\nGreta Do\u00e7i is an ICT engineer, active in Wikimedia and the Albanian open source community. Jan-Christoph Borchardt is an interaction designer working on Nextcloud and Open Source Design. They both want to push gender diversity in free & open source software.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Eal", 
+                                        "public_name": "Eal"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Gender_diversity_in_the_Free_Software_community"
+                                ]
+                            }, 
+                            {
+                                "id": 1089, 
+                                "guid": "b8295aedc06cdac9061106f4fd8cd1cd", 
+                                "logo": null, 
+                                "date": "2016-12-29T17:00:00+01:00", 
+                                "start": "17:00", 
+                                "duration": "2:00", 
+                                "room": "Hall 13-14", 
+                                "slug": "", 
+                                "title": "Meine erste IFG-Anfrage", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Wie bekomme ich schnell und einfach Informationen, die bei Beh\u00f6rden lagern - Vertr\u00e4ge, Vermerke und E-Mails zwischen Beamten? Wie kann ich sie f\u00fcr politisches Engagement nutzen? Und was mache ich, wenn Beh\u00f6rden mich mit Geb\u00fchren und Gesetzestexten abschrecken wollen? Ich stelle die Plattform FragDenStaat vor und einige wirksame Werkzeuge, mit denen ihr genau die Infos bekommt, die ihr haben wollt.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Eal", 
+                                        "public_name": "Eal"
+                                    }
+                                ], 
+                                "links": [
+                                    "http://FragDenStaat.de", 
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Meine_erste_IFG-Anfrage"
+                                ]
+                            }, 
+                            {
+                                "id": 1117, 
+                                "guid": "a1496422476dce53d2f614263adbeeca", 
+                                "logo": null, 
+                                "date": "2016-12-30T01:30:00+01:00", 
+                                "start": "01:30", 
+                                "duration": "1:00", 
+                                "room": "Hall 13-14", 
+                                "slug": "", 
+                                "title": "Skillconvention c", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "all travelers of a certain skill will be invited to join their respective convention", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Reisende", 
+                                        "public_name": "Reisende"
+                                    }
+                                ], 
+                                "links": [
+                                    "http://thereisnogame.de", 
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Skillconvention_c"
+                                ]
+                            }, 
+                            {
+                                "id": 1118, 
+                                "guid": "e359d1f9d3b1ca042ad6170cb80f550f", 
+                                "logo": null, 
+                                "date": "2016-12-30T00:30:00+01:00", 
+                                "start": "00:30", 
+                                "duration": "1:00", 
+                                "room": "Hall 13-14", 
+                                "slug": "", 
+                                "title": "Skillconvention c", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "all travelers of a certain skill will be invited to join their respective convention", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Reisende", 
+                                        "public_name": "Reisende"
+                                    }
+                                ], 
+                                "links": [
+                                    "http://thereisnogame.de", 
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Skillconvention_c"
+                                ]
+                            }, 
+                            {
+                                "id": 1127, 
+                                "guid": "f24b55410756c33da18d71ec5d5a8520", 
+                                "logo": null, 
+                                "date": "2016-12-29T16:00:00+01:00", 
+                                "start": "16:00", 
+                                "duration": "1:00", 
+                                "room": "Hall 13-14", 
+                                "slug": "", 
+                                "title": "The Federation", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "talk", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "This talk will give a short introduction to \"The Federation\" of decentral social networks as alternatives to the big walled gardens.\n\nWith a short historical overview of how it all began almost a decade ago with Laconica, followed by Diaspora and Mistpark.\nWho is part of \"The Federation\" today?\nHow are those projects glued together?\nWhat is the current state of free software alternatives like Diaspora, Friendica, GNU Social, Hubzilla, Media Goblin, pump.io and compatible networks.\nHow might the future be looking with the recent work by W3C Social WG.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Eal", 
+                                        "public_name": "Eal"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://wiki.fsfe.org/Events/Berlin/2016-05-12", 
+                                    "https://events.ccc.de/congress/2016/wiki/Session:The_Federation"
+                                ]
+                            }, 
+                            {
+                                "id": 1129, 
+                                "guid": "7ced348984f17dd88a5c96ea1e3435ec", 
+                                "logo": null, 
+                                "date": "2016-12-29T15:10:00+01:00", 
+                                "start": "15:10", 
+                                "duration": "0:50", 
+                                "room": "Hall 13-14", 
+                                "slug": "", 
+                                "title": "Translation meetings", 
+                                "subtitle": "day 3, afternoon meeting", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "The translation angels (interpreters) meet twice per day to self-organise (day 0, evening to day 4, afternoon)", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Sebalis", 
+                                        "public_name": "Sebalis"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Translation_meetings"
+                                ]
+                            }, 
+                            {
+                                "id": 1134, 
+                                "guid": "36252d5cc335293f00e927b0b6eba7fb", 
+                                "logo": null, 
+                                "date": "2016-12-29T19:40:00+01:00", 
+                                "start": "19:40", 
+                                "duration": "0:50", 
+                                "room": "Hall 13-14", 
+                                "slug": "", 
+                                "title": "Translation meetings", 
+                                "subtitle": "day 3, evening meeting", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "The translation angels (interpreters) meet twice per day to self-organise (day 0, evening to day 4, afternoon)", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Sebalis", 
+                                        "public_name": "Sebalis"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Translation_meetings"
+                                ]
+                            }
+                        ], 
+                        "Hall A.1": [
+                            {
+                                "id": 1001, 
+                                "guid": "2433e2a8cd70d932310461fe68e98f92", 
+                                "logo": null, 
+                                "date": "2016-12-29T17:00:00+01:00", 
+                                "start": "17:00", 
+                                "duration": "2:00", 
+                                "room": "Hall A.1", 
+                                "slug": "", 
+                                "title": "33c3 Regiotreffen", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Das allj\u00e4hrliche Regiotreffen auf dem Congress", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Telegnom", 
+                                        "public_name": "Telegnom"
+                                    }, 
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Sva", 
+                                        "public_name": "Sva"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://ccc.de/regional", 
+                                    "https://events.ccc.de/congress/2016/wiki/Session:33c3_Regiotreffen"
+                                ]
+                            }, 
+                            {
+                                "id": 1016, 
+                                "guid": "69d80409f438f0741ff3257e7a97372a", 
+                                "logo": null, 
+                                "date": "2016-12-29T12:00:00+01:00", 
+                                "start": "12:00", 
+                                "duration": "1:30", 
+                                "room": "Hall A.1", 
+                                "slug": "", 
+                                "title": "Angewandte konsensdemokratie", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "thesen: gruppen von menschen lassen sich oft weiter demokratisieren als \"nur\" basisdemokratie zu machen. konsensdemokratie ist nicht nur m\u00f6glich, sondern mittelfristig sogar effizienter und stressfreier. mehr spa\u00df macht sie auch :-)", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Uwe_premium", 
+                                        "public_name": "Uwe premium"
+                                    }
+                                ], 
+                                "links": [
+                                    "http://www.premium-cola.de/kollektiv/workshop", 
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Angewandte_konsensdemokratie"
+                                ]
+                            }, 
+                            {
+                                "id": 1101, 
+                                "guid": "fe8f930fe26e59d1d01385f0b0c3c0d5", 
+                                "logo": null, 
+                                "date": "2016-12-29T16:00:00+01:00", 
+                                "start": "16:00", 
+                                "duration": "1:00", 
+                                "room": "Hall A.1", 
+                                "slug": "", 
+                                "title": "PoParty", 
+                                "subtitle": "Get pseudonymized", 
+                                "track": "self organized sessions", 
+                                "type": "hands-on", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Come and fetch the first PoPCoin at 33c3!", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Ineiti", 
+                                        "public_name": "Ineiti"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://dedis.ch", 
+                                    "https://events.ccc.de/congress/2016/wiki/Session:PoParty"
+                                ]
+                            }, 
+                            {
+                                "id": 1119, 
+                                "guid": "15f21480446aabdd28aa3fe571253266", 
+                                "logo": null, 
+                                "date": "2016-12-30T00:30:00+01:00", 
+                                "start": "00:30", 
+                                "duration": "1:00", 
+                                "room": "Hall A.1", 
+                                "slug": "", 
+                                "title": "Skillconvention c", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "all travelers of a certain skill will be invited to join their respective convention", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Reisende", 
+                                        "public_name": "Reisende"
+                                    }
+                                ], 
+                                "links": [
+                                    "http://thereisnogame.de", 
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Skillconvention_c"
+                                ]
+                            }, 
+                            {
+                                "id": 1126, 
+                                "guid": "617e0bf9881e170e3d7330509bbb1112", 
+                                "logo": null, 
+                                "date": "2016-12-29T13:30:00+01:00", 
+                                "start": "13:30", 
+                                "duration": "2:30", 
+                                "room": "Hall A.1", 
+                                "slug": "", 
+                                "title": "Taler workshop", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "hands-on", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "We shall teach visitors to integrate the GNU Taler merchant software for anonymous web payments into existing web platforms.  \n\nWe're happy to advise visitors interested in setting up GNU Taler exchanges as well, including discussions about integrating the exchange with blockchain based currencies. We will not have teaching materials handy for the exchange software however.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Jeffburdges", 
+                                        "public_name": "Jeffburdges"
+                                    }
+                                ], 
+                                "links": [
+                                    "http://taler.net", 
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Taler_workshop"
+                                ]
+                            }
+                        ]
+                    }, 
+                    "day_start": "2016-12-29T06:00:00+01:00"
+                }, 
+                {
+                    "date": "2016-12-30", 
+                    "index": 4, 
+                    "day_end": "2016-12-30T23:00:00+01:00", 
+                    "rooms": {
+                        "Hall C.1": [
+                            {
+                                "id": 1014, 
+                                "guid": "dd95e8a0bc6dcebefc291461f0a81cfe", 
+                                "logo": null, 
+                                "date": "2016-12-30T12:00:00+01:00", 
+                                "start": "12:00", 
+                                "duration": "1:00", 
+                                "room": "Hall C.1", 
+                                "slug": "", 
+                                "title": "An UnCivilization Commune ReWilded Life Shared with Squirrels", 
+                                "subtitle": "Second meetup", 
+                                "track": "self organized sessions", 
+                                "type": "other", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Looking forward to meet new and old friends interested in UnCivilization! \n\nWe are a group of people interested in intersection of technology & society, politics, activism, art, and critical of techno-optimism. We share a mailing list since 2012, called UnCivilization, inspired (but not otherwise connected to) Dark Mountain \"Uncivilization Manifesto\", as well as Ursula LeGuin, Derrick Jensen, Heather Marsh, John Zerzan, Naomi Klein, Daniel Quinn, Ursula Franklin, and other feminist, anarchist, anti-supremacist authors. \n\nGoal of this meetup is to catch-up, give each other hugs & support, and plan our activities for the next months & years (e.g. another LikaCamp?!)", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Becha", 
+                                        "public_name": "Becha"
+                                    }
+                                ], 
+                                "links": [
+                                    "http://unciv.nl", 
+                                    "https://events.ccc.de/congress/2016/wiki/Session:An_UnCivilization_Commune_ReWilded_Life_Shared_with_Squirrels"
+                                ]
+                            }
+                        ], 
+                        "Hall C.4": [
+                            {
+                                "id": 1091, 
+                                "guid": "daa19eb9f450d649e67c6a5413c97265", 
+                                "logo": null, 
+                                "date": "2016-12-30T14:30:00+01:00", 
+                                "start": "14:30", 
+                                "duration": "3:00", 
+                                "room": "Hall C.4", 
+                                "slug": "", 
+                                "title": "Neuropil", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "making and breaking of neuropil :-)\nwe would like to set up an neuropil network together with the participants and try to identify vulnerabilities ...", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Stephan.schwichtenberg", 
+                                        "public_name": "Stephan.schwichtenberg"
+                                    }
+                                ], 
+                                "links": [
+                                    "http://www.neuropil.org", 
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Neuropil"
+                                ]
+                            }
+                        ], 
+                        "Hall B": [
+                            {
+                                "id": 1049, 
+                                "guid": "a9980c368a3480f25ab2bd4588283ecf", 
+                                "logo": null, 
+                                "date": "2016-12-30T13:00:00+01:00", 
+                                "start": "13:00", 
+                                "duration": "1:00", 
+                                "room": "Hall B", 
+                                "slug": "", 
+                                "title": "Engelmeeting", 
+                                "subtitle": "Abbaumeeting", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Knuth", 
+                                        "public_name": "Knuth"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting"
+                                ]
+                            }
+                        ], 
+                        "Hall 13-14": [
+                            {
+                                "id": 1070, 
+                                "guid": "d0de2359f3ecb1e992fa8619e53950d6", 
+                                "logo": null, 
+                                "date": "2016-12-30T16:15:00+01:00", 
+                                "start": "16:15", 
+                                "duration": "2:00", 
+                                "room": "Hall 13-14", 
+                                "slug": "", 
+                                "title": "IT-solutions for humanitarian crisis problems", 
+                                "subtitle": "IT-solutions for humanitarian crisis problems", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Syrien, ein Land welches innerhalb von 5 Jahren von einem hohen technischen Level zur\u00fcck in die Steinzeit gebombt wurde. Weite Teile des Landes sind ohne Internet. Telefonnetze sind von unterschiedlicher Qualit\u00e4t und Verf\u00fcgbarkeit. Viele Regionen des Landes sind auf Grund der Vorherrschaft unterschiedlichster Milizen nicht passierbar f\u00fcr Helfer*innen in der humanit\u00e4ren Arbeit. \nNur ein Beispiel, wo es neue L\u00f6sungen braucht f\u00fcr humanit\u00e4re Notlagen. Wenn wir die Betroffenen nicht selbst erreichen k\u00f6nnen, wie k\u00f6nnen wir dann doch mit innovativen Methoden vor Ort Hilfe leisten?\n\nCADUS e.V. arbeitet seit \u00fcber 2 Jahren in verschiedenen Krisenregionen. In dem Workshop dient CADUS als Fallgeberin f\u00fcr akute Problemstellungen in den Regionen vor Ort. In Arbeitsgruppen wollen wir L\u00f6sungsm\u00f6glichkeiten f\u00fcr (Teil-)Probleme erarbeiten, und deren Durchf\u00fchrbarkeit direkt mit Menschen diskutieren, die den Bogen von der Theorie zur Praxis schlagen k\u00f6nnen.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Cadus", 
+                                        "public_name": "Cadus"
+                                    }
+                                ], 
+                                "links": [
+                                    "http://www.cadus.org", 
+                                    "https://events.ccc.de/congress/2016/wiki/Session:IT-solutions_for_humanitarian_crisis_problems"
+                                ]
+                            }, 
+                            {
+                                "id": 1130, 
+                                "guid": "660e4d0d3a22279ed18e88982d5006fa", 
+                                "logo": null, 
+                                "date": "2016-12-30T15:10:00+01:00", 
+                                "start": "15:10", 
+                                "duration": "0:50", 
+                                "room": "Hall 13-14", 
+                                "slug": "", 
+                                "title": "Translation meetings", 
+                                "subtitle": "day 4, afternoon meeting", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "The translation angels (interpreters) meet twice per day to self-organise (day 0, evening to day 4, afternoon)", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Sebalis", 
+                                        "public_name": "Sebalis"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Translation_meetings"
+                                ]
+                            }
+                        ]
+                    }, 
+                    "day_start": "2016-12-30T06:00:00+01:00"
+                }
+            ]
+        }, 
+        "version": "XXX"
+    }
+}
