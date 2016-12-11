@@ -1933,6 +1933,54 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:News_vom_F%C3%B6rderverein_freie_Netzwerke_e.V.", 
         "Has end time": []
     }, 
+    "Session:Tor# 170d8e59dcc6611dfbc1142b7dc30c25": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482958800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Session should be used to connect with all the people who work for the various projects within or related with tor."
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall B", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_B", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Julius", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Julius", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Tor"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Tor", 
+        "Has end time": [
+            "1482966000"
+        ]
+    }, 
     "Session:FSaaS: Challenges for 'Free Software as a Service' in business# d132d8604f7ecac61db1cbf423ca9e6e": {
         "Held in language": [
             "en - English"
