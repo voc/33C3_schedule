@@ -475,52 +475,6 @@
             "1482854400"
         ]
     }, 
-    "Session:Surface Mount Electronics Assembly for Terrified Beginners# ba36086100ed2a9e7b09cb3151fef2de": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90mins, 20\u20ac/kit, avoid caffeine immediately before."
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:HardwareHackingArea", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:HardwareHackingArea", 
-                "namespace": 504, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Day 3 - Session 1"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Kliment", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Kliment", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Surface Mount Electronics Assembly for Terrified Beginners"
-        ], 
-        "Has duration": [
-            90
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Surface_Mount_Electronics_Assembly_for_Terrified_Beginners", 
-        "Has end time": []
-    }, 
     "Session:Surface Mount Electronics Assembly for Terrified Beginners# 2c66a4829556ad08c8f7b6d8fd68e204": {
         "Held in language": [
             "en - English"
@@ -935,52 +889,6 @@
         "Has end time": [
             "1483038000"
         ]
-    }, 
-    "Session:Surface Mount Electronics Assembly for Terrified Beginners# c46e591a9b9f6d4d81e91edff99c1829": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90mins, 20\u20ac/kit, avoid caffeine immediately before."
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:HardwareHackingArea", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:HardwareHackingArea", 
-                "namespace": 504, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Day 3 - Session 2"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Kliment", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Kliment", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Surface Mount Electronics Assembly for Terrified Beginners"
-        ], 
-        "Has duration": [
-            90
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Surface_Mount_Electronics_Assembly_for_Terrified_Beginners", 
-        "Has end time": []
     }, 
     "Session:The user-friendly guide to mobile freedom# bca665493d417362b5428314e596ebf3": {
         "Held in language": [
@@ -1561,56 +1469,54 @@
             "1483040700"
         ]
     }, 
-    "Session:IT-solutions for humanitarian crisis problems# 20371a76b601f1e4bea5b1c0244d0cc9": {
+    "Session:Hackerspace in a graphic novel# 02d2176d13ad88e61f8285f69bafd2d6": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482930000"
+            "1483020000"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [
-            "http://www.cadus.org"
+            "http://glider.ink"
         ], 
         "Has description": [
-            "Syrien, ein Land welches innerhalb von 5 Jahren von einem hohen technischen Level zur\u00fcck in die Steinzeit gebombt wurde. Weite Teile des Landes sind ohne Internet. Telefonnetze sind von unterschiedlicher Qualit\u00e4t und Verf\u00fcgbarkeit. Viele Regionen des Landes sind auf Grund der Vorherrschaft unterschiedlichster Milizen nicht passierbar f\u00fcr Helfer*innen in der humanit\u00e4ren Arbeit. \nNur ein Beispiel, wo es neue L\u00f6sungen braucht f\u00fcr humanit\u00e4re Notlagen. Wenn wir die Betroffenen nicht selbst erreichen k\u00f6nnen, wie k\u00f6nnen wir dann doch mit innovativen Methoden vor Ort Hilfe leisten?\n\nCADUS e.V. arbeitet seit \u00fcber 2 Jahren in verschiedenen Krisenregionen. In dem Workshop dient CADUS als Fallgeberin f\u00fcr akute Problemstellungen in den Regionen vor Ort. In Arbeitsgruppen wollen wir L\u00f6sungsm\u00f6glichkeiten f\u00fcr (Teil-)Probleme erarbeiten, und deren Durchf\u00fchrbarkeit direkt mit Menschen diskutieren, die den Bogen von der Theorie zur Praxis schlagen k\u00f6nnen."
+            "Hacker movement in popculture has been reduced to black-hat cliches and even technologically plausible representations like Mr Robot fail to draw its complexities. I'd like to change that with my next project: an online graphic novel featuring a realistic hackerspace community, showcasing people with different and varied approaches to hacking. I'd love to hear your ideas, learn about new sources and existing representations I haven't heard of to create something really worthwhile!"
         ], 
         "Has session type": [
-            "Workshop"
+            "Discussion"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall 13-14", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_13-14", 
+                "fulltext": "Room:Hall C.1", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.1", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [
-            "IT-solutions for humanitarian crisis problems"
-        ], 
+        "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Cadus", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Cadus", 
+                "fulltext": "User:Alxd", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Alxd", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "IT-solutions for humanitarian crisis problems"
+            "Hackerspace in a graphic novel"
         ], 
         "Has duration": [
-            120
+            90
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:IT-solutions_for_humanitarian_crisis_problems", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Hackerspace_in_a_graphic_novel", 
         "Has end time": [
-            "1482937200"
+            "1483025400"
         ]
     }, 
     "Session:You've hardened your OS- now harden your hacker community# 85d521937dceb764d05c73414f80c7ec": {
@@ -2767,12 +2673,12 @@
             "1482865200"
         ]
     }, 
-    "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
+    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1483102800"
+            "1482764400"
         ], 
         "Has event track": [
             "Session"
@@ -2791,7 +2697,7 @@
             }
         ], 
         "Has subtitle": [
-            "Abbaumeeting"
+            "Introduction Meeting for new angels"
         ], 
         "Is organized by": [
             {
@@ -2812,7 +2718,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
-            "1483106400"
+            "1482768000"
         ]
     }, 
     "Session:Cyberthingy# ac3e137e198cda248c6f4d44bd664362": {
@@ -3058,6 +2964,56 @@
             "1482847200"
         ]
     }, 
+    "Session:Surface Mount Electronics Assembly for Terrified Beginners# 0029ffd6b50d454bfba86f9d8de24d35": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1483102800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90mins, 20\u20ac/kit, avoid caffeine immediately before."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:HardwareHackingArea", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:HardwareHackingArea", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Day 4 - Session 1"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Kliment", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Kliment", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Surface Mount Electronics Assembly for Terrified Beginners"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Surface_Mount_Electronics_Assembly_for_Terrified_Beginners", 
+        "Has end time": [
+            "1483108200"
+        ]
+    }, 
     "Session:Eris Rising# 795fd747f8fae62c65f2bafe0973de3b": {
         "Held in language": [
             "en - English"
@@ -3108,54 +3064,56 @@
             "1483029000"
         ]
     }, 
-    "Session:Hackerspace in a graphic novel# 02d2176d13ad88e61f8285f69bafd2d6": {
+    "Session:IT-solutions for humanitarian crisis problems# 20371a76b601f1e4bea5b1c0244d0cc9": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1483020000"
+            "1482930000"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [
-            "http://glider.ink"
+            "http://www.cadus.org"
         ], 
         "Has description": [
-            "Hacker movement in popculture has been reduced to black-hat cliches and even technologically plausible representations like Mr Robot fail to draw its complexities. I'd like to change that with my next project: an online graphic novel featuring a realistic hackerspace community, showcasing people with different and varied approaches to hacking. I'd love to hear your ideas, learn about new sources and existing representations I haven't heard of to create something really worthwhile!"
+            "Syrien, ein Land welches innerhalb von 5 Jahren von einem hohen technischen Level zur\u00fcck in die Steinzeit gebombt wurde. Weite Teile des Landes sind ohne Internet. Telefonnetze sind von unterschiedlicher Qualit\u00e4t und Verf\u00fcgbarkeit. Viele Regionen des Landes sind auf Grund der Vorherrschaft unterschiedlichster Milizen nicht passierbar f\u00fcr Helfer*innen in der humanit\u00e4ren Arbeit. \nNur ein Beispiel, wo es neue L\u00f6sungen braucht f\u00fcr humanit\u00e4re Notlagen. Wenn wir die Betroffenen nicht selbst erreichen k\u00f6nnen, wie k\u00f6nnen wir dann doch mit innovativen Methoden vor Ort Hilfe leisten?\n\nCADUS e.V. arbeitet seit \u00fcber 2 Jahren in verschiedenen Krisenregionen. In dem Workshop dient CADUS als Fallgeberin f\u00fcr akute Problemstellungen in den Regionen vor Ort. In Arbeitsgruppen wollen wir L\u00f6sungsm\u00f6glichkeiten f\u00fcr (Teil-)Probleme erarbeiten, und deren Durchf\u00fchrbarkeit direkt mit Menschen diskutieren, die den Bogen von der Theorie zur Praxis schlagen k\u00f6nnen."
         ], 
         "Has session type": [
-            "Discussion"
+            "Workshop"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall C.1", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.1", 
+                "fulltext": "Room:Hall 13-14", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_13-14", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [], 
+        "Has subtitle": [
+            "IT-solutions for humanitarian crisis problems"
+        ], 
         "Is organized by": [
             {
-                "fulltext": "User:Alxd", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Alxd", 
+                "fulltext": "User:Cadus", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Cadus", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Hackerspace in a graphic novel"
+            "IT-solutions for humanitarian crisis problems"
         ], 
         "Has duration": [
-            90
+            120
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Hackerspace_in_a_graphic_novel", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:IT-solutions_for_humanitarian_crisis_problems", 
         "Has end time": [
-            "1483025400"
+            "1482937200"
         ]
     }, 
     "Session:3D printing for beginners# 3e34e23260a6991b946f86b764eb0767": {
@@ -3928,55 +3886,54 @@
             "1483038000"
         ]
     }, 
-    "Session:Wordclock# a81b206c2434a1f268a76104982400a4": {
-        "Held in language": [], 
+    "Session:Surface Mount Electronics Assembly for Terrified Beginners# 458f6f7faeda7724ed8eb3f48713d4b9": {
+        "Held in language": [
+            "en - English"
+        ], 
         "Has start time": [
-            "1482868800"
+            "1483110000"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "https://github.com/fablabnbg/OpenWordClock", 
-            "http://imgur.com/a/oHxLx"
-        ], 
+        "Has website": [], 
         "Has description": [
-            "Wir bauen wieder Wordclocks.\nBitte unbedingt vorher per mail an fabian@fabmail.org registrieren, da die Teilnehmerzahl auf 15 Personen beschr\u00e4nkt ist."
+            "Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90mins, 20\u20ac/kit, avoid caffeine immediately before."
         ], 
         "Has session type": [
             "Workshop"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall C.3", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.3", 
-                "namespace": 516, 
+                "fulltext": "Assembly:HardwareHackingArea", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:HardwareHackingArea", 
+                "namespace": 504, 
                 "exists": true
             }
         ], 
         "Has subtitle": [
-            "Workshop1"
+            "Day 4 - Session 2"
         ], 
         "Is organized by": [
             {
-                "fulltext": "User:Fabianurban", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Fabianurban", 
+                "fulltext": "User:Kliment", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Kliment", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Wordclock"
+            "Surface Mount Electronics Assembly for Terrified Beginners"
         ], 
         "Has duration": [
-            180
+            90
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Wordclock", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Surface_Mount_Electronics_Assembly_for_Terrified_Beginners", 
         "Has end time": [
-            "1482879600"
+            "1483115400"
         ]
     }, 
     "Session:Skillconvention b# 58e0cb7cce31f817c96521e059bf40e1": {
@@ -5711,6 +5668,56 @@
             "1482939000"
         ]
     }, 
+    "Session:Surface Mount Electronics Assembly for Terrified Beginners# 61a5509d9d46ea6fccc963286ccc18e8": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1483036200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90mins, 20\u20ac/kit, avoid caffeine immediately before."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:HardwareHackingArea", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:HardwareHackingArea", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Day 3 - Session 2"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Kliment", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Kliment", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Surface Mount Electronics Assembly for Terrified Beginners"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Surface_Mount_Electronics_Assembly_for_Terrified_Beginners", 
+        "Has end time": [
+            "1483041600"
+        ]
+    }, 
     "Session:Space Hacking# b787a13c30041f982fc7186223360be6": {
         "Held in language": [
             "de - German"
@@ -6205,6 +6212,107 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Skillconvention_b", 
         "Has end time": [
             "1482978600"
+        ]
+    }, 
+    "Session:Wordclock# a81b206c2434a1f268a76104982400a4": {
+        "Held in language": [], 
+        "Has start time": [
+            "1482868800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://github.com/fablabnbg/OpenWordClock", 
+            "http://imgur.com/a/oHxLx"
+        ], 
+        "Has description": [
+            "Wir bauen wieder Wordclocks.\nBitte unbedingt vorher per mail an fabian@fabmail.org registrieren, da die Teilnehmerzahl auf 15 Personen beschr\u00e4nkt ist."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall C.3", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.3", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Workshop1"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Fabianurban", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Fabianurban", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Wordclock"
+        ], 
+        "Has duration": [
+            180
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Wordclock", 
+        "Has end time": [
+            "1482879600"
+        ]
+    }, 
+    "Session:Surface Mount Electronics Assembly for Terrified Beginners# e8d4aeb2d2ef0415687e34e714ed7c92": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1483029000"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90mins, 20\u20ac/kit, avoid caffeine immediately before."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:HardwareHackingArea", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:HardwareHackingArea", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Day 3 - Session 1"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Kliment", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Kliment", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Surface Mount Electronics Assembly for Terrified Beginners"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Surface_Mount_Electronics_Assembly_for_Terrified_Beginners", 
+        "Has end time": [
+            "1483034400"
         ]
     }, 
     "Session:Junghackertag# 57c679ae529436a05dfdcee1bdce0f4e": {
@@ -8694,12 +8802,12 @@
             "1482863400"
         ]
     }, 
-    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
+    "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482764400"
+            "1483102800"
         ], 
         "Has event track": [
             "Session"
@@ -8718,7 +8826,7 @@
             }
         ], 
         "Has subtitle": [
-            "Introduction Meeting for new angels"
+            "Abbaumeeting"
         ], 
         "Is organized by": [
             {
@@ -8739,7 +8847,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
-            "1482768000"
+            "1483106400"
         ]
     }, 
     "Session:Line-of-sight visualizer# 24d9aabcf7d4df6b349a03dbf75a5641": {
