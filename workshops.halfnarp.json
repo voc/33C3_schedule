@@ -113,7 +113,7 @@
         "track_name": "Session", 
         "room_id": 1133, 
         "room_name": "Hall C.3", 
-        "start_time": "2016-12-28T12:00:00+01:00", 
+        "start_time": "2016-12-28T11:00:00+01:00", 
         "duration": 3600, 
         "title": "Coder Dojo", 
         "abstract": "", 
@@ -125,7 +125,7 @@
         "track_name": "Session", 
         "room_id": 1134, 
         "room_name": "Hall C.4", 
-        "start_time": "2016-12-28T12:00:00+01:00", 
+        "start_time": "2016-12-28T11:00:00+01:00", 
         "duration": 3600, 
         "title": "Coder Dojo", 
         "abstract": "", 
@@ -137,7 +137,7 @@
         "track_name": "Session", 
         "room_id": 1133, 
         "room_name": "Hall C.3", 
-        "start_time": "2016-12-28T11:00:00+01:00", 
+        "start_time": "2016-12-28T15:00:00+01:00", 
         "duration": 3600, 
         "title": "Coder Dojo", 
         "abstract": "", 
@@ -149,7 +149,7 @@
         "track_name": "Session", 
         "room_id": 1133, 
         "room_name": "Hall C.3", 
-        "start_time": "2016-12-28T15:00:00+01:00", 
+        "start_time": "2016-12-28T12:00:00+01:00", 
         "duration": 3600, 
         "title": "Coder Dojo", 
         "abstract": "", 
@@ -161,7 +161,7 @@
         "track_name": "Session", 
         "room_id": 1134, 
         "room_name": "Hall C.4", 
-        "start_time": "2016-12-28T11:00:00+01:00", 
+        "start_time": "2016-12-28T15:00:00+01:00", 
         "duration": 3600, 
         "title": "Coder Dojo", 
         "abstract": "", 
@@ -173,7 +173,7 @@
         "track_name": "Session", 
         "room_id": 1134, 
         "room_name": "Hall C.4", 
-        "start_time": "2016-12-28T15:00:00+01:00", 
+        "start_time": "2016-12-28T12:00:00+01:00", 
         "duration": 3600, 
         "title": "Coder Dojo", 
         "abstract": "", 
@@ -204,7 +204,7 @@
         "speakers": "Eal"
     }, 
     {
-        "event_id": 1040, 
+        "event_id": 1039, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1134, 
@@ -221,42 +221,6 @@
         "track_name": "Session", 
         "room_id": 1120, 
         "room_name": "Hall B", 
-        "start_time": "2016-12-28T19:45:00+01:00", 
-        "duration": 1800, 
-        "title": "Engelmeeting", 
-        "abstract": "", 
-        "speakers": "Knuth"
-    }, 
-    {
-        "event_id": 1042, 
-        "track_id": 10, 
-        "track_name": "Session", 
-        "room_id": 1120, 
-        "room_name": "Hall B", 
-        "start_time": "2016-12-26T15:00:00+01:00", 
-        "duration": 3600, 
-        "title": "Engelmeeting", 
-        "abstract": "", 
-        "speakers": "Knuth"
-    }, 
-    {
-        "event_id": 1043, 
-        "track_id": 10, 
-        "track_name": "Session", 
-        "room_id": 1120, 
-        "room_name": "Hall B", 
-        "start_time": "2016-12-29T13:00:00+01:00", 
-        "duration": 3600, 
-        "title": "Engelmeeting", 
-        "abstract": "", 
-        "speakers": "Knuth"
-    }, 
-    {
-        "event_id": 1044, 
-        "track_id": 10, 
-        "track_name": "Session", 
-        "room_id": 1120, 
-        "room_name": "Hall B", 
         "start_time": "2016-12-27T13:00:00+01:00", 
         "duration": 3600, 
         "title": "Engelmeeting", 
@@ -264,7 +228,7 @@
         "speakers": "Knuth"
     }, 
     {
-        "event_id": 1045, 
+        "event_id": 1042, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1120, 
@@ -276,7 +240,7 @@
         "speakers": "Knuth"
     }, 
     {
-        "event_id": 1046, 
+        "event_id": 1043, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1120, 
@@ -288,7 +252,7 @@
         "speakers": "Knuth"
     }, 
     {
-        "event_id": 1047, 
+        "event_id": 1044, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1120, 
@@ -300,7 +264,7 @@
         "speakers": "Knuth"
     }, 
     {
-        "event_id": 1048, 
+        "event_id": 1045, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1120, 
@@ -312,7 +276,7 @@
         "speakers": "Knuth"
     }, 
     {
-        "event_id": 1049, 
+        "event_id": 1046, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1120, 
@@ -324,7 +288,7 @@
         "speakers": "Knuth"
     }, 
     {
-        "event_id": 1050, 
+        "event_id": 1047, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1120, 
@@ -336,12 +300,48 @@
         "speakers": "Knuth"
     }, 
     {
-        "event_id": 1051, 
+        "event_id": 1048, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1120, 
         "room_name": "Hall B", 
         "start_time": "2016-12-26T19:45:00+01:00", 
+        "duration": 3600, 
+        "title": "Engelmeeting", 
+        "abstract": "", 
+        "speakers": "Knuth"
+    }, 
+    {
+        "event_id": 1049, 
+        "track_id": 10, 
+        "track_name": "Session", 
+        "room_id": 1120, 
+        "room_name": "Hall B", 
+        "start_time": "2016-12-28T19:45:00+01:00", 
+        "duration": 1800, 
+        "title": "Engelmeeting", 
+        "abstract": "", 
+        "speakers": "Knuth"
+    }, 
+    {
+        "event_id": 1050, 
+        "track_id": 10, 
+        "track_name": "Session", 
+        "room_id": 1120, 
+        "room_name": "Hall B", 
+        "start_time": "2016-12-26T15:00:00+01:00", 
+        "duration": 3600, 
+        "title": "Engelmeeting", 
+        "abstract": "", 
+        "speakers": "Knuth"
+    }, 
+    {
+        "event_id": 1051, 
+        "track_id": 10, 
+        "track_name": "Session", 
+        "room_id": 1120, 
+        "room_name": "Hall B", 
+        "start_time": "2016-12-29T13:00:00+01:00", 
         "duration": 3600, 
         "title": "Engelmeeting", 
         "abstract": "", 
@@ -831,10 +831,10 @@
         "event_id": 1104, 
         "track_id": 10, 
         "track_name": "Session", 
-        "room_id": 1120, 
-        "room_name": "Hall B", 
-        "start_time": "2016-12-27T16:00:00+01:00", 
-        "duration": 7200, 
+        "room_id": 1131, 
+        "room_name": "Hall C.1", 
+        "start_time": "2016-12-27T16:30:00+01:00", 
+        "duration": 5400, 
         "title": "Queer Feminist Geeks Gathering", 
         "abstract": "A meetup for all the queer feminist geek folk.\n\nWe will talk a bit about our assembly and what we are doing there, exchange projects and ideas, and network with each other. This meetup is open to people of all genders, but please be mindful of how much space you are taking up. Especially if you are white, male, straight and cis, please try to actively listen instead of talking. \n\nThis is our Code of Conduct: https://events.ccc.de/congress/2015/wiki/Projects:Code_of_Conduct_of_the_Queer_Feminist_Geek_Assembly", 
         "speakers": "Obaz, UMT, CoopDot"
@@ -843,10 +843,10 @@
         "event_id": 1105, 
         "track_id": 10, 
         "track_name": "Session", 
-        "room_id": 1131, 
-        "room_name": "Hall C.1", 
-        "start_time": "2016-12-27T16:30:00+01:00", 
-        "duration": 5400, 
+        "room_id": 1120, 
+        "room_name": "Hall B", 
+        "start_time": "2016-12-27T16:00:00+01:00", 
+        "duration": 7200, 
         "title": "Queer Feminist Geeks Gathering", 
         "abstract": "A meetup for all the queer feminist geek folk.\n\nWe will talk a bit about our assembly and what we are doing there, exchange projects and ideas, and network with each other. This meetup is open to people of all genders, but please be mindful of how much space you are taking up. Especially if you are white, male, straight and cis, please try to actively listen instead of talking. \n\nThis is our Code of Conduct: https://events.ccc.de/congress/2015/wiki/Projects:Code_of_Conduct_of_the_Queer_Feminist_Geek_Assembly", 
         "speakers": "Obaz, UMT, CoopDot"
@@ -1121,42 +1121,6 @@
         "track_name": "Session", 
         "room_id": 1013, 
         "room_name": "Hall 13-14", 
-        "start_time": "2016-12-30T15:10:00+01:00", 
-        "duration": 3000, 
-        "title": "Translation meetings", 
-        "abstract": "The translation angels (interpreters) meet twice per day to self-organise (day 0, evening to day 4, afternoon)", 
-        "speakers": "Sebalis"
-    }, 
-    {
-        "event_id": 1132, 
-        "track_id": 10, 
-        "track_name": "Session", 
-        "room_id": 1013, 
-        "room_name": "Hall 13-14", 
-        "start_time": "2016-12-27T15:10:00+01:00", 
-        "duration": 3000, 
-        "title": "Translation meetings", 
-        "abstract": "The translation angels (interpreters) meet twice per day to self-organise (day 0, evening to day 4, afternoon)", 
-        "speakers": "Sebalis"
-    }, 
-    {
-        "event_id": 1133, 
-        "track_id": 10, 
-        "track_name": "Session", 
-        "room_id": 1013, 
-        "room_name": "Hall 13-14", 
-        "start_time": "2016-12-28T19:40:00+01:00", 
-        "duration": 3000, 
-        "title": "Translation meetings", 
-        "abstract": "The translation angels (interpreters) meet twice per day to self-organise (day 0, evening to day 4, afternoon)", 
-        "speakers": "Sebalis"
-    }, 
-    {
-        "event_id": 1134, 
-        "track_id": 10, 
-        "track_name": "Session", 
-        "room_id": 1013, 
-        "room_name": "Hall 13-14", 
         "start_time": "2016-12-26T20:00:00+01:00", 
         "duration": 5400, 
         "title": "Translation meetings", 
@@ -1164,7 +1128,7 @@
         "speakers": "Sebalis"
     }, 
     {
-        "event_id": 1135, 
+        "event_id": 1132, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -1176,7 +1140,7 @@
         "speakers": "Sebalis"
     }, 
     {
-        "event_id": 1136, 
+        "event_id": 1133, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -1188,7 +1152,7 @@
         "speakers": "Sebalis"
     }, 
     {
-        "event_id": 1137, 
+        "event_id": 1134, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -1200,12 +1164,48 @@
         "speakers": "Sebalis"
     }, 
     {
-        "event_id": 1138, 
+        "event_id": 1135, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
         "room_name": "Hall 13-14", 
         "start_time": "2016-12-29T15:10:00+01:00", 
+        "duration": 3000, 
+        "title": "Translation meetings", 
+        "abstract": "The translation angels (interpreters) meet twice per day to self-organise (day 0, evening to day 4, afternoon)", 
+        "speakers": "Sebalis"
+    }, 
+    {
+        "event_id": 1136, 
+        "track_id": 10, 
+        "track_name": "Session", 
+        "room_id": 1013, 
+        "room_name": "Hall 13-14", 
+        "start_time": "2016-12-30T15:10:00+01:00", 
+        "duration": 3000, 
+        "title": "Translation meetings", 
+        "abstract": "The translation angels (interpreters) meet twice per day to self-organise (day 0, evening to day 4, afternoon)", 
+        "speakers": "Sebalis"
+    }, 
+    {
+        "event_id": 1137, 
+        "track_id": 10, 
+        "track_name": "Session", 
+        "room_id": 1013, 
+        "room_name": "Hall 13-14", 
+        "start_time": "2016-12-27T15:10:00+01:00", 
+        "duration": 3000, 
+        "title": "Translation meetings", 
+        "abstract": "The translation angels (interpreters) meet twice per day to self-organise (day 0, evening to day 4, afternoon)", 
+        "speakers": "Sebalis"
+    }, 
+    {
+        "event_id": 1138, 
+        "track_id": 10, 
+        "track_name": "Session", 
+        "room_id": 1013, 
+        "room_name": "Hall 13-14", 
+        "start_time": "2016-12-28T19:40:00+01:00", 
         "duration": 3000, 
         "title": "Translation meetings", 
         "abstract": "The translation angels (interpreters) meet twice per day to self-organise (day 0, evening to day 4, afternoon)", 
