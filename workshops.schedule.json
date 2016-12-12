@@ -15,7 +15,7 @@
                     "rooms": {
                         "Hall 13-14": [
                             {
-                                "id": 1142, 
+                                "id": 1143, 
                                 "guid": "b4642dca82f3b99a0285cda5da1d8655", 
                                 "logo": null, 
                                 "date": "2016-12-26T20:00:00+01:00", 
@@ -44,7 +44,7 @@
                         ], 
                         "Hall B": [
                             {
-                                "id": 1042, 
+                                "id": 1043, 
                                 "guid": "7609f4184e8e8b2c2145f6a02bb27577", 
                                 "logo": null, 
                                 "date": "2016-12-26T19:45:00+01:00", 
@@ -71,7 +71,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1044, 
+                                "id": 1045, 
                                 "guid": "82605b18023ab9bf304023036613d153", 
                                 "logo": null, 
                                 "date": "2016-12-26T15:00:00+01:00", 
@@ -98,7 +98,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1051, 
+                                "id": 1052, 
                                 "guid": "8dfd36020c289da34158859546960fe4", 
                                 "logo": null, 
                                 "date": "2016-12-26T13:00:00+01:00", 
@@ -163,7 +163,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1022, 
+                                "id": 1023, 
                                 "guid": "da6dbae49e1ecb56a980368402616b5a", 
                                 "logo": null, 
                                 "date": "2016-12-27T15:00:00+01:00", 
@@ -200,7 +200,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1072, 
+                                "id": 1073, 
                                 "guid": "c255a27a386bf121d02a429e711a09c0", 
                                 "logo": null, 
                                 "date": "2016-12-27T18:00:00+01:00", 
@@ -239,7 +239,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1104, 
+                                "id": 1105, 
                                 "guid": "4a992d9add2bc71db38142ddb1e0d6c2", 
                                 "logo": null, 
                                 "date": "2016-12-27T16:30:00+01:00", 
@@ -278,7 +278,7 @@
                         ], 
                         "Hall C.2": [
                             {
-                                "id": 1122, 
+                                "id": 1123, 
                                 "guid": "b787a13c30041f982fc7186223360be6", 
                                 "logo": null, 
                                 "date": "2016-12-27T16:00:00+01:00", 
@@ -307,7 +307,7 @@
                         ], 
                         "Hall C.3": [
                             {
-                                "id": 1055, 
+                                "id": 1056, 
                                 "guid": "1abd7c17935bde0ff1b06e2140a82a19", 
                                 "logo": null, 
                                 "date": "2016-12-27T17:00:00+01:00", 
@@ -335,7 +335,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1154, 
+                                "id": 1155, 
                                 "guid": "a81b206c2434a1f268a76104982400a4", 
                                 "logo": null, 
                                 "date": "2016-12-27T20:00:00+01:00", 
@@ -366,7 +366,7 @@
                         ], 
                         "Hall C.4": [
                             {
-                                "id": 1059, 
+                                "id": 1060, 
                                 "guid": "5a2a5016d5c815ea9649c944640ba2c6", 
                                 "logo": null, 
                                 "date": "2016-12-27T17:00:00+01:00", 
@@ -388,7 +388,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1098, 
+                                "id": 1099, 
                                 "guid": "879d60a3732c2a57d7135e0054308fdf", 
                                 "logo": null, 
                                 "date": "2016-12-27T15:00:00+01:00", 
@@ -415,7 +415,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1106, 
+                                "id": 1107, 
                                 "guid": "1c31dc167d00b0f7457e1611738004ac", 
                                 "logo": null, 
                                 "date": "2016-12-27T19:30:00+01:00", 
@@ -444,7 +444,7 @@
                         ], 
                         "Hall B": [
                             {
-                                "id": 1046, 
+                                "id": 1047, 
                                 "guid": "00888f6062ff7c2f3f8fa508c3fd5ae4", 
                                 "logo": null, 
                                 "date": "2016-12-27T13:00:00+01:00", 
@@ -471,7 +471,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1048, 
+                                "id": 1049, 
                                 "guid": "dfad004af29a4928e21fc593833ccad8", 
                                 "logo": null, 
                                 "date": "2016-12-27T19:45:00+01:00", 
@@ -498,7 +498,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1050, 
+                                "id": 1051, 
                                 "guid": "36dbc1feca09488704db9acac8b61603", 
                                 "logo": null, 
                                 "date": "2016-12-27T15:00:00+01:00", 
@@ -525,7 +525,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1102, 
+                                "id": 1103, 
                                 "guid": "59be5c85949ce87027b75f249e4d8589", 
                                 "logo": null, 
                                 "date": "2016-12-27T18:00:00+01:00", 
@@ -553,7 +553,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1105, 
+                                "id": 1106, 
                                 "guid": "ab74b1ddd8dddae3bd8d62de3de60a88", 
                                 "logo": null, 
                                 "date": "2016-12-27T16:00:00+01:00", 
@@ -592,7 +592,7 @@
                         ], 
                         "Hall F": [
                             {
-                                "id": 1075, 
+                                "id": 1076, 
                                 "guid": "57c679ae529436a05dfdcee1bdce0f4e", 
                                 "logo": null, 
                                 "date": "2016-12-28T01:00:00+01:00", 
@@ -641,7 +641,7 @@
                         ], 
                         "Hall 13-14": [
                             {
-                                "id": 1068, 
+                                "id": 1069, 
                                 "guid": "d98726a333e13e17bc39011beaa3f6dc", 
                                 "logo": null, 
                                 "date": "2016-12-27T16:00:00+01:00", 
@@ -669,7 +669,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1090, 
+                                "id": 1091, 
                                 "guid": "495f918c6608a0336b180bb6cd1a548b", 
                                 "logo": null, 
                                 "date": "2016-12-28T00:15:00+01:00", 
@@ -697,7 +697,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1109, 
+                                "id": 1111, 
                                 "guid": "42fc3badce6e91ea0ecfb85cb8434a1f", 
                                 "logo": null, 
                                 "date": "2016-12-28T03:00:00+01:00", 
@@ -725,7 +725,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1110, 
+                                "id": 1112, 
                                 "guid": "c34d388fc65ca7945372d2f3c603589c", 
                                 "logo": null, 
                                 "date": "2016-12-28T02:00:00+01:00", 
@@ -753,7 +753,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1140, 
+                                "id": 1141, 
                                 "guid": "d6363e66156d0473f5f996f9726e7805", 
                                 "logo": null, 
                                 "date": "2016-12-27T15:10:00+01:00", 
@@ -780,7 +780,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1144, 
+                                "id": 1145, 
                                 "guid": "0a4fe5181783d435230396b59ecd3fe6", 
                                 "logo": null, 
                                 "date": "2016-12-27T19:40:00+01:00", 
@@ -809,11 +809,11 @@
                         ], 
                         "Hall A.1": [
                             {
-                                "id": 1108, 
-                                "guid": "27b5025dd294b5fa15d8915eac1b6f73", 
+                                "id": 1109, 
+                                "guid": "06de81ba9b71b450d9cbf61661471ee5", 
                                 "logo": null, 
-                                "date": "2016-12-28T02:00:00+01:00", 
-                                "start": "02:00", 
+                                "date": "2016-12-28T01:00:00+01:00", 
+                                "start": "01:00", 
                                 "duration": "1:00", 
                                 "room": "Hall A.1", 
                                 "slug": "", 
@@ -837,11 +837,11 @@
                                 ]
                             }, 
                             {
-                                "id": 1111, 
-                                "guid": "06de81ba9b71b450d9cbf61661471ee5", 
+                                "id": 1110, 
+                                "guid": "27b5025dd294b5fa15d8915eac1b6f73", 
                                 "logo": null, 
-                                "date": "2016-12-28T01:00:00+01:00", 
-                                "start": "01:00", 
+                                "date": "2016-12-28T02:00:00+01:00", 
+                                "start": "02:00", 
                                 "duration": "1:00", 
                                 "room": "Hall A.1", 
                                 "slug": "", 
@@ -875,7 +875,7 @@
                     "rooms": {
                         "Hall C.1": [
                             {
-                                "id": 1062, 
+                                "id": 1063, 
                                 "guid": "945f1586a6c6583e89e03bad18b89754", 
                                 "logo": null, 
                                 "date": "2016-12-28T14:00:00+01:00", 
@@ -902,7 +902,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1063, 
+                                "id": 1064, 
                                 "guid": "f00af22092f270256172469e8c7509ca", 
                                 "logo": null, 
                                 "date": "2016-12-28T18:00:00+01:00", 
@@ -930,7 +930,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1080, 
+                                "id": 1081, 
                                 "guid": "bec83b1291bce978036df2a2648fc517", 
                                 "logo": null, 
                                 "date": "2016-12-28T16:00:00+01:00", 
@@ -959,7 +959,7 @@
                         ], 
                         "Hall C.2": [
                             {
-                                "id": 1052, 
+                                "id": 1053, 
                                 "guid": "c5bce8af22940d51c942e1826f801c86", 
                                 "logo": null, 
                                 "date": "2016-12-28T14:00:00+01:00", 
@@ -980,7 +980,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1082, 
+                                "id": 1083, 
                                 "guid": "b819f54577f99f8993cb65e10a058942", 
                                 "logo": null, 
                                 "date": "2016-12-28T17:00:00+01:00", 
@@ -1009,7 +1009,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1092, 
+                                "id": 1093, 
                                 "guid": "c61b9a40163f12ce5d0a42bc1defe320", 
                                 "logo": null, 
                                 "date": "2016-12-28T16:00:00+01:00", 
@@ -1039,7 +1039,7 @@
                         ], 
                         "Hall C.3": [
                             {
-                                "id": 1021, 
+                                "id": 1022, 
                                 "guid": "a037e08c4aa3d678b65d746dce96d6e9", 
                                 "logo": null, 
                                 "date": "2016-12-28T15:00:00+01:00", 
@@ -1066,7 +1066,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1024, 
+                                "id": 1025, 
                                 "guid": "8ba93735bba7d3bfbd659432e4e1a209", 
                                 "logo": null, 
                                 "date": "2016-12-28T12:00:00+01:00", 
@@ -1093,7 +1093,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1025, 
+                                "id": 1027, 
                                 "guid": "fdd8a9c86e797d9c002a514c55992e1d", 
                                 "logo": null, 
                                 "date": "2016-12-28T15:00:00+01:00", 
@@ -1120,7 +1120,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1028, 
+                                "id": 1029, 
                                 "guid": "82b6f15ab0e1d33b37e9817f997864d8", 
                                 "logo": null, 
                                 "date": "2016-12-28T11:00:00+01:00", 
@@ -1147,7 +1147,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1087, 
+                                "id": 1088, 
                                 "guid": "3ff8b33aa5258a8ff682e5254c7d0758", 
                                 "logo": null, 
                                 "date": "2016-12-28T18:00:00+01:00", 
@@ -1179,7 +1179,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1146, 
+                                "id": 1147, 
                                 "guid": "f8e579f83b5d861b4995f59d9dde973b", 
                                 "logo": null, 
                                 "date": "2016-12-28T13:00:00+01:00", 
@@ -1206,7 +1206,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1153, 
+                                "id": 1154, 
                                 "guid": "b1382fa6ee8217cf189b843ec5e06c5f", 
                                 "logo": null, 
                                 "date": "2016-12-28T20:00:00+01:00", 
@@ -1235,7 +1235,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1155, 
+                                "id": 1156, 
                                 "guid": "0e82b1cb18d1fac1e9981aa274ccfdf6", 
                                 "logo": null, 
                                 "date": "2016-12-28T15:00:00+01:00", 
@@ -1291,7 +1291,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1023, 
+                                "id": 1024, 
                                 "guid": "3e5566423bb7179b1698b34b8fba2524", 
                                 "logo": null, 
                                 "date": "2016-12-28T11:00:00+01:00", 
@@ -1345,7 +1345,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1027, 
+                                "id": 1028, 
                                 "guid": "f7580cf27bd0d4bb0bd704612ab55f0e", 
                                 "logo": null, 
                                 "date": "2016-12-28T15:00:00+01:00", 
@@ -1372,7 +1372,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1071, 
+                                "id": 1072, 
                                 "guid": "2e3ae7e1eed32991d1e513792a5bcc0e", 
                                 "logo": null, 
                                 "date": "2016-12-28T15:00:00+01:00", 
@@ -1400,7 +1400,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1096, 
+                                "id": 1097, 
                                 "guid": "afb476729e7b1c943d0120dec5187fcc", 
                                 "logo": null, 
                                 "date": "2016-12-28T16:00:00+01:00", 
@@ -1433,7 +1433,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1100, 
+                                "id": 1101, 
                                 "guid": "409f460d73b5c1d5a6e2efb9b593635a", 
                                 "logo": null, 
                                 "date": "2016-12-28T11:00:00+01:00", 
@@ -1466,7 +1466,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1107, 
+                                "id": 1108, 
                                 "guid": "3ef0602faa4a92ba21a0b5d2b7bc8970", 
                                 "logo": null, 
                                 "date": "2016-12-28T19:00:00+01:00", 
@@ -1494,7 +1494,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1137, 
+                                "id": 1138, 
                                 "guid": "15d77550626146b226d51911f3ea7155", 
                                 "logo": null, 
                                 "date": "2016-12-28T17:30:00+01:00", 
@@ -1522,7 +1522,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1147, 
+                                "id": 1148, 
                                 "guid": "bd5c68b79365c734e0ba53a1874c96b0", 
                                 "logo": null, 
                                 "date": "2016-12-28T19:00:00+01:00", 
@@ -1549,7 +1549,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1151, 
+                                "id": 1152, 
                                 "guid": "690b20d9c78f916880b0127d7034bc09", 
                                 "logo": null, 
                                 "date": "2016-12-28T13:00:00+01:00", 
@@ -1577,7 +1577,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1152, 
+                                "id": 1153, 
                                 "guid": "eb38492af6c27a43e14bfbed50abf298", 
                                 "logo": null, 
                                 "date": "2016-12-28T14:00:00+01:00", 
@@ -1637,7 +1637,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1041, 
+                                "id": 1042, 
                                 "guid": "8e5b07a7ad7ea771c8b3f9d10ca70ad5", 
                                 "logo": null, 
                                 "date": "2016-12-28T13:00:00+01:00", 
@@ -1664,7 +1664,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1043, 
+                                "id": 1044, 
                                 "guid": "80dd81cc8c3b304d9b1707f131c929b7", 
                                 "logo": null, 
                                 "date": "2016-12-28T19:45:00+01:00", 
@@ -1691,7 +1691,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1136, 
+                                "id": 1137, 
                                 "guid": "170d8e59dcc6611dfbc1142b7dc30c25", 
                                 "logo": null, 
                                 "date": "2016-12-28T21:00:00+01:00", 
@@ -1718,7 +1718,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1148, 
+                                "id": 1149, 
                                 "guid": "6e4bdaf45e4e94f8668e61a8877fb85d", 
                                 "logo": null, 
                                 "date": "2016-12-28T14:00:00+01:00", 
@@ -1749,7 +1749,7 @@
                         ], 
                         "Hall 13-14": [
                             {
-                                "id": 1054, 
+                                "id": 1055, 
                                 "guid": "d132d8604f7ecac61db1cbf423ca9e6e", 
                                 "logo": null, 
                                 "date": "2016-12-28T20:30:00+01:00", 
@@ -1776,7 +1776,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1065, 
+                                "id": 1066, 
                                 "guid": "604c461088a5dddfa6c031af4cd054e4", 
                                 "logo": null, 
                                 "date": "2016-12-28T16:00:00+01:00", 
@@ -1803,7 +1803,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1069, 
+                                "id": 1070, 
                                 "guid": "20371a76b601f1e4bea5b1c0244d0cc9", 
                                 "logo": null, 
                                 "date": "2016-12-28T13:00:00+01:00", 
@@ -1831,7 +1831,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1099, 
+                                "id": 1100, 
                                 "guid": "f9594c5389f5af798acfa9766534b62a", 
                                 "logo": null, 
                                 "date": "2016-12-28T11:00:00+01:00", 
@@ -1858,7 +1858,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1103, 
+                                "id": 1104, 
                                 "guid": "e4648cc036bc044ba52e220226e31772", 
                                 "logo": null, 
                                 "date": "2016-12-28T21:30:00+01:00", 
@@ -1887,62 +1887,6 @@
                             }, 
                             {
                                 "id": 1113, 
-                                "guid": "b71ce3ffa02dca5f83180aaf66581567", 
-                                "logo": null, 
-                                "date": "2016-12-29T01:30:00+01:00", 
-                                "start": "01:30", 
-                                "duration": "1:00", 
-                                "room": "Hall 13-14", 
-                                "slug": "", 
-                                "title": "Skillconvention b", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "meeting", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "all travelers of a certain skill will be invented to join their respective session", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Reisende", 
-                                        "public_name": "Reisende"
-                                    }
-                                ], 
-                                "links": [
-                                    "http://thereisnogame.de", 
-                                    "https://events.ccc.de/congress/2016/wiki/Session:Skillconvention_b"
-                                ]
-                            }, 
-                            {
-                                "id": 1114, 
-                                "guid": "b06e4dfefe4629fdaf4c0ae1e5116d41", 
-                                "logo": null, 
-                                "date": "2016-12-29T02:30:00+01:00", 
-                                "start": "02:30", 
-                                "duration": "1:00", 
-                                "room": "Hall 13-14", 
-                                "slug": "", 
-                                "title": "Skillconvention b", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "meeting", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "all travelers of a certain skill will be invented to join their respective session", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Reisende", 
-                                        "public_name": "Reisende"
-                                    }
-                                ], 
-                                "links": [
-                                    "http://thereisnogame.de", 
-                                    "https://events.ccc.de/congress/2016/wiki/Session:Skillconvention_b"
-                                ]
-                            }, 
-                            {
-                                "id": 1116, 
                                 "guid": "390998a1ab9f42dbefdc4f9bf1f69e29", 
                                 "logo": null, 
                                 "date": "2016-12-29T00:30:00+01:00", 
@@ -1970,7 +1914,63 @@
                                 ]
                             }, 
                             {
-                                "id": 1135, 
+                                "id": 1115, 
+                                "guid": "b71ce3ffa02dca5f83180aaf66581567", 
+                                "logo": null, 
+                                "date": "2016-12-29T01:30:00+01:00", 
+                                "start": "01:30", 
+                                "duration": "1:00", 
+                                "room": "Hall 13-14", 
+                                "slug": "", 
+                                "title": "Skillconvention b", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "all travelers of a certain skill will be invented to join their respective session", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Reisende", 
+                                        "public_name": "Reisende"
+                                    }
+                                ], 
+                                "links": [
+                                    "http://thereisnogame.de", 
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Skillconvention_b"
+                                ]
+                            }, 
+                            {
+                                "id": 1116, 
+                                "guid": "b06e4dfefe4629fdaf4c0ae1e5116d41", 
+                                "logo": null, 
+                                "date": "2016-12-29T02:30:00+01:00", 
+                                "start": "02:30", 
+                                "duration": "1:00", 
+                                "room": "Hall 13-14", 
+                                "slug": "", 
+                                "title": "Skillconvention b", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "all travelers of a certain skill will be invented to join their respective session", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Reisende", 
+                                        "public_name": "Reisende"
+                                    }
+                                ], 
+                                "links": [
+                                    "http://thereisnogame.de", 
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Skillconvention_b"
+                                ]
+                            }, 
+                            {
+                                "id": 1136, 
                                 "guid": "bca665493d417362b5428314e596ebf3", 
                                 "logo": null, 
                                 "date": "2016-12-28T18:00:00+01:00", 
@@ -1997,7 +1997,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1141, 
+                                "id": 1142, 
                                 "guid": "d18b6c2f9bccb7fcaae47ed524788ae1", 
                                 "logo": null, 
                                 "date": "2016-12-28T19:40:00+01:00", 
@@ -2024,7 +2024,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1145, 
+                                "id": 1146, 
                                 "guid": "415473cd68f9363bb56f229dfd94bb7b", 
                                 "logo": null, 
                                 "date": "2016-12-28T15:10:00+01:00", 
@@ -2051,7 +2051,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1150, 
+                                "id": 1151, 
                                 "guid": "73db3246145a85eb6d6d6835c00e578e", 
                                 "logo": null, 
                                 "date": "2016-12-28T17:00:00+01:00", 
@@ -2080,7 +2080,7 @@
                         ], 
                         "Hall A.1": [
                             {
-                                "id": 1058, 
+                                "id": 1059, 
                                 "guid": "ee11e913b5d3cc454bc08e138bb2f129", 
                                 "logo": null, 
                                 "date": "2016-12-28T19:30:00+01:00", 
@@ -2108,7 +2108,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1112, 
+                                "id": 1114, 
                                 "guid": "58e0cb7cce31f817c96521e059bf40e1", 
                                 "logo": null, 
                                 "date": "2016-12-29T01:30:00+01:00", 
@@ -2136,7 +2136,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1115, 
+                                "id": 1117, 
                                 "guid": "70c8429502d619a4df08c3b41d47c88c", 
                                 "logo": null, 
                                 "date": "2016-12-29T00:30:00+01:00", 
@@ -2174,7 +2174,7 @@
                     "rooms": {
                         "Hall C.1": [
                             {
-                                "id": 1038, 
+                                "id": 1039, 
                                 "guid": "47eef5188e2d083502a5c329ead28328", 
                                 "logo": null, 
                                 "date": "2016-12-29T17:00:00+01:00", 
@@ -2202,7 +2202,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1061, 
+                                "id": 1062, 
                                 "guid": "02d2176d13ad88e61f8285f69bafd2d6", 
                                 "logo": null, 
                                 "date": "2016-12-29T14:00:00+01:00", 
@@ -2230,7 +2230,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1066, 
+                                "id": 1067, 
                                 "guid": "539cdd3e3d798ac3c3fe23c8b7003ee8", 
                                 "logo": null, 
                                 "date": "2016-12-29T15:00:00+01:00", 
@@ -2258,7 +2258,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1067, 
+                                "id": 1068, 
                                 "guid": "a16011b4eeabaa057517fefd6c958655", 
                                 "logo": null, 
                                 "date": "2016-12-29T18:15:00+01:00", 
@@ -2286,7 +2286,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1120, 
+                                "id": 1121, 
                                 "guid": "aa9e9ee7e459ed3b4d191db2246d22f7", 
                                 "logo": null, 
                                 "date": "2016-12-29T20:15:00+01:00", 
@@ -2315,7 +2315,7 @@
                         ], 
                         "Hall C.2": [
                             {
-                                "id": 1053, 
+                                "id": 1054, 
                                 "guid": "795fd747f8fae62c65f2bafe0973de3b", 
                                 "logo": null, 
                                 "date": "2016-12-29T15:00:00+01:00", 
@@ -2343,7 +2343,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1088, 
+                                "id": 1089, 
                                 "guid": "c494a35ec988936702ac0a1e1fbb5160", 
                                 "logo": null, 
                                 "date": "2016-12-29T18:00:00+01:00", 
@@ -2366,7 +2366,7 @@
                         ], 
                         "Hall C.3": [
                             {
-                                "id": 1074, 
+                                "id": 1075, 
                                 "guid": "5fc8056ed8ebfff4669f211c66e5e25a", 
                                 "logo": null, 
                                 "date": "2016-12-29T12:00:00+01:00", 
@@ -2398,7 +2398,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1097, 
+                                "id": 1098, 
                                 "guid": "d93aeca26ff9fa5a1b03992460914abb", 
                                 "logo": null, 
                                 "date": "2016-12-29T14:00:00+01:00", 
@@ -2443,7 +2443,7 @@
                         ], 
                         "Hall C.4": [
                             {
-                                "id": 1035, 
+                                "id": 1036, 
                                 "guid": "450a3e60ee53be55666c2db513b364a0", 
                                 "logo": null, 
                                 "date": "2016-12-29T15:00:00+01:00", 
@@ -2470,7 +2470,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1039, 
+                                "id": 1040, 
                                 "guid": "6cc22c4c4e007033d2720248eb98797d", 
                                 "logo": null, 
                                 "date": "2016-12-29T18:00:00+01:00", 
@@ -2503,7 +2503,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1093, 
+                                "id": 1094, 
                                 "guid": "1991d7c2adefc5daab2a75f4b429a67d", 
                                 "logo": null, 
                                 "date": "2016-12-29T11:00:00+01:00", 
@@ -2532,7 +2532,29 @@
                         ], 
                         "Hall B": [
                             {
-                                "id": 1045, 
+                                "id": 1021, 
+                                "guid": "8f6b08be3d281eabebdec03d0527e53a", 
+                                "logo": null, 
+                                "date": "2016-12-29T17:00:00+01:00", 
+                                "start": "17:00", 
+                                "duration": "2:00", 
+                                "room": "Hall B", 
+                                "slug": "", 
+                                "title": "Bin\u00e4rgewitter H\u00f6rertreffen", 
+                                "subtitle": "Do it, do it NOW!", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Bin\u00e4rgewitter H\u00f6rertreffen auf dem 33c3", 
+                                "persons": [], 
+                                "links": [
+                                    "http://http%3B//krepel.us", 
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Bin%C3%A4rgewitter_H%C3%B6rertreffen"
+                                ]
+                            }, 
+                            {
+                                "id": 1046, 
                                 "guid": "b667c273cc0ea6bfc41077c37c7daca4", 
                                 "logo": null, 
                                 "date": "2016-12-29T13:00:00+01:00", 
@@ -2559,7 +2581,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1047, 
+                                "id": 1048, 
                                 "guid": "7b2a2ebb53b4e58845bc13580d788dad", 
                                 "logo": null, 
                                 "date": "2016-12-29T19:45:00+01:00", 
@@ -2586,7 +2608,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1121, 
+                                "id": 1122, 
                                 "guid": "3b37eebbde0ae5877170aef80a7a1a7d", 
                                 "logo": null, 
                                 "date": "2016-12-29T20:45:00+01:00", 
@@ -2615,7 +2637,7 @@
                         ], 
                         "Hall F": [
                             {
-                                "id": 1056, 
+                                "id": 1057, 
                                 "guid": "e8e7292727500d0072186d9f2d0d0add", 
                                 "logo": null, 
                                 "date": "2016-12-29T18:00:00+01:00", 
@@ -2636,7 +2658,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1057, 
+                                "id": 1058, 
                                 "guid": "afdd31277e2c1f456697250610dab6c4", 
                                 "logo": null, 
                                 "date": "2016-12-29T21:00:00+01:00", 
@@ -2657,7 +2679,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1081, 
+                                "id": 1082, 
                                 "guid": "9d38911f81e502bac62a018ea4e1a347", 
                                 "logo": null, 
                                 "date": "2016-12-29T20:15:00+01:00", 
@@ -2714,7 +2736,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1060, 
+                                "id": 1061, 
                                 "guid": "222753fa4ab554d18d3b16a66070f707", 
                                 "logo": null, 
                                 "date": "2016-12-29T14:00:00+01:00", 
@@ -2741,7 +2763,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1089, 
+                                "id": 1090, 
                                 "guid": "b8295aedc06cdac9061106f4fd8cd1cd", 
                                 "logo": null, 
                                 "date": "2016-12-29T17:00:00+01:00", 
@@ -2769,7 +2791,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1117, 
+                                "id": 1119, 
                                 "guid": "a1496422476dce53d2f614263adbeeca", 
                                 "logo": null, 
                                 "date": "2016-12-30T01:30:00+01:00", 
@@ -2797,7 +2819,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1118, 
+                                "id": 1120, 
                                 "guid": "e359d1f9d3b1ca042ad6170cb80f550f", 
                                 "logo": null, 
                                 "date": "2016-12-30T00:30:00+01:00", 
@@ -2825,7 +2847,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1134, 
+                                "id": 1135, 
                                 "guid": "f24b55410756c33da18d71ec5d5a8520", 
                                 "logo": null, 
                                 "date": "2016-12-29T16:00:00+01:00", 
@@ -2853,7 +2875,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1138, 
+                                "id": 1139, 
                                 "guid": "7ced348984f17dd88a5c96ea1e3435ec", 
                                 "logo": null, 
                                 "date": "2016-12-29T15:10:00+01:00", 
@@ -2880,7 +2902,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1143, 
+                                "id": 1144, 
                                 "guid": "36252d5cc335293f00e927b0b6eba7fb", 
                                 "logo": null, 
                                 "date": "2016-12-29T19:40:00+01:00", 
@@ -2970,7 +2992,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1101, 
+                                "id": 1102, 
                                 "guid": "fe8f930fe26e59d1d01385f0b0c3c0d5", 
                                 "logo": null, 
                                 "date": "2016-12-29T16:00:00+01:00", 
@@ -2998,7 +3020,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1119, 
+                                "id": 1118, 
                                 "guid": "15f21480446aabdd28aa3fe571253266", 
                                 "logo": null, 
                                 "date": "2016-12-30T00:30:00+01:00", 
@@ -3026,7 +3048,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1133, 
+                                "id": 1134, 
                                 "guid": "617e0bf9881e170e3d7330509bbb1112", 
                                 "logo": null, 
                                 "date": "2016-12-29T13:30:00+01:00", 
@@ -3094,7 +3116,7 @@
                         ], 
                         "Hall C.4": [
                             {
-                                "id": 1091, 
+                                "id": 1092, 
                                 "guid": "daa19eb9f450d649e67c6a5413c97265", 
                                 "logo": null, 
                                 "date": "2016-12-30T14:30:00+01:00", 
@@ -3124,7 +3146,7 @@
                         ], 
                         "Hall B": [
                             {
-                                "id": 1049, 
+                                "id": 1050, 
                                 "guid": "a9980c368a3480f25ab2bd4588283ecf", 
                                 "logo": null, 
                                 "date": "2016-12-30T13:00:00+01:00", 
@@ -3153,7 +3175,7 @@
                         ], 
                         "Hall 13-14": [
                             {
-                                "id": 1070, 
+                                "id": 1071, 
                                 "guid": "d0de2359f3ecb1e992fa8619e53950d6", 
                                 "logo": null, 
                                 "date": "2016-12-30T16:15:00+01:00", 
@@ -3181,7 +3203,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1139, 
+                                "id": 1140, 
                                 "guid": "660e4d0d3a22279ed18e88982d5006fa", 
                                 "logo": null, 
                                 "date": "2016-12-30T15:10:00+01:00", 

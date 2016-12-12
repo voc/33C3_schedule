@@ -7434,6 +7434,51 @@
             "1482865200"
         ]
     }, 
+    "Session:Bin\u00e4rgewitter H\u00f6rertreffen# 8f6b08be3d281eabebdec03d0527e53a": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1483030800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://http%3B//krepel.us"
+        ], 
+        "Has description": [
+            "Bin\u00e4rgewitter H\u00f6rertreffen auf dem 33c3"
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall B", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_B", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Do it, do it NOW!"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Bin\u00e4rgewitter H\u00f6rertreffen"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Bin%C3%A4rgewitter_H%C3%B6rertreffen", 
+        "Has end time": [
+            "1483038000"
+        ]
+    }, 
     "Session:Eris Rising# 041120007c5283bda6bce6a6905ff6d5": {
         "Held in language": [
             "en - English"
