@@ -475,6 +475,102 @@
             "1482854400"
         ]
     }, 
+    "Session:Surface Mount Electronics Assembly for Terrified Beginners# ba36086100ed2a9e7b09cb3151fef2de": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90mins, 20\u20ac/kit, avoid caffeine immediately before."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:HardwareHackingArea", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:HardwareHackingArea", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Day 3 - Session 1"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Kliment", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Kliment", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Surface Mount Electronics Assembly for Terrified Beginners"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Surface_Mount_Electronics_Assembly_for_Terrified_Beginners", 
+        "Has end time": []
+    }, 
+    "Session:Surface Mount Electronics Assembly for Terrified Beginners# 2c66a4829556ad08c8f7b6d8fd68e204": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482949800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90mins, 20\u20ac/kit, avoid caffeine immediately before."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:HardwareHackingArea", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:HardwareHackingArea", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Day 2 - Session 2"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Kliment", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Kliment", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Surface Mount Electronics Assembly for Terrified Beginners"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Surface_Mount_Electronics_Assembly_for_Terrified_Beginners", 
+        "Has end time": [
+            "1482955200"
+        ]
+    }, 
     "Session:Freifunk@GSoC2016# f60f3517e8047fcf2444c714e24cd8f3": {
         "Held in language": [
             "en - English"
@@ -840,6 +936,52 @@
             "1483038000"
         ]
     }, 
+    "Session:Surface Mount Electronics Assembly for Terrified Beginners# c46e591a9b9f6d4d81e91edff99c1829": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90mins, 20\u20ac/kit, avoid caffeine immediately before."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:HardwareHackingArea", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:HardwareHackingArea", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Day 3 - Session 2"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Kliment", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Kliment", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Surface Mount Electronics Assembly for Terrified Beginners"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Surface_Mount_Electronics_Assembly_for_Terrified_Beginners", 
+        "Has end time": []
+    }, 
     "Session:The user-friendly guide to mobile freedom# bca665493d417362b5428314e596ebf3": {
         "Held in language": [
             "en - English"
@@ -1086,6 +1228,56 @@
             "1482948000"
         ]
     }, 
+    "Session:Surface Mount Electronics Assembly for Terrified Beginners# 355c17455570d5dcd171a0a3ffdb2c05": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482942600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90mins, 20\u20ac/kit, avoid caffeine immediately before."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:HardwareHackingArea", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:HardwareHackingArea", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Day 2 - Session 1"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Kliment", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Kliment", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Surface Mount Electronics Assembly for Terrified Beginners"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Surface_Mount_Electronics_Assembly_for_Terrified_Beginners", 
+        "Has end time": [
+            "1482948000"
+        ]
+    }, 
     "Session:3D printing for kids# 763f98007be32ed96646aa3082e2b203": {
         "Held in language": [
             "de - German", 
@@ -1183,56 +1375,6 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:LearnToSolder", 
         "Has end time": [
             "1482883140"
-        ]
-    }, 
-    "Session:Surface Mount Electronics Assembly for Terrified Beginners# eb4f3eba06ab3c79bc32b7a39dca33ef": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1482940800"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90mins, 20\u20ac/kit, avoid caffeine immediately before."
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:HardwareHackingArea", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:HardwareHackingArea", 
-                "namespace": 504, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Day 2 - Session 1"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Kliment", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Kliment", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Surface Mount Electronics Assembly for Terrified Beginners"
-        ], 
-        "Has duration": [
-            90
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Surface_Mount_Electronics_Assembly_for_Terrified_Beginners", 
-        "Has end time": [
-            "1482946200"
         ]
     }, 
     "Session:Veripeditus AR Game Framework# bd5c68b79365c734e0ba53a1874c96b0": {
@@ -1803,45 +1945,6 @@
         "Has end time": [
             "1482863400"
         ]
-    }, 
-    "Session:Surface Mount Electronics Assembly for Terrified Beginners# b80f691439a2a6801d5c21f0570386af": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90mins, 20\u20ac/kit, avoid caffeine immediately before."
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [], 
-        "Has subtitle": [
-            "Day 2 - AltSession 0"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Kliment", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Kliment", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Surface Mount Electronics Assembly for Terrified Beginners"
-        ], 
-        "Has duration": [
-            90
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Surface_Mount_Electronics_Assembly_for_Terrified_Beginners", 
-        "Has end time": []
     }, 
     "Session:Freifunk und die VDS# 37384e1b9143d83deb07a78d113f2ea2": {
         "Held in language": [
@@ -5565,11 +5668,13 @@
             "1482944400"
         ]
     }, 
-    "Session:Surface Mount Electronics Assembly for Terrified Beginners# feccc724ced3462669deb00c840fba56": {
+    "Session:Surface Mount Electronics Assembly for Terrified Beginners# 423151d2bd90d5fe5bc5e9ffd2d9e687": {
         "Held in language": [
             "en - English"
         ], 
-        "Has start time": [], 
+        "Has start time": [
+            "1482933600"
+        ], 
         "Has event track": [
             "Session"
         ], 
@@ -5580,16 +5685,9 @@
         "Has session type": [
             "Workshop"
         ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:HardwareHackingArea", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:HardwareHackingArea", 
-                "namespace": 504, 
-                "exists": true
-            }
-        ], 
+        "Has session location": [], 
         "Has subtitle": [
-            "Day 2 - Session 2"
+            "Day 2 - AltSession 0 - !!!At ALT33c3!!!"
         ], 
         "Is organized by": [
             {
@@ -5609,7 +5707,9 @@
             "#0099ab"
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Surface_Mount_Electronics_Assembly_for_Terrified_Beginners", 
-        "Has end time": []
+        "Has end time": [
+            "1482939000"
+        ]
     }, 
     "Session:Space Hacking# b787a13c30041f982fc7186223360be6": {
         "Held in language": [
