@@ -321,6 +321,56 @@
             "1482951600"
         ]
     }, 
+    "Session:Subtitles-Angelmeetings# efb088d3ad2beedd6f23811add22a097": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482786000"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://c3subtitles.de/"
+        ], 
+        "Has description": [
+            "The Angelmeeting for the subtitles Angels.\nIf you want to be approved as a subtitles Angel, please visit!\nIf you are one already, this is the easiest way to meet and manage shifts etc.\nWelcome to the Subtitles Angelmeeting!"
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall C.1", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.1", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Cube", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Cube", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Subtitles-Angelmeetings"
+        ], 
+        "Has duration": [
+            30
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Subtitles-Angelmeetings", 
+        "Has end time": [
+            "1482787800"
+        ]
+    }, 
     "Session:UMUM# f8e579f83b5d861b4995f59d9dde973b": {
         "Held in language": [
             "en - English"
@@ -777,6 +827,56 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Skillconvention_b", 
         "Has end time": [
             "1482975000"
+        ]
+    }, 
+    "Session:SuSi-Angelmeetings# 343a8aace7d1623c8e8956a076f9fea8": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482786000"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://c3subtitles.de/"
+        ], 
+        "Has description": [
+            "Angelmeeting for the Subtitles-superintendents."
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall C.1", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.1", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Cube", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Cube", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "SuSi-Angelmeetings"
+        ], 
+        "Has duration": [
+            20
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:SuSi-Angelmeetings", 
+        "Has end time": [
+            "1482787200"
         ]
     }, 
     "Session:Queer Feminist Geeks Gathering# 4a992d9add2bc71db38142ddb1e0d6c2": {
@@ -1418,6 +1518,56 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Postapocalyptic_jewellery", 
         "Has end time": []
+    }, 
+    "Session:SuSi-Angelmeetings# d00c1c245094b81ef14225970bc1d86f": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1483039800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://c3subtitles.de/"
+        ], 
+        "Has description": [
+            "Angelmeeting for the Subtitles-superintendents."
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall C.4", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.4", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Cube", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Cube", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "SuSi-Angelmeetings"
+        ], 
+        "Has duration": [
+            20
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:SuSi-Angelmeetings", 
+        "Has end time": [
+            "1483041000"
+        ]
     }, 
     "Session:How to Organize a CryptoParty# a16011b4eeabaa057517fefd6c958655": {
         "Held in language": [
@@ -2085,6 +2235,52 @@
         "Has end time": [
             "1482933600"
         ]
+    }, 
+    "Session:Subtitles-Angelmeetings# 2099649ee6205ca6ce51694daf566d74": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://c3subtitles.de/"
+        ], 
+        "Has description": [
+            "The Angelmeeting for the subtitles Angels.\nIf you want to be approved as a subtitles Angel, please visit!\nIf you are one already, this is the easiest way to meet and manage shifts etc.\nWelcome to the Subtitles Angelmeeting!"
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall C.1", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.1", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Cube", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Cube", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Subtitles-Angelmeetings"
+        ], 
+        "Has duration": [
+            30
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Subtitles-Angelmeetings", 
+        "Has end time": []
     }, 
     "Session:Open Science Workshop# d93aeca26ff9fa5a1b03992460914abb": {
         "Held in language": [
@@ -2825,12 +3021,12 @@
             "1482865200"
         ]
     }, 
-    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
+    "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482764400"
+            "1483102800"
         ], 
         "Has event track": [
             "Session"
@@ -2849,7 +3045,7 @@
             }
         ], 
         "Has subtitle": [
-            "Introduction Meeting for new angels"
+            "Abbaumeeting"
         ], 
         "Is organized by": [
             {
@@ -2870,7 +3066,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
-            "1482768000"
+            "1483106400"
         ]
     }, 
     "Session:Cyberthingy# ac3e137e198cda248c6f4d44bd664362": {
@@ -3412,6 +3608,56 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:An_UnCivilization_Commune_ReWilded_Life_Shared_with_Squirrels", 
         "Has end time": [
             "1482843600"
+        ]
+    }, 
+    "Session:SuSi-Angelmeetings# eadeae943acf78b348bef9d2bde23827": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482867000"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://c3subtitles.de/"
+        ], 
+        "Has description": [
+            "Angelmeeting for the Subtitles-superintendents."
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall C.1", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.1", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Cube", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Cube", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "SuSi-Angelmeetings"
+        ], 
+        "Has duration": [
+            20
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:SuSi-Angelmeetings", 
+        "Has end time": [
+            "1482868200"
         ]
     }, 
     "Session:Skillconvention c# a1496422476dce53d2f614263adbeeca": {
@@ -4616,6 +4862,56 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:DIY_Duct-Tape_Wallets", 
         "Has end time": [
             "1483142400"
+        ]
+    }, 
+    "Session:SuSi-Angelmeetings# da07397031c03293fbe740e60de1d900": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482953400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://c3subtitles.de/"
+        ], 
+        "Has description": [
+            "Angelmeeting for the Subtitles-superintendents."
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall C.4", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.4", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Cube", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Cube", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "SuSi-Angelmeetings"
+        ], 
+        "Has duration": [
+            20
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:SuSi-Angelmeetings", 
+        "Has end time": [
+            "1482954600"
         ]
     }, 
     "Session:Klangteppich# ba7529daf8b70e5380bf765af6139348": {
@@ -7384,6 +7680,56 @@
             "1482926400"
         ]
     }, 
+    "Session:The Federation# f24b55410756c33da18d71ec5d5a8520": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1483027200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://wiki.fsfe.org/Events/Berlin/2016-05-12"
+        ], 
+        "Has description": [
+            "This talk will give a short introduction to \"The Federation\" of decentral social networks as alternatives to the big walled gardens.\n\nWith a short historical overview of how it all began almost a decade ago with Laconica, followed by Diaspora and Mistpark.\nWho is part of \"The Federation\" today?\nHow are those projects glued together?\nWhat is the current state of free software alternatives like Diaspora, Friendica, GNU Social, Hubzilla, Media Goblin, pump.io and compatible networks.\nHow might the future be looking with the recent work by W3C Social WG."
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall 13-14", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_13-14", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Eal", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Eal", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "The Federation"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:The_Federation", 
+        "Has end time": [
+            "1483030800"
+        ]
+    }, 
     "Session:3D with OpenSCAD# c9cbb15eaf341d2391c5e6ed0fe41fa9": {
         "Held in language": [], 
         "Has start time": [
@@ -8113,29 +8459,29 @@
             "1482785100"
         ]
     }, 
-    "Session:The Federation# f24b55410756c33da18d71ec5d5a8520": {
+    "Session:SuSi-Angelmeetings# 61eb65e61b717da207194923b8b9fdb3": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1483027200"
+            "1483095600"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [
-            "https://wiki.fsfe.org/Events/Berlin/2016-05-12"
+            "https://c3subtitles.de/"
         ], 
         "Has description": [
-            "This talk will give a short introduction to \"The Federation\" of decentral social networks as alternatives to the big walled gardens.\n\nWith a short historical overview of how it all began almost a decade ago with Laconica, followed by Diaspora and Mistpark.\nWho is part of \"The Federation\" today?\nHow are those projects glued together?\nWhat is the current state of free software alternatives like Diaspora, Friendica, GNU Social, Hubzilla, Media Goblin, pump.io and compatible networks.\nHow might the future be looking with the recent work by W3C Social WG."
+            "Angelmeeting for the Subtitles-superintendents."
         ], 
         "Has session type": [
-            "Talk"
+            "Meeting"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall 13-14", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_13-14", 
+                "fulltext": "Room:Hall C.4", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.4", 
                 "namespace": 516, 
                 "exists": true
             }
@@ -8143,24 +8489,24 @@
         "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Eal", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Eal", 
+                "fulltext": "User:Cube", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Cube", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "The Federation"
+            "SuSi-Angelmeetings"
         ], 
         "Has duration": [
-            60
+            20
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:The_Federation", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:SuSi-Angelmeetings", 
         "Has end time": [
-            "1483030800"
+            "1483096800"
         ]
     }, 
     "Session:Surface Mount Electronics Assembly for Terrified Beginners# bf43d8b5a156882133d1c4114e23f55c": {
@@ -9145,12 +9491,12 @@
             "1482863400"
         ]
     }, 
-    "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
+    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1483102800"
+            "1482764400"
         ], 
         "Has event track": [
             "Session"
@@ -9169,7 +9515,7 @@
             }
         ], 
         "Has subtitle": [
-            "Abbaumeeting"
+            "Introduction Meeting for new angels"
         ], 
         "Is organized by": [
             {
@@ -9190,7 +9536,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
-            "1483106400"
+            "1482768000"
         ]
     }, 
     "Session:Line-of-sight visualizer# 24d9aabcf7d4df6b349a03dbf75a5641": {
