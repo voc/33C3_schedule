@@ -2061,6 +2061,52 @@
             "1482863400"
         ]
     }, 
+    "Session:Off flavours in homebrewed beer# 4fb4bdacc6d5a57dcd56a1bde386975e": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://foodhackingbase.org"
+        ], 
+        "Has description": [
+            "We'll have a Siebel off flavour kit for beer with us. You'll learn which off flavours you can perceive, what causes them, and how to remedy them."
+        ], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Foodhackingbase", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Foodhackingbase", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Ofosos", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Ofosos", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Off flavours in homebrewed beer"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Off_flavours_in_homebrewed_beer", 
+        "Has end time": []
+    }, 
     "Session:Freifunk und die VDS# 37384e1b9143d83deb07a78d113f2ea2": {
         "Held in language": [
             "en - English"
@@ -3071,12 +3117,12 @@
             "1482865200"
         ]
     }, 
-    "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
+    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1483102800"
+            "1482764400"
         ], 
         "Has event track": [
             "Session"
@@ -3095,7 +3141,7 @@
             }
         ], 
         "Has subtitle": [
-            "Abbaumeeting"
+            "Introduction Meeting for new angels"
         ], 
         "Is organized by": [
             {
@@ -3116,8 +3162,60 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
-            "1483106400"
+            "1482768000"
         ]
+    }, 
+    "Session:Brewing beer for beginners# f07c1f311878a4d587c0408183e05ad2": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://foodhackingbase.org"
+        ], 
+        "Has description": [
+            "A short 2 hour session introducing you to the basics of all grain brewing"
+        ], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Foodhackingbase", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Foodhackingbase", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Ofosos", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Ofosos", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Helo", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Helo", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Brewing beer for beginners"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Brewing_beer_for_beginners", 
+        "Has end time": []
     }, 
     "Session:Cyberthingy# ac3e137e198cda248c6f4d44bd664362": {
         "Held in language": [
@@ -9789,12 +9887,12 @@
             "1482863400"
         ]
     }, 
-    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
+    "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482764400"
+            "1483102800"
         ], 
         "Has event track": [
             "Session"
@@ -9813,7 +9911,7 @@
             }
         ], 
         "Has subtitle": [
-            "Introduction Meeting for new angels"
+            "Abbaumeeting"
         ], 
         "Is organized by": [
             {
@@ -9834,7 +9932,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
-            "1482768000"
+            "1483106400"
         ]
     }, 
     "Session:Line-of-sight visualizer# 24d9aabcf7d4df6b349a03dbf75a5641": {
