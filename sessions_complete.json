@@ -471,48 +471,37 @@
             "1482849000"
         ]
     }, 
-    "Session:Welcome & Icebreaker# 922bd001e8c83eae61feb66f52004d3b": {
+    "Session:VOC Engelmeeting# c3ecd013ad89316f07356dd245dda7b1": {
         "Held in language": [
-            "de - German"
+            "en - English"
         ], 
         "Has start time": [
-            "1482850800"
+            "1482937200"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
+        "Has website": [
+            "https://c3voc.de/"
+        ], 
         "Has description": [
-            "Come to the freifunk Assembly, say hello, introduce yourself, see who's there, get to know others..."
+            "Daily meeting for all VOC Angels."
         ], 
         "Has session type": [
             "Meeting"
         ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:Freifunk", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Freifunk", 
-                "namespace": 504, 
-                "exists": true
-            }
-        ], 
+        "Has session location": [], 
         "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Monic", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Monic", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:Andibraeu", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Andibraeu", 
+                "fulltext": "User:Jwacalex", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Jwacalex", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Welcome & Icebreaker"
+            "VOC Engelmeeting"
         ], 
         "Has duration": [
             60
@@ -520,9 +509,9 @@
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Welcome_%26_Icebreaker", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:VOC_Engelmeeting", 
         "Has end time": [
-            "1482854400"
+            "1482940800"
         ]
     }, 
     "Session:Surface Mount Electronics Assembly for Terrified Beginners# 2c66a4829556ad08c8f7b6d8fd68e204": {
@@ -4332,6 +4321,60 @@
             "1483038000"
         ]
     }, 
+    "Session:Welcome & Icebreaker# 922bd001e8c83eae61feb66f52004d3b": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1482850800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Come to the freifunk Assembly, say hello, introduce yourself, see who's there, get to know others..."
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Freifunk", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Freifunk", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Monic", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Monic", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Andibraeu", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Andibraeu", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Welcome & Icebreaker"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Welcome_%26_Icebreaker", 
+        "Has end time": [
+            "1482854400"
+        ]
+    }, 
     "Session:Surface Mount Electronics Assembly for Terrified Beginners# 458f6f7faeda7724ed8eb3f48713d4b9": {
         "Held in language": [
             "en - English"
@@ -5891,6 +5934,49 @@
             "1482956100"
         ]
     }, 
+    "Session:VOC Engelmeeting# 98a8d63c180faf8ca40eb083a333f677": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1483110000"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://c3voc.de/"
+        ], 
+        "Has description": [
+            "Daily meeting for all VOC Angels."
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Jwacalex", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Jwacalex", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "VOC Engelmeeting"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:VOC_Engelmeeting", 
+        "Has end time": [
+            "1483113600"
+        ]
+    }, 
     "Session:DSM, EIF, RED: Acronyms on the EU level and why they matter for software freedom# 7445ce4e0e403f70db3ba261dbd68684": {
         "Held in language": [
             "en - English"
@@ -6262,6 +6348,49 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Surface_Mount_Electronics_Assembly_for_Terrified_Beginners", 
         "Has end time": [
             "1483041600"
+        ]
+    }, 
+    "Session:VOC Engelmeeting# b660820df931fd89292fb1b6b8fad69c": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1483023600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://c3voc.de/"
+        ], 
+        "Has description": [
+            "Daily meeting for all VOC Angels."
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Jwacalex", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Jwacalex", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "VOC Engelmeeting"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:VOC_Engelmeeting", 
+        "Has end time": [
+            "1483027200"
         ]
     }, 
     "Session:Space Hacking# b787a13c30041f982fc7186223360be6": {
@@ -8659,6 +8788,49 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Radio_Lockdown:_Community_WiFis_unite!", 
         "Has end time": [
             "1482955200"
+        ]
+    }, 
+    "Session:VOC Engelmeeting# d70cf72859bd24b6d90ac265310993c3": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482850800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://c3voc.de/"
+        ], 
+        "Has description": [
+            "Daily meeting for all VOC Angels."
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Jwacalex", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Jwacalex", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "VOC Engelmeeting"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:VOC_Engelmeeting", 
+        "Has end time": [
+            "1482854400"
         ]
     }, 
     "Session:Skillconvention a# 27b5025dd294b5fa15d8915eac1b6f73": {
