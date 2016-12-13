@@ -1755,7 +1755,9 @@ Applying is as easy as possible and the next deadline at the begin of February. 
         <type>talk</type>
         <language>en</language>
         <abstract/>
-        <description>There are an increasing number of mobile SMS-like applications that offer different levels of crypto and privacy features. This talk will give an overview over some popular and some less well known apps and discuss certain aspects that get too little attention in mainstream debates.</description>
+        <description>There are an increasing number of mobile SMS-like applications that offer different levels of crypto and privacy features. This talk will give an overview over some popular and some less well known apps and discuss certain aspects that get too little attention in mainstream debates.
+
+Note that this talk is not about the details of crypto protocols or implementations, but more general issues like trust, integrity and availability in regard to the software, network infrastructure and the companies/projects behind them. The talk is 100% newbie-friendly.</description>
         <persons>
           <person id="0" href="https://events.ccc.de/congress/2016/wiki/User:Eal">Eal</person>
         </persons>

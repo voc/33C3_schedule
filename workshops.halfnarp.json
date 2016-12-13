@@ -1388,7 +1388,7 @@
         "start_time": "2016-12-28T17:00:00+01:00", 
         "duration": 3600, 
         "title": "What makes a secure mobile messenger? -- A comparison of WhatsApp competitors", 
-        "abstract": "There are an increasing number of mobile SMS-like applications that offer different levels of crypto and privacy features. This talk will give an overview over some popular and some less well known apps and discuss certain aspects that get too little attention in mainstream debates.", 
+        "abstract": "There are an increasing number of mobile SMS-like applications that offer different levels of crypto and privacy features. This talk will give an overview over some popular and some less well known apps and discuss certain aspects that get too little attention in mainstream debates.\n\nNote that this talk is not about the details of crypto protocols or implementations, but more general issues like trust, integrity and availability in regard to the software, network infrastructure and the companies/projects behind them. The talk is 100% newbie-friendly.", 
         "speakers": "Eal"
     }, 
     {
