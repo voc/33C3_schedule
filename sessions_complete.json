@@ -929,67 +929,51 @@
             "1483037100"
         ]
     }, 
-    "Session:Queer Feminist Geeks Gathering# 4a992d9add2bc71db38142ddb1e0d6c2": {
+    "Session:Beer Tasting# 705cf0a1a429df93f70f8d84ba5dd42f": {
         "Held in language": [
             "en - English"
         ], 
-        "Has start time": [
-            "1482856200"
-        ], 
+        "Has start time": [], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
+        "Has website": [
+            "https://foodhackingbase.org/wiki/Beer_tasting_33c3"
+        ], 
         "Has description": [
-            "A meetup for all the queer feminist geek folk.\n\nWe will talk a bit about our assembly and what we are doing there, exchange projects and ideas, and network with each other. This meetup is open to people of all genders, but please be mindful of how much space you are taking up. Especially if you are white, male, straight and cis, please try to actively listen instead of talking. \n\nThis is our Code of Conduct: https://events.ccc.de/congress/2015/wiki/Projects:Code_of_Conduct_of_the_Queer_Feminist_Geek_Assembly"
+            "We'll be tasting homebrewed and commercial beers."
         ], 
         "Has session type": [
-            "Meeting"
+            "Hands-On"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall C.1", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.1", 
-                "namespace": 516, 
+                "fulltext": "Assembly:Foodhackingbase", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Foodhackingbase", 
+                "namespace": 504, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [
-            "Spare room in case we split up groups"
-        ], 
+        "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Obaz", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Obaz", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:UMT", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:UMT", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:CoopDot", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:CoopDot", 
+                "fulltext": "User:Ofosos", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Ofosos", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Queer Feminist Geeks Gathering"
+            "Beer Tasting"
         ], 
         "Has duration": [
-            90
+            180
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Queer_Feminist_Geeks_Gathering", 
-        "Has end time": [
-            "1482861600"
-        ]
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Beer_Tasting", 
+        "Has end time": []
     }, 
     "Session:3D scan yourself# 07fd3c770a47140f5c5c4fe19a8c3787": {
         "Held in language": [
@@ -2070,7 +2054,7 @@
             "Session"
         ], 
         "Has website": [
-            "https://foodhackingbase.org"
+            "https://foodhackingbase.org/wiki/Off_flavours_33c3"
         ], 
         "Has description": [
             "We'll have a Siebel off flavour kit for beer with us. You'll learn which off flavours you can perceive, what causes them, and how to remedy them."
@@ -3174,7 +3158,7 @@
             "Session"
         ], 
         "Has website": [
-            "https://foodhackingbase.org"
+            "https://foodhackingbase.org/wiki/Homebrewing_33c3"
         ], 
         "Has description": [
             "A short 2 hour session introducing you to the basics of all grain brewing"
@@ -6770,6 +6754,68 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Skillconvention_a", 
         "Has end time": [
             "1482897600"
+        ]
+    }, 
+    "Session:Queer Feminist Geeks Gathering# 4a992d9add2bc71db38142ddb1e0d6c2": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482856200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "A meetup for all the queer feminist geek folk.\n\nWe will talk a bit about our assembly and what we are doing there, exchange projects and ideas, and network with each other. This meetup is open to people of all genders, but please be mindful of how much space you are taking up. Especially if you are white, male, straight and cis, please try to actively listen instead of talking. \n\nThis is our Code of Conduct: https://events.ccc.de/congress/2015/wiki/Projects:Code_of_Conduct_of_the_Queer_Feminist_Geek_Assembly"
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall C.1", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.1", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Spare room in case we split up groups"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Obaz", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Obaz", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:UMT", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:UMT", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:CoopDot", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:CoopDot", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Queer Feminist Geeks Gathering"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Queer_Feminist_Geeks_Gathering", 
+        "Has end time": [
+            "1482861600"
         ]
     }, 
     "Session:How to Make Humanoid Robots# 539cdd3e3d798ac3c3fe23c8b7003ee8": {
