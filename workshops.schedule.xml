@@ -830,15 +830,15 @@ Theoretische Einf&#252;hrung und Erfahrungsberichte aus 10 Jahren linker Kollekt
           <link>https://events.ccc.de/congress/2016/wiki/Session:Boat_instruments_hacking</link>
         </links>
       </event>
-      <event id="1024" guid="fdd8a9c86e797d9c002a514c55992e1d">
+      <event id="1024" guid="82b6f15ab0e1d33b37e9817f997864d8">
         <logo/>
-        <date>2016-12-28T15:00:00+01:00</date>
-        <start>15:00</start>
+        <date>2016-12-28T11:00:00+01:00</date>
+        <start>11:00</start>
         <duration>1:00</duration>
         <room>Hall C.3</room>
         <slug/>
         <title>Coder Dojo</title>
-        <subtitle>Slot 3 Room 1</subtitle>
+        <subtitle>Slot 1 Room 1</subtitle>
         <track>self organized sessions</track>
         <type>workshop</type>
         <language>de</language>
@@ -851,15 +851,15 @@ Theoretische Einf&#252;hrung und Erfahrungsberichte aus 10 Jahren linker Kollekt
           <link>https://events.ccc.de/congress/2016/wiki/Session:Coder_Dojo</link>
         </links>
       </event>
-      <event id="1025" guid="82b6f15ab0e1d33b37e9817f997864d8">
+      <event id="1025" guid="fdd8a9c86e797d9c002a514c55992e1d">
         <logo/>
-        <date>2016-12-28T11:00:00+01:00</date>
-        <start>11:00</start>
+        <date>2016-12-28T15:00:00+01:00</date>
+        <start>15:00</start>
         <duration>1:00</duration>
         <room>Hall C.3</room>
         <slug/>
         <title>Coder Dojo</title>
-        <subtitle>Slot 1 Room 1</subtitle>
+        <subtitle>Slot 3 Room 1</subtitle>
         <track>self organized sessions</track>
         <type>workshop</type>
         <language>de</language>
@@ -1007,15 +1007,15 @@ Olga Gkotsopoulou is a FSFE trainee and holder of a Law Degree, a LL.M in Intern
           <link>https://events.ccc.de/congress/2016/wiki/Session:%22My%22_software,_like_%22my%22_hand_or_like_%22my_car%22%3F</link>
         </links>
       </event>
-      <event id="1026" guid="f7580cf27bd0d4bb0bd704612ab55f0e">
+      <event id="1026" guid="3e5566423bb7179b1698b34b8fba2524">
         <logo/>
-        <date>2016-12-28T15:00:00+01:00</date>
-        <start>15:00</start>
+        <date>2016-12-28T11:00:00+01:00</date>
+        <start>11:00</start>
         <duration>1:00</duration>
         <room>Hall C.4</room>
         <slug/>
         <title>Coder Dojo</title>
-        <subtitle>Slot 3 Room 2</subtitle>
+        <subtitle>Slot 1 Room 2</subtitle>
         <track>self organized sessions</track>
         <type>workshop</type>
         <language>de</language>
@@ -1028,15 +1028,15 @@ Olga Gkotsopoulou is a FSFE trainee and holder of a Law Degree, a LL.M in Intern
           <link>https://events.ccc.de/congress/2016/wiki/Session:Coder_Dojo</link>
         </links>
       </event>
-      <event id="1027" guid="3e5566423bb7179b1698b34b8fba2524">
+      <event id="1027" guid="f7580cf27bd0d4bb0bd704612ab55f0e">
         <logo/>
-        <date>2016-12-28T11:00:00+01:00</date>
-        <start>11:00</start>
+        <date>2016-12-28T15:00:00+01:00</date>
+        <start>15:00</start>
         <duration>1:00</duration>
         <room>Hall C.4</room>
         <slug/>
         <title>Coder Dojo</title>
-        <subtitle>Slot 1 Room 2</subtitle>
+        <subtitle>Slot 3 Room 2</subtitle>
         <track>self organized sessions</track>
         <type>workshop</type>
         <language>de</language>
