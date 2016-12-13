@@ -1839,7 +1839,14 @@
         "Has subtitle": [
             "GPG Schl\u00fcsselverteilung"
         ], 
-        "Is organized by": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Yncyrydybyl", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Yncyrydybyl", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
         "Has title": [
             "GPG Schl\u00fcsselverteilung"
         ], 
