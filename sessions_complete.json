@@ -879,6 +879,56 @@
             "1482787200"
         ]
     }, 
+    "Session:There is no birthday party# 172955a48fe885c1b849ffea7ee016aa": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1483034400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://thereisnogame.de"
+        ], 
+        "Has description": [
+            "see title"
+        ], 
+        "Has session type": [
+            "Other"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Anti Error Lounge", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Anti_Error_Lounge", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Reisende", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Reisende", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "There is no birthday party"
+        ], 
+        "Has duration": [
+            45
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:There_is_no_birthday_party", 
+        "Has end time": [
+            "1483037100"
+        ]
+    }, 
     "Session:Queer Feminist Geeks Gathering# 4a992d9add2bc71db38142ddb1e0d6c2": {
         "Held in language": [
             "en - English"
