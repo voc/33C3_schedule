@@ -3261,12 +3261,12 @@
             "1482865200"
         ]
     }, 
-    "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
+    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1483102800"
+            "1482764400"
         ], 
         "Has event track": [
             "Session"
@@ -3285,7 +3285,7 @@
             }
         ], 
         "Has subtitle": [
-            "Abbaumeeting"
+            "Introduction Meeting for new angels"
         ], 
         "Is organized by": [
             {
@@ -3306,7 +3306,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
-            "1483106400"
+            "1482768000"
         ]
     }, 
     "Session:Cyberthingy# ac3e137e198cda248c6f4d44bd664362": {
@@ -6874,31 +6874,30 @@
             "1482897600"
         ]
     }, 
-    "Session:How to Make Humanoid Robots# 539cdd3e3d798ac3c3fe23c8b7003ee8": {
+    "Session:A walk through pEp's tech# ad46e433c91a0bfa880b4f5684677345": {
         "Held in language": [
-            "de - German", 
-            "en - English", 
-            "fr - French"
+            "en - English"
         ], 
         "Has start time": [
-            "1483023600"
+            "1482951600"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [
-            "http://bit-bots.de"
+            "https://pep-project.org", 
+            "https://pep.foundation"
         ], 
         "Has description": [
-            "We will share our knowledge in making humanoid robots with you.\nThe workshop will cover mostly hardware but also software.\nWe will bring some of our robots with us for a hands on.\nIf you want you can also just stop by to ask questions.\nWe will speak mainly in English, but we speak also German and French."
+            "p\u2261p engine hackers show you the inner workings of the p\u2261p engine, the core which is used to drive the crypto used in p\u2261p, message transport and -- most importantly -- automatic key management and synchronization. In this session you also can get technical answers to questions concerning future developments of the p\u2261p technology."
         ], 
         "Has session type": [
             "Workshop"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall C.1", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.1", 
+                "fulltext": "Room:Hall B", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_B", 
                 "namespace": 516, 
                 "exists": true
             }
@@ -6906,24 +6905,24 @@
         "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:SammyRamone", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:SammyRamone", 
+                "fulltext": "User:Pf", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Pf", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "How to Make Humanoid Robots"
+            "A walk through pEp's tech"
         ], 
         "Has duration": [
-            30
+            120
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:How_to_Make_Humanoid_Robots", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:A_walk_through_pEp%27s_tech", 
         "Has end time": [
-            "1483025400"
+            "1482958800"
         ]
     }, 
     "Session:Social Engineering Poetry Slam# 3b37eebbde0ae5877170aef80a7a1a7d": {
@@ -8598,6 +8597,52 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Eris_Rising", 
         "Has end time": []
     }, 
+    "Session:FHB Cheese Rendezvous 33c3# 6d9531f5d555e535b4e65ff505a67a7f": {
+        "Held in language": [], 
+        "Has start time": [], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://foodhackingbase.org/wiki/Cheese_rendezvous_33c3"
+        ], 
+        "Has description": [
+            "If you love cheese this event will make you very very happy!"
+        ], 
+        "Has session type": [
+            "Other"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Foodhackingbase", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Foodhackingbase", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Session I."
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Algoldor", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Algoldor", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "FHB Cheese Rendezvous 33c3"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:FHB_Cheese_Rendezvous_33c3", 
+        "Has end time": []
+    }, 
     "Session:Translation meetings# 36252d5cc335293f00e927b0b6eba7fb": {
         "Held in language": [
             "en - English"
@@ -9347,30 +9392,31 @@
             "1483030800"
         ]
     }, 
-    "Session:A walk through pEp's tech# ad46e433c91a0bfa880b4f5684677345": {
+    "Session:How to Make Humanoid Robots# 539cdd3e3d798ac3c3fe23c8b7003ee8": {
         "Held in language": [
-            "en - English"
+            "de - German", 
+            "en - English", 
+            "fr - French"
         ], 
         "Has start time": [
-            "1482951600"
+            "1483023600"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [
-            "https://pep-project.org", 
-            "https://pep.foundation"
+            "http://bit-bots.de"
         ], 
         "Has description": [
-            "p\u2261p engine hackers show you the inner workings of the p\u2261p engine, the core which is used to drive the crypto used in p\u2261p, message transport and -- most importantly -- automatic key management and synchronization. In this session you also can get technical answers to questions concerning future developments of the p\u2261p technology."
+            "We will share our knowledge in making humanoid robots with you.\nThe workshop will cover mostly hardware but also software.\nWe will bring some of our robots with us for a hands on.\nIf you want you can also just stop by to ask questions.\nWe will speak mainly in English, but we speak also German and French."
         ], 
         "Has session type": [
             "Workshop"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall B", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_B", 
+                "fulltext": "Room:Hall C.1", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.1", 
                 "namespace": 516, 
                 "exists": true
             }
@@ -9378,24 +9424,24 @@
         "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Pf", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Pf", 
+                "fulltext": "User:SammyRamone", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:SammyRamone", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "A walk through pEp's tech"
+            "How to Make Humanoid Robots"
         ], 
         "Has duration": [
-            120
+            30
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:A_walk_through_pEp%27s_tech", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:How_to_Make_Humanoid_Robots", 
         "Has end time": [
-            "1482958800"
+            "1483025400"
         ]
     }, 
     "Session:Implications of the EU copyright reform on Free Software# 2e3ae7e1eed32991d1e513792a5bcc0e": {
@@ -10039,12 +10085,12 @@
             "1482863400"
         ]
     }, 
-    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
+    "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482764400"
+            "1483102800"
         ], 
         "Has event track": [
             "Session"
@@ -10063,7 +10109,7 @@
             }
         ], 
         "Has subtitle": [
-            "Introduction Meeting for new angels"
+            "Abbaumeeting"
         ], 
         "Is organized by": [
             {
@@ -10084,7 +10130,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
-            "1482768000"
+            "1483106400"
         ]
     }, 
     "Session:Line-of-sight visualizer# 24d9aabcf7d4df6b349a03dbf75a5641": {
