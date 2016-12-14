@@ -2719,12 +2719,17 @@
                                 "type": "workshop", 
                                 "language": "en", 
                                 "abstract": "", 
-                                "description": "", 
+                                "description": "This is a cultural experiment and ongoing project to develop an open source toolkit for creating \u2018new religions\u2019.", 
                                 "persons": [
                                     {
                                         "id": 0, 
                                         "url": "https://events.ccc.de/congress/2016/wiki/User:Lu_cyp", 
                                         "public_name": "Lu cyp"
+                                    }, 
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Kyravram", 
+                                        "public_name": "Kyravram"
                                     }
                                 ], 
                                 "links": [

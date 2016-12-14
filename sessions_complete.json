@@ -5264,7 +5264,9 @@
             "Session"
         ], 
         "Has website": [], 
-        "Has description": [], 
+        "Has description": [
+            "This is a cultural experiment and ongoing project to develop an open source toolkit for creating \u2018new religions\u2019."
+        ], 
         "Has session type": [
             "Workshop"
         ], 
@@ -5281,6 +5283,12 @@
             {
                 "fulltext": "User:Lu cyp", 
                 "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Lu_cyp", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Kyravram", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Kyravram", 
                 "namespace": 2, 
                 "exists": true
             }

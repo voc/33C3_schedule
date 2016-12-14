@@ -2141,9 +2141,10 @@ A talk postulating a new type of hacker, the 'Eris': a blackhat sociologist who 
         <type>workshop</type>
         <language>en</language>
         <abstract/>
-        <description/>
+        <description>This is a cultural experiment and ongoing project to develop an open source toolkit for creating &#8216;new religions&#8217;.</description>
         <persons>
           <person id="0" href="https://events.ccc.de/congress/2016/wiki/User:Lu_cyp">Lu cyp</person>
+          <person id="0" href="https://events.ccc.de/congress/2016/wiki/User:Kyravram">Kyravram</person>
         </persons>
         <links>
           <link>https://events.ccc.de/congress/2016/wiki/Session:DIY_Religion</link>
