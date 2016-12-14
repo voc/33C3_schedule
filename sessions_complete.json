@@ -1180,6 +1180,54 @@
             "1482951600"
         ]
     }, 
+    "Session:Translation meetings# 660e4d0d3a22279ed18e88982d5006fa": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1483110600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "The translation angels (interpreters) meet twice per day to self-organise (day 0, evening to day 4, afternoon)"
+        ], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall 13-14", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_13-14", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "day 4, afternoon meeting"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Sebalis", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Sebalis", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Translation meetings"
+        ], 
+        "Has duration": [
+            50
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Translation_meetings", 
+        "Has end time": [
+            "1483113600"
+        ]
+    }, 
     "Session:LearnToSolder# 54a32b454efb9018a9f51249d16423e5": {
         "Held in language": [
             "en - English"
@@ -3213,12 +3261,12 @@
             "1482865200"
         ]
     }, 
-    "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
+    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1483102800"
+            "1482764400"
         ], 
         "Has event track": [
             "Session"
@@ -3237,7 +3285,7 @@
             }
         ], 
         "Has subtitle": [
-            "Abbaumeeting"
+            "Introduction Meeting for new angels"
         ], 
         "Is organized by": [
             {
@@ -3258,7 +3306,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
-            "1483106400"
+            "1482768000"
         ]
     }, 
     "Session:Cyberthingy# ac3e137e198cda248c6f4d44bd664362": {
@@ -3408,52 +3456,58 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Linux_Kernel_Ninja_Comment_Karaoke", 
         "Has end time": []
     }, 
-    "Session:Translation meetings# 660e4d0d3a22279ed18e88982d5006fa": {
+    "Session:DIY Duct-Tape Wallets# 9abeec38dfb772ad0f95b77ce9a7817f": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1483110600"
+            "1482796800"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [
-            "The translation angels (interpreters) meet twice per day to self-organise (day 0, evening to day 4, afternoon)"
+            "We will make wallets out of duct-tape allday at our assembly. Join us and make your own in just a few minutes!"
         ], 
-        "Has session type": [], 
+        "Has session type": [
+            "Hands-On"
+        ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall 13-14", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_13-14", 
-                "namespace": 516, 
+                "fulltext": "Assembly:Chaostreff Flensburg", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Chaostreff_Flensburg", 
+                "namespace": 504, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [
-            "day 4, afternoon meeting"
-        ], 
+        "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Sebalis", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Sebalis", 
+                "fulltext": "User:Roikiermedia", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Roikiermedia", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Scammo", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Scammo", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Translation meetings"
+            "DIY Duct-Tape Wallets"
         ], 
         "Has duration": [
-            50
+            0
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Translation_meetings", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:DIY_Duct-Tape_Wallets", 
         "Has end time": [
-            "1483113600"
+            "1482796800"
         ]
     }, 
     "Session:Engelmeeting# 00888f6062ff7c2f3f8fa508c3fd5ae4": {
@@ -4953,60 +5007,6 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Browsing_JS_on_Embedded", 
         "Has end time": []
-    }, 
-    "Session:DIY Duct-Tape Wallets# bf651491cbc9e4a0cb99dcdd16287267": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1482796800"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "We will make wallets out of duct-tape allday at our assembly. Join us and make your own in just a few minutes!"
-        ], 
-        "Has session type": [
-            "Hands-On"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:Chaostreff Flensburg", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Chaostreff_Flensburg", 
-                "namespace": 504, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Roikiermedia", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Roikiermedia", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:Scammo", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Scammo", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "DIY Duct-Tape Wallets"
-        ], 
-        "Has duration": [
-            5760
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:DIY_Duct-Tape_Wallets", 
-        "Has end time": [
-            "1483142400"
-        ]
     }, 
     "Session:SuSi-Angelmeetings# da07397031c03293fbe740e60de1d900": {
         "Held in language": [
@@ -10039,12 +10039,12 @@
             "1482863400"
         ]
     }, 
-    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
+    "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482764400"
+            "1483102800"
         ], 
         "Has event track": [
             "Session"
@@ -10063,7 +10063,7 @@
             }
         ], 
         "Has subtitle": [
-            "Introduction Meeting for new angels"
+            "Abbaumeeting"
         ], 
         "Is organized by": [
             {
@@ -10084,7 +10084,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
-            "1482768000"
+            "1483106400"
         ]
     }, 
     "Session:Line-of-sight visualizer# 24d9aabcf7d4df6b349a03dbf75a5641": {
