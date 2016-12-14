@@ -126,6 +126,58 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Freifunk_Webteam_Meetup", 
         "Has end time": []
     }, 
+    "Session:FHB Cheese Rendezvous 33c3# 22a6fa5aae7b3b0bd3db1f35945b183c": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1483038000"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://foodhackingbase.org/wiki/Cheese_rendezvous_33c3"
+        ], 
+        "Has description": [
+            "If you love cheese this event will make you very very happy!"
+        ], 
+        "Has session type": [
+            "Other"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Foodhackingbase", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Foodhackingbase", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Session I."
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Algoldor", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Algoldor", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "FHB Cheese Rendezvous 33c3"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:FHB_Cheese_Rendezvous_33c3", 
+        "Has end time": [
+            "1483043400"
+        ]
+    }, 
     "Session:Congress Everywhere Greet & Meet# dcf2caaaf3c1dbfa96cb644b2a7a871b": {
         "Held in language": [
             "de - German"
@@ -8595,52 +8647,6 @@
             "#0099ab"
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Eris_Rising", 
-        "Has end time": []
-    }, 
-    "Session:FHB Cheese Rendezvous 33c3# 6d9531f5d555e535b4e65ff505a67a7f": {
-        "Held in language": [], 
-        "Has start time": [], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://foodhackingbase.org/wiki/Cheese_rendezvous_33c3"
-        ], 
-        "Has description": [
-            "If you love cheese this event will make you very very happy!"
-        ], 
-        "Has session type": [
-            "Other"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:Foodhackingbase", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Foodhackingbase", 
-                "namespace": 504, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Session I."
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Algoldor", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Algoldor", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "FHB Cheese Rendezvous 33c3"
-        ], 
-        "Has duration": [
-            90
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:FHB_Cheese_Rendezvous_33c3", 
         "Has end time": []
     }, 
     "Session:Translation meetings# 36252d5cc335293f00e927b0b6eba7fb": {
