@@ -1436,53 +1436,54 @@
             "1482863400"
         ]
     }, 
-    "Session:3D printing for kids# 763f98007be32ed96646aa3082e2b203": {
+    "Session:How to Organize a CryptoParty# a16011b4eeabaa057517fefd6c958655": {
         "Held in language": [
-            "de - German", 
             "en - English"
         ], 
         "Has start time": [
-            "1482940800"
+            "1483035300"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
+        "Has website": [
+            "https://www.cryptoparty.in/organize/howto"
+        ], 
         "Has description": [
-            "Learn how to design 3D parts and print them!"
+            "**How to CryptoParty**\n\nCryptoParties have been organized all over the world for more than four years. The goal of this session is to help anyone interested to organize one themselves."
         ], 
         "Has session type": [
-            "Workshop"
+            "Discussion"
         ], 
         "Has session location": [
             {
-                "fulltext": "Assembly:3D Printing", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:3D_Printing", 
-                "namespace": 504, 
+                "fulltext": "Room:Hall C.1", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.1", 
+                "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Obelix", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Obelix", 
+                "fulltext": "User:Dawning-sun", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Dawning-sun", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "3D printing for kids"
+            "How to Organize a CryptoParty"
         ], 
         "Has duration": [
-            30
+            90
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:3D_printing_for_kids", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:How_to_Organize_a_CryptoParty", 
         "Has end time": [
-            "1482942600"
+            "1483040700"
         ]
     }, 
     "Session:LearnToSolder# 20f5117729a9edfafeab9750503b79a2": {
@@ -1719,54 +1720,53 @@
             "1483041000"
         ]
     }, 
-    "Session:How to Organize a CryptoParty# a16011b4eeabaa057517fefd6c958655": {
+    "Session:3D printing for kids# 763f98007be32ed96646aa3082e2b203": {
         "Held in language": [
+            "de - German", 
             "en - English"
         ], 
         "Has start time": [
-            "1483035300"
+            "1482940800"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "https://www.cryptoparty.in/organize/howto"
-        ], 
+        "Has website": [], 
         "Has description": [
-            "**How to CryptoParty**\n\nCryptoParties have been organized all over the world for more than four years. The goal of this session is to help anyone interested to organize one themselves."
+            "Learn how to design 3D parts and print them!"
         ], 
         "Has session type": [
-            "Discussion"
+            "Workshop"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall C.1", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.1", 
-                "namespace": 516, 
+                "fulltext": "Assembly:3D Printing", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:3D_Printing", 
+                "namespace": 504, 
                 "exists": true
             }
         ], 
         "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Dawning-sun", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Dawning-sun", 
+                "fulltext": "User:Obelix", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Obelix", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "How to Organize a CryptoParty"
+            "3D printing for kids"
         ], 
         "Has duration": [
-            90
+            30
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:How_to_Organize_a_CryptoParty", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:3D_printing_for_kids", 
         "Has end time": [
-            "1483040700"
+            "1482942600"
         ]
     }, 
     "Session:IT-solutions for humanitarian crisis problems# 20371a76b601f1e4bea5b1c0244d0cc9": {
@@ -2159,6 +2159,54 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:GPG_Schl%C3%BCsselverteilung", 
         "Has end time": [
             "1482863400"
+        ]
+    }, 
+    "Session:Hackademia Meetup# 3451bb0112cf590af9f83fe6b622c3ad": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482847200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "This is a gathering for academic researchers who are a part of Hackademia (the listserv, IRC channel, summer school, etc). We will gather together to share our work, exchange ideas about methods, challenges, and gaps, and discuss recent developments in research involving hacker communities. Though this is a meant to be a private session for people already involved in the group, please contact us beforehand if you\u2019d like to join!"
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall 13-14", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_13-14", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Swest", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Swest", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Hackademia Meetup"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Hackademia_Meetup", 
+        "Has end time": [
+            "1482850800"
         ]
     }, 
     "Session:Freifunk und die VDS# 37384e1b9143d83deb07a78d113f2ea2": {
@@ -3171,12 +3219,12 @@
             "1482865200"
         ]
     }, 
-    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
+    "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482764400"
+            "1483102800"
         ], 
         "Has event track": [
             "Session"
@@ -3195,7 +3243,7 @@
             }
         ], 
         "Has subtitle": [
-            "Introduction Meeting for new angels"
+            "Abbaumeeting"
         ], 
         "Is organized by": [
             {
@@ -3216,7 +3264,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
-            "1482768000"
+            "1483106400"
         ]
     }, 
     "Session:Cyberthingy# ac3e137e198cda248c6f4d44bd664362": {
@@ -9989,12 +10037,12 @@
             "1482863400"
         ]
     }, 
-    "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
+    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1483102800"
+            "1482764400"
         ], 
         "Has event track": [
             "Session"
@@ -10013,7 +10061,7 @@
             }
         ], 
         "Has subtitle": [
-            "Abbaumeeting"
+            "Introduction Meeting for new angels"
         ], 
         "Is organized by": [
             {
@@ -10034,7 +10082,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
-            "1483106400"
+            "1482768000"
         ]
     }, 
     "Session:Line-of-sight visualizer# 24d9aabcf7d4df6b349a03dbf75a5641": {
