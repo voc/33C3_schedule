@@ -1320,6 +1320,56 @@
             "1482948000"
         ]
     }, 
+    "Session:Surface Mount Electronics Assembly for Terrified Beginners# bf43d8b5a156882133d1c4114e23f55c": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482858000"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90mins, 20\u20ac/kit, avoid caffeine immediately before."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:HardwareHackingArea", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:HardwareHackingArea", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Day 1 - Session 3"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Kliment", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Kliment", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Surface Mount Electronics Assembly for Terrified Beginners"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Surface_Mount_Electronics_Assembly_for_Terrified_Beginners", 
+        "Has end time": [
+            "1482863400"
+        ]
+    }, 
     "Session:3D printing for kids# 763f98007be32ed96646aa3082e2b203": {
         "Held in language": [
             "de - German", 
@@ -8889,44 +8939,40 @@
             "1483096800"
         ]
     }, 
-    "Session:Surface Mount Electronics Assembly for Terrified Beginners# bf43d8b5a156882133d1c4114e23f55c": {
+    "Session:Strategien, \u00dcberwachungsskepsis in die Mitte der Gesellschaft zu tragen / Anti Surveillance Campaigning Targeted at the Masses# c451004589b4ba4f409ccc7b9998066c": {
         "Held in language": [
             "en - English"
         ], 
-        "Has start time": [
-            "1482858000"
-        ], 
+        "Has start time": [], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [
-            "Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90mins, 20\u20ac/kit, avoid caffeine immediately before."
+            "We will give some input and then want to start a discussion about strategies to make \"mainstream\" people care about surveillance and privacy. (mainstream = outside of hacker community/tech bubble)"
         ], 
         "Has session type": [
-            "Workshop"
+            "Discussion"
         ], 
         "Has session location": [
             {
-                "fulltext": "Assembly:HardwareHackingArea", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:HardwareHackingArea", 
-                "namespace": 504, 
+                "fulltext": "Room:Hall C.2", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.2", 
+                "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [
-            "Day 1 - Session 3"
-        ], 
+        "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Kliment", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Kliment", 
+                "fulltext": "User:Vikvik", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Vikvik", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Surface Mount Electronics Assembly for Terrified Beginners"
+            "Strategien, \u00dcberwachungsskepsis in die Mitte der Gesellschaft zu tragen / Anti Surveillance Campaigning Targeted at the Masses"
         ], 
         "Has duration": [
             90
@@ -8934,10 +8980,8 @@
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Surface_Mount_Electronics_Assembly_for_Terrified_Beginners", 
-        "Has end time": [
-            "1482863400"
-        ]
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Strategien,_%C3%9Cberwachungsskepsis_in_die_Mitte_der_Gesellschaft_zu_tragen_/_Anti_Surveillance_Campaigning_Targeted_at_the_Masses", 
+        "Has end time": []
     }, 
     "Session:Radio Lockdown: Community WiFis unite!# 3ef0602faa4a92ba21a0b5d2b7bc8970": {
         "Held in language": [
