@@ -421,6 +421,48 @@
             "1482935400"
         ]
     }, 
+    "Session:\"My\" software, like \"my\" hand or like \"my car\"?# 4e67f599939ba0abceb1ffe771c2f455": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Floridi argues that '...in favour of the interpretation of the protection of privacy as protection of personal identity: \u201cmy\u201d in \u201cmy data\u201d is not the same \u201cmy\u201d as in \u201cmy car\u201d, it is the same \u201cmy\u201d as in \u201cmy hand\u201d, because personal information plays a constitutive  role of who I am and can become.\u201d But when my hand is part of a prosthetic arm running on proprietary software, how \u201cmy\u201d is \u201cmy hand\u201d in this case? Is \u201cmy\u201d the same as in \u201cmy car\u201d or as in \u201cmy data\u201d?\n\nOlga Gkotsopoulou is a FSFE trainee and holder of a Law Degree, a LL.M in International Human Rights and Humanitarian Law and a M.A. in History and Theory of Law. In the past, Olga worked for various organizations, including the Hellenic Data Protection Authority, the World Health Organization (WHO), the Institute of International Relations and the Greek Council for Refugees. She is also co-founder of the pro bono organisation, Union for Children's Rights."
+        ], 
+        "Has session type": [
+            "Discussion"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall C.4", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.4", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Eal", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Eal", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "\"My\" software, like \"my\" hand or like \"my car\"?"
+        ], 
+        "Has duration": [], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:%22My%22_software,_like_%22my%22_hand_or_like_%22my_car%22%3F", 
+        "Has end time": []
+    }, 
     "Session:Surface Mount Electronics Assembly for Terrified Beginners# 820ef8c10ff8c89f2562b4268804af07": {
         "Held in language": [
             "en - English"
@@ -1534,54 +1576,6 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:LearnToSolder", 
         "Has end time": [
             "1482883140"
-        ]
-    }, 
-    "Session:Veripeditus AR Game Framework# bd5c68b79365c734e0ba53a1874c96b0": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1482951600"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Veripeditus is the first free and open source framework that enables everyone to develop augmented reality mobile games like Ingress or Pok\u00e9mon Go. It brings the creative side of such games to everyone, including, but not limited to, class rooms, along with a great new way of learning programming skills with Python.\n\nPresented by Nik, a 26 year-old software developer and network admin from Bonn, but better known as head of Teckids e.V., a youth organisation establishing a FOSS community among children."
-        ], 
-        "Has session type": [
-            "Talk"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall C.4", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.4", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Eal", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Eal", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Veripeditus AR Game Framework"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Veripeditus_AR_Game_Framework", 
-        "Has end time": [
-            "1482955200"
         ]
     }, 
     "Session:Are decentralized services unable to innovate?# 0043166f5c425145741cb5a178a7ac3c": {
@@ -3219,12 +3213,12 @@
             "1482865200"
         ]
     }, 
-    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
+    "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482764400"
+            "1483102800"
         ], 
         "Has event track": [
             "Session"
@@ -3243,7 +3237,7 @@
             }
         ], 
         "Has subtitle": [
-            "Introduction Meeting for new angels"
+            "Abbaumeeting"
         ], 
         "Is organized by": [
             {
@@ -3264,7 +3258,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
-            "1482768000"
+            "1483106400"
         ]
     }, 
     "Session:Cyberthingy# ac3e137e198cda248c6f4d44bd664362": {
@@ -4123,54 +4117,6 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Freifunk_und_die_VDS", 
         "Has end time": []
-    }, 
-    "Session:\"My\" software, like \"my\" hand or like \"my car\"?# dfd962d6793cb171bfc56df56774404f": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1482955200"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Floridi argues that '...in favour of the interpretation of the protection of privacy as protection of personal identity: \u201cmy\u201d in \u201cmy data\u201d is not the same \u201cmy\u201d as in \u201cmy car\u201d, it is the same \u201cmy\u201d as in \u201cmy hand\u201d, because personal information plays a constitutive  role of who I am and can become.\u201d But when my hand is part of a prosthetic arm running on proprietary software, how \u201cmy\u201d is \u201cmy hand\u201d in this case? Is \u201cmy\u201d the same as in \u201cmy car\u201d or as in \u201cmy data\u201d?\n\nOlga Gkotsopoulou is a FSFE trainee and holder of a Law Degree, a LL.M in International Human Rights and Humanitarian Law and a M.A. in History and Theory of Law. In the past, Olga worked for various organizations, including the Hellenic Data Protection Authority, the World Health Organization (WHO), the Institute of International Relations and the Greek Council for Refugees. She is also co-founder of the pro bono organisation, Union for Children's Rights."
-        ], 
-        "Has session type": [
-            "Discussion"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall C.4", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.4", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Eal", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Eal", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "\"My\" software, like \"my\" hand or like \"my car\"?"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:%22My%22_software,_like_%22my%22_hand_or_like_%22my_car%22%3F", 
-        "Has end time": [
-            "1482958800"
-        ]
     }, 
     "Session:IoT by beginners for beginners: Getting started with NodeMCU# 5fc8056ed8ebfff4669f211c66e5e25a": {
         "Held in language": [
@@ -7519,6 +7465,54 @@
             "1483027200"
         ]
     }, 
+    "Session:Veripeditus AR Game Framework# f138d5782496f0481df52d7c896ce1a4": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482955200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Veripeditus is the first free and open source framework that enables everyone to develop augmented reality mobile games like Ingress or Pok\u00e9mon Go. It brings the creative side of such games to everyone, including, but not limited to, class rooms, along with a great new way of learning programming skills with Python.\n\nPresented by Nik, a 26 year-old software developer and network admin from Bonn, but better known as head of Teckids e.V., a youth organisation establishing a FOSS community among children."
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall C.4", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.4", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Eal", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Eal", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Veripeditus AR Game Framework"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Veripeditus_AR_Game_Framework", 
+        "Has end time": [
+            "1482958800"
+        ]
+    }, 
     "Session:Hacking democracy with MEP Marietje Schaake# 945f1586a6c6583e89e03bad18b89754": {
         "Held in language": [
             "en - English"
@@ -10039,12 +10033,12 @@
             "1482863400"
         ]
     }, 
-    "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
+    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1483102800"
+            "1482764400"
         ], 
         "Has event track": [
             "Session"
@@ -10063,7 +10057,7 @@
             }
         ], 
         "Has subtitle": [
-            "Abbaumeeting"
+            "Introduction Meeting for new angels"
         ], 
         "Is organized by": [
             {
@@ -10084,7 +10078,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
-            "1483106400"
+            "1482768000"
         ]
     }, 
     "Session:Line-of-sight visualizer# 24d9aabcf7d4df6b349a03dbf75a5641": {
