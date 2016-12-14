@@ -929,51 +929,67 @@
             "1483037100"
         ]
     }, 
-    "Session:Beer Tasting# 705cf0a1a429df93f70f8d84ba5dd42f": {
+    "Session:Queer Feminist Geeks Gathering# 4a992d9add2bc71db38142ddb1e0d6c2": {
         "Held in language": [
             "en - English"
         ], 
-        "Has start time": [], 
+        "Has start time": [
+            "1482856200"
+        ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "https://foodhackingbase.org/wiki/Beer_tasting_33c3"
-        ], 
+        "Has website": [], 
         "Has description": [
-            "We'll be tasting homebrewed and commercial beers."
+            "A meetup for all the queer feminist geek folk.\n\nWe will talk a bit about our assembly and what we are doing there, exchange projects and ideas, and network with each other. This meetup is open to people of all genders, but please be mindful of how much space you are taking up. Especially if you are white, male, straight and cis, please try to actively listen instead of talking. \n\nThis is our Code of Conduct: https://events.ccc.de/congress/2015/wiki/Projects:Code_of_Conduct_of_the_Queer_Feminist_Geek_Assembly"
         ], 
         "Has session type": [
-            "Hands-On"
+            "Meeting"
         ], 
         "Has session location": [
             {
-                "fulltext": "Assembly:Foodhackingbase", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Foodhackingbase", 
-                "namespace": 504, 
+                "fulltext": "Room:Hall C.1", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.1", 
+                "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [], 
+        "Has subtitle": [
+            "Spare room in case we split up groups"
+        ], 
         "Is organized by": [
             {
-                "fulltext": "User:Ofosos", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Ofosos", 
+                "fulltext": "User:Obaz", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Obaz", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:UMT", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:UMT", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:CoopDot", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:CoopDot", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Beer Tasting"
+            "Queer Feminist Geeks Gathering"
         ], 
         "Has duration": [
-            180
+            90
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Beer_Tasting", 
-        "Has end time": []
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Queer_Feminist_Geeks_Gathering", 
+        "Has end time": [
+            "1482861600"
+        ]
     }, 
     "Session:3D scan yourself# 07fd3c770a47140f5c5c4fe19a8c3787": {
         "Held in language": [
@@ -1170,6 +1186,56 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:LearnToSolder", 
         "Has end time": [
             "1482969540"
+        ]
+    }, 
+    "Session:Beer Tasting# 346234651758343eab3f1f79d3b530fd": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482955200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://foodhackingbase.org/wiki/Beer_tasting_33c3"
+        ], 
+        "Has description": [
+            "We'll be tasting homebrewed and commercial beers."
+        ], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Foodhackingbase", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Foodhackingbase", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Ofosos", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Ofosos", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Beer Tasting"
+        ], 
+        "Has duration": [
+            180
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Beer_Tasting", 
+        "Has end time": [
+            "1482966000"
         ]
     }, 
     "Session:Engelmeeting# 8dfd36020c289da34158859546960fe4": {
@@ -2094,52 +2160,6 @@
         "Has end time": [
             "1482863400"
         ]
-    }, 
-    "Session:Off flavours in homebrewed beer# 4fb4bdacc6d5a57dcd56a1bde386975e": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://foodhackingbase.org/wiki/Off_flavours_33c3"
-        ], 
-        "Has description": [
-            "We'll have a Siebel off flavour kit for beer with us. You'll learn which off flavours you can perceive, what causes them, and how to remedy them."
-        ], 
-        "Has session type": [
-            "Hands-On"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:Foodhackingbase", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Foodhackingbase", 
-                "namespace": 504, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Ofosos", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Ofosos", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Off flavours in homebrewed beer"
-        ], 
-        "Has duration": [
-            120
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Off_flavours_in_homebrewed_beer", 
-        "Has end time": []
     }, 
     "Session:Freifunk und die VDS# 37384e1b9143d83deb07a78d113f2ea2": {
         "Held in language": [
@@ -3198,58 +3218,6 @@
         "Has end time": [
             "1482768000"
         ]
-    }, 
-    "Session:Brewing beer for beginners# f07c1f311878a4d587c0408183e05ad2": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://foodhackingbase.org/wiki/Homebrewing_33c3"
-        ], 
-        "Has description": [
-            "A short 2 hour session introducing you to the basics of all grain brewing"
-        ], 
-        "Has session type": [
-            "Hands-On"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:Foodhackingbase", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Foodhackingbase", 
-                "namespace": 504, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Ofosos", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Ofosos", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:Helo", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Helo", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Brewing beer for beginners"
-        ], 
-        "Has duration": [
-            120
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Brewing_beer_for_beginners", 
-        "Has end time": []
     }, 
     "Session:Cyberthingy# ac3e137e198cda248c6f4d44bd664362": {
         "Held in language": [
@@ -5875,6 +5843,56 @@
             "1483026300"
         ]
     }, 
+    "Session:Off flavours in homebrewed beer# 06a0553985d2992394fd660075bbde7a": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482868800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://foodhackingbase.org/wiki/Off_flavours_33c3"
+        ], 
+        "Has description": [
+            "We'll have a Siebel off flavour kit for beer with us. You'll learn which off flavours you can perceive, what causes them, and how to remedy them."
+        ], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Foodhackingbase", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Foodhackingbase", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Ofosos", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Ofosos", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Off flavours in homebrewed beer"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Off_flavours_in_homebrewed_beer", 
+        "Has end time": [
+            "1482876000"
+        ]
+    }, 
     "Session:VOC Engelmeeting# 6fb34c92d05b83c60d241c1e8caeeeb0": {
         "Held in language": [
             "en - English"
@@ -6033,6 +6051,62 @@
             "#0099ab"
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Boat_instruments_hacking", 
+        "Has end time": [
+            "1482940800"
+        ]
+    }, 
+    "Session:Brewing beer for beginners# eb4776d6275a8b61006251d6425bfcf8": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482933600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://foodhackingbase.org/wiki/Homebrewing_33c3"
+        ], 
+        "Has description": [
+            "A short 2 hour session introducing you to the basics of all grain brewing"
+        ], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Foodhackingbase", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Foodhackingbase", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Ofosos", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Ofosos", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Helo", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Helo", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Brewing beer for beginners"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Brewing_beer_for_beginners", 
         "Has end time": [
             "1482940800"
         ]
@@ -6804,68 +6878,6 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Skillconvention_a", 
         "Has end time": [
             "1482897600"
-        ]
-    }, 
-    "Session:Queer Feminist Geeks Gathering# 4a992d9add2bc71db38142ddb1e0d6c2": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1482856200"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "A meetup for all the queer feminist geek folk.\n\nWe will talk a bit about our assembly and what we are doing there, exchange projects and ideas, and network with each other. This meetup is open to people of all genders, but please be mindful of how much space you are taking up. Especially if you are white, male, straight and cis, please try to actively listen instead of talking. \n\nThis is our Code of Conduct: https://events.ccc.de/congress/2015/wiki/Projects:Code_of_Conduct_of_the_Queer_Feminist_Geek_Assembly"
-        ], 
-        "Has session type": [
-            "Meeting"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall C.1", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.1", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Spare room in case we split up groups"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Obaz", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Obaz", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:UMT", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:UMT", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:CoopDot", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:CoopDot", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Queer Feminist Geeks Gathering"
-        ], 
-        "Has duration": [
-            90
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Queer_Feminist_Geeks_Gathering", 
-        "Has end time": [
-            "1482861600"
         ]
     }, 
     "Session:How to Make Humanoid Robots# 539cdd3e3d798ac3c3fe23c8b7003ee8": {
