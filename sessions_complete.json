@@ -2746,6 +2746,58 @@
             "1483030800"
         ]
     }, 
+    "Session:Stage Manager Angel Introduction# 24d51cd703f53fb90adff0184890fcf9": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482958800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://events.ccc.de/congress/2016/wiki/Static:Stage_manager"
+        ], 
+        "Has description": [
+            "Stage Managers are responsible for a specific lecture hall (Saal) and all the talks within a 4 hour time slot. In short, stage managers make sure the talks go as smoothly as possible, including technical issues and crowd management.\n\nDuring this Session we will introduce you to your dutys as a stage manager and teach you all that you need to know to make the Talks during 33c3 run as smoothly as possible."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall A.1", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Day2 Introduction Stagemanagers"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Ijon", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Ijon", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Stage Manager Angel Introduction"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Stage_Manager_Angel_Introduction", 
+        "Has end time": [
+            "1482962400"
+        ]
+    }, 
     "Session:News vom F\u00f6rderverein freie Netzwerke e.V.# 56ff46ced39928531e7ac137a32313ed": {
         "Held in language": [
             "de - German"
@@ -4636,6 +4688,54 @@
             "1483038000"
         ]
     }, 
+    "Session:Create a rocket and reach orbit# e19e34c368150d9cba739e887820201e": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1483041600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Want to build it and search for people to collaborate"
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall C.2", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.2", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:D\u00f6rthe", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:D%C3%B6rthe", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Create a rocket and reach orbit"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Create_a_rocket_and_reach_orbit", 
+        "Has end time": [
+            "1483047000"
+        ]
+    }, 
     "Session:Surface Mount Electronics Assembly for Terrified Beginners# 458f6f7faeda7724ed8eb3f48713d4b9": {
         "Held in language": [
             "en - English"
@@ -6363,6 +6463,58 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
             "1482956100"
+        ]
+    }, 
+    "Session:Stage Manager Angel Introduction# 391e226a6dc0aa72ad5b79b718ed0cfa": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1483038000"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://events.ccc.de/congress/2016/wiki/Static:Stage_manager"
+        ], 
+        "Has description": [
+            "Stage Managers are responsible for a specific lecture hall (Saal) and all the talks within a 4 hour time slot. In short, stage managers make sure the talks go as smoothly as possible, including technical issues and crowd management.\n\nDuring this Session we will introduce you to your dutys as a stage manager and teach you all that you need to know to make the Talks during 33c3 run as smoothly as possible."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall A.1", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Day3 Introduction Stagemanagers"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Ijon", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Ijon", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Stage Manager Angel Introduction"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Stage_Manager_Angel_Introduction", 
+        "Has end time": [
+            "1483041600"
         ]
     }, 
     "Session:DSM, EIF, RED: Acronyms on the EU level and why they matter for software freedom# 7445ce4e0e403f70db3ba261dbd68684": {
@@ -9009,55 +9161,56 @@
             "1482879600"
         ]
     }, 
-    "Session:Wordclock# b1382fa6ee8217cf189b843ec5e06c5f": {
-        "Held in language": [], 
+    "Session:Stage Manager Angel Introduction# b307eb1374397a283ecc01b65c350c24": {
+        "Held in language": [
+            "en - English"
+        ], 
         "Has start time": [
-            "1482955200"
+            "1482786000"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [
-            "https://github.com/fablabnbg/OpenWordClock", 
-            "http://imgur.com/a/oHxLx"
+            "https://events.ccc.de/congress/2016/wiki/Static:Stage_manager"
         ], 
         "Has description": [
-            "Wir bauen wieder Wordclocks.\nBitte unbedingt vorher per mail an fabian@fabmail.org registrieren, da die Teilnehmerzahl auf 15 Personen beschr\u00e4nkt ist."
+            "Stage Managers are responsible for a specific lecture hall (Saal) and all the talks within a 4 hour time slot. In short, stage managers make sure the talks go as smoothly as possible, including technical issues and crowd management.\n\nDuring this Session we will introduce you to your dutys as a stage manager and teach you all that you need to know to make the Talks during 33c3 run as smoothly as possible."
         ], 
         "Has session type": [
             "Workshop"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall C.3", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.3", 
+                "fulltext": "Room:Hall A.1", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [
-            "Workshop2"
+            "Day0 Introduction Stagemanager and Heralds"
         ], 
         "Is organized by": [
             {
-                "fulltext": "User:Fabianurban", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Fabianurban", 
+                "fulltext": "User:Ijon", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Ijon", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Wordclock"
+            "Stage Manager Angel Introduction"
         ], 
         "Has duration": [
-            180
+            60
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Wordclock", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Stage_Manager_Angel_Introduction", 
         "Has end time": [
-            "1482966000"
+            "1482789600"
         ]
     }, 
     "Session:Engelmeeting# 7609f4184e8e8b2c2145f6a02bb27577": {
@@ -9304,56 +9457,55 @@
             "1482894000"
         ]
     }, 
-    "Session:Stage Manager Angel Introduction# ae9d165d452436b6ea7bd4cc648e81ef": {
-        "Held in language": [
-            "en - English"
-        ], 
+    "Session:Wordclock# b1382fa6ee8217cf189b843ec5e06c5f": {
+        "Held in language": [], 
         "Has start time": [
-            "1482782400"
+            "1482955200"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [
-            "https://events.ccc.de/congress/2016/wiki/Static:Stage_manager"
+            "https://github.com/fablabnbg/OpenWordClock", 
+            "http://imgur.com/a/oHxLx"
         ], 
         "Has description": [
-            "Stage Managers are responsible for a specific lecture hall (Saal) and all the talks within a 4 hour time slot. In short, stage managers make sure the talks go as smoothly as possible, including technical issues and crowd management.\n\nDuring this Session we will introduce you to your dutys as a stage manager and teach you all that you need to know to make the Talks during 33c3 run as smoothly as possible."
+            "Wir bauen wieder Wordclocks.\nBitte unbedingt vorher per mail an fabian@fabmail.org registrieren, da die Teilnehmerzahl auf 15 Personen beschr\u00e4nkt ist."
         ], 
         "Has session type": [
             "Workshop"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall A.1", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
+                "fulltext": "Room:Hall C.3", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.3", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [
-            "Day0 Introduction Stagemanager and Heralds"
+            "Workshop2"
         ], 
         "Is organized by": [
             {
-                "fulltext": "User:Ijon", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Ijon", 
+                "fulltext": "User:Fabianurban", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Fabianurban", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Stage Manager Angel Introduction"
+            "Wordclock"
         ], 
         "Has duration": [
-            60
+            180
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Stage_Manager_Angel_Introduction", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Wordclock", 
         "Has end time": [
-            "1482786000"
+            "1482966000"
         ]
     }, 
     "Session:An UnCivilization Commune ReWilded Life Shared with Squirrels# dd95e8a0bc6dcebefc291461f0a81cfe": {
@@ -9800,41 +9952,6 @@
         "Has end time": [
             "1483056000"
         ]
-    }, 
-    "Session:Create a rocket and reach orbit# 63393b4b046db88d07d7d5dbeaff0c81": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Want to build it and search for people to collaborate"
-        ], 
-        "Has session type": [
-            "Meeting"
-        ], 
-        "Has session location": [], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:D\u00f6rthe", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:D%C3%B6rthe", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Create a rocket and reach orbit"
-        ], 
-        "Has duration": [], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Create_a_rocket_and_reach_orbit", 
-        "Has end time": []
     }, 
     "Session:Owasp Bug Bounty# 186e762ec645a2d469aae8b1b8a1301e": {
         "Held in language": [
