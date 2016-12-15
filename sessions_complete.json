@@ -8667,6 +8667,57 @@
             "1483061400"
         ]
     }, 
+    "Session:A walk through pEp's tech# 2736e16a7129c5876386de902485fd08": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482922800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://pep-project.org", 
+            "https://pep.foundation"
+        ], 
+        "Has description": [
+            "p\u2261p engine hackers show you the inner workings of the p\u2261p engine, the core which is used to drive the crypto used in p\u2261p, message transport and -- most importantly -- automatic key management and synchronization. In this session you also can get technical answers to questions concerning future developments of the p\u2261p technology."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall B", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_B", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Pf", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Pf", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "A walk through pEp's tech"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:A_walk_through_pEp%27s_tech", 
+        "Has end time": [
+            "1482930000"
+        ]
+    }, 
     "Session:Wikidata, the encyclopedia by bots, for bots# eb38492af6c27a43e14bfbed50abf298": {
         "Held in language": [
             "en - English"
@@ -9086,45 +9137,50 @@
             "1482948000"
         ]
     }, 
-    "Session:A walk through pEp's tech# f4013d51860c1fe0e23d3b5c09787be3": {
+    "Session:Klangteppich# f4c6067d7f0eb9f9ba91ccff12d54ad8": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482951600"
+            "1482872400"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "https://pep-project.org", 
-            "https://pep.foundation"
-        ], 
+        "Has website": [], 
         "Has description": [
-            "p\u2261p engine hackers show you the inner workings of the p\u2261p engine, the core which is used to drive the crypto used in p\u2261p, message transport and -- most importantly -- automatic key management and synchronization. In this session you also can get technical answers to questions concerning future developments of the p\u2261p technology."
+            "Come over and meet us at our cozy music lounge in hall 4! Proudly presented by Chaos West, c-base & friends"
         ], 
         "Has session type": [
-            "Workshop"
+            "Other"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall A.1", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
-                "namespace": 516, 
+                "fulltext": "Assembly:Chaos West", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Chaos_West", 
+                "namespace": 504, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [], 
+        "Has subtitle": [
+            "[[User:Bam|bam]] DJ set: Techno/Tech House/Deep Techno"
+        ], 
         "Is organized by": [
             {
-                "fulltext": "User:Pf", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Pf", 
+                "fulltext": "User:Bam", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Bam", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:JayDee2202", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:JayDee2202", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "A walk through pEp's tech"
+            "Klangteppich"
         ], 
         "Has duration": [
             120
@@ -9132,9 +9188,9 @@
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:A_walk_through_pEp%27s_tech", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Klangteppich", 
         "Has end time": [
-            "1482958800"
+            "1482879600"
         ]
     }, 
     "Session:Klangteppich# d87a6728697cb8bf22b7396a99683925": {
@@ -10447,62 +10503,6 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Fiction_Writers%27_Session", 
         "Has end time": [
             "1482863400"
-        ]
-    }, 
-    "Session:Klangteppich# f4c6067d7f0eb9f9ba91ccff12d54ad8": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1482872400"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Come over and meet us at our cozy music lounge in hall 4! Proudly presented by Chaos West, c-base & friends"
-        ], 
-        "Has session type": [
-            "Other"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:Chaos West", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Chaos_West", 
-                "namespace": 504, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "[[User:Bam|bam]] DJ set: Techno/Tech House/Deep Techno"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Bam", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Bam", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:JayDee2202", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:JayDee2202", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Klangteppich"
-        ], 
-        "Has duration": [
-            120
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Klangteppich", 
-        "Has end time": [
-            "1482879600"
         ]
     }, 
     "Session:Translation meetings# 415473cd68f9363bb56f229dfd94bb7b": {
