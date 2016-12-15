@@ -4698,7 +4698,9 @@
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
+        "Has website": [
+            "http://animamundi.blogsport.de"
+        ], 
         "Has description": [
             "Want to build it and search for people to collaborate"
         ], 
