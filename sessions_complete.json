@@ -506,56 +506,6 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:%22My%22_software,_like_%22my%22_hand_or_like_%22my_car%22%3F", 
         "Has end time": []
     }, 
-    "Session:Surface Mount Electronics Assembly for Terrified Beginners# 820ef8c10ff8c89f2562b4268804af07": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1482843600"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90mins, 20\u20ac/kit, avoid caffeine immediately before."
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:HardwareHackingArea", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:HardwareHackingArea", 
-                "namespace": 504, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Day 1 - Session 1"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Kliment", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Kliment", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Surface Mount Electronics Assembly for Terrified Beginners"
-        ], 
-        "Has duration": [
-            90
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Surface_Mount_Electronics_Assembly_for_Terrified_Beginners", 
-        "Has end time": [
-            "1482849000"
-        ]
-    }, 
     "Session:Welcome & Icebreaker# 922bd001e8c83eae61feb66f52004d3b": {
         "Held in language": [
             "de - German"
@@ -3027,21 +2977,23 @@
             "1483020000"
         ]
     }, 
-    "Session:Translation meetings# 415473cd68f9363bb56f229dfd94bb7b": {
+    "Session:Pixel Art Workshop# f9594c5389f5af798acfa9766534b62a": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482937800"
+            "1482922800"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [
-            "The translation angels (interpreters) meet twice per day to self-organise (day 0, evening to day 4, afternoon)"
+            "You'll get an introduction to the techniques and principles of pixel art, as well as useful hints, learning resources and software recommendations. After that, we'll paint a few 16x16 pixel-sized pictures together. If you use Twitter, you'll like this format, as well! :)"
         ], 
-        "Has session type": [], 
+        "Has session type": [
+            "Workshop"
+        ], 
         "Has session location": [
             {
                 "fulltext": "Room:Hall 13-14", 
@@ -3050,29 +3002,27 @@
                 "exists": true
             }
         ], 
-        "Has subtitle": [
-            "day 2, afternoon meeting"
-        ], 
+        "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Sebalis", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Sebalis", 
+                "fulltext": "User:Blinry", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Blinry", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Translation meetings"
+            "Pixel Art Workshop"
         ], 
         "Has duration": [
-            50
+            90
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Translation_meetings", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Pixel_Art_Workshop", 
         "Has end time": [
-            "1482940800"
+            "1482928200"
         ]
     }, 
     "Session:Subtitles-Angelmeetings# 42856d8ba920f7d8a6ebcea3562fd048": {
@@ -3517,12 +3467,12 @@
             "1482865200"
         ]
     }, 
-    "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
+    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1483102800"
+            "1482764400"
         ], 
         "Has event track": [
             "Session"
@@ -3541,7 +3491,7 @@
             }
         ], 
         "Has subtitle": [
-            "Abbaumeeting"
+            "Introduction Meeting for new angels"
         ], 
         "Is organized by": [
             {
@@ -3562,7 +3512,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
-            "1483106400"
+            "1482768000"
         ]
     }, 
     "Session:Cyberthingy# ac3e137e198cda248c6f4d44bd664362": {
@@ -4060,54 +4010,6 @@
             "1483027200"
         ]
     }, 
-    "Session:Translation meetings# d18b6c2f9bccb7fcaae47ed524788ae1": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1482954000"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "The translation angels (interpreters) meet twice per day to self-organise (day 0, evening to day 4, afternoon)"
-        ], 
-        "Has session type": [], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall 13-14", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_13-14", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "day 2, evening meeting"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Sebalis", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Sebalis", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Translation meetings"
-        ], 
-        "Has duration": [
-            50
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Translation_meetings", 
-        "Has end time": [
-            "1482957000"
-        ]
-    }, 
     "Session:An UnCivilization Commune ReWilded Life Shared with Squirrels# a5a1f9f1e38b6dd01be85740aa155bc6": {
         "Held in language": [
             "en - English"
@@ -4260,52 +4162,47 @@
             "1483065000"
         ]
     }, 
-    "Session:Pixel Art Workshop# f9594c5389f5af798acfa9766534b62a": {
+    "Session:Hebocon Registration and testfights# c96f8241b40551474bf5e709887c4192": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482922800"
+            "1482854400"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [
-            "You'll get an introduction to the techniques and principles of pixel art, as well as useful hints, learning resources and software recommendations. After that, we'll paint a few 16x16 pixel-sized pictures together. If you use Twitter, you'll like this format, as well! :)"
+            "Before the Hebocon we will offer some space  build robots and we will do the official registration at the Aaaaaaaaaaaa Assembly."
         ], 
         "Has session type": [
-            "Workshop"
+            "Hands-On"
         ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall 13-14", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_13-14", 
-                "namespace": 516, 
-                "exists": true
-            }
+        "Has session location": [], 
+        "Has subtitle": [
+            "Hebocon Q&A"
         ], 
-        "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Blinry", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Blinry", 
+                "fulltext": "User:Konfusius", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Konfusius", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Pixel Art Workshop"
+            "Hebocon Registration and testfights"
         ], 
         "Has duration": [
-            90
+            15
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Pixel_Art_Workshop", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Hebocon_Registration_and_testfights", 
         "Has end time": [
-            "1482928200"
+            "1482855300"
         ]
     }, 
     "Session:Wizard of Berlin's Freifunk Firmware# 5c511c0633d1e142ab295af9eb175d0e": {
@@ -4391,44 +4288,44 @@
             "1482930000"
         ]
     }, 
-    "Session:GNUNet e.V. meeting# ee11e913b5d3cc454bc08e138bb2f129": {
+    "Session:Surface Mount Electronics Assembly for Terrified Beginners# 820ef8c10ff8c89f2562b4268804af07": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482953400"
+            "1482843600"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "http://gnunet.org"
-        ], 
+        "Has website": [], 
         "Has description": [
-            "GNUNet e.V. meeting"
+            "Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90mins, 20\u20ac/kit, avoid caffeine immediately before."
         ], 
         "Has session type": [
-            "Meeting"
+            "Workshop"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall A.1", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
-                "namespace": 516, 
+                "fulltext": "Assembly:HardwareHackingArea", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:HardwareHackingArea", 
+                "namespace": 504, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [], 
+        "Has subtitle": [
+            "Day 1 - Session 1"
+        ], 
         "Is organized by": [
             {
-                "fulltext": "User:Jeffburdges", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Jeffburdges", 
+                "fulltext": "User:Kliment", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Kliment", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "GNUNet e.V. meeting"
+            "Surface Mount Electronics Assembly for Terrified Beginners"
         ], 
         "Has duration": [
             90
@@ -4436,9 +4333,9 @@
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:GNUNet_e.V._meeting", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Surface_Mount_Electronics_Assembly_for_Terrified_Beginners", 
         "Has end time": [
-            "1482958800"
+            "1482849000"
         ]
     }, 
     "Session:Freifunk und die VDS# 10b605712408a3d3f69e1494a7fdbab1": {
@@ -4626,6 +4523,59 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Cyberthingy", 
         "Has end time": [
             "1483034400"
+        ]
+    }, 
+    "Session:We Fix the Net# 9020ba10c6f030e63b688282b87fcc4f": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482933600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://gnunet.org", 
+            "http://pep.foundation/"
+        ], 
+        "Has description": [
+            "We Fix the Net session will include talks on developing secure alternatives to current internet protocols.  We might hold an organized discussion or panel as well.  This session is organized by GNUnet and pEp, and acts as a successor to the YBTI sessions of previous years."
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall B", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_B", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Talks"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Jeffburdges", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Jeffburdges", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "We Fix the Net"
+        ], 
+        "Has duration": [
+            330
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:We_Fix_the_Net", 
+        "Has end time": [
+            "1482953400"
         ]
     }, 
     "Session:Skillconvention c# 15f21480446aabdd28aa3fe571253266": {
@@ -5362,62 +5312,6 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:SuSi-Angelmeetings", 
         "Has end time": [
             "1482954600"
-        ]
-    }, 
-    "Session:Klangteppich# ba7529daf8b70e5380bf765af6139348": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1482786000"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Come over and meet us at our cozy music lounge in hall 4! Proudly presented by Chaos West, c-base & friends"
-        ], 
-        "Has session type": [
-            "Other"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:Chaos West", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Chaos_West", 
-                "namespace": 504, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Couchsofa opening DJ set on day 0"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Bam", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Bam", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:JayDee2202", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:JayDee2202", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Klangteppich"
-        ], 
-        "Has duration": [
-            180
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Klangteppich", 
-        "Has end time": [
-            "1482796800"
         ]
     }, 
     "Session:Film-Blocker# e8e7292727500d0072186d9f2d0d0add": {
@@ -6983,6 +6877,56 @@
             "1482937200"
         ]
     }, 
+    "Session:GNUNet e.V. meeting# a376a8c202ba1afe7618297ae6054998": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482958800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://gnunet.org"
+        ], 
+        "Has description": [
+            "GNUNet e.V. meeting"
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall A.1", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Jeffburdges", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Jeffburdges", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "GNUNet e.V. meeting"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:GNUNet_e.V._meeting", 
+        "Has end time": [
+            "1482964200"
+        ]
+    }, 
     "Session:Translation meetings# 0a4fe5181783d435230396b59ecd3fe6": {
         "Held in language": [
             "en - English"
@@ -7242,30 +7186,31 @@
             "1482897600"
         ]
     }, 
-    "Session:A walk through pEp's tech# ad46e433c91a0bfa880b4f5684677345": {
+    "Session:How to Make Humanoid Robots# 539cdd3e3d798ac3c3fe23c8b7003ee8": {
         "Held in language": [
-            "en - English"
+            "de - German", 
+            "en - English", 
+            "fr - French"
         ], 
         "Has start time": [
-            "1482951600"
+            "1483023600"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [
-            "https://pep-project.org", 
-            "https://pep.foundation"
+            "http://bit-bots.de"
         ], 
         "Has description": [
-            "p\u2261p engine hackers show you the inner workings of the p\u2261p engine, the core which is used to drive the crypto used in p\u2261p, message transport and -- most importantly -- automatic key management and synchronization. In this session you also can get technical answers to questions concerning future developments of the p\u2261p technology."
+            "We will share our knowledge in making humanoid robots with you.\nThe workshop will cover mostly hardware but also software.\nWe will bring some of our robots with us for a hands on.\nIf you want you can also just stop by to ask questions.\nWe will speak mainly in English, but we speak also German and French."
         ], 
         "Has session type": [
             "Workshop"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall B", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_B", 
+                "fulltext": "Room:Hall C.1", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.1", 
                 "namespace": 516, 
                 "exists": true
             }
@@ -7273,24 +7218,24 @@
         "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Pf", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Pf", 
+                "fulltext": "User:SammyRamone", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:SammyRamone", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "A walk through pEp's tech"
+            "How to Make Humanoid Robots"
         ], 
         "Has duration": [
-            120
+            30
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:A_walk_through_pEp%27s_tech", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:How_to_Make_Humanoid_Robots", 
         "Has end time": [
-            "1482958800"
+            "1483025400"
         ]
     }, 
     "Session:Social Engineering Poetry Slam# 3b37eebbde0ae5877170aef80a7a1a7d": {
@@ -7928,52 +7873,52 @@
             "1482940800"
         ]
     }, 
-    "Session:Congress Everywhere Greet & Meet# 8e29236c487489222edba868ea0b4751": {
+    "Session:Translation meetings# d18b6c2f9bccb7fcaae47ed524788ae1": {
         "Held in language": [
-            "de - German"
+            "en - English"
         ], 
         "Has start time": [
-            "1482867000"
+            "1482954000"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [
-            "How to provide some congress feeling to your people at home ? \n\nCongress Everywhere events in hackerspaces usually happen at evening as public viewing of congress talks. Such a livestream-only link provides very limited \"congress feelings\". In your local timezone, the events do start with a major break, where no talk happens and therefore no livestream is sent out \n\nLet's fill this break with meet and greet between your congress site and your hackerspace at home.\n\nFor details how this might happen, see our last year session description\nhttps://events.ccc.de/congress/2015/wiki/Session:Congress_Everywhere_Breaktime"
+            "The translation angels (interpreters) meet twice per day to self-organise (day 0, evening to day 4, afternoon)"
         ], 
         "Has session type": [], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall A.1", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
+                "fulltext": "Room:Hall 13-14", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_13-14", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [
-            "Breaktime Day 1"
+            "day 2, evening meeting"
         ], 
         "Is organized by": [
             {
-                "fulltext": "User:Myon", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Myon", 
+                "fulltext": "User:Sebalis", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Sebalis", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Congress Everywhere Greet & Meet"
+            "Translation meetings"
         ], 
         "Has duration": [
-            60
+            50
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Congress_Everywhere_Greet_%26_Meet", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Translation_meetings", 
         "Has end time": [
-            "1482870600"
+            "1482957000"
         ]
     }, 
     "Session:Meine erste IFG-Anfrage# b8295aedc06cdac9061106f4fd8cd1cd": {
@@ -8681,59 +8626,6 @@
             "1483061400"
         ]
     }, 
-    "Session:We Fix the Net# 6e4bdaf45e4e94f8668e61a8877fb85d": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1482933600"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "http://gnunet.org", 
-            "http://pep.foundation/"
-        ], 
-        "Has description": [
-            "We Fix the Net session will include talks on developing secure alternatives to current internet protocols.  We might hold an organized discussion or panel as well.  This session is organized by GNUnet and pEp, and acts as a successor to the YBTI sessions of previous years."
-        ], 
-        "Has session type": [
-            "Talk"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall B", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_B", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Talks"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Jeffburdges", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Jeffburdges", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "We Fix the Net"
-        ], 
-        "Has duration": [
-            300
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:We_Fix_the_Net", 
-        "Has end time": [
-            "1482951600"
-        ]
-    }, 
     "Session:Wikidata, the encyclopedia by bots, for bots# eb38492af6c27a43e14bfbed50abf298": {
         "Held in language": [
             "en - English"
@@ -9157,50 +9049,45 @@
             "1482948000"
         ]
     }, 
-    "Session:Klangteppich# f4c6067d7f0eb9f9ba91ccff12d54ad8": {
+    "Session:A walk through pEp's tech# f4013d51860c1fe0e23d3b5c09787be3": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482872400"
+            "1482951600"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
+        "Has website": [
+            "https://pep-project.org", 
+            "https://pep.foundation"
+        ], 
         "Has description": [
-            "Come over and meet us at our cozy music lounge in hall 4! Proudly presented by Chaos West, c-base & friends"
+            "p\u2261p engine hackers show you the inner workings of the p\u2261p engine, the core which is used to drive the crypto used in p\u2261p, message transport and -- most importantly -- automatic key management and synchronization. In this session you also can get technical answers to questions concerning future developments of the p\u2261p technology."
         ], 
         "Has session type": [
-            "Other"
+            "Workshop"
         ], 
         "Has session location": [
             {
-                "fulltext": "Assembly:Chaos West", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Chaos_West", 
-                "namespace": 504, 
+                "fulltext": "Room:Hall A.1", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
+                "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [
-            "[[User:Bam|bam]] DJ set: Techno/Tech House/Deep Techno"
-        ], 
+        "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Bam", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Bam", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:JayDee2202", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:JayDee2202", 
+                "fulltext": "User:Pf", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Pf", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Klangteppich"
+            "A walk through pEp's tech"
         ], 
         "Has duration": [
             120
@@ -9208,9 +9095,9 @@
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Klangteppich", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:A_walk_through_pEp%27s_tech", 
         "Has end time": [
-            "1482879600"
+            "1482958800"
         ]
     }, 
     "Session:Klangteppich# d87a6728697cb8bf22b7396a99683925": {
@@ -9610,6 +9497,46 @@
             "1482966000"
         ]
     }, 
+    "Session:All Creatures Welcome# 937f2769fdc27fc22889f6e38e1a142c": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://www.sandratrostel.de"
+        ], 
+        "Has description": [], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall 13-14", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_13-14", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "introduction, q&a, discussion"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "All Creatures Welcome"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:All_Creatures_Welcome", 
+        "Has end time": []
+    }, 
     "Session:An UnCivilization Commune ReWilded Life Shared with Squirrels# dd95e8a0bc6dcebefc291461f0a81cfe": {
         "Held in language": [
             "en - English"
@@ -9816,56 +9743,60 @@
             "1483030800"
         ]
     }, 
-    "Session:How to Make Humanoid Robots# 539cdd3e3d798ac3c3fe23c8b7003ee8": {
+    "Session:Klangteppich# ba7529daf8b70e5380bf765af6139348": {
         "Held in language": [
-            "de - German", 
-            "en - English", 
-            "fr - French"
+            "en - English"
         ], 
         "Has start time": [
-            "1483023600"
+            "1482786000"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "http://bit-bots.de"
-        ], 
+        "Has website": [], 
         "Has description": [
-            "We will share our knowledge in making humanoid robots with you.\nThe workshop will cover mostly hardware but also software.\nWe will bring some of our robots with us for a hands on.\nIf you want you can also just stop by to ask questions.\nWe will speak mainly in English, but we speak also German and French."
+            "Come over and meet us at our cozy music lounge in hall 4! Proudly presented by Chaos West, c-base & friends"
         ], 
         "Has session type": [
-            "Workshop"
+            "Other"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall C.1", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.1", 
-                "namespace": 516, 
+                "fulltext": "Assembly:Chaos West", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Chaos_West", 
+                "namespace": 504, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [], 
+        "Has subtitle": [
+            "Couchsofa opening DJ set on day 0"
+        ], 
         "Is organized by": [
             {
-                "fulltext": "User:SammyRamone", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:SammyRamone", 
+                "fulltext": "User:Bam", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Bam", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:JayDee2202", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:JayDee2202", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "How to Make Humanoid Robots"
+            "Klangteppich"
         ], 
         "Has duration": [
-            30
+            180
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:How_to_Make_Humanoid_Robots", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Klangteppich", 
         "Has end time": [
-            "1483025400"
+            "1482796800"
         ]
     }, 
     "Session:Implications of the EU copyright reform on Free Software# 2e3ae7e1eed32991d1e513792a5bcc0e": {
@@ -10366,47 +10297,52 @@
             "1483119000"
         ]
     }, 
-    "Session:Hebocon Registration and testfights# c96f8241b40551474bf5e709887c4192": {
+    "Session:Congress Everywhere Greet & Meet# 8e29236c487489222edba868ea0b4751": {
         "Held in language": [
-            "en - English"
+            "de - German"
         ], 
         "Has start time": [
-            "1482854400"
+            "1482867000"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [
-            "Before the Hebocon we will offer some space  build robots and we will do the official registration at the Aaaaaaaaaaaa Assembly."
+            "How to provide some congress feeling to your people at home ? \n\nCongress Everywhere events in hackerspaces usually happen at evening as public viewing of congress talks. Such a livestream-only link provides very limited \"congress feelings\". In your local timezone, the events do start with a major break, where no talk happens and therefore no livestream is sent out \n\nLet's fill this break with meet and greet between your congress site and your hackerspace at home.\n\nFor details how this might happen, see our last year session description\nhttps://events.ccc.de/congress/2015/wiki/Session:Congress_Everywhere_Breaktime"
         ], 
-        "Has session type": [
-            "Hands-On"
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall A.1", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
+                "namespace": 516, 
+                "exists": true
+            }
         ], 
-        "Has session location": [], 
         "Has subtitle": [
-            "Hebocon Q&A"
+            "Breaktime Day 1"
         ], 
         "Is organized by": [
             {
-                "fulltext": "User:Konfusius", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Konfusius", 
+                "fulltext": "User:Myon", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Myon", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Hebocon Registration and testfights"
+            "Congress Everywhere Greet & Meet"
         ], 
         "Has duration": [
-            15
+            60
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Hebocon_Registration_and_testfights", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Congress_Everywhere_Greet_%26_Meet", 
         "Has end time": [
-            "1482855300"
+            "1482870600"
         ]
     }, 
     "Session:Introduction to Soy Bean Fermentation - Tempeh Making# 888bd7ac6bac7fad362323cf6d81eae6": {
@@ -10509,12 +10445,116 @@
             "1482863400"
         ]
     }, 
-    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
+    "Session:Klangteppich# f4c6067d7f0eb9f9ba91ccff12d54ad8": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482764400"
+            "1482872400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Come over and meet us at our cozy music lounge in hall 4! Proudly presented by Chaos West, c-base & friends"
+        ], 
+        "Has session type": [
+            "Other"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Chaos West", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Chaos_West", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "[[User:Bam|bam]] DJ set: Techno/Tech House/Deep Techno"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Bam", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Bam", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:JayDee2202", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:JayDee2202", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Klangteppich"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Klangteppich", 
+        "Has end time": [
+            "1482879600"
+        ]
+    }, 
+    "Session:Translation meetings# 415473cd68f9363bb56f229dfd94bb7b": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482937800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "The translation angels (interpreters) meet twice per day to self-organise (day 0, evening to day 4, afternoon)"
+        ], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall 13-14", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_13-14", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "day 2, afternoon meeting"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Sebalis", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Sebalis", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Translation meetings"
+        ], 
+        "Has duration": [
+            50
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Translation_meetings", 
+        "Has end time": [
+            "1482940800"
+        ]
+    }, 
+    "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1483102800"
         ], 
         "Has event track": [
             "Session"
@@ -10533,7 +10573,7 @@
             }
         ], 
         "Has subtitle": [
-            "Introduction Meeting for new angels"
+            "Abbaumeeting"
         ], 
         "Is organized by": [
             {
@@ -10554,7 +10594,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
-            "1482768000"
+            "1483106400"
         ]
     }, 
     "Session:Line-of-sight visualizer# 24d9aabcf7d4df6b349a03dbf75a5641": {
