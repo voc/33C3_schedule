@@ -274,6 +274,54 @@
             "1482944400"
         ]
     }, 
+    "Session:Congress Everywhere Greet & Meet# ef6bd521c843e42e986166371537e750": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1482865200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "How to provide some congress feeling to your people at home ? \n\nCongress Everywhere events in hackerspaces usually happen at evening as public viewing of congress talks. Such a livestream-only link provides very limited \"congress feelings\". In your local timezone, the events do start with a major break, where no talk happens and therefore no livestream is sent out \n\nLet's fill this break with meet and greet between your congress site and your hackerspace at home.\n\nFor details how this might happen, see our last year session description\nhttps://events.ccc.de/congress/2015/wiki/Session:Congress_Everywhere_Breaktime"
+        ], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall 13-14", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_13-14", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Breaktime Day 1"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Myon", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Myon", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Congress Everywhere Greet & Meet"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Congress_Everywhere_Greet_%26_Meet", 
+        "Has end time": [
+            "1482870600"
+        ]
+    }, 
     "Session:Kombucha is Easy# b420e1afed67fd5813b4fd66bebe4e66": {
         "Held in language": [
             "en - English"
@@ -2159,52 +2207,6 @@
             "1482933600"
         ]
     }, 
-    "Session:Congress Everywhere Greet & Meet# 32af953b4fc174bee84c7633b704e6b2": {
-        "Held in language": [
-            "de - German"
-        ], 
-        "Has start time": [], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "How to provide some congress feeling to your people at home ? \n\nCongress Everywhere events in hackerspaces usually happen at evening as public viewing of congress talks. Such a livestream-only link provides very limited \"congress feelings\". In your local timezone, the events do start with a major break, where no talk happens and therefore no livestream is sent out \n\nLet's fill this break with meet and greet between your congress site and your hackerspace at home.\n\nFor details how this might happen, see our last year session description\nhttps://events.ccc.de/congress/2015/wiki/Session:Congress_Everywhere_Breaktime"
-        ], 
-        "Has session type": [], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:CCCFr", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:CCCFr", 
-                "namespace": 504, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Breaktime Day 1"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Myon", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Myon", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Congress Everywhere Greet & Meet"
-        ], 
-        "Has duration": [
-            90
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Congress_Everywhere_Greet_%26_Meet", 
-        "Has end time": [
-            "1482870600"
-        ]
-    }, 
     "Session:Gender diversity in the Free Software community# 222753fa4ab554d18d3b16a66070f707": {
         "Held in language": [
             "en - English"
@@ -3363,12 +3365,12 @@
             "1482865200"
         ]
     }, 
-    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
+    "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482764400"
+            "1483102800"
         ], 
         "Has event track": [
             "Session"
@@ -3387,7 +3389,7 @@
             }
         ], 
         "Has subtitle": [
-            "Introduction Meeting for new angels"
+            "Abbaumeeting"
         ], 
         "Is organized by": [
             {
@@ -3408,7 +3410,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
-            "1482768000"
+            "1483106400"
         ]
     }, 
     "Session:Cyberthingy# ac3e137e198cda248c6f4d44bd664362": {
@@ -5697,6 +5699,54 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Haftung_f%C3%BCr_Devices_und_Software_gestalten", 
         "Has end time": [
             "1482955200"
+        ]
+    }, 
+    "Session:Congress Everywhere Greet & Meet# 207b06b694e9f2456bb9936fba148278": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1482951600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "How to provide some congress feeling to your people at home ? \n\nCongress Everywhere events in hackerspaces usually happen at evening as public viewing of congress talks. Such a livestream-only link provides very limited \"congress feelings\". In your local timezone, the events do start with a major break, where no talk happens and therefore no livestream is sent out \n\nLet's fill this break with meet and greet between your congress site and your hackerspace at home.\n\nFor details how this might happen, see our last year session description\nhttps://events.ccc.de/congress/2015/wiki/Session:Congress_Everywhere_Breaktime"
+        ], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall F", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_F", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Breaktime Day 2"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Myon", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Myon", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Congress Everywhere Greet & Meet"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Congress_Everywhere_Greet_%26_Meet", 
+        "Has end time": [
+            "1482957000"
         ]
     }, 
     "Session:An UnCivilization Commune ReWilded Life Shared with Squirrels# d87ba7a616616f20f5c0ae80deb957d5": {
@@ -8020,54 +8070,6 @@
             "1483112700"
         ]
     }, 
-    "Session:Congress Everywhere Greet & Meet# 715c0e572cc0f9d91142e1cbfed782f7": {
-        "Held in language": [
-            "de - German"
-        ], 
-        "Has start time": [
-            "1482951600"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "How to provide some congress feeling to your people at home ? \n\nCongress Everywhere events in hackerspaces usually happen at evening as public viewing of congress talks. Such a livestream-only link provides very limited \"congress feelings\". In your local timezone, the events do start with a major break, where no talk happens and therefore no livestream is sent out \n\nLet's fill this break with meet and greet between your congress site and your hackerspace at home.\n\nFor details how this might happen, see our last year session description\nhttps://events.ccc.de/congress/2015/wiki/Session:Congress_Everywhere_Breaktime"
-        ], 
-        "Has session type": [], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:CCCFr", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:CCCFr", 
-                "namespace": 504, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Breaktime Day 2"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Myon", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Myon", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Congress Everywhere Greet & Meet"
-        ], 
-        "Has duration": [
-            90
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Congress_Everywhere_Greet_%26_Meet", 
-        "Has end time": [
-            "1482957000"
-        ]
-    }, 
     "Session:PCB design for beginners using KiCad# 879d60a3732c2a57d7135e0054308fdf": {
         "Held in language": [
             "en - English"
@@ -10149,12 +10151,12 @@
             "1482863400"
         ]
     }, 
-    "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
+    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1483102800"
+            "1482764400"
         ], 
         "Has event track": [
             "Session"
@@ -10173,7 +10175,7 @@
             }
         ], 
         "Has subtitle": [
-            "Abbaumeeting"
+            "Introduction Meeting for new angels"
         ], 
         "Is organized by": [
             {
@@ -10194,7 +10196,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
-            "1483106400"
+            "1482768000"
         ]
     }, 
     "Session:Line-of-sight visualizer# 24d9aabcf7d4df6b349a03dbf75a5641": {
