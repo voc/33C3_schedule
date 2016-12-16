@@ -9,7 +9,7 @@
   </conference>
   <day date="2016-12-26" index="1" end="2016-12-27T04:00:00+01:00" start="2016-12-26T06:00:00+01:00">
     <room name="Hall C.1">
-      <event id="1146" guid="343a8aace7d1623c8e8956a076f9fea8">
+      <event id="1147" guid="343a8aace7d1623c8e8956a076f9fea8">
         <logo/>
         <date>2016-12-26T21:00:00+01:00</date>
         <start>21:00</start>
@@ -275,7 +275,7 @@ This is our Code of Conduct: https://events.ccc.de/congress/2015/wiki/Projects:C
           <link>https://events.ccc.de/congress/2016/wiki/Session:Queer_Feminist_Geeks_Gathering</link>
         </links>
       </event>
-      <event id="1147" guid="eadeae943acf78b348bef9d2bde23827">
+      <event id="1143" guid="eadeae943acf78b348bef9d2bde23827">
         <logo/>
         <date>2016-12-27T19:30:00+01:00</date>
         <start>19:30</start>
@@ -295,31 +295,6 @@ This is our Code of Conduct: https://events.ccc.de/congress/2015/wiki/Projects:C
         <links>
           <link>https://c3subtitles.de/</link>
           <link>https://events.ccc.de/congress/2016/wiki/Session:SuSi-Angelmeetings</link>
-        </links>
-      </event>
-      <event id="1148" guid="42856d8ba920f7d8a6ebcea3562fd048">
-        <logo/>
-        <date>2016-12-27T15:15:00+01:00</date>
-        <start>15:15</start>
-        <duration>0:30</duration>
-        <room>Hall C.1</room>
-        <slug/>
-        <title>Subtitles-Angelmeetings</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>meeting</type>
-        <language>en</language>
-        <abstract/>
-        <description>The Angelmeeting for the subtitles Angels.
-If you want to be approved as a subtitles Angel, please visit!
-If you are one already, this is the easiest way to meet and manage shifts etc.
-Welcome to the Subtitles Angelmeeting!</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2016/wiki/User:Cube">Cube</person>
-        </persons>
-        <links>
-          <link>https://c3subtitles.de/</link>
-          <link>https://events.ccc.de/congress/2016/wiki/Session:Subtitles-Angelmeetings</link>
         </links>
       </event>
     </room>
@@ -885,6 +860,31 @@ During this Session we will introduce you to your dutys as a stage manager and t
         <links>
           <link>https://events.ccc.de/congress/2016/wiki/Static:Stage_manager</link>
           <link>https://events.ccc.de/congress/2016/wiki/Session:Stage_Manager_Angel_Introduction</link>
+        </links>
+      </event>
+      <event id="1148" guid="33d15813452eabff67587b00e4525369">
+        <logo/>
+        <date>2016-12-27T15:15:00+01:00</date>
+        <start>15:15</start>
+        <duration>0:30</duration>
+        <room>Hall A.1</room>
+        <slug/>
+        <title>Subtitles-Angelmeetings</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description>The Angelmeeting for the subtitles Angels.
+If you want to be approved as a subtitles Angel, please visit!
+If you are one already, this is the easiest way to meet and manage shifts etc.
+Welcome to the Subtitles Angelmeeting!</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2016/wiki/User:Cube">Cube</person>
+        </persons>
+        <links>
+          <link>https://c3subtitles.de/</link>
+          <link>https://events.ccc.de/congress/2016/wiki/Session:Subtitles-Angelmeetings</link>
         </links>
       </event>
     </room>
@@ -1518,7 +1518,7 @@ Looking forward to see you there and as a future contributor. ;)</description>
           <link>https://events.ccc.de/congress/2016/wiki/Session:Radio_Lockdown:_Community_WiFis_unite!</link>
         </links>
       </event>
-      <event id="1143" guid="da07397031c03293fbe740e60de1d900">
+      <event id="1144" guid="da07397031c03293fbe740e60de1d900">
         <logo/>
         <date>2016-12-28T19:30:00+01:00</date>
         <start>19:30</start>
@@ -2110,7 +2110,7 @@ During this Session we will introduce you to your dutys as a stage manager and t
           <link>https://events.ccc.de/congress/2016/wiki/Session:Stage_Manager_Angel_Introduction</link>
         </links>
       </event>
-      <event id="1149" guid="3f394b79cf5c8d868ddc732d38346a06">
+      <event id="1150" guid="3f394b79cf5c8d868ddc732d38346a06">
         <logo/>
         <date>2016-12-28T15:15:00+01:00</date>
         <start>15:15</start>
@@ -2489,7 +2489,7 @@ A talk postulating a new type of hacker, the 'Eris': a blackhat sociologist who 
           <link>https://events.ccc.de/congress/2016/wiki/Session:Numerical_Weather_Prediction_Tutorial</link>
         </links>
       </event>
-      <event id="1144" guid="d00c1c245094b81ef14225970bc1d86f">
+      <event id="1145" guid="d00c1c245094b81ef14225970bc1d86f">
         <logo/>
         <date>2016-12-29T19:30:00+01:00</date>
         <start>19:30</start>
@@ -2658,6 +2658,31 @@ A talk postulating a new type of hacker, the 'Eris': a blackhat sociologist who 
           <link>https://events.ccc.de/congress/2016/wiki/Session:Kurzfilm-Screening:_%2261-Tage%22_Deutschland_auf_der_Flucht</link>
         </links>
       </event>
+      <event id="1149" guid="f48797b83b3006b88510ce3136aec9e2">
+        <logo/>
+        <date>2016-12-29T15:15:00+01:00</date>
+        <start>15:15</start>
+        <duration>0:30</duration>
+        <room>Hall F</room>
+        <slug/>
+        <title>Subtitles-Angelmeetings</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description>The Angelmeeting for the subtitles Angels.
+If you want to be approved as a subtitles Angel, please visit!
+If you are one already, this is the easiest way to meet and manage shifts etc.
+Welcome to the Subtitles Angelmeeting!</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2016/wiki/User:Cube">Cube</person>
+        </persons>
+        <links>
+          <link>https://c3subtitles.de/</link>
+          <link>https://events.ccc.de/congress/2016/wiki/Session:Subtitles-Angelmeetings</link>
+        </links>
+      </event>
     </room>
     <room name="Hall 13-14">
       <event id="1019" guid="0043166f5c425145741cb5a178a7ac3c">
@@ -2751,10 +2776,10 @@ Greta Do&#231;i is an ICT engineer, active in Wikimedia and the Albanian open so
           <link>https://events.ccc.de/congress/2016/wiki/Session:Meine_erste_IFG-Anfrage</link>
         </links>
       </event>
-      <event id="1133" guid="a1496422476dce53d2f614263adbeeca">
+      <event id="1133" guid="e359d1f9d3b1ca042ad6170cb80f550f">
         <logo/>
-        <date>2016-12-30T01:30:00+01:00</date>
-        <start>01:30</start>
+        <date>2016-12-30T00:30:00+01:00</date>
+        <start>00:30</start>
         <duration>1:00</duration>
         <room>Hall 13-14</room>
         <slug/>
@@ -2773,10 +2798,10 @@ Greta Do&#231;i is an ICT engineer, active in Wikimedia and the Albanian open so
           <link>https://events.ccc.de/congress/2016/wiki/Session:Skillconvention_c</link>
         </links>
       </event>
-      <event id="1134" guid="e359d1f9d3b1ca042ad6170cb80f550f">
+      <event id="1135" guid="a1496422476dce53d2f614263adbeeca">
         <logo/>
-        <date>2016-12-30T00:30:00+01:00</date>
-        <start>00:30</start>
+        <date>2016-12-30T01:30:00+01:00</date>
+        <start>01:30</start>
         <duration>1:00</duration>
         <room>Hall 13-14</room>
         <slug/>
@@ -2958,7 +2983,7 @@ How might the future be looking with the recent work by W3C Social WG.</descript
           <link>https://events.ccc.de/congress/2016/wiki/Session:PoParty</link>
         </links>
       </event>
-      <event id="1135" guid="15f21480446aabdd28aa3fe571253266">
+      <event id="1134" guid="15f21480446aabdd28aa3fe571253266">
         <logo/>
         <date>2016-12-30T00:30:00+01:00</date>
         <start>00:30</start>
@@ -3002,31 +3027,6 @@ During this Session we will introduce you to your dutys as a stage manager and t
         <links>
           <link>https://events.ccc.de/congress/2016/wiki/Static:Stage_manager</link>
           <link>https://events.ccc.de/congress/2016/wiki/Session:Stage_Manager_Angel_Introduction</link>
-        </links>
-      </event>
-      <event id="1150" guid="6b90cd14b0dcbff0b46962e9b0795c8c">
-        <logo/>
-        <date>2016-12-29T15:15:00+01:00</date>
-        <start>15:15</start>
-        <duration>0:30</duration>
-        <room>Hall A.1</room>
-        <slug/>
-        <title>Subtitles-Angelmeetings</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>meeting</type>
-        <language>en</language>
-        <abstract/>
-        <description>The Angelmeeting for the subtitles Angels.
-If you want to be approved as a subtitles Angel, please visit!
-If you are one already, this is the easiest way to meet and manage shifts etc.
-Welcome to the Subtitles Angelmeeting!</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2016/wiki/User:Cube">Cube</person>
-        </persons>
-        <links>
-          <link>https://c3subtitles.de/</link>
-          <link>https://events.ccc.de/congress/2016/wiki/Session:Subtitles-Angelmeetings</link>
         </links>
       </event>
       <event id="1163" guid="617e0bf9881e170e3d7330509bbb1112">
@@ -3185,7 +3185,7 @@ we would like to set up an neuropil network together with the participants and t
           <link>https://events.ccc.de/congress/2016/wiki/Session:Neuropil</link>
         </links>
       </event>
-      <event id="1145" guid="61eb65e61b717da207194923b8b9fdb3">
+      <event id="1146" guid="61eb65e61b717da207194923b8b9fdb3">
         <logo/>
         <date>2016-12-30T11:00:00+01:00</date>
         <start>11:00</start>

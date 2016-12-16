@@ -1647,6 +1647,31 @@ During this Session we will introduce you to your dutys as a stage manager and t
           <link>https://events.ccc.de/congress/2016/wiki/Session:Stage_Manager_Angel_Introduction</link>
         </links>
       </event>
+      <event id="1148" guid="33d15813452eabff67587b00e4525369">
+        <logo/>
+        <date>2016-12-27T15:15:00+01:00</date>
+        <start>15:15</start>
+        <duration>0:30</duration>
+        <room>Hall A.1</room>
+        <slug/>
+        <title>Subtitles-Angelmeetings</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description>The Angelmeeting for the subtitles Angels.
+If you want to be approved as a subtitles Angel, please visit!
+If you are one already, this is the easiest way to meet and manage shifts etc.
+Welcome to the Subtitles Angelmeeting!</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2016/wiki/User:Cube">Cube</person>
+        </persons>
+        <links>
+          <link>https://c3subtitles.de/</link>
+          <link>https://events.ccc.de/congress/2016/wiki/Session:Subtitles-Angelmeetings</link>
+        </links>
+      </event>
     </room>
     <room name="Hall A.2"/>
     <room name="Hall B">
@@ -1865,7 +1890,7 @@ This is our Code of Conduct: https://events.ccc.de/congress/2015/wiki/Projects:C
           <link>https://events.ccc.de/congress/2016/wiki/Session:Queer_Feminist_Geeks_Gathering</link>
         </links>
       </event>
-      <event id="1147" guid="eadeae943acf78b348bef9d2bde23827">
+      <event id="1143" guid="eadeae943acf78b348bef9d2bde23827">
         <logo/>
         <date>2016-12-27T19:30:00+01:00</date>
         <start>19:30</start>
@@ -1885,31 +1910,6 @@ This is our Code of Conduct: https://events.ccc.de/congress/2015/wiki/Projects:C
         <links>
           <link>https://c3subtitles.de/</link>
           <link>https://events.ccc.de/congress/2016/wiki/Session:SuSi-Angelmeetings</link>
-        </links>
-      </event>
-      <event id="1148" guid="42856d8ba920f7d8a6ebcea3562fd048">
-        <logo/>
-        <date>2016-12-27T15:15:00+01:00</date>
-        <start>15:15</start>
-        <duration>0:30</duration>
-        <room>Hall C.1</room>
-        <slug/>
-        <title>Subtitles-Angelmeetings</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>meeting</type>
-        <language>en</language>
-        <abstract/>
-        <description>The Angelmeeting for the subtitles Angels.
-If you want to be approved as a subtitles Angel, please visit!
-If you are one already, this is the easiest way to meet and manage shifts etc.
-Welcome to the Subtitles Angelmeeting!</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2016/wiki/User:Cube">Cube</person>
-        </persons>
-        <links>
-          <link>https://c3subtitles.de/</link>
-          <link>https://events.ccc.de/congress/2016/wiki/Session:Subtitles-Angelmeetings</link>
         </links>
       </event>
     </room>
@@ -2505,7 +2505,7 @@ Expect a presentation, demonstration and then discussion to share ideas.</descri
           <link>https://events.ccc.de/congress/2016/wiki/Session:LearnToSolder</link>
         </links>
       </event>
-      <event id="1153" guid="a01901e1604e2bda7e4405917a4e766b">
+      <event id="1154" guid="a01901e1604e2bda7e4405917a4e766b">
         <logo/>
         <date>2016-12-27T15:00:00+01:00</date>
         <start>15:00</start>
@@ -2547,7 +2547,7 @@ Expect a presentation, demonstration and then discussion to share ideas.</descri
           <link>https://events.ccc.de/congress/2016/wiki/Session:Surface_Mount_Electronics_Assembly_for_Terrified_Beginners</link>
         </links>
       </event>
-      <event id="1161" guid="820ef8c10ff8c89f2562b4268804af07">
+      <event id="1162" guid="820ef8c10ff8c89f2562b4268804af07">
         <logo/>
         <date>2016-12-27T13:00:00+01:00</date>
         <start>13:00</start>
@@ -4042,7 +4042,7 @@ During this Session we will introduce you to your dutys as a stage manager and t
           <link>https://events.ccc.de/congress/2016/wiki/Session:Stage_Manager_Angel_Introduction</link>
         </links>
       </event>
-      <event id="1149" guid="3f394b79cf5c8d868ddc732d38346a06">
+      <event id="1150" guid="3f394b79cf5c8d868ddc732d38346a06">
         <logo/>
         <date>2016-12-28T15:15:00+01:00</date>
         <start>15:15</start>
@@ -4782,7 +4782,7 @@ Looking forward to see you there and as a future contributor. ;)</description>
           <link>https://events.ccc.de/congress/2016/wiki/Session:Radio_Lockdown:_Community_WiFis_unite!</link>
         </links>
       </event>
-      <event id="1143" guid="da07397031c03293fbe740e60de1d900">
+      <event id="1144" guid="da07397031c03293fbe740e60de1d900">
         <logo/>
         <date>2016-12-28T19:30:00+01:00</date>
         <start>19:30</start>
@@ -5314,15 +5314,15 @@ This workshop will be given twice&lt;br /&gt;(both identical):&lt;br /&gt;
           <link>https://events.ccc.de/congress/2016/wiki/Session:LearnToSolder</link>
         </links>
       </event>
-      <event id="1158" guid="355c17455570d5dcd171a0a3ffdb2c05">
+      <event id="1153" guid="2c66a4829556ad08c8f7b6d8fd68e204">
         <logo/>
-        <date>2016-12-28T16:30:00+01:00</date>
-        <start>16:30</start>
+        <date>2016-12-28T18:30:00+01:00</date>
+        <start>18:30</start>
         <duration>1:30</duration>
         <room>Assembly:HardwareHackingArea</room>
         <slug/>
         <title>Surface Mount Electronics Assembly for Terrified Beginners</title>
-        <subtitle>Day 2 - Session 1</subtitle>
+        <subtitle>Day 2 - Session 2</subtitle>
         <track>self organized sessions</track>
         <type>workshop</type>
         <language>en</language>
@@ -5335,15 +5335,15 @@ This workshop will be given twice&lt;br /&gt;(both identical):&lt;br /&gt;
           <link>https://events.ccc.de/congress/2016/wiki/Session:Surface_Mount_Electronics_Assembly_for_Terrified_Beginners</link>
         </links>
       </event>
-      <event id="1159" guid="2c66a4829556ad08c8f7b6d8fd68e204">
+      <event id="1161" guid="355c17455570d5dcd171a0a3ffdb2c05">
         <logo/>
-        <date>2016-12-28T18:30:00+01:00</date>
-        <start>18:30</start>
+        <date>2016-12-28T16:30:00+01:00</date>
+        <start>16:30</start>
         <duration>1:30</duration>
         <room>Assembly:HardwareHackingArea</room>
         <slug/>
         <title>Surface Mount Electronics Assembly for Terrified Beginners</title>
-        <subtitle>Day 2 - Session 2</subtitle>
+        <subtitle>Day 2 - Session 1</subtitle>
         <track>self organized sessions</track>
         <type>workshop</type>
         <language>en</language>
@@ -5499,7 +5499,7 @@ Get together for those who are interested in BBSes. There will be a short intro 
       </event>
     </room>
     <room name="">
-      <event id="1155" guid="423151d2bd90d5fe5bc5e9ffd2d9e687">
+      <event id="1159" guid="423151d2bd90d5fe5bc5e9ffd2d9e687">
         <logo/>
         <date>2016-12-28T14:00:00+01:00</date>
         <start>14:00</start>
@@ -7097,7 +7097,7 @@ Steve Turner is pleased to present Strings Attached, a solo exhibition by Amster
           <link>https://events.ccc.de/congress/2016/wiki/Session:PoParty</link>
         </links>
       </event>
-      <event id="1135" guid="15f21480446aabdd28aa3fe571253266">
+      <event id="1134" guid="15f21480446aabdd28aa3fe571253266">
         <logo/>
         <date>2016-12-30T00:30:00+01:00</date>
         <start>00:30</start>
@@ -7141,31 +7141,6 @@ During this Session we will introduce you to your dutys as a stage manager and t
         <links>
           <link>https://events.ccc.de/congress/2016/wiki/Static:Stage_manager</link>
           <link>https://events.ccc.de/congress/2016/wiki/Session:Stage_Manager_Angel_Introduction</link>
-        </links>
-      </event>
-      <event id="1150" guid="6b90cd14b0dcbff0b46962e9b0795c8c">
-        <logo/>
-        <date>2016-12-29T15:15:00+01:00</date>
-        <start>15:15</start>
-        <duration>0:30</duration>
-        <room>Hall A.1</room>
-        <slug/>
-        <title>Subtitles-Angelmeetings</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>meeting</type>
-        <language>en</language>
-        <abstract/>
-        <description>The Angelmeeting for the subtitles Angels.
-If you want to be approved as a subtitles Angel, please visit!
-If you are one already, this is the easiest way to meet and manage shifts etc.
-Welcome to the Subtitles Angelmeeting!</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2016/wiki/User:Cube">Cube</person>
-        </persons>
-        <links>
-          <link>https://c3subtitles.de/</link>
-          <link>https://events.ccc.de/congress/2016/wiki/Session:Subtitles-Angelmeetings</link>
         </links>
       </event>
       <event id="1163" guid="617e0bf9881e170e3d7330509bbb1112">
@@ -7604,7 +7579,7 @@ A talk postulating a new type of hacker, the 'Eris': a blackhat sociologist who 
           <link>https://events.ccc.de/congress/2016/wiki/Session:Numerical_Weather_Prediction_Tutorial</link>
         </links>
       </event>
-      <event id="1144" guid="d00c1c245094b81ef14225970bc1d86f">
+      <event id="1145" guid="d00c1c245094b81ef14225970bc1d86f">
         <logo/>
         <date>2016-12-29T19:30:00+01:00</date>
         <start>19:30</start>
@@ -7686,6 +7661,31 @@ A talk postulating a new type of hacker, the 'Eris': a blackhat sociologist who 
         <links>
           <link>http://www.facebook.com/61tagefilm</link>
           <link>https://events.ccc.de/congress/2016/wiki/Session:Kurzfilm-Screening:_%2261-Tage%22_Deutschland_auf_der_Flucht</link>
+        </links>
+      </event>
+      <event id="1149" guid="f48797b83b3006b88510ce3136aec9e2">
+        <logo/>
+        <date>2016-12-29T15:15:00+01:00</date>
+        <start>15:15</start>
+        <duration>0:30</duration>
+        <room>Hall F</room>
+        <slug/>
+        <title>Subtitles-Angelmeetings</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description>The Angelmeeting for the subtitles Angels.
+If you want to be approved as a subtitles Angel, please visit!
+If you are one already, this is the easiest way to meet and manage shifts etc.
+Welcome to the Subtitles Angelmeeting!</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2016/wiki/User:Cube">Cube</person>
+        </persons>
+        <links>
+          <link>https://c3subtitles.de/</link>
+          <link>https://events.ccc.de/congress/2016/wiki/Session:Subtitles-Angelmeetings</link>
         </links>
       </event>
     </room>
@@ -7781,10 +7781,10 @@ Greta Do&#231;i is an ICT engineer, active in Wikimedia and the Albanian open so
           <link>https://events.ccc.de/congress/2016/wiki/Session:Meine_erste_IFG-Anfrage</link>
         </links>
       </event>
-      <event id="1133" guid="a1496422476dce53d2f614263adbeeca">
+      <event id="1133" guid="e359d1f9d3b1ca042ad6170cb80f550f">
         <logo/>
-        <date>2016-12-30T01:30:00+01:00</date>
-        <start>01:30</start>
+        <date>2016-12-30T00:30:00+01:00</date>
+        <start>00:30</start>
         <duration>1:00</duration>
         <room>Hall 13-14</room>
         <slug/>
@@ -7803,10 +7803,10 @@ Greta Do&#231;i is an ICT engineer, active in Wikimedia and the Albanian open so
           <link>https://events.ccc.de/congress/2016/wiki/Session:Skillconvention_c</link>
         </links>
       </event>
-      <event id="1134" guid="e359d1f9d3b1ca042ad6170cb80f550f">
+      <event id="1135" guid="a1496422476dce53d2f614263adbeeca">
         <logo/>
-        <date>2016-12-30T00:30:00+01:00</date>
-        <start>00:30</start>
+        <date>2016-12-30T01:30:00+01:00</date>
+        <start>01:30</start>
         <duration>1:00</duration>
         <room>Hall 13-14</room>
         <slug/>
@@ -8016,7 +8016,7 @@ This workshop will be given twice&lt;br /&gt;(both identical):&lt;br /&gt;
           <link>https://events.ccc.de/congress/2016/wiki/Session:LearnToSolder</link>
         </links>
       </event>
-      <event id="1160" guid="e8d4aeb2d2ef0415687e34e714ed7c92">
+      <event id="1155" guid="e8d4aeb2d2ef0415687e34e714ed7c92">
         <logo/>
         <date>2016-12-29T16:30:00+01:00</date>
         <start>16:30</start>
@@ -8037,7 +8037,7 @@ This workshop will be given twice&lt;br /&gt;(both identical):&lt;br /&gt;
           <link>https://events.ccc.de/congress/2016/wiki/Session:Surface_Mount_Electronics_Assembly_for_Terrified_Beginners</link>
         </links>
       </event>
-      <event id="1162" guid="61a5509d9d46ea6fccc963286ccc18e8">
+      <event id="1157" guid="61a5509d9d46ea6fccc963286ccc18e8">
         <logo/>
         <date>2016-12-29T18:30:00+01:00</date>
         <start>18:30</start>
@@ -8967,7 +8967,7 @@ we would like to set up an neuropil network together with the participants and t
           <link>https://events.ccc.de/congress/2016/wiki/Session:Neuropil</link>
         </links>
       </event>
-      <event id="1145" guid="61eb65e61b717da207194923b8b9fdb3">
+      <event id="1146" guid="61eb65e61b717da207194923b8b9fdb3">
         <logo/>
         <date>2016-12-30T11:00:00+01:00</date>
         <start>11:00</start>
@@ -9087,7 +9087,7 @@ CADUS e.V. arbeitet seit &#252;ber 2 Jahren in verschiedenen Krisenregionen. In 
           <link>https://events.ccc.de/congress/2016/wiki/Session:LearnToSolder</link>
         </links>
       </event>
-      <event id="1154" guid="0029ffd6b50d454bfba86f9d8de24d35">
+      <event id="1158" guid="0029ffd6b50d454bfba86f9d8de24d35">
         <logo/>
         <date>2016-12-30T13:00:00+01:00</date>
         <start>13:00</start>
@@ -9108,7 +9108,7 @@ CADUS e.V. arbeitet seit &#252;ber 2 Jahren in verschiedenen Krisenregionen. In 
           <link>https://events.ccc.de/congress/2016/wiki/Session:Surface_Mount_Electronics_Assembly_for_Terrified_Beginners</link>
         </links>
       </event>
-      <event id="1157" guid="458f6f7faeda7724ed8eb3f48713d4b9">
+      <event id="1160" guid="458f6f7faeda7724ed8eb3f48713d4b9">
         <logo/>
         <date>2016-12-30T15:00:00+01:00</date>
         <start>15:00</start>

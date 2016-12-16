@@ -1703,6 +1703,34 @@
                                     "https://events.ccc.de/congress/2016/wiki/Static:Stage_manager", 
                                     "https://events.ccc.de/congress/2016/wiki/Session:Stage_Manager_Angel_Introduction"
                                 ]
+                            }, 
+                            {
+                                "id": 1148, 
+                                "guid": "33d15813452eabff67587b00e4525369", 
+                                "logo": null, 
+                                "date": "2016-12-27T15:15:00+01:00", 
+                                "start": "15:15", 
+                                "duration": "0:30", 
+                                "room": "Hall A.1", 
+                                "slug": "", 
+                                "title": "Subtitles-Angelmeetings", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "The Angelmeeting for the subtitles Angels.\nIf you want to be approved as a subtitles Angel, please visit!\nIf you are one already, this is the easiest way to meet and manage shifts etc.\nWelcome to the Subtitles Angelmeeting!", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Cube", 
+                                        "public_name": "Cube"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://c3subtitles.de/", 
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Subtitles-Angelmeetings"
+                                ]
                             }
                         ], 
                         "Hall A.2": [], 
@@ -1997,7 +2025,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1147, 
+                                "id": 1143, 
                                 "guid": "eadeae943acf78b348bef9d2bde23827", 
                                 "logo": null, 
                                 "date": "2016-12-27T19:30:00+01:00", 
@@ -2022,34 +2050,6 @@
                                 "links": [
                                     "https://c3subtitles.de/", 
                                     "https://events.ccc.de/congress/2016/wiki/Session:SuSi-Angelmeetings"
-                                ]
-                            }, 
-                            {
-                                "id": 1148, 
-                                "guid": "42856d8ba920f7d8a6ebcea3562fd048", 
-                                "logo": null, 
-                                "date": "2016-12-27T15:15:00+01:00", 
-                                "start": "15:15", 
-                                "duration": "0:30", 
-                                "room": "Hall C.1", 
-                                "slug": "", 
-                                "title": "Subtitles-Angelmeetings", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "meeting", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "The Angelmeeting for the subtitles Angels.\nIf you want to be approved as a subtitles Angel, please visit!\nIf you are one already, this is the easiest way to meet and manage shifts etc.\nWelcome to the Subtitles Angelmeeting!", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Cube", 
-                                        "public_name": "Cube"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://c3subtitles.de/", 
-                                    "https://events.ccc.de/congress/2016/wiki/Session:Subtitles-Angelmeetings"
                                 ]
                             }
                         ], 
@@ -2790,7 +2790,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1153, 
+                                "id": 1154, 
                                 "guid": "a01901e1604e2bda7e4405917a4e766b", 
                                 "logo": null, 
                                 "date": "2016-12-27T15:00:00+01:00", 
@@ -2844,7 +2844,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1161, 
+                                "id": 1162, 
                                 "guid": "820ef8c10ff8c89f2562b4268804af07", 
                                 "logo": null, 
                                 "date": "2016-12-27T13:00:00+01:00", 
@@ -4374,7 +4374,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1149, 
+                                "id": 1150, 
                                 "guid": "3f394b79cf5c8d868ddc732d38346a06", 
                                 "logo": null, 
                                 "date": "2016-12-28T15:15:00+01:00", 
@@ -5305,7 +5305,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1143, 
+                                "id": 1144, 
                                 "guid": "da07397031c03293fbe740e60de1d900", 
                                 "logo": null, 
                                 "date": "2016-12-28T19:30:00+01:00", 
@@ -5945,16 +5945,16 @@
                                 ]
                             }, 
                             {
-                                "id": 1158, 
-                                "guid": "355c17455570d5dcd171a0a3ffdb2c05", 
+                                "id": 1153, 
+                                "guid": "2c66a4829556ad08c8f7b6d8fd68e204", 
                                 "logo": null, 
-                                "date": "2016-12-28T16:30:00+01:00", 
-                                "start": "16:30", 
+                                "date": "2016-12-28T18:30:00+01:00", 
+                                "start": "18:30", 
                                 "duration": "1:30", 
                                 "room": "Assembly:HardwareHackingArea", 
                                 "slug": "", 
                                 "title": "Surface Mount Electronics Assembly for Terrified Beginners", 
-                                "subtitle": "Day 2 - Session 1", 
+                                "subtitle": "Day 2 - Session 2", 
                                 "track": "self organized sessions", 
                                 "type": "workshop", 
                                 "language": "en", 
@@ -5972,16 +5972,16 @@
                                 ]
                             }, 
                             {
-                                "id": 1159, 
-                                "guid": "2c66a4829556ad08c8f7b6d8fd68e204", 
+                                "id": 1161, 
+                                "guid": "355c17455570d5dcd171a0a3ffdb2c05", 
                                 "logo": null, 
-                                "date": "2016-12-28T18:30:00+01:00", 
-                                "start": "18:30", 
+                                "date": "2016-12-28T16:30:00+01:00", 
+                                "start": "16:30", 
                                 "duration": "1:30", 
                                 "room": "Assembly:HardwareHackingArea", 
                                 "slug": "", 
                                 "title": "Surface Mount Electronics Assembly for Terrified Beginners", 
-                                "subtitle": "Day 2 - Session 2", 
+                                "subtitle": "Day 2 - Session 1", 
                                 "track": "self organized sessions", 
                                 "type": "workshop", 
                                 "language": "en", 
@@ -6185,7 +6185,7 @@
                         ], 
                         "": [
                             {
-                                "id": 1155, 
+                                "id": 1159, 
                                 "guid": "423151d2bd90d5fe5bc5e9ffd2d9e687", 
                                 "logo": null, 
                                 "date": "2016-12-28T14:00:00+01:00", 
@@ -7785,7 +7785,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1135, 
+                                "id": 1134, 
                                 "guid": "15f21480446aabdd28aa3fe571253266", 
                                 "logo": null, 
                                 "date": "2016-12-30T00:30:00+01:00", 
@@ -7838,34 +7838,6 @@
                                 "links": [
                                     "https://events.ccc.de/congress/2016/wiki/Static:Stage_manager", 
                                     "https://events.ccc.de/congress/2016/wiki/Session:Stage_Manager_Angel_Introduction"
-                                ]
-                            }, 
-                            {
-                                "id": 1150, 
-                                "guid": "6b90cd14b0dcbff0b46962e9b0795c8c", 
-                                "logo": null, 
-                                "date": "2016-12-29T15:15:00+01:00", 
-                                "start": "15:15", 
-                                "duration": "0:30", 
-                                "room": "Hall A.1", 
-                                "slug": "", 
-                                "title": "Subtitles-Angelmeetings", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "meeting", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "The Angelmeeting for the subtitles Angels.\nIf you want to be approved as a subtitles Angel, please visit!\nIf you are one already, this is the easiest way to meet and manage shifts etc.\nWelcome to the Subtitles Angelmeeting!", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Cube", 
-                                        "public_name": "Cube"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://c3subtitles.de/", 
-                                    "https://events.ccc.de/congress/2016/wiki/Session:Subtitles-Angelmeetings"
                                 ]
                             }, 
                             {
@@ -8422,7 +8394,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1144, 
+                                "id": 1145, 
                                 "guid": "d00c1c245094b81ef14225970bc1d86f", 
                                 "logo": null, 
                                 "date": "2016-12-29T19:30:00+01:00", 
@@ -8519,6 +8491,34 @@
                                 "links": [
                                     "http://www.facebook.com/61tagefilm", 
                                     "https://events.ccc.de/congress/2016/wiki/Session:Kurzfilm-Screening:_%2261-Tage%22_Deutschland_auf_der_Flucht"
+                                ]
+                            }, 
+                            {
+                                "id": 1149, 
+                                "guid": "f48797b83b3006b88510ce3136aec9e2", 
+                                "logo": null, 
+                                "date": "2016-12-29T15:15:00+01:00", 
+                                "start": "15:15", 
+                                "duration": "0:30", 
+                                "room": "Hall F", 
+                                "slug": "", 
+                                "title": "Subtitles-Angelmeetings", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "The Angelmeeting for the subtitles Angels.\nIf you want to be approved as a subtitles Angel, please visit!\nIf you are one already, this is the easiest way to meet and manage shifts etc.\nWelcome to the Subtitles Angelmeeting!", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Cube", 
+                                        "public_name": "Cube"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://c3subtitles.de/", 
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Subtitles-Angelmeetings"
                                 ]
                             }
                         ], 
@@ -8634,10 +8634,10 @@
                             }, 
                             {
                                 "id": 1133, 
-                                "guid": "a1496422476dce53d2f614263adbeeca", 
+                                "guid": "e359d1f9d3b1ca042ad6170cb80f550f", 
                                 "logo": null, 
-                                "date": "2016-12-30T01:30:00+01:00", 
-                                "start": "01:30", 
+                                "date": "2016-12-30T00:30:00+01:00", 
+                                "start": "00:30", 
                                 "duration": "1:00", 
                                 "room": "Hall 13-14", 
                                 "slug": "", 
@@ -8661,11 +8661,11 @@
                                 ]
                             }, 
                             {
-                                "id": 1134, 
-                                "guid": "e359d1f9d3b1ca042ad6170cb80f550f", 
+                                "id": 1135, 
+                                "guid": "a1496422476dce53d2f614263adbeeca", 
                                 "logo": null, 
-                                "date": "2016-12-30T00:30:00+01:00", 
-                                "start": "00:30", 
+                                "date": "2016-12-30T01:30:00+01:00", 
+                                "start": "01:30", 
                                 "duration": "1:00", 
                                 "room": "Hall 13-14", 
                                 "slug": "", 
@@ -8912,7 +8912,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1160, 
+                                "id": 1155, 
                                 "guid": "e8d4aeb2d2ef0415687e34e714ed7c92", 
                                 "logo": null, 
                                 "date": "2016-12-29T16:30:00+01:00", 
@@ -8939,7 +8939,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1162, 
+                                "id": 1157, 
                                 "guid": "61a5509d9d46ea6fccc963286ccc18e8", 
                                 "logo": null, 
                                 "date": "2016-12-29T18:30:00+01:00", 
@@ -9908,7 +9908,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1145, 
+                                "id": 1146, 
                                 "guid": "61eb65e61b717da207194923b8b9fdb3", 
                                 "logo": null, 
                                 "date": "2016-12-30T11:00:00+01:00", 
@@ -10053,7 +10053,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1154, 
+                                "id": 1158, 
                                 "guid": "0029ffd6b50d454bfba86f9d8de24d35", 
                                 "logo": null, 
                                 "date": "2016-12-30T13:00:00+01:00", 
@@ -10080,7 +10080,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1157, 
+                                "id": 1160, 
                                 "guid": "458f6f7faeda7724ed8eb3f48713d4b9", 
                                 "logo": null, 
                                 "date": "2016-12-30T15:00:00+01:00", 
