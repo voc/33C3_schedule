@@ -3700,12 +3700,12 @@
             "1482865200"
         ]
     }, 
-    "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
+    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1483102800"
+            "1482764400"
         ], 
         "Has event track": [
             "Session"
@@ -3724,7 +3724,7 @@
             }
         ], 
         "Has subtitle": [
-            "Abbaumeeting"
+            "Introduction Meeting for new angels"
         ], 
         "Is organized by": [
             {
@@ -3745,7 +3745,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
-            "1483106400"
+            "1482768000"
         ]
     }, 
     "Session:Cyberthingy# ac3e137e198cda248c6f4d44bd664362": {
@@ -8006,45 +8006,6 @@
             "1483052400"
         ]
     }, 
-    "Session:Film-Blocker# afdd31277e2c1f456697250610dab6c4": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1483045200"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Blocked for Film Screenings by Content Team"
-        ], 
-        "Has session type": [], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall F", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_F", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [], 
-        "Has title": [
-            "Film-Blocker"
-        ], 
-        "Has duration": [
-            180
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Film-Blocker", 
-        "Has end time": [
-            "1483056000"
-        ]
-    }, 
     "Session:VOC Engelmeeting# 6c7712cd8c07af6fc45588ac8e3f3c56": {
         "Held in language": [
             "en - English"
@@ -8856,6 +8817,57 @@
             "1482966000"
         ]
     }, 
+    "Session:All Creatures Welcome# 0d23bd9a7e936aa1e11d7e4a1d68d150": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            "1483012800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://www.sandratrostel.de"
+        ], 
+        "Has description": [], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall C.1", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.1", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "introduction, q and a, discussion"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Gizmo", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Gizmo", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "All Creatures Welcome"
+        ], 
+        "Has duration": [
+            70
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:All_Creatures_Welcome", 
+        "Has end time": [
+            "1483017000"
+        ]
+    }, 
     "Session:Network concepts introduction & wireshark workshop# 495f918c6608a0336b180bb6cd1a548b": {
         "Held in language": [
             "en - English"
@@ -9334,48 +9346,52 @@
             "1482858000"
         ]
     }, 
-    "Session:All Creatures Welcome# cab5bb0c141b8f6faa9643a70e001981": {
+    "Session:Engelmeeting# 7b2a2ebb53b4e58845bc13580d788dad": {
         "Held in language": [
-            "de - German", 
             "en - English"
         ], 
         "Has start time": [
-            "1482850800"
+            "1483040700"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "http://www.sandratrostel.de"
-        ], 
+        "Has website": [], 
         "Has description": [], 
         "Has session type": [
             "Meeting"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall C.2", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.2", 
+                "fulltext": "Room:Hall B", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_B", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [
-            "introduction, q and a, discussion"
+            "Angel meeting day 3"
         ], 
-        "Is organized by": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Knuth", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Knuth", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
         "Has title": [
-            "All Creatures Welcome"
+            "Engelmeeting"
         ], 
         "Has duration": [
-            60
+            30
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:All_Creatures_Welcome", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
-            "1482854400"
+            "1483042500"
         ]
     }, 
     "Session:What makes a secure mobile messenger? -- A comparison of WhatsApp competitors# 73db3246145a85eb6d6d6835c00e578e": {
@@ -10287,52 +10303,43 @@
             "1482982200"
         ]
     }, 
-    "Session:Engelmeeting# 7b2a2ebb53b4e58845bc13580d788dad": {
+    "Session:Film-Blocker# afdd31277e2c1f456697250610dab6c4": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1483040700"
+            "1483045200"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
-        "Has description": [], 
-        "Has session type": [
-            "Meeting"
+        "Has description": [
+            "Blocked for Film Screenings by Content Team"
         ], 
+        "Has session type": [], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall B", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_B", 
+                "fulltext": "Room:Hall F", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_F", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [
-            "Angel meeting day 3"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Knuth", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Knuth", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
         "Has title": [
-            "Engelmeeting"
+            "Film-Blocker"
         ], 
         "Has duration": [
-            30
+            180
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Film-Blocker", 
         "Has end time": [
-            "1483042500"
+            "1483056000"
         ]
     }, 
     "Session:Owasp Bug Bounty# 186e762ec645a2d469aae8b1b8a1301e": {
@@ -10789,12 +10796,12 @@
             "1482863400"
         ]
     }, 
-    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
+    "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482764400"
+            "1483102800"
         ], 
         "Has event track": [
             "Session"
@@ -10813,7 +10820,7 @@
             }
         ], 
         "Has subtitle": [
-            "Introduction Meeting for new angels"
+            "Abbaumeeting"
         ], 
         "Is organized by": [
             {
@@ -10834,7 +10841,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
-            "1482768000"
+            "1483106400"
         ]
     }, 
     "Session:Line-of-sight visualizer# 24d9aabcf7d4df6b349a03dbf75a5641": {
