@@ -1158,66 +1158,147 @@
             "1482867600"
         ]
     }, 
-    "Session:Queer Feminist Geeks Gathering# 4a992d9add2bc71db38142ddb1e0d6c2": {
+    "Session:Discussing Postcolonial Computing# 14deb55d5ac3b3986de7c00f3709f05a": {
         "Held in language": [
-            "en - English"
+            "ab - Abkhazian", 
+            "af - Afrikaans", 
+            "an - Aragonese", 
+            "ar - Arabic", 
+            "as - Assamese", 
+            "az - Azerbaijani", 
+            "be - Belarusian", 
+            "bg - Bulgarian", 
+            "bn - Bengali", 
+            "bo - Tibetan", 
+            "br - Breton", 
+            "bs - Bosnian", 
+            "ca - Catalan / Valencian", 
+            "ce - Chechen", 
+            "co - Corsican", 
+            "cs - Czech", 
+            "cu - Church Slavic", 
+            "cy - Welsh", 
+            "da - Danish", 
+            "de - German", 
+            "el - Greek", 
+            "en - English", 
+            "eo - Esperanto", 
+            "es - Spanish / Castilian", 
+            "et - Estonian", 
+            "eu - Basque", 
+            "fa - Persian", 
+            "fi - Finnish", 
+            "fj - Fijian", 
+            "fo - Faroese", 
+            "fr - French", 
+            "fy - Western Frisian", 
+            "ga - Irish", 
+            "gd - Gaelic / Scottish Gaelic", 
+            "gl - Galician", 
+            "gv - Manx", 
+            "he - Hebrew", 
+            "hi - Hindi", 
+            "hr - Croatian", 
+            "ht - Haitian; Haitian Creole", 
+            "hu - Hungarian", 
+            "hy - Armenian", 
+            "id - Indonesian", 
+            "is - Icelandic", 
+            "it - Italian", 
+            "ja - Japanese", 
+            "jv - Javanese", 
+            "ka - Georgian", 
+            "kg - Kongo", 
+            "ko - Korean", 
+            "ku - Kurdish", 
+            "kw - Cornish", 
+            "ky - Kirghiz", 
+            "la - Latin", 
+            "lb - Luxembourgish; Letzeburgesch", 
+            "li - Limburgan; Limburger; Limburgish", 
+            "ln - Lingala", 
+            "lt - Lithuanian", 
+            "lv - Latvian", 
+            "mg - Malagasy", 
+            "mk - Macedonian", 
+            "mn - Mongolian", 
+            "mo - Moldavian", 
+            "ms - Malay", 
+            "mt - Maltese", 
+            "my - Burmese", 
+            "nb - Norwegian (Bokm\u00e5l)", 
+            "ne - Nepali", 
+            "nl - Dutch", 
+            "nn - Norwegian (Nynorsk)", 
+            "no - Norwegian", 
+            "oc - Occitan (post 1500); Proven\u00e7al", 
+            "pl - Polish", 
+            "pt - Portuguese", 
+            "rm - Raeto-Romance", 
+            "ro - Romanian", 
+            "ru - Russian", 
+            "sc - Sardinian", 
+            "se - Northern Sami", 
+            "sk - Slovak", 
+            "sl - Slovenian", 
+            "so - Somali", 
+            "sq - Albanian", 
+            "sr - Serbian", 
+            "sv - Swedish", 
+            "sw - Swahili", 
+            "tk - Turkmen", 
+            "tr - Turkish", 
+            "ty - Tahitian", 
+            "uk - Ukrainian", 
+            "ur - Urdu", 
+            "uz - Uzbek", 
+            "vi - Vietnamese", 
+            "vo - Volap\u00fck", 
+            "yi - Yiddish", 
+            "zh - Chinese"
         ], 
         "Has start time": [
-            "1482856200"
+            "1482944400"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [
-            "A meetup for all the queer feminist geek folk.\n\nWe will talk a bit about our assembly and what we are doing there, exchange projects and ideas, and network with each other. This meetup is open to people of all genders, but please be mindful of how much space you are taking up. Especially if you are white, male, straight and cis, please try to actively listen instead of talking. \n\nThis is our Code of Conduct: https://events.ccc.de/congress/2015/wiki/Projects:Code_of_Conduct_of_the_Queer_Feminist_Geek_Assembly"
+            "placeholder"
         ], 
         "Has session type": [
-            "Meeting"
+            "Discussion"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall C.1", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.1", 
+                "fulltext": "Room:Hall C.3", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.3", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [
-            "Spare room in case we split up groups"
-        ], 
+        "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Obaz", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Obaz", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:UMT", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:UMT", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:CoopDot", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:CoopDot", 
+                "fulltext": "User:Al-Badri Nelles", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Al-Badri_Nelles", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Queer Feminist Geeks Gathering"
+            "Discussing Postcolonial Computing"
         ], 
         "Has duration": [
-            90
+            60
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Queer_Feminist_Geeks_Gathering", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Discussing_Postcolonial_Computing", 
         "Has end time": [
-            "1482861600"
+            "1482948000"
         ]
     }, 
     "Session:3D scan yourself# 07fd3c770a47140f5c5c4fe19a8c3787": {
@@ -7450,6 +7531,68 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Skillconvention_a", 
         "Has end time": [
             "1482897600"
+        ]
+    }, 
+    "Session:Queer Feminist Geeks Gathering# 4a992d9add2bc71db38142ddb1e0d6c2": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482856200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "A meetup for all the queer feminist geek folk.\n\nWe will talk a bit about our assembly and what we are doing there, exchange projects and ideas, and network with each other. This meetup is open to people of all genders, but please be mindful of how much space you are taking up. Especially if you are white, male, straight and cis, please try to actively listen instead of talking. \n\nThis is our Code of Conduct: https://events.ccc.de/congress/2015/wiki/Projects:Code_of_Conduct_of_the_Queer_Feminist_Geek_Assembly"
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall C.1", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.1", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Spare room in case we split up groups"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Obaz", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Obaz", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:UMT", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:UMT", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:CoopDot", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:CoopDot", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Queer Feminist Geeks Gathering"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Queer_Feminist_Geeks_Gathering", 
+        "Has end time": [
+            "1482861600"
         ]
     }, 
     "Session:How to Make Humanoid Robots# 539cdd3e3d798ac3c3fe23c8b7003ee8": {
