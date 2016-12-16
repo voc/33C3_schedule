@@ -910,52 +910,56 @@
             "1483041600"
         ]
     }, 
-    "Session:Congress Everywhere Greet & Meet# ce5c5f06cd4f16a61e55dd8e63796c95": {
+    "Session:FHB Cheese Rendezvous 33c3# 22a6fa5aae7b3b0bd3db1f35945b183c": {
         "Held in language": [
-            "de - German"
+            "en - English"
         ], 
         "Has start time": [
-            "1482951600"
+            "1483038000"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
-        "Has description": [
-            "How to provide some congress feeling to your people at home ? \n\nCongress Everywhere events in hackerspaces usually happen at evening as public viewing of congress talks. Such a livestream-only link provides very limited \"congress feelings\". In your local timezone, the events do start with a major break, where no talk happens and therefore no livestream is sent out \n\nLet's fill this break with meet and greet between your congress site and your hackerspace at home."
+        "Has website": [
+            "https://foodhackingbase.org/wiki/Cheese_rendezvous_33c3"
         ], 
-        "Has session type": [], 
+        "Has description": [
+            "If you love cheese this event will make you very very happy!"
+        ], 
+        "Has session type": [
+            "Other"
+        ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall 13-14", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_13-14", 
-                "namespace": 516, 
+                "fulltext": "Assembly:Foodhackingbase", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Foodhackingbase", 
+                "namespace": 504, 
                 "exists": true
             }
         ], 
         "Has subtitle": [
-            "IceBreaker Day 2"
+            "Session I."
         ], 
         "Is organized by": [
             {
-                "fulltext": "User:Myon", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Myon", 
+                "fulltext": "User:Algoldor", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Algoldor", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Congress Everywhere Greet & Meet"
+            "FHB Cheese Rendezvous 33c3"
         ], 
         "Has duration": [
-            40
+            90
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Congress_Everywhere_Greet_%26_Meet", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:FHB_Cheese_Rendezvous_33c3", 
         "Has end time": [
-            "1482954000"
+            "1483043400"
         ]
     }, 
     "Session:Kurzfilm-Screening: \"61-Tage\" Deutschland auf der Flucht# 9d38911f81e502bac62a018ea4e1a347": {
@@ -1936,6 +1940,54 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Are_decentralized_services_unable_to_innovate%3F", 
         "Has end time": [
             "1483047000"
+        ]
+    }, 
+    "Session:Congress Everywhere Greet & Meet# 8b165ece02b1d870610d15256031bca9": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1482951600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "How to provide some congress feeling to your people at home ? \n\nCongress Everywhere events in hackerspaces usually happen at evening as public viewing of congress talks. Such a livestream-only link provides very limited \"congress feelings\". In your local timezone, the events do start with a major break, where no talk happens and therefore no livestream is sent out \n\nLet's fill this break with meet and greet between your congress site and your hackerspace at home."
+        ], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall A.1", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "IceBreaker Day 2"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Myon", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Myon", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Congress Everywhere Greet & Meet"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Congress_Everywhere_Greet_%26_Meet", 
+        "Has end time": [
+            "1482957000"
         ]
     }, 
     "Session:Postapocalyptic jewellery# cf685d9e203d4bcc145a4d06d40d0497": {
@@ -3638,12 +3690,12 @@
             "1482865200"
         ]
     }, 
-    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
+    "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482764400"
+            "1483102800"
         ], 
         "Has event track": [
             "Session"
@@ -3662,7 +3714,7 @@
             }
         ], 
         "Has subtitle": [
-            "Introduction Meeting for new angels"
+            "Abbaumeeting"
         ], 
         "Is organized by": [
             {
@@ -3683,7 +3735,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
-            "1482768000"
+            "1483106400"
         ]
     }, 
     "Session:Cyberthingy# ac3e137e198cda248c6f4d44bd664362": {
@@ -9950,58 +10002,6 @@
             "1482966000"
         ]
     }, 
-    "Session:FHB Cheese Rendezvous 33c3# 22a6fa5aae7b3b0bd3db1f35945b183c": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1483038000"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://foodhackingbase.org/wiki/Cheese_rendezvous_33c3"
-        ], 
-        "Has description": [
-            "If you love cheese this event will make you very very happy!"
-        ], 
-        "Has session type": [
-            "Other"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:Foodhackingbase", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Foodhackingbase", 
-                "namespace": 504, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Session I."
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Algoldor", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Algoldor", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "FHB Cheese Rendezvous 33c3"
-        ], 
-        "Has duration": [
-            90
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:FHB_Cheese_Rendezvous_33c3", 
-        "Has end time": [
-            "1483043400"
-        ]
-    }, 
     "Session:An UnCivilization Commune ReWilded Life Shared with Squirrels# dd95e8a0bc6dcebefc291461f0a81cfe": {
         "Held in language": [
             "en - English"
@@ -10949,12 +10949,12 @@
             "1482863400"
         ]
     }, 
-    "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
+    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1483102800"
+            "1482764400"
         ], 
         "Has event track": [
             "Session"
@@ -10973,7 +10973,7 @@
             }
         ], 
         "Has subtitle": [
-            "Abbaumeeting"
+            "Introduction Meeting for new angels"
         ], 
         "Is organized by": [
             {
@@ -10994,7 +10994,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
-            "1483106400"
+            "1482768000"
         ]
     }, 
     "Session:Line-of-sight visualizer# 24d9aabcf7d4df6b349a03dbf75a5641": {
