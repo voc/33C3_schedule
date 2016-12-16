@@ -2314,7 +2314,7 @@ To learn all that you need to learn the basic networking concepts. You're in luc
       </event>
     </room>
     <room name="Assembly:CCCFr">
-      <event id="1038" guid="0f3006f5772a3109967e8170e5a6db08">
+      <event id="1037" guid="0f3006f5772a3109967e8170e5a6db08">
         <logo/>
         <date>2016-12-27T19:00:00+01:00</date>
         <start>19:00</start>
@@ -8801,7 +8801,7 @@ Making secure boot actually secure was a bigger effort than we initially expecte
     <room name="Sendezentrumsb&#252;hne"/>
     <room name="Podcastingtisch"/>
     <room name="Hall A.1">
-      <event id="1037" guid="9285b111a83b54eb06ef4ed829831585">
+      <event id="1038" guid="9285b111a83b54eb06ef4ed829831585">
         <logo/>
         <date>2016-12-30T15:00:00+01:00</date>
         <start>15:00</start>
