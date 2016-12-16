@@ -84,98 +84,100 @@
             "1483018200"
         ]
     }, 
-    "Session:Freifunk Webteam Meetup# a4c6b1023905f80841514340a971f8ac": {
+    "Session:Coder Dojo# 20196cb4a0fcac3e8a926eb6752e785d": {
         "Held in language": [
             "de - German"
         ], 
-        "Has start time": [], 
+        "Has start time": [
+            "1482919200"
+        ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
-        "Has description": [
-            "Viele der unter freifunk.net angebotenen Dienste ben\u00f6tigen Wartung und Weiterentwicklung. Wer sich hier engagieren m\u00f6chte, kommt einfach vorbei."
-        ], 
+        "Has description": [], 
         "Has session type": [
-            "Hands-On"
+            "Workshop"
         ], 
         "Has session location": [
             {
-                "fulltext": "Assembly:Freifunk", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Freifunk", 
-                "namespace": 504, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Andibraeu", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Andibraeu", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Freifunk Webteam Meetup"
-        ], 
-        "Has duration": [], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Freifunk_Webteam_Meetup", 
-        "Has end time": []
-    }, 
-    "Session:FHB Cheese Rendezvous 33c3# 22a6fa5aae7b3b0bd3db1f35945b183c": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1483038000"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://foodhackingbase.org/wiki/Cheese_rendezvous_33c3"
-        ], 
-        "Has description": [
-            "If you love cheese this event will make you very very happy!"
-        ], 
-        "Has session type": [
-            "Other"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:Foodhackingbase", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Foodhackingbase", 
-                "namespace": 504, 
+                "fulltext": "Room:Hall C.1", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.1", 
+                "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [
-            "Session I."
+            "Pls swap rooms w us if you have tables"
         ], 
         "Is organized by": [
             {
-                "fulltext": "User:Algoldor", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Algoldor", 
+                "fulltext": "User:Nana berlin", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Nana_berlin", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "FHB Cheese Rendezvous 33c3"
+            "Coder Dojo"
         ], 
         "Has duration": [
-            90
+            240
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:FHB_Cheese_Rendezvous_33c3", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Coder_Dojo", 
         "Has end time": [
-            "1483043400"
+            "1482933600"
+        ]
+    }, 
+    "Session:Coder Dojo# ca9c35c335c11d72074a1e9e6046cb6e": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1482919200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall C.2", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.2", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Pls swap rooms w us if you have tables"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Nana berlin", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Nana_berlin", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Coder Dojo"
+        ], 
+        "Has duration": [
+            240
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Coder_Dojo", 
+        "Has end time": [
+            "1482933600"
         ]
     }, 
     "Session:Security Confessional: Why and How We Make Security Compromises# 08f98362d9fafec94e7017d8083f29c5": {
@@ -906,6 +908,58 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Dn42:_Decentralised_Network_42", 
         "Has end time": [
             "1483041600"
+        ]
+    }, 
+    "Session:FHB Cheese Rendezvous 33c3# 22a6fa5aae7b3b0bd3db1f35945b183c": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1483038000"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://foodhackingbase.org/wiki/Cheese_rendezvous_33c3"
+        ], 
+        "Has description": [
+            "If you love cheese this event will make you very very happy!"
+        ], 
+        "Has session type": [
+            "Other"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Foodhackingbase", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Foodhackingbase", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Session I."
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Algoldor", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Algoldor", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "FHB Cheese Rendezvous 33c3"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:FHB_Cheese_Rendezvous_33c3", 
+        "Has end time": [
+            "1483043400"
         ]
     }, 
     "Session:Kurzfilm-Screening: \"61-Tage\" Deutschland auf der Flucht# 9d38911f81e502bac62a018ea4e1a347": {
@@ -2530,6 +2584,45 @@
             "1482850800"
         ]
     }, 
+    "Session:Film-Blocker# e8e7292727500d0072186d9f2d0d0add": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1483034400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Blocked for Film Screenings by Content Team"
+        ], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall F", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_F", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Film-Blocker"
+        ], 
+        "Has duration": [
+            135
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Film-Blocker", 
+        "Has end time": [
+            "1483042500"
+        ]
+    }, 
     "Session:Freifunk und die VDS# 37384e1b9143d83deb07a78d113f2ea2": {
         "Held in language": [
             "en - English"
@@ -3607,12 +3700,12 @@
             "1482865200"
         ]
     }, 
-    "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
+    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1483102800"
+            "1482764400"
         ], 
         "Has event track": [
             "Session"
@@ -3631,7 +3724,7 @@
             }
         ], 
         "Has subtitle": [
-            "Abbaumeeting"
+            "Introduction Meeting for new angels"
         ], 
         "Is organized by": [
             {
@@ -3652,7 +3745,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
-            "1483106400"
+            "1482768000"
         ]
     }, 
     "Session:Cyberthingy# ac3e137e198cda248c6f4d44bd664362": {
@@ -5459,44 +5552,47 @@
             "1482954600"
         ]
     }, 
-    "Session:Film-Blocker# e8e7292727500d0072186d9f2d0d0add": {
+    "Session:Freifunk Webteam Meetup# a4c6b1023905f80841514340a971f8ac": {
         "Held in language": [
-            "en - English"
+            "de - German"
         ], 
-        "Has start time": [
-            "1483034400"
-        ], 
+        "Has start time": [], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [
-            "Blocked for Film Screenings by Content Team"
+            "Viele der unter freifunk.net angebotenen Dienste ben\u00f6tigen Wartung und Weiterentwicklung. Wer sich hier engagieren m\u00f6chte, kommt einfach vorbei."
         ], 
-        "Has session type": [], 
+        "Has session type": [
+            "Hands-On"
+        ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall F", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_F", 
-                "namespace": 516, 
+                "fulltext": "Assembly:Freifunk", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Freifunk", 
+                "namespace": 504, 
                 "exists": true
             }
         ], 
         "Has subtitle": [], 
-        "Is organized by": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Andibraeu", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Andibraeu", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
         "Has title": [
-            "Film-Blocker"
+            "Freifunk Webteam Meetup"
         ], 
-        "Has duration": [
-            135
-        ], 
+        "Has duration": [], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Film-Blocker", 
-        "Has end time": [
-            "1483042500"
-        ]
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Freifunk_Webteam_Meetup", 
+        "Has end time": []
     }, 
     "Session:NewPipe# c61b9a40163f12ce5d0a42bc1defe320": {
         "Held in language": [
@@ -10693,12 +10789,12 @@
             "1482863400"
         ]
     }, 
-    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
+    "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482764400"
+            "1483102800"
         ], 
         "Has event track": [
             "Session"
@@ -10717,7 +10813,7 @@
             }
         ], 
         "Has subtitle": [
-            "Introduction Meeting for new angels"
+            "Abbaumeeting"
         ], 
         "Is organized by": [
             {
@@ -10738,7 +10834,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
-            "1482768000"
+            "1483106400"
         ]
     }, 
     "Session:Line-of-sight visualizer# 24d9aabcf7d4df6b349a03dbf75a5641": {
