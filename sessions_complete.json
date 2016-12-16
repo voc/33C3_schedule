@@ -34,6 +34,54 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Tor", 
         "Has end time": []
     }, 
+    "Session:The user-friendly guide to mobile freedom# 8bfe1e887ccd7585687b94d6c6deaea1": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482948000"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "A guide to use your multiple devices with Free Software and synchronize them"
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall 13-14", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_13-14", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Eal", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Eal", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "The user-friendly guide to mobile freedom"
+        ], 
+        "Has duration": [
+            45
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:The_user-friendly_guide_to_mobile_freedom", 
+        "Has end time": [
+            "1482950700"
+        ]
+    }, 
     "Session:Angewandte konsensdemokratie# 69d80409f438f0741ff3257e7a97372a": {
         "Held in language": [
             "de - German"
@@ -1318,54 +1366,6 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Emacs_rehab_center_(vim_workshop)", 
         "Has end time": []
-    }, 
-    "Session:The user-friendly guide to mobile freedom# bca665493d417362b5428314e596ebf3": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1482948000"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "A guide to use your multiple devices with Free Software and synchronize them"
-        ], 
-        "Has session type": [
-            "Talk"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall 13-14", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_13-14", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Eal", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Eal", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "The user-friendly guide to mobile freedom"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:The_user-friendly_guide_to_mobile_freedom", 
-        "Has end time": [
-            "1482951600"
-        ]
     }, 
     "Session:Train the CryptoParty Trainer# 15d77550626146b226d51911f3ea7155": {
         "Held in language": [
