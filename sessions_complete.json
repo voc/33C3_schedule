@@ -315,6 +315,54 @@
             "1482872400"
         ]
     }, 
+    "Session:Congress Everywhere Greet & Meet# 0f3006f5772a3109967e8170e5a6db08": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1482865200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "How to provide some congress feeling to your people at home ? \n\nCongress Everywhere events in hackerspaces usually happen at evening as public viewing of congress talks. Such a livestream-only link provides very limited \"congress feelings\". In your local timezone, the events do start with a major break, where no talk happens and therefore no livestream is sent out \n\nLet's fill this break with meet and greet between your congress site and your hackerspace at home.\n\nFor details how this might happen, see our last year session description\nhttps://events.ccc.de/congress/2015/wiki/Session:Congress_Everywhere_Breaktime"
+        ], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:CCCFr", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:CCCFr", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Breaktime Day 1"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Myon", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Myon", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Congress Everywhere Greet & Meet"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Congress_Everywhere_Greet_%26_Meet", 
+        "Has end time": [
+            "1482870600"
+        ]
+    }, 
     "Session:Kombucha is Easy# b420e1afed67fd5813b4fd66bebe4e66": {
         "Held in language": [
             "en - English"
@@ -462,54 +510,6 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Subtitles-Angelmeetings", 
         "Has end time": [
             "1482787800"
-        ]
-    }, 
-    "Session:Congress Everywhere Greet & Meet# b95d1fe9bc368356711416dfceb1def5": {
-        "Held in language": [
-            "de - German"
-        ], 
-        "Has start time": [
-            "1482944400"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "How to provide some congress feeling to your people at home ? \n\nCongress Everywhere events in hackerspaces usually happen at evening as public viewing of congress talks. Such a livestream-only link provides very limited \"congress feelings\". In your local timezone, the events do start with a major break, where no talk happens and therefore no livestream is sent out \n\nLet's fill this break with meet and greet between your congress site and your hackerspace at home.\n\nFor details how this might happen, see our last year session description\nhttps://events.ccc.de/congress/2015/wiki/Session:Congress_Everywhere_Breaktime"
-        ], 
-        "Has session type": [], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall A.1", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Breaktime Day 2"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Myon", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Myon", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Congress Everywhere Greet & Meet"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Congress_Everywhere_Greet_%26_Meet", 
-        "Has end time": [
-            "1482948000"
         ]
     }, 
     "Session:UMUM# f8e579f83b5d861b4995f59d9dde973b": {
@@ -1959,52 +1959,6 @@
             "1483047000"
         ]
     }, 
-    "Session:Congress Everywhere Greet & Meet# 30d52fe07cee288de10ff56024b9b64a": {
-        "Held in language": [
-            "de - German"
-        ], 
-        "Has start time": [], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "How to provide some congress feeling to your people at home ? \n\nCongress Everywhere events in hackerspaces usually happen at evening as public viewing of congress talks. Such a livestream-only link provides very limited \"congress feelings\". In your local timezone, the events do start with a major break, where no talk happens and therefore no livestream is sent out \n\nLet's fill this break with meet and greet between your congress site and your hackerspace at home.\n\nFor details how this might happen, see our last year session description\nhttps://events.ccc.de/congress/2015/wiki/Session:Congress_Everywhere_Breaktime"
-        ], 
-        "Has session type": [], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall A.1", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Breaktime Day 3"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Myon", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Myon", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Congress Everywhere Greet & Meet"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Congress_Everywhere_Greet_%26_Meet", 
-        "Has end time": [
-            "1480451400"
-        ]
-    }, 
     "Session:Postapocalyptic jewellery# cf685d9e203d4bcc145a4d06d40d0497": {
         "Held in language": [
             "de - German", 
@@ -3210,21 +3164,23 @@
             "1483020000"
         ]
     }, 
-    "Session:Translation meetings# 415473cd68f9363bb56f229dfd94bb7b": {
+    "Session:Pixel Art Workshop# f9594c5389f5af798acfa9766534b62a": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482937800"
+            "1482922800"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [
-            "The translation angels (interpreters) meet twice per day to self-organise (day 0, evening to day 4, afternoon)"
+            "You'll get an introduction to the techniques and principles of pixel art, as well as useful hints, learning resources and software recommendations. After that, we'll paint a few 16x16 pixel-sized pictures together. If you use Twitter, you'll like this format, as well! :)"
         ], 
-        "Has session type": [], 
+        "Has session type": [
+            "Workshop"
+        ], 
         "Has session location": [
             {
                 "fulltext": "Room:Hall 13-14", 
@@ -3233,29 +3189,27 @@
                 "exists": true
             }
         ], 
-        "Has subtitle": [
-            "day 2, afternoon meeting"
-        ], 
+        "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Sebalis", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Sebalis", 
+                "fulltext": "User:Blinry", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Blinry", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Translation meetings"
+            "Pixel Art Workshop"
         ], 
         "Has duration": [
-            50
+            90
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Translation_meetings", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Pixel_Art_Workshop", 
         "Has end time": [
-            "1482940800"
+            "1482928200"
         ]
     }, 
     "Session:Subtitles-Angelmeetings# 42856d8ba920f7d8a6ebcea3562fd048": {
@@ -4446,52 +4400,47 @@
             "1483065000"
         ]
     }, 
-    "Session:Pixel Art Workshop# f9594c5389f5af798acfa9766534b62a": {
+    "Session:Hebocon Registration and testfights# c96f8241b40551474bf5e709887c4192": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482922800"
+            "1482854400"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [
-            "You'll get an introduction to the techniques and principles of pixel art, as well as useful hints, learning resources and software recommendations. After that, we'll paint a few 16x16 pixel-sized pictures together. If you use Twitter, you'll like this format, as well! :)"
+            "Before the Hebocon we will offer some space  build robots and we will do the official registration at the Aaaaaaaaaaaa Assembly."
         ], 
         "Has session type": [
-            "Workshop"
+            "Hands-On"
         ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall 13-14", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_13-14", 
-                "namespace": 516, 
-                "exists": true
-            }
+        "Has session location": [], 
+        "Has subtitle": [
+            "Hebocon Q&A"
         ], 
-        "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Blinry", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Blinry", 
+                "fulltext": "User:Konfusius", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Konfusius", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Pixel Art Workshop"
+            "Hebocon Registration and testfights"
         ], 
         "Has duration": [
-            90
+            15
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Pixel_Art_Workshop", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Hebocon_Registration_and_testfights", 
         "Has end time": [
-            "1482928200"
+            "1482855300"
         ]
     }, 
     "Session:Wizard of Berlin's Freifunk Firmware# 5c511c0633d1e142ab295af9eb175d0e": {
@@ -4915,6 +4864,54 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Skillconvention_c", 
         "Has end time": [
             "1483061400"
+        ]
+    }, 
+    "Session:Congress Everywhere Greet & Meet# 69a474077d50f8901023e53c4334298a": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1482951600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "How to provide some congress feeling to your people at home ? \n\nCongress Everywhere events in hackerspaces usually happen at evening as public viewing of congress talks. Such a livestream-only link provides very limited \"congress feelings\". In your local timezone, the events do start with a major break, where no talk happens and therefore no livestream is sent out \n\nLet's fill this break with meet and greet between your congress site and your hackerspace at home.\n\nFor details how this might happen, see our last year session description\nhttps://events.ccc.de/congress/2015/wiki/Session:Congress_Everywhere_Breaktime"
+        ], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall A.1", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Breaktime Day 2"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Myon", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Myon", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Congress Everywhere Greet & Meet"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Congress_Everywhere_Greet_%26_Meet", 
+        "Has end time": [
+            "1482957000"
         ]
     }, 
     "Session:Surface Mount Electronics Assembly for Terrified Beginners# a01901e1604e2bda7e4405917a4e766b": {
@@ -7030,6 +7027,54 @@
             "1482939000"
         ]
     }, 
+    "Session:Veripeditus AR Game Framework# 0428c11c8ade33fd85d5ca946d66fc2d": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482937200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Veripeditus is the first free and open source framework that enables everyone to develop augmented reality mobile games like Ingress or Pok\u00e9mon Go. It brings the creative side of such games to everyone, including, but not limited to, class rooms, along with a great new way of learning programming skills with Python.\n\nPresented by Nik, a 26 year-old software developer and network admin from Bonn, but better known as head of Teckids e.V., a youth organisation establishing a FOSS community among children."
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall C.2", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.2", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Eal", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Eal", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Veripeditus AR Game Framework"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Veripeditus_AR_Game_Framework", 
+        "Has end time": [
+            "1482940800"
+        ]
+    }, 
     "Session:Surface Mount Electronics Assembly for Terrified Beginners# 61a5509d9d46ea6fccc963286ccc18e8": {
         "Held in language": [
             "en - English"
@@ -8119,54 +8164,6 @@
             "1483027200"
         ]
     }, 
-    "Session:Veripeditus AR Game Framework# f138d5782496f0481df52d7c896ce1a4": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1482955200"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Veripeditus is the first free and open source framework that enables everyone to develop augmented reality mobile games like Ingress or Pok\u00e9mon Go. It brings the creative side of such games to everyone, including, but not limited to, class rooms, along with a great new way of learning programming skills with Python.\n\nPresented by Nik, a 26 year-old software developer and network admin from Bonn, but better known as head of Teckids e.V., a youth organisation establishing a FOSS community among children."
-        ], 
-        "Has session type": [
-            "Talk"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall C.4", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.4", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Eal", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Eal", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Veripeditus AR Game Framework"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Veripeditus_AR_Game_Framework", 
-        "Has end time": [
-            "1482958800"
-        ]
-    }, 
     "Session:Hacking democracy with MEP Marietje Schaake# 945f1586a6c6583e89e03bad18b89754": {
         "Held in language": [
             "en - English"
@@ -9201,54 +9198,6 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Eris_Rising", 
         "Has end time": []
-    }, 
-    "Session:Congress Everywhere Greet & Meet# 98d55a9822a8a466846d3f31d2979ec7": {
-        "Held in language": [
-            "de - German"
-        ], 
-        "Has start time": [
-            "1482863400"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "How to provide some congress feeling to your people at home ? \n\nCongress Everywhere events in hackerspaces usually happen at evening as public viewing of congress talks. Such a livestream-only link provides very limited \"congress feelings\". In your local timezone, the events do start with a major break, where no talk happens and therefore no livestream is sent out \n\nLet's fill this break with meet and greet between your congress site and your hackerspace at home.\n\nFor details how this might happen, see our last year session description\nhttps://events.ccc.de/congress/2015/wiki/Session:Congress_Everywhere_Breaktime"
-        ], 
-        "Has session type": [], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall A.1", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Breaktime Day 1"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Myon", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Myon", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Congress Everywhere Greet & Meet"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Congress_Everywhere_Greet_%26_Meet", 
-        "Has end time": [
-            "1482867000"
-        ]
     }, 
     "Session:Translation meetings# 36252d5cc335293f00e927b0b6eba7fb": {
         "Held in language": [
@@ -10653,47 +10602,52 @@
             "1483119000"
         ]
     }, 
-    "Session:Hebocon Registration and testfights# c96f8241b40551474bf5e709887c4192": {
+    "Session:Congress Everywhere Greet & Meet# ff51ab11edd4219acfcf6f9f407687cd": {
         "Held in language": [
-            "en - English"
+            "de - German"
         ], 
         "Has start time": [
-            "1482854400"
+            "1480446000"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [
-            "Before the Hebocon we will offer some space  build robots and we will do the official registration at the Aaaaaaaaaaaa Assembly."
+            "How to provide some congress feeling to your people at home ? \n\nCongress Everywhere events in hackerspaces usually happen at evening as public viewing of congress talks. Such a livestream-only link provides very limited \"congress feelings\". In your local timezone, the events do start with a major break, where no talk happens and therefore no livestream is sent out \n\nLet's fill this break with meet and greet between your congress site and your hackerspace at home.\n\nFor details how this might happen, see our last year session description\nhttps://events.ccc.de/congress/2015/wiki/Session:Congress_Everywhere_Breaktime"
         ], 
-        "Has session type": [
-            "Hands-On"
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall A.1", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
+                "namespace": 516, 
+                "exists": true
+            }
         ], 
-        "Has session location": [], 
         "Has subtitle": [
-            "Hebocon Q&A"
+            "Breaktime Day 3"
         ], 
         "Is organized by": [
             {
-                "fulltext": "User:Konfusius", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Konfusius", 
+                "fulltext": "User:Myon", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Myon", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Hebocon Registration and testfights"
+            "Congress Everywhere Greet & Meet"
         ], 
         "Has duration": [
-            15
+            90
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Hebocon_Registration_and_testfights", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Congress_Everywhere_Greet_%26_Meet", 
         "Has end time": [
-            "1482855300"
+            "1480451400"
         ]
     }, 
     "Session:Introduction to Soy Bean Fermentation - Tempeh Making# 888bd7ac6bac7fad362323cf6d81eae6": {
@@ -10794,6 +10748,54 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Fiction_Writers%27_Session", 
         "Has end time": [
             "1482863400"
+        ]
+    }, 
+    "Session:Translation meetings# 415473cd68f9363bb56f229dfd94bb7b": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482937800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "The translation angels (interpreters) meet twice per day to self-organise (day 0, evening to day 4, afternoon)"
+        ], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall 13-14", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_13-14", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "day 2, afternoon meeting"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Sebalis", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Sebalis", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Translation meetings"
+        ], 
+        "Has duration": [
+            50
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Translation_meetings", 
+        "Has end time": [
+            "1482940800"
         ]
     }, 
     "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
