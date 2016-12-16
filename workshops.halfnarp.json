@@ -41,7 +41,7 @@
         "track_name": "Session", 
         "room_id": 1131, 
         "room_name": "Hall C.1", 
-        "start_time": "2016-12-27T12:00:00+01:00", 
+        "start_time": "2016-12-30T12:00:00+01:00", 
         "duration": 3600, 
         "title": "An UnCivilization Commune ReWilded Life Shared with Squirrels", 
         "abstract": "Looking forward to meet new and old friends interested in UnCivilization! \n\nWe are a group of people interested in intersection of technology & society, politics, activism, art, and critical of techno-optimism. We share a mailing list since 2012, called UnCivilization, inspired (but not otherwise connected to) Dark Mountain \"Uncivilization Manifesto\", as well as Ursula LeGuin, Derrick Jensen, Heather Marsh, John Zerzan, Naomi Klein, Daniel Quinn, Ursula Franklin, and other feminist, anarchist, anti-supremacist authors. \n\nGoal of this meetup is to catch-up, give each other hugs & support, and plan our activities for the next months & years (e.g. another LikaCamp?!)", 
@@ -53,7 +53,7 @@
         "track_name": "Session", 
         "room_id": 1131, 
         "room_name": "Hall C.1", 
-        "start_time": "2016-12-30T12:00:00+01:00", 
+        "start_time": "2016-12-27T12:00:00+01:00", 
         "duration": 3600, 
         "title": "An UnCivilization Commune ReWilded Life Shared with Squirrels", 
         "abstract": "Looking forward to meet new and old friends interested in UnCivilization! \n\nWe are a group of people interested in intersection of technology & society, politics, activism, art, and critical of techno-optimism. We share a mailing list since 2012, called UnCivilization, inspired (but not otherwise connected to) Dark Mountain \"Uncivilization Manifesto\", as well as Ursula LeGuin, Derrick Jensen, Heather Marsh, John Zerzan, Naomi Klein, Daniel Quinn, Ursula Franklin, and other feminist, anarchist, anti-supremacist authors. \n\nGoal of this meetup is to catch-up, give each other hugs & support, and plan our activities for the next months & years (e.g. another LikaCamp?!)", 
@@ -123,10 +123,10 @@
         "event_id": 1026, 
         "track_id": 10, 
         "track_name": "Session", 
-        "room_id": 1133, 
-        "room_name": "Hall C.3", 
+        "room_id": 1132, 
+        "room_name": "Hall C.2", 
         "start_time": "2016-12-28T10:00:00+01:00", 
-        "duration": 3600, 
+        "duration": 14400, 
         "title": "Coder Dojo", 
         "abstract": "", 
         "speakers": "Nana berlin"
@@ -137,7 +137,7 @@
         "track_name": "Session", 
         "room_id": 1133, 
         "room_name": "Hall C.3", 
-        "start_time": "2016-12-28T12:00:00+01:00", 
+        "start_time": "2016-12-28T15:00:00+01:00", 
         "duration": 3600, 
         "title": "Coder Dojo", 
         "abstract": "", 
@@ -149,7 +149,7 @@
         "track_name": "Session", 
         "room_id": 1134, 
         "room_name": "Hall C.4", 
-        "start_time": "2016-12-28T10:00:00+01:00", 
+        "start_time": "2016-12-28T15:00:00+01:00", 
         "duration": 3600, 
         "title": "Coder Dojo", 
         "abstract": "", 
@@ -159,9 +159,9 @@
         "event_id": 1029, 
         "track_id": 10, 
         "track_name": "Session", 
-        "room_id": 1134, 
-        "room_name": "Hall C.4", 
-        "start_time": "2016-12-28T12:00:00+01:00", 
+        "room_id": 1133, 
+        "room_name": "Hall C.3", 
+        "start_time": "2016-12-28T11:00:00+01:00", 
         "duration": 3600, 
         "title": "Coder Dojo", 
         "abstract": "", 
@@ -169,6 +169,54 @@
     }, 
     {
         "event_id": 1030, 
+        "track_id": 10, 
+        "track_name": "Session", 
+        "room_id": 1133, 
+        "room_name": "Hall C.3", 
+        "start_time": "2016-12-28T10:00:00+01:00", 
+        "duration": 3600, 
+        "title": "Coder Dojo", 
+        "abstract": "", 
+        "speakers": "Nana berlin"
+    }, 
+    {
+        "event_id": 1031, 
+        "track_id": 10, 
+        "track_name": "Session", 
+        "room_id": 1134, 
+        "room_name": "Hall C.4", 
+        "start_time": "2016-12-28T11:00:00+01:00", 
+        "duration": 3600, 
+        "title": "Coder Dojo", 
+        "abstract": "", 
+        "speakers": "Nana berlin"
+    }, 
+    {
+        "event_id": 1032, 
+        "track_id": 10, 
+        "track_name": "Session", 
+        "room_id": 1134, 
+        "room_name": "Hall C.4", 
+        "start_time": "2016-12-28T10:00:00+01:00", 
+        "duration": 3600, 
+        "title": "Coder Dojo", 
+        "abstract": "", 
+        "speakers": "Nana berlin"
+    }, 
+    {
+        "event_id": 1033, 
+        "track_id": 10, 
+        "track_name": "Session", 
+        "room_id": 1133, 
+        "room_name": "Hall C.3", 
+        "start_time": "2016-12-28T12:00:00+01:00", 
+        "duration": 3600, 
+        "title": "Coder Dojo", 
+        "abstract": "", 
+        "speakers": "Nana berlin"
+    }, 
+    {
+        "event_id": 1034, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1131, 
@@ -180,60 +228,12 @@
         "speakers": "Nana berlin"
     }, 
     {
-        "event_id": 1031, 
-        "track_id": 10, 
-        "track_name": "Session", 
-        "room_id": 1133, 
-        "room_name": "Hall C.3", 
-        "start_time": "2016-12-28T15:00:00+01:00", 
-        "duration": 3600, 
-        "title": "Coder Dojo", 
-        "abstract": "", 
-        "speakers": "Nana berlin"
-    }, 
-    {
-        "event_id": 1032, 
-        "track_id": 10, 
-        "track_name": "Session", 
-        "room_id": 1132, 
-        "room_name": "Hall C.2", 
-        "start_time": "2016-12-28T10:00:00+01:00", 
-        "duration": 14400, 
-        "title": "Coder Dojo", 
-        "abstract": "", 
-        "speakers": "Nana berlin"
-    }, 
-    {
-        "event_id": 1033, 
-        "track_id": 10, 
-        "track_name": "Session", 
-        "room_id": 1134, 
-        "room_name": "Hall C.4", 
-        "start_time": "2016-12-28T15:00:00+01:00", 
-        "duration": 3600, 
-        "title": "Coder Dojo", 
-        "abstract": "", 
-        "speakers": "Nana berlin"
-    }, 
-    {
-        "event_id": 1034, 
-        "track_id": 10, 
-        "track_name": "Session", 
-        "room_id": 1133, 
-        "room_name": "Hall C.3", 
-        "start_time": "2016-12-28T11:00:00+01:00", 
-        "duration": 3600, 
-        "title": "Coder Dojo", 
-        "abstract": "", 
-        "speakers": "Nana berlin"
-    }, 
-    {
         "event_id": 1035, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1134, 
         "room_name": "Hall C.4", 
-        "start_time": "2016-12-28T11:00:00+01:00", 
+        "start_time": "2016-12-28T12:00:00+01:00", 
         "duration": 3600, 
         "title": "Coder Dojo", 
         "abstract": "", 
@@ -245,7 +245,7 @@
         "track_name": "Session", 
         "room_id": 1013, 
         "room_name": "Hall 13-14", 
-        "start_time": "2016-12-27T19:00:00+01:00", 
+        "start_time": "2016-12-28T19:00:00+01:00", 
         "duration": 2400, 
         "title": "Congress Everywhere Greet & Meet", 
         "abstract": "How to provide some congress feeling to your people at home ? \n\nCongress Everywhere events in hackerspaces usually happen at evening as public viewing of congress talks. Such a livestream-only link provides very limited \"congress feelings\". In your local timezone, the events do start with a major break, where no talk happens and therefore no livestream is sent out \n\nLet's fill this break with meet and greet between your congress site and your hackerspace at home.", 
@@ -257,7 +257,7 @@
         "track_name": "Session", 
         "room_id": 1013, 
         "room_name": "Hall 13-14", 
-        "start_time": "2016-12-28T19:00:00+01:00", 
+        "start_time": "2016-12-29T19:00:00+01:00", 
         "duration": 2400, 
         "title": "Congress Everywhere Greet & Meet", 
         "abstract": "How to provide some congress feeling to your people at home ? \n\nCongress Everywhere events in hackerspaces usually happen at evening as public viewing of congress talks. Such a livestream-only link provides very limited \"congress feelings\". In your local timezone, the events do start with a major break, where no talk happens and therefore no livestream is sent out \n\nLet's fill this break with meet and greet between your congress site and your hackerspace at home.", 
@@ -269,7 +269,7 @@
         "track_name": "Session", 
         "room_id": 1013, 
         "room_name": "Hall 13-14", 
-        "start_time": "2016-12-29T19:00:00+01:00", 
+        "start_time": "2016-12-27T19:00:00+01:00", 
         "duration": 2400, 
         "title": "Congress Everywhere Greet & Meet", 
         "abstract": "How to provide some congress feeling to your people at home ? \n\nCongress Everywhere events in hackerspaces usually happen at evening as public viewing of congress talks. Such a livestream-only link provides very limited \"congress feelings\". In your local timezone, the events do start with a major break, where no talk happens and therefore no livestream is sent out \n\nLet's fill this break with meet and greet between your congress site and your hackerspace at home.", 
@@ -329,30 +329,6 @@
         "track_name": "Session", 
         "room_id": 1120, 
         "room_name": "Hall B", 
-        "start_time": "2016-12-29T19:45:00+01:00", 
-        "duration": 1800, 
-        "title": "Engelmeeting", 
-        "abstract": "", 
-        "speakers": "Knuth"
-    }, 
-    {
-        "event_id": 1051, 
-        "track_id": 10, 
-        "track_name": "Session", 
-        "room_id": 1120, 
-        "room_name": "Hall B", 
-        "start_time": "2016-12-27T19:45:00+01:00", 
-        "duration": 1800, 
-        "title": "Engelmeeting", 
-        "abstract": "", 
-        "speakers": "Knuth"
-    }, 
-    {
-        "event_id": 1052, 
-        "track_id": 10, 
-        "track_name": "Session", 
-        "room_id": 1120, 
-        "room_name": "Hall B", 
         "start_time": "2016-12-30T13:00:00+01:00", 
         "duration": 3600, 
         "title": "Engelmeeting", 
@@ -360,7 +336,7 @@
         "speakers": "Knuth"
     }, 
     {
-        "event_id": 1053, 
+        "event_id": 1051, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1120, 
@@ -372,7 +348,7 @@
         "speakers": "Knuth"
     }, 
     {
-        "event_id": 1054, 
+        "event_id": 1052, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1120, 
@@ -384,7 +360,7 @@
         "speakers": "Knuth"
     }, 
     {
-        "event_id": 1055, 
+        "event_id": 1053, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1120, 
@@ -396,7 +372,7 @@
         "speakers": "Knuth"
     }, 
     {
-        "event_id": 1056, 
+        "event_id": 1054, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1120, 
@@ -408,7 +384,7 @@
         "speakers": "Knuth"
     }, 
     {
-        "event_id": 1057, 
+        "event_id": 1055, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1120, 
@@ -420,7 +396,7 @@
         "speakers": "Knuth"
     }, 
     {
-        "event_id": 1058, 
+        "event_id": 1056, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1120, 
@@ -432,7 +408,7 @@
         "speakers": "Knuth"
     }, 
     {
-        "event_id": 1059, 
+        "event_id": 1057, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1120, 
@@ -444,13 +420,37 @@
         "speakers": "Knuth"
     }, 
     {
-        "event_id": 1060, 
+        "event_id": 1058, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1120, 
         "room_name": "Hall B", 
         "start_time": "2016-12-27T13:00:00+01:00", 
         "duration": 3600, 
+        "title": "Engelmeeting", 
+        "abstract": "", 
+        "speakers": "Knuth"
+    }, 
+    {
+        "event_id": 1059, 
+        "track_id": 10, 
+        "track_name": "Session", 
+        "room_id": 1120, 
+        "room_name": "Hall B", 
+        "start_time": "2016-12-29T19:45:00+01:00", 
+        "duration": 1800, 
+        "title": "Engelmeeting", 
+        "abstract": "", 
+        "speakers": "Knuth"
+    }, 
+    {
+        "event_id": 1060, 
+        "track_id": 10, 
+        "track_name": "Session", 
+        "room_id": 1120, 
+        "room_name": "Hall B", 
+        "start_time": "2016-12-27T19:45:00+01:00", 
+        "duration": 1800, 
         "title": "Engelmeeting", 
         "abstract": "", 
         "speakers": "Knuth"
@@ -732,7 +732,7 @@
         "speakers": "Djim, Duisburch, Benni, Cbass, Stean"
     }, 
     {
-        "event_id": 1091, 
+        "event_id": 1092, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1131, 
@@ -744,7 +744,7 @@
         "speakers": "Eest9"
     }, 
     {
-        "event_id": 1092, 
+        "event_id": 1093, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1230, 
@@ -756,7 +756,7 @@
         "speakers": "DerNiko"
     }, 
     {
-        "event_id": 1093, 
+        "event_id": 1094, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1132, 
@@ -768,7 +768,7 @@
         "speakers": "Varac, Kwadronaut"
     }, 
     {
-        "event_id": 1098, 
+        "event_id": 1099, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1133, 
@@ -780,7 +780,7 @@
         "speakers": "Leodin, Xilent"
     }, 
     {
-        "event_id": 1099, 
+        "event_id": 1100, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1132, 
@@ -792,7 +792,7 @@
         "speakers": ""
     }, 
     {
-        "event_id": 1100, 
+        "event_id": 1101, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -804,7 +804,7 @@
         "speakers": "Eal"
     }, 
     {
-        "event_id": 1101, 
+        "event_id": 1102, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -816,7 +816,7 @@
         "speakers": "Kirils"
     }, 
     {
-        "event_id": 1102, 
+        "event_id": 1103, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -828,7 +828,7 @@
         "speakers": "Kire"
     }, 
     {
-        "event_id": 1103, 
+        "event_id": 1104, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1134, 
@@ -840,7 +840,7 @@
         "speakers": "Stephan.schwichtenberg"
     }, 
     {
-        "event_id": 1104, 
+        "event_id": 1105, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1132, 
@@ -852,7 +852,7 @@
         "speakers": "Eal"
     }, 
     {
-        "event_id": 1105, 
+        "event_id": 1106, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1134, 
@@ -864,7 +864,7 @@
         "speakers": "Tecer"
     }, 
     {
-        "event_id": 1109, 
+        "event_id": 1110, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1134, 
@@ -876,7 +876,7 @@
         "speakers": "NMarkus, PeterVanPan"
     }, 
     {
-        "event_id": 1110, 
+        "event_id": 1111, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1133, 
@@ -888,7 +888,7 @@
         "speakers": "Konrad, Aleimba, Rupi, Iimog"
     }, 
     {
-        "event_id": 1111, 
+        "event_id": 1112, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1134, 
@@ -900,7 +900,7 @@
         "speakers": "Kbeckmann"
     }, 
     {
-        "event_id": 1112, 
+        "event_id": 1113, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -912,7 +912,7 @@
         "speakers": "Blinry"
     }, 
     {
-        "event_id": 1113, 
+        "event_id": 1114, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1134, 
@@ -924,7 +924,7 @@
         "speakers": "Varac, Zara"
     }, 
     {
-        "event_id": 1114, 
+        "event_id": 1115, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -936,7 +936,7 @@
         "speakers": "Ineiti"
     }, 
     {
-        "event_id": 1115, 
+        "event_id": 1116, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1120, 
@@ -948,7 +948,7 @@
         "speakers": "Eal"
     }, 
     {
-        "event_id": 1116, 
+        "event_id": 1117, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -958,18 +958,6 @@
         "title": "Prototype Fund - 1.2 Million Euros for Free Software Projects", 
         "abstract": "The Prototype Fund supports the implementation of ideas in civic tech, data literacy, data security and software infrastructure. With a grant of up to \u20ac30,000, software developers, hackers and creatives can write code and develop open source prototypes over a period of six months.\n\nApplying is as easy as possible and the next deadline at the begin of February. Come, hear and ask us everything about the Prototype Fund.", 
         "speakers": "Eal"
-    }, 
-    {
-        "event_id": 1117, 
-        "track_id": 10, 
-        "track_name": "Session", 
-        "room_id": 1131, 
-        "room_name": "Hall C.1", 
-        "start_time": "2016-12-27T16:30:00+01:00", 
-        "duration": 5400, 
-        "title": "Queer Feminist Geeks Gathering", 
-        "abstract": "A meetup for all the queer feminist geek folk.\n\nWe will talk a bit about our assembly and what we are doing there, exchange projects and ideas, and network with each other. This meetup is open to people of all genders, but please be mindful of how much space you are taking up. Especially if you are white, male, straight and cis, please try to actively listen instead of talking. \n\nThis is our Code of Conduct: https://events.ccc.de/congress/2015/wiki/Projects:Code_of_Conduct_of_the_Queer_Feminist_Geek_Assembly", 
-        "speakers": "Obaz, UMT, CoopDot"
     }, 
     {
         "event_id": 1118, 
@@ -987,6 +975,18 @@
         "event_id": 1119, 
         "track_id": 10, 
         "track_name": "Session", 
+        "room_id": 1131, 
+        "room_name": "Hall C.1", 
+        "start_time": "2016-12-27T16:30:00+01:00", 
+        "duration": 5400, 
+        "title": "Queer Feminist Geeks Gathering", 
+        "abstract": "A meetup for all the queer feminist geek folk.\n\nWe will talk a bit about our assembly and what we are doing there, exchange projects and ideas, and network with each other. This meetup is open to people of all genders, but please be mindful of how much space you are taking up. Especially if you are white, male, straight and cis, please try to actively listen instead of talking. \n\nThis is our Code of Conduct: https://events.ccc.de/congress/2015/wiki/Projects:Code_of_Conduct_of_the_Queer_Feminist_Geek_Assembly", 
+        "speakers": "Obaz, UMT, CoopDot"
+    }, 
+    {
+        "event_id": 1120, 
+        "track_id": 10, 
+        "track_name": "Session", 
         "room_id": 1134, 
         "room_name": "Hall C.4", 
         "start_time": "2016-12-27T19:30:00+01:00", 
@@ -996,7 +996,7 @@
         "speakers": "Eal"
     }, 
     {
-        "event_id": 1120, 
+        "event_id": 1121, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1134, 
@@ -1006,18 +1006,6 @@
         "title": "Radio Lockdown", 
         "abstract": "The Radio Equipment Directive (2014/53/EU) contains a provision requiring hardware manufacturers to check all software installable on their devices. Community WiFi projects heavily rely on (free software) firmware they modify for their purposes and install on consumer-grade hardware. Action is needed to mitigate this threat, but there's a promising course of action: Community WiFi initiatives of Europe, unite!", 
         "speakers": "KaerF"
-    }, 
-    {
-        "event_id": 1122, 
-        "track_id": 10, 
-        "track_name": "Session", 
-        "room_id": 1111, 
-        "room_name": "Hall A.1", 
-        "start_time": "2016-12-28T02:00:00+01:00", 
-        "duration": 3600, 
-        "title": "Skillconvention a", 
-        "abstract": "all travelers with a certain skill will be invited to these sessions.", 
-        "speakers": "Reisende"
     }, 
     {
         "event_id": 1123, 
@@ -1061,10 +1049,10 @@
         "track_name": "Session", 
         "room_id": 1111, 
         "room_name": "Hall A.1", 
-        "start_time": "2016-12-29T01:30:00+01:00", 
+        "start_time": "2016-12-28T02:00:00+01:00", 
         "duration": 3600, 
-        "title": "Skillconvention b", 
-        "abstract": "all travelers of a certain skill will be invented to join their respective session", 
+        "title": "Skillconvention a", 
+        "abstract": "all travelers with a certain skill will be invited to these sessions.", 
         "speakers": "Reisende"
     }, 
     {
@@ -1121,6 +1109,18 @@
         "track_name": "Session", 
         "room_id": 1111, 
         "room_name": "Hall A.1", 
+        "start_time": "2016-12-29T01:30:00+01:00", 
+        "duration": 3600, 
+        "title": "Skillconvention b", 
+        "abstract": "all travelers of a certain skill will be invented to join their respective session", 
+        "speakers": "Reisende"
+    }, 
+    {
+        "event_id": 1132, 
+        "track_id": 10, 
+        "track_name": "Session", 
+        "room_id": 1013, 
+        "room_name": "Hall 13-14", 
         "start_time": "2016-12-30T00:30:00+01:00", 
         "duration": 3600, 
         "title": "Skillconvention c", 
@@ -1128,7 +1128,19 @@
         "speakers": "Reisende"
     }, 
     {
-        "event_id": 1132, 
+        "event_id": 1133, 
+        "track_id": 10, 
+        "track_name": "Session", 
+        "room_id": 1111, 
+        "room_name": "Hall A.1", 
+        "start_time": "2016-12-30T00:30:00+01:00", 
+        "duration": 3600, 
+        "title": "Skillconvention c", 
+        "abstract": "all travelers of a certain skill will be invited to join their respective convention", 
+        "speakers": "Reisende"
+    }, 
+    {
+        "event_id": 1134, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -1140,19 +1152,7 @@
         "speakers": "Reisende"
     }, 
     {
-        "event_id": 1133, 
-        "track_id": 10, 
-        "track_name": "Session", 
-        "room_id": 1013, 
-        "room_name": "Hall 13-14", 
-        "start_time": "2016-12-30T00:30:00+01:00", 
-        "duration": 3600, 
-        "title": "Skillconvention c", 
-        "abstract": "all travelers of a certain skill will be invited to join their respective convention", 
-        "speakers": "Reisende"
-    }, 
-    {
-        "event_id": 1134, 
+        "event_id": 1135, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1120, 
@@ -1164,7 +1164,7 @@
         "speakers": "Uebelhacker"
     }, 
     {
-        "event_id": 1135, 
+        "event_id": 1136, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1131, 
@@ -1176,7 +1176,7 @@
         "speakers": "Uebelhacker"
     }, 
     {
-        "event_id": 1136, 
+        "event_id": 1137, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1132, 
@@ -1188,31 +1188,7 @@
         "speakers": "Jona"
     }, 
     {
-        "event_id": 1137, 
-        "track_id": 10, 
-        "track_name": "Session", 
-        "room_id": 1111, 
-        "room_name": "Hall A.1", 
-        "start_time": "2016-12-28T21:00:00+01:00", 
-        "duration": 3600, 
-        "title": "Stage Manager Angel Introduction", 
-        "abstract": "Stage Managers are responsible for a specific lecture hall (Saal) and all the talks within a 4 hour time slot. In short, stage managers make sure the talks go as smoothly as possible, including technical issues and crowd management.\n\nDuring this Session we will introduce you to your dutys as a stage manager and teach you all that you need to know to make the Talks during 33c3 run as smoothly as possible.", 
-        "speakers": "Ijon"
-    }, 
-    {
         "event_id": 1138, 
-        "track_id": 10, 
-        "track_name": "Session", 
-        "room_id": 1111, 
-        "room_name": "Hall A.1", 
-        "start_time": "2016-12-29T19:00:00+01:00", 
-        "duration": 3600, 
-        "title": "Stage Manager Angel Introduction", 
-        "abstract": "Stage Managers are responsible for a specific lecture hall (Saal) and all the talks within a 4 hour time slot. In short, stage managers make sure the talks go as smoothly as possible, including technical issues and crowd management.\n\nDuring this Session we will introduce you to your dutys as a stage manager and teach you all that you need to know to make the Talks during 33c3 run as smoothly as possible.", 
-        "speakers": "Ijon"
-    }, 
-    {
-        "event_id": 1139, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -1224,7 +1200,7 @@
         "speakers": "Ijon"
     }, 
     {
-        "event_id": 1140, 
+        "event_id": 1139, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -1236,43 +1212,31 @@
         "speakers": "Ijon"
     }, 
     {
+        "event_id": 1140, 
+        "track_id": 10, 
+        "track_name": "Session", 
+        "room_id": 1111, 
+        "room_name": "Hall A.1", 
+        "start_time": "2016-12-28T21:00:00+01:00", 
+        "duration": 3600, 
+        "title": "Stage Manager Angel Introduction", 
+        "abstract": "Stage Managers are responsible for a specific lecture hall (Saal) and all the talks within a 4 hour time slot. In short, stage managers make sure the talks go as smoothly as possible, including technical issues and crowd management.\n\nDuring this Session we will introduce you to your dutys as a stage manager and teach you all that you need to know to make the Talks during 33c3 run as smoothly as possible.", 
+        "speakers": "Ijon"
+    }, 
+    {
         "event_id": 1141, 
         "track_id": 10, 
         "track_name": "Session", 
-        "room_id": 1131, 
-        "room_name": "Hall C.1", 
-        "start_time": "2016-12-26T21:00:00+01:00", 
-        "duration": 1200, 
-        "title": "SuSi-Angelmeetings", 
-        "abstract": "Angelmeeting for the Subtitles-superintendents.", 
-        "speakers": "Cube"
+        "room_id": 1111, 
+        "room_name": "Hall A.1", 
+        "start_time": "2016-12-29T19:00:00+01:00", 
+        "duration": 3600, 
+        "title": "Stage Manager Angel Introduction", 
+        "abstract": "Stage Managers are responsible for a specific lecture hall (Saal) and all the talks within a 4 hour time slot. In short, stage managers make sure the talks go as smoothly as possible, including technical issues and crowd management.\n\nDuring this Session we will introduce you to your dutys as a stage manager and teach you all that you need to know to make the Talks during 33c3 run as smoothly as possible.", 
+        "speakers": "Ijon"
     }, 
     {
         "event_id": 1142, 
-        "track_id": 10, 
-        "track_name": "Session", 
-        "room_id": 1131, 
-        "room_name": "Hall C.1", 
-        "start_time": "2016-12-27T19:30:00+01:00", 
-        "duration": 1200, 
-        "title": "SuSi-Angelmeetings", 
-        "abstract": "Angelmeeting for the Subtitles-superintendents.", 
-        "speakers": "Cube"
-    }, 
-    {
-        "event_id": 1143, 
-        "track_id": 10, 
-        "track_name": "Session", 
-        "room_id": 1134, 
-        "room_name": "Hall C.4", 
-        "start_time": "2016-12-28T19:30:00+01:00", 
-        "duration": 1200, 
-        "title": "SuSi-Angelmeetings", 
-        "abstract": "Angelmeeting for the Subtitles-superintendents.", 
-        "speakers": "Cube"
-    }, 
-    {
-        "event_id": 1144, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1134, 
@@ -1284,7 +1248,7 @@
         "speakers": "Cube"
     }, 
     {
-        "event_id": 1145, 
+        "event_id": 1143, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1134, 
@@ -1296,43 +1260,43 @@
         "speakers": "Cube"
     }, 
     {
-        "event_id": 1146, 
+        "event_id": 1144, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1131, 
         "room_name": "Hall C.1", 
         "start_time": "2016-12-26T21:00:00+01:00", 
-        "duration": 1800, 
-        "title": "Subtitles-Angelmeetings", 
-        "abstract": "The Angelmeeting for the subtitles Angels.\nIf you want to be approved as a subtitles Angel, please visit!\nIf you are one already, this is the easiest way to meet and manage shifts etc.\nWelcome to the Subtitles Angelmeeting!", 
+        "duration": 1200, 
+        "title": "SuSi-Angelmeetings", 
+        "abstract": "Angelmeeting for the Subtitles-superintendents.", 
         "speakers": "Cube"
     }, 
     {
-        "event_id": 1147, 
+        "event_id": 1145, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1131, 
         "room_name": "Hall C.1", 
-        "start_time": "2016-12-27T15:15:00+01:00", 
-        "duration": 1800, 
-        "title": "Subtitles-Angelmeetings", 
-        "abstract": "The Angelmeeting for the subtitles Angels.\nIf you want to be approved as a subtitles Angel, please visit!\nIf you are one already, this is the easiest way to meet and manage shifts etc.\nWelcome to the Subtitles Angelmeeting!", 
+        "start_time": "2016-12-27T19:30:00+01:00", 
+        "duration": 1200, 
+        "title": "SuSi-Angelmeetings", 
+        "abstract": "Angelmeeting for the Subtitles-superintendents.", 
         "speakers": "Cube"
     }, 
     {
-        "event_id": 1148, 
+        "event_id": 1146, 
         "track_id": 10, 
         "track_name": "Session", 
-        "room_id": 1111, 
-        "room_name": "Hall A.1", 
-        "start_time": "2016-12-28T15:15:00+01:00", 
-        "duration": 1800, 
-        "title": "Subtitles-Angelmeetings", 
-        "abstract": "The Angelmeeting for the subtitles Angels.\nIf you want to be approved as a subtitles Angel, please visit!\nIf you are one already, this is the easiest way to meet and manage shifts etc.\nWelcome to the Subtitles Angelmeeting!", 
+        "room_id": 1134, 
+        "room_name": "Hall C.4", 
+        "start_time": "2016-12-28T19:30:00+01:00", 
+        "duration": 1200, 
+        "title": "SuSi-Angelmeetings", 
+        "abstract": "Angelmeeting for the Subtitles-superintendents.", 
         "speakers": "Cube"
     }, 
     {
-        "event_id": 1149, 
+        "event_id": 1147, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -1344,7 +1308,7 @@
         "speakers": "Cube"
     }, 
     {
-        "event_id": 1150, 
+        "event_id": 1148, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1131, 
@@ -1356,7 +1320,43 @@
         "speakers": "Cube"
     }, 
     {
-        "event_id": 1161, 
+        "event_id": 1149, 
+        "track_id": 10, 
+        "track_name": "Session", 
+        "room_id": 1131, 
+        "room_name": "Hall C.1", 
+        "start_time": "2016-12-26T21:00:00+01:00", 
+        "duration": 1800, 
+        "title": "Subtitles-Angelmeetings", 
+        "abstract": "The Angelmeeting for the subtitles Angels.\nIf you want to be approved as a subtitles Angel, please visit!\nIf you are one already, this is the easiest way to meet and manage shifts etc.\nWelcome to the Subtitles Angelmeeting!", 
+        "speakers": "Cube"
+    }, 
+    {
+        "event_id": 1150, 
+        "track_id": 10, 
+        "track_name": "Session", 
+        "room_id": 1131, 
+        "room_name": "Hall C.1", 
+        "start_time": "2016-12-27T15:15:00+01:00", 
+        "duration": 1800, 
+        "title": "Subtitles-Angelmeetings", 
+        "abstract": "The Angelmeeting for the subtitles Angels.\nIf you want to be approved as a subtitles Angel, please visit!\nIf you are one already, this is the easiest way to meet and manage shifts etc.\nWelcome to the Subtitles Angelmeeting!", 
+        "speakers": "Cube"
+    }, 
+    {
+        "event_id": 1151, 
+        "track_id": 10, 
+        "track_name": "Session", 
+        "room_id": 1111, 
+        "room_name": "Hall A.1", 
+        "start_time": "2016-12-28T15:15:00+01:00", 
+        "duration": 1800, 
+        "title": "Subtitles-Angelmeetings", 
+        "abstract": "The Angelmeeting for the subtitles Angels.\nIf you want to be approved as a subtitles Angel, please visit!\nIf you are one already, this is the easiest way to meet and manage shifts etc.\nWelcome to the Subtitles Angelmeeting!", 
+        "speakers": "Cube"
+    }, 
+    {
+        "event_id": 1162, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -1368,7 +1368,7 @@
         "speakers": "Jeffburdges"
     }, 
     {
-        "event_id": 1162, 
+        "event_id": 1163, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -1380,7 +1380,7 @@
         "speakers": "Eal"
     }, 
     {
-        "event_id": 1163, 
+        "event_id": 1164, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -1392,7 +1392,7 @@
         "speakers": "Eal"
     }, 
     {
-        "event_id": 1164, 
+        "event_id": 1165, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 0, 
@@ -1404,7 +1404,7 @@
         "speakers": "Reisende"
     }, 
     {
-        "event_id": 1165, 
+        "event_id": 1166, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1120, 
@@ -1416,7 +1416,7 @@
         "speakers": "Julius"
     }, 
     {
-        "event_id": 1166, 
+        "event_id": 1167, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1134, 
@@ -1426,18 +1426,6 @@
         "title": "Train the CryptoParty Trainer", 
         "abstract": "Training our own trainers we can help grow the CryptoParty. In this session we'd like to share concepts and ideas on what works.", 
         "speakers": "Dawning-sun"
-    }, 
-    {
-        "event_id": 1167, 
-        "track_id": 10, 
-        "track_name": "Session", 
-        "room_id": 1013, 
-        "room_name": "Hall 13-14", 
-        "start_time": "2016-12-29T15:10:00+01:00", 
-        "duration": 3000, 
-        "title": "Translation meetings", 
-        "abstract": "The translation angels (interpreters) meet twice per day to self-organise (day 0, evening to day 4, afternoon)", 
-        "speakers": "Sebalis"
     }, 
     {
         "event_id": 1168, 
@@ -1527,6 +1515,18 @@
         "event_id": 1175, 
         "track_id": 10, 
         "track_name": "Session", 
+        "room_id": 1013, 
+        "room_name": "Hall 13-14", 
+        "start_time": "2016-12-29T15:10:00+01:00", 
+        "duration": 3000, 
+        "title": "Translation meetings", 
+        "abstract": "The translation angels (interpreters) meet twice per day to self-organise (day 0, evening to day 4, afternoon)", 
+        "speakers": "Sebalis"
+    }, 
+    {
+        "event_id": 1176, 
+        "track_id": 10, 
+        "track_name": "Session", 
         "room_id": 1133, 
         "room_name": "Hall C.3", 
         "start_time": "2016-12-28T13:00:00+01:00", 
@@ -1534,18 +1534,6 @@
         "title": "UMUM", 
         "abstract": "Meeting of users and not-yet-users of MikroTik devices  to get in contact and share their wisdom. This meeting is private organized!", 
         "speakers": "Njumaen"
-    }, 
-    {
-        "event_id": 1176, 
-        "track_id": 10, 
-        "track_name": "Session", 
-        "room_id": 0, 
-        "room_name": "Saal 6", 
-        "start_time": "2016-12-30T15:00:00+01:00", 
-        "duration": 3600, 
-        "title": "VOC Engelmeeting", 
-        "abstract": "Daily meeting for all VOC Angels.", 
-        "speakers": "Jwacalex, V0tti, Felixs"
     }, 
     {
         "event_id": 1177, 
@@ -1587,6 +1575,18 @@
         "event_id": 1180, 
         "track_id": 10, 
         "track_name": "Session", 
+        "room_id": 0, 
+        "room_name": "Saal 6", 
+        "start_time": "2016-12-30T15:00:00+01:00", 
+        "duration": 3600, 
+        "title": "VOC Engelmeeting", 
+        "abstract": "Daily meeting for all VOC Angels.", 
+        "speakers": "Jwacalex, V0tti, Felixs"
+    }, 
+    {
+        "event_id": 1181, 
+        "track_id": 10, 
+        "track_name": "Session", 
         "room_id": 1132, 
         "room_name": "Hall C.2", 
         "start_time": "2016-12-28T15:00:00+01:00", 
@@ -1596,7 +1596,7 @@
         "speakers": "Eal"
     }, 
     {
-        "event_id": 1181, 
+        "event_id": 1182, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1120, 
@@ -1608,7 +1608,7 @@
         "speakers": "Jeffburdges"
     }, 
     {
-        "event_id": 1183, 
+        "event_id": 1184, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -1620,7 +1620,7 @@
         "speakers": "Eal"
     }, 
     {
-        "event_id": 1184, 
+        "event_id": 1185, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1134, 
@@ -1632,7 +1632,7 @@
         "speakers": "Eal"
     }, 
     {
-        "event_id": 1185, 
+        "event_id": 1186, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1134, 
@@ -1644,7 +1644,7 @@
         "speakers": "Brightbyte"
     }, 
     {
-        "event_id": 1186, 
+        "event_id": 1187, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1133, 
@@ -1656,7 +1656,7 @@
         "speakers": "Fabianurban"
     }, 
     {
-        "event_id": 1187, 
+        "event_id": 1188, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1133, 
@@ -1668,7 +1668,7 @@
         "speakers": "Fabianurban"
     }, 
     {
-        "event_id": 1188, 
+        "event_id": 1189, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1133, 

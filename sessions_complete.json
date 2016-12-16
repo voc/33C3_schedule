@@ -6023,6 +6023,56 @@
             "1482690600"
         ]
     }, 
+    "Session:Skillconvention b# b06e4dfefe4629fdaf4c0ae1e5116d41": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482978600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://thereisnogame.de"
+        ], 
+        "Has description": [
+            "all travelers of a certain skill will be invented to join their respective session"
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall 13-14", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_13-14", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Reisende", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Reisende", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Skillconvention b"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Skillconvention_b", 
+        "Has end time": [
+            "1482982200"
+        ]
+    }, 
     "Session:CmS L\u00f6tworkshop Vorbesprechung f\u00fcr Helfer# da6dbae49e1ecb56a980368402616b5a": {
         "Held in language": [
             "de - German"
@@ -10159,54 +10209,60 @@
             "1482854400"
         ]
     }, 
-    "Session:Skillconvention b# b06e4dfefe4629fdaf4c0ae1e5116d41": {
+    "Session:Klangteppich# 1d417fdc38d9002139dfa87a15a17e0e": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482978600"
+            "1482958800"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "http://thereisnogame.de"
-        ], 
+        "Has website": [], 
         "Has description": [
-            "all travelers of a certain skill will be invented to join their respective session"
+            "Come over and meet us at our cozy music lounge in hall 4! Proudly presented by Chaos West, c-base & friends"
         ], 
         "Has session type": [
-            "Meeting"
+            "Other"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall 13-14", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_13-14", 
-                "namespace": 516, 
+                "fulltext": "Assembly:Chaos West", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Chaos_West", 
+                "namespace": 504, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [], 
+        "Has subtitle": [
+            "[[User:couchsofa|couchsofa]] DJ set: Techno/Tech House/Melodic Techno/Glitch"
+        ], 
         "Is organized by": [
             {
-                "fulltext": "User:Reisende", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Reisende", 
+                "fulltext": "User:Bam", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Bam", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:JayDee2202", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:JayDee2202", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Skillconvention b"
+            "Klangteppich"
         ], 
         "Has duration": [
-            60
+            180
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Skillconvention_b", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Klangteppich", 
         "Has end time": [
-            "1482982200"
+            "1482969600"
         ]
     }, 
     "Session:Film-Blocker# afdd31277e2c1f456697250610dab6c4": {
