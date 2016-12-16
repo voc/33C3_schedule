@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "INSUFFICIENT DATA", 
+        "version": "NOT A BUG", 
         "conference": {
             "acronym": "33c3", 
             "title": "33. Chaos Communication Congress", 
@@ -360,7 +360,7 @@
                                 "type": "lecture", 
                                 "language": "en", 
                                 "abstract": "Last year, we demonstrated Linux running on the PS4 in a lightning talk - presented on the PS4 itself. But how did we do it? In a departure from previous Console Hacking talks focusing on security, this year we're going to focus on the PS4 hardware, what makes it different from a PC, and how we reverse engineered it enough to get a full-blown Linux distro running on it, complete with 3D acceleration.", 
-                                "description": "So you have an exploit. You have code execution. Great! But what do you do now?\r\n\r\nIn the past, console homebrew usually focused on bringing up a development environment similar to the one used for commercial games. However, with the increasing complexity of console hardware, it's becoming impractical for a small team of hackers to create a full blown development SDK. Using leaked official SDKs is illegal. What can we do? Well, there's Linux.\r\n\r\nThe PS4 is particularly great for Linux, because it is based on a modified x86 platform and a modified Radeon GPU. That means that once the basic OS port is complete, it can run existing games - even Steam games and other commercial software. But just how similar is the PS4 to a PC? Can you just throw GRUB on it and boot an Ubuntu kernel? Not quite.\r\n\r\nIn this talk we'll cover the PS4 hardware and part of its software environment, and how we reverse engineered enough of it to write Linux drivers and kernel patches. We'll go over how we went from basic code execution to building a 'kexec' function that can boot into Linux from the PS4's FreeBSD-based kernel. We'll reverse engineer the PS4's special hardware, from special PCI interrupt management to the HDMI encoder.  We'll dive deep into the Radeon-based GPU architecture, and we'll share some previously unreleased released research and tools of interest to AMD Radeon driver developers and hackers.\r\n\r\nIf you're interested in the strange world of x86 hardware that isn't quite a PC, then this talk is for you.", 
+                                "description": "So you have an exploit. You have code execution. Great! But what do you do now?\r\n\r\nIn the past, console homebrew usually focused on bringing up a development environment similar to the one used for commercial games. However, with the increasing complexity of console hardware, it's becoming impractical for a small team of hackers to create a full blown development SDK. Using leaked official SDKs is illegal. What can we do? Well, there's Linux.\r\n\r\nThe PS4 is particularly great for Linux, because it is based on a modified x86 platform and a modified Radeon GPU. That means that once the basic OS port is complete, it can run existing games - even Steam games and other commercial software. But just how similar is the PS4 to a PC? Can you just throw GRUB on it and boot an Ubuntu kernel? Not quite.\r\n\r\nIn this talk we'll cover the PS4 hardware and part of its software environment, and how we reverse engineered enough of it to write Linux drivers and kernel patches. We'll go over how we went from basic code execution to building a 'kexec' function that can boot into Linux from the PS4's FreeBSD-based kernel. We'll reverse engineer the PS4's special hardware, from special PCI interrupt management to the HDMI encoder.  We'll dive deep into the Radeon-based GPU architecture, and we'll share some previously unreleased research and tools of interest to AMD Radeon driver developers and hackers.\r\n\r\nIf you're interested in the strange world of x86 hardware that isn't quite a PC, then this talk is for you.", 
                                 "recording_license": "CC BY 4.0", 
                                 "do_not_record": false, 
                                 "persons": [
@@ -582,7 +582,7 @@
                                         "title": "Semantics derived automatically from language corpora necessarily contain human biases"
                                     }, 
                                     {
-                                        "url": "https://www.securityweek2016.tu-darmstadt.de/pets-2016/hotpets/", 
+                                        "url": "https://petsymposium.org/2016/spw-mirror/pets-2016/hotpets/", 
                                         "title": "A Story of Discrimination and Unfairness"
                                     }, 
                                     {
@@ -715,7 +715,7 @@
                             {
                                 "id": 8344, 
                                 "guid": "686b1941-b211-4902-b4c4-1d642398e08b", 
-                                "logo": null, 
+                                "logo": "/system/events/logos/000/008/344/large/game_over_1.png?1481818206", 
                                 "date": "2016-12-27T20:30:00+01:00", 
                                 "start": "20:30", 
                                 "duration": "01:00", 
@@ -1128,7 +1128,7 @@
                                     }, 
                                     {
                                         "id": 7238, 
-                                        "public_name": "nemanja"
+                                        "public_name": "Nemanja Nikodijevic"
                                     }
                                 ], 
                                 "links": [], 
@@ -3296,7 +3296,7 @@
                                 "logo": "/system/events/logos/000/007/960/large/logo.png?1474487509", 
                                 "date": "2016-12-29T00:45:00+01:00", 
                                 "start": "00:45", 
-                                "duration": "01:00", 
+                                "duration": "01:30", 
                                 "room": "Saal 1", 
                                 "slug": "33c3-7960-fnord-jahresruckblick", 
                                 "title": "Fnord-Jahresr\u00fcckblick", 
@@ -3544,8 +3544,8 @@
                                 "track": "Security", 
                                 "type": "lecture", 
                                 "language": "de", 
-                                "abstract": "Blockchain ist die Technologie welche moderne Kryptow\u00e4hrungen erm\u00f6glicht. In dem Vortrag wird die Funktionsweise von Blockchains ganz allgemein erkl\u00e4ren. Anhand der Bitcoin Blockchain wird ausserdem gezeigt, wie diese Funktionen in einem echten System umgesetzt werden k\u00f6nnen.", 
-                                "description": "Blockchain ist die Technologie hinter Bitcoin. Sie macht Kryptow\u00e4hrungen \u00fcberhaupt erst m\u00f6glich und die meisten Vorg\u00e4nge moderner Kryptow\u00e4hrungen k\u00f6nnen anhand der jeweiligen Blockchain aufgezeigt und erkl\u00e4rt werden.\r\n\r\nDer Vortrag gibt eine Einf\u00fchrung zu Blockchains. Es wird gezeigt, was Blockchains  bezwecken sollen und wie sie das erreichen. Die Grundlegenden Eigenschaften werden anhand einers abstrakten Modells erkl\u00e4rt:\r\n\r\n<ul>\r\n  <li>Wie wird ein Konsens etabliert</li>\r\n  <li>Wie sch\u00fctzen Blockchains vor doublespending</li>\r\n  <li>Wie sch\u00fctzen Blockchains vor Angriffen auf einzelne Teilnehmer des P2P Netzwerkes</li>\r\n  <li>Was ist ein Proof of work und welche Rolle spielt er f\u00fcr die Sicherheit</li>\r\n  <li>Wie kann der Zustand effizient an alle Teilnehmer verteilt werden</li>\r\n</ul>\r\n\r\nAnhand der Bitcoin Blockchain soll ausserdem gezeigt werden, wie diese Funktionen in einem echten System umgesetzt werden k\u00f6nnen. Ausserdem wird die Funktionsweise von Light-clients behandelt. Dabei spielen insbesondere der Aufbau der Bitcoin Bl\u00f6cke und der Schutz der Transaktionen mittels eines Merkle Baumes eine wichtige Rolle.\r\n\r\nDer Vortrag fokussiert auf die Blockchain-Technologie. Funktionen und Implementationsdetails von Bitcoin, die mit der Blockchain nicht in direktem Zusammenhang stehen, werden nicht behandelt. Es werden die Eigenschaften \u00f6ffentlicher, POW basierter, Blockchains behandelt, private Blockchains, wie sie in von Finanzinstituten entwickelt werden, werden nicht behandelt.", 
+                                "abstract": "Blockchain ist die Technologie welche moderne Kryptow\u00e4hrungen erm\u00f6glicht. In dem Vortrag wird die Funktionsweise von Blockchains ganz allgemein erkl\u00e4rt. Anhand der Bitcoin Blockchain wird ausserdem gezeigt, wie diese Funktionen in einem echten System umgesetzt werden k\u00f6nnen.", 
+                                "description": "Blockchain ist die Technologie hinter Bitcoin. Sie macht Kryptow\u00e4hrungen \u00fcberhaupt erst m\u00f6glich und die meisten Vorg\u00e4nge moderner Kryptow\u00e4hrungen k\u00f6nnen anhand der jeweiligen Blockchain aufgezeigt und erkl\u00e4rt werden.\r\n\r\nDer Vortrag gibt eine Einf\u00fchrung zu Blockchains. Es wird gezeigt, was Blockchains  bezwecken sollen und wie sie das erreichen. Die Grundlegenden Eigenschaften werden anhand eines abstrakten Modells erkl\u00e4rt:\r\n\r\n<ul>\r\n  <li>Wie wird ein Konsens etabliert</li>\r\n  <li>Wie sch\u00fctzen Blockchains vor doublespending</li>\r\n  <li>Wie sch\u00fctzen Blockchains vor Angriffen auf einzelne Teilnehmer des P2P Netzwerkes</li>\r\n  <li>Was ist ein Proof of work und welche Rolle spielt er f\u00fcr die Sicherheit</li>\r\n  <li>Wie kann der Zustand effizient an alle Teilnehmer verteilt werden</li>\r\n</ul>\r\n\r\nAnhand der Bitcoin Blockchain soll ausserdem gezeigt werden, wie diese Funktionen in einem echten System umgesetzt werden k\u00f6nnen. Ausserdem wird die Funktionsweise von Light-clients behandelt. Dabei spielen insbesondere der Aufbau der Bitcoin Bl\u00f6cke und der Schutz der Transaktionen mittels eines Merkle Baumes eine wichtige Rolle.\r\n\r\nDer Vortrag fokussiert auf die Blockchain-Technologie. Funktionen und Implementationsdetails von Bitcoin, die mit der Blockchain nicht in direktem Zusammenhang stehen, werden nicht behandelt. Es werden die Eigenschaften \u00f6ffentlicher, POW basierter, Blockchains behandelt, private Blockchains, wie sie in von Finanzinstituten entwickelt werden, werden nicht behandelt.", 
                                 "recording_license": "CC BY 4.0", 
                                 "do_not_record": false, 
                                 "persons": [
@@ -3598,7 +3598,7 @@
                                 "room": "Saal 2", 
                                 "slug": "33c3-7912-spiegelmining_reverse_engineering_von_spiegel-online", 
                                 "title": "SpiegelMining \u2013 Reverse Engineering von Spiegel-Online", 
-                                "subtitle": "Wer denkt, Vorratsdatenspeicherungen und \u201eBig Data\u201c sind harmlos, der sollte diesen Vortrag besuchen", 
+                                "subtitle": "Wer denkt, Vorratsdatenspeicherungen und \u201eBig Data\u201c sind harmlos, der kriegt hier eine Demo an Spiegel-Online.", 
                                 "track": "Ethics, Society & Politics", 
                                 "type": "lecture", 
                                 "language": "de", 
@@ -3730,30 +3730,43 @@
                                 "attachments": []
                             }, 
                             {
-                                "id": 8012, 
-                                "guid": "70269173-72a8-4eab-b356-f22faea6cdca", 
-                                "logo": null, 
+                                "id": 7963, 
+                                "guid": "c45fa431-69f9-47db-a90c-fb596efdcb55", 
+                                "logo": "/system/events/logos/000/007/963/large/14726308_1208926132479694_5138167602106859520_n.jpg?1479920421", 
                                 "date": "2016-12-28T17:15:00+01:00", 
                                 "start": "17:15", 
                                 "duration": "01:00", 
                                 "room": "Saal G", 
-                                "slug": "33c3-8012-building_custom_pinball_machines", 
-                                "title": "Building Custom Pinball Machines", 
-                                "subtitle": "What you need and how it works. An experiences report", 
+                                "slug": "33c3-7963-searchwing_-_drones_to_find_refugees_in_mediterranean_sea", 
+                                "title": "SearchWing - Drones to find refugees in Mediterranean Sea", 
+                                "subtitle": "", 
                                 "track": "Hardware & Making", 
                                 "type": "lecture", 
-                                "language": "en", 
-                                "abstract": "How to build a pinball machine? We introduce you to all basics and explain the different options for hardware and software. As an example, we show images of our own custom pinball machine.", 
-                                "description": "This talk gives an overview over all the components in a pinball machine which includes software and a lot of hardware. Afterwards, we go over all the steps when designing and building a pinball machine. We start with basic design rules, physical limits and best practices. Then, we focus on the mechanical and electronic components. After that, we talk about software and display (DMD vs LCD) options. At the end, we explain how to build or manufacture certain parts for your machine.\r\n\r\nFor the hardware, we talk about:\r\n- EM, WPC and modern machines\r\n- Coils and Switches\r\n- Sources for mechanical elements\r\n- Gi/Lamps\r\n- RGB LEDs\r\n- Display option (DMDs, LED-DMDs, LCDs) and how to control them\r\n\r\nElectronics:\r\n- Open Pinball Project (Open Hardware)\r\n- Multimorphic P-Roc and P3-Roc\r\n- FAST Pinball Boards\r\n- Full custom options\r\n- Fadecandy/Openpixel\r\n- I2C and ServoControllers\r\n\r\nSoftware options:\r\n- Mission Pinball Framework (Disclaimer: I'm one of the authors)\r\n- pypinprocgame/pypinprocgameHD\r\n\r\nBuilding/Manufacturing Parts:\r\n- Playfields (including printing)\r\n- Cabinet\r\n- Metal ramps\r\n- Wire ramps\r\n- Plastic ramps\r\n- Plastics/Decals\r\n- Inserts\r\n- Mechanics", 
+                                "language": "de", 
+                                "abstract": "Refugees are dying in the Mediterranean Sea. Thousands of them. \r\nWe are building fixed wing drones, autonomously searching for refugee-vessels in a radius of 50km around a base-ship. \r\nThe association \"Seawatch e.V.\" has bought two well equipped Ships to help and rescue those people. But to help them we first have to find them.", 
+                                "description": "CCC-Berlin and \"Sea Watch e.V.\" are working together to use high tech for humanitarian projects.  \r\nIn this talk we will explain the situation in the Mediterranean Sea and show possibilities to help refugees in mortal danger with high tech. \r\nWe will present a smartphone app for organising the multidimensional chaos in the Mediterranean Sea and we explain in depth, how the development of the drones is proceeding, what already works and which challenges are still waiting.   \r\nAfter some deliberation, we reluctantly decided to give this talk in German since we have a lot to show and talk about within a constrained time window. However, live translation services should be available via streaming (or DECT) so our international guests can participate. Of course, questions asked in English are welcome as well.", 
                                 "recording_license": "CC BY 4.0", 
                                 "do_not_record": false, 
                                 "persons": [
                                     {
-                                        "id": 3565, 
-                                        "public_name": "jab"
+                                        "id": 6266, 
+                                        "public_name": "Steini"
+                                    }, 
+                                    {
+                                        "id": 7110, 
+                                        "public_name": "Ruben Neugebauer"
+                                    }, 
+                                    {
+                                        "id": 4231, 
+                                        "public_name": "benthor"
                                     }
                                 ], 
-                                "links": [], 
+                                "links": [
+                                    {
+                                        "url": "https://sea-watch.org/", 
+                                        "title": "Sea Watch"
+                                    }
+                                ], 
                                 "attachments": []
                             }, 
                             {
@@ -3907,27 +3920,27 @@
                                 "attachments": []
                             }, 
                             {
-                                "id": 8412, 
-                                "guid": "2aba641b-114d-4dac-866e-533314a3c108", 
+                                "id": 8419, 
+                                "guid": "5f0ab68a-8e2d-481e-b009-55a1af58760c", 
                                 "logo": null, 
                                 "date": "2016-12-28T12:15:00+01:00", 
                                 "start": "12:15", 
                                 "duration": "00:30", 
                                 "room": "Saal 6", 
-                                "slug": "33c3-8412-from_server_farm_to_data_table", 
-                                "title": " From Server Farm to Data Table", 
-                                "subtitle": "", 
+                                "slug": "33c3-8419-the_clash_of_digitalizations", 
+                                "title": "The Clash of Digitalizations", 
+                                "subtitle": "The Devolution of Arab Men from Humans to Digital Fodder", 
                                 "track": "Art & Culture", 
                                 "type": "lecture", 
                                 "language": "en", 
-                                "abstract": "\r\nEarly digital computers were the size of rooms. While the devices have gotten smaller, because of the increasingly networked nature of technology the room has gotten bigger--it's ceased having walls and started to cover the ocean floor and ascend into low earth orbit. While Neal Stephenson may have cornered this living-inside-a-computer narrative in 1996 with \"Mother Earth, Mother Board\", in the past twenty years the seams of the network have become even more opaque, subsumed into The Cloud and other problematic abstractions. This talk will mostly be about different approaches to documenting, comprehending, and thinking about network infrastructure and the ways that the visual vernacular of technologies shape their history and politics. \r\n\r\n", 
-                                "description": "", 
+                                "abstract": "This talk discusses the representation of Arab males in video games and the adverse effect it has on the collective political imagination. Anonymous military-aged Arab men become increasingly the exception to the laws of human rights, and become default targets for conventional and unmanned drone attacks. This devolution is seen through the lens of the changing nature of conflict through digitalization, the collapse of the nation state in Iraq and Syria, and the future of war. ", 
+                                "description": "In the popular video game series \"Call of Duty: Modern Warfare\", Arab men are consistently depicted as the mindless throngs of the indestinguishable enemy. The First Person Shooter (FPS) genre lends itself to killing enemies, usually many in the same round, but the evolution of the target went from Nazi's in Wolfenstein 3D in 1992, to targets that become increasingly comparable to Arabs and Muslims in the following years. So besides historically oriented games that focus on the combatants of World War II, most games since the 1990's begin to shift their focus to another kind of enemy--one that suspiciously looks Arab or Islamic. Even Sci-Fi epics like the Halo series, which take place may hundreds of years in the future, the enemies start taking on an exotified look and feel, and follow an obviously religious ideology that is inimical to universal peace. The smallest insignificant alien becomes a strategic risk as they become \"suicide bombers\" blowing themselves up before they die, expressing a sigh of cowardice before they die. \r\n\r\nIn \"Modern Warfare 2\", something suprising happens. The Arab characters are given a little more depth and backstory, and the Arabic dialogue is the most realistic of any of the other games. It also becomes the version of the game that is most modified by users (in so-called \"mods\"). Hacked and converted to other versions, there is significantly a version used by Al-Qaeda for recruitment purposes. The production company responsible, Infinity Ward, later had its two chief developers and founders fired under mysterious circumstances. \r\n\r\nAs a researcher on radical Islamic thought, over the years I have collected some materials about video games and their uses for recruitment and ideological training on the Jihadist side. What I would like to do for 33C3 is show versions of the modded games parrallel to the originals in a face-off setting, and give a lecture about the background to these games. I will explore stories of recruitment from American soldiers, and how these games factored into their decision to join the U.S. military. Through the digital realm, I will propose a new framework for understanding the so-called Huntingtonian \"Clash of Civilizations\"--where very recent cultural artifacts become automatic motivations. As a drone operator sees the pixelation of a real Arab male on the screen, it is an image he's shot at in the virtual domain over and over again since he was a child.  The Arab male has devolved from being a human being (in the way that women or children, or caucasian males are) to being mere fodder, a natural target where you simply just shoot. ", 
                                 "recording_license": "", 
                                 "do_not_record": false, 
                                 "persons": [
                                     {
-                                        "id": 7176, 
-                                        "public_name": "Ingrid Burrington"
+                                        "id": 6169, 
+                                        "public_name": "Saud Al-Zaid"
                                     }
                                 ], 
                                 "links": [], 
@@ -3993,16 +4006,7 @@
                                     }
                                 ], 
                                 "links": [], 
-                                "attachments": [
-                                    {
-                                        "url": "/system/event_attachments/attachments/000/003/097/original/wheel_of_fortune_ccc_presentation.pptx?1481478632", 
-                                        "title": "Wheel of Fortune Slides (PPTX)"
-                                    }, 
-                                    {
-                                        "url": "/system/event_attachments/attachments/000/003/098/original/wheel_of_fortune_ccc_presentation.pdf?1481478632", 
-                                        "title": "Wheel of Fortune Slides (PDF)"
-                                    }
-                                ]
+                                "attachments": []
                             }, 
                             {
                                 "id": 8418, 
@@ -6211,7 +6215,7 @@
                                         "public_name": "frank"
                                     }, 
                                     {
-                                        "id": 5182, 
+                                        "id": 3995, 
                                         "public_name": "Linus Neumann"
                                     }, 
                                     {
@@ -6383,7 +6387,7 @@
                                 "type": "lecture", 
                                 "language": "en", 
                                 "abstract": "The long term survival of the human species requires that we become an interplanetary species. But we must answer two big questions: where are we going, and how do we get there? We explore what scientists know (and don\u2019t know) about humanity\u2019s potential future homes both inside and outside the solar system, and then we\u2019ll dive into the technological challenges of (and potential solutions for) getting humans to and colonizing a new planet.", 
-                                "description": "Long the realm of science fiction, interplanetary colonization is now taken more and more seriously by scientists and space agancies alike as technologies come within reach. We will evaluate obstacles and solutions by looking at two topics: Where to go? and How to get there?\r\nPart 1 explores the options that humans have in expanding to new planets. There are now 3,518 exoplanets in 2,635 planetary systems confirmed. We\u2019ll discuss how astronomers find planets, and how they learn about the conditions there. How do we pick a colonization target based on the data we can gather when there is no way of sending probes there and getting information back in reasonable time like we do in our solar system?\r\nPart 2 gives an overview of technologies currently available to get humans to other planets, and what that means in terms of humanity\u2019s expansion. We'll also talk about the technology advancements necessary for truly interstellar colonization.", 
+                                "description": "Long the realm of science fiction, interplanetary colonization is now taken more and more seriously by scientists and space agencies alike as technologies come within reach. We will evaluate obstacles and solutions by looking at two topics: Where to go? and How to get there?\r\nPart 1 explores the options that humans have in expanding to new planets. There are now 3,518 exoplanets in 2,635 planetary systems confirmed. We\u2019ll discuss how astronomers find planets, and how they learn about the conditions there. How do we pick a colonization target based on the data we can gather when there is no way of sending probes there and getting information back in reasonable time like we do in our solar system?\r\nPart 2 gives an overview of technologies currently available to get humans to other planets, and what that means in terms of humanity\u2019s expansion. We'll also talk about the technology advancements necessary for truly interstellar colonization.", 
                                 "recording_license": "CC BY 4.0", 
                                 "do_not_record": false, 
                                 "persons": [
@@ -6898,43 +6902,30 @@
                                 "attachments": []
                             }, 
                             {
-                                "id": 7963, 
-                                "guid": "c45fa431-69f9-47db-a90c-fb596efdcb55", 
-                                "logo": "/system/events/logos/000/007/963/large/14726308_1208926132479694_5138167602106859520_n.jpg?1479920421", 
+                                "id": 8012, 
+                                "guid": "70269173-72a8-4eab-b356-f22faea6cdca", 
+                                "logo": null, 
                                 "date": "2016-12-29T16:00:00+01:00", 
                                 "start": "16:00", 
                                 "duration": "01:00", 
                                 "room": "Saal G", 
-                                "slug": "33c3-7963-searchwing_-_drones_to_find_refugees_in_mediterranean_sea", 
-                                "title": "SearchWing - Drones to find refugees in Mediterranean Sea", 
-                                "subtitle": "", 
+                                "slug": "33c3-8012-building_custom_pinball_machines", 
+                                "title": "Building Custom Pinball Machines", 
+                                "subtitle": "What you need and how it works. An experiences report", 
                                 "track": "Hardware & Making", 
                                 "type": "lecture", 
-                                "language": "de", 
-                                "abstract": "Refugees are dying in the Mediterranean Sea. Thousands of them. \r\nWe are building fixed wing drones, autonomously searching for refugee-vessels in a radius of 50km around a base-ship. \r\nThe association \"Seawatch e.V.\" has bought two well equipped Ships to help and rescue those people. But to help them we first have to find them.", 
-                                "description": "CCC-Berlin and \"Sea Watch e.V.\" are working together to use high tech for humanitarian projects.  \r\nIn this talk we will explain the situation in the Mediterranean Sea and show possibilities to help refugees in mortal danger with high tech. \r\nWe will present a smartphone app for organising the multidimensional chaos in the Mediterranean Sea and we explain in depth, how the development of the drones is proceeding, what already works and which challenges are still waiting.   \r\nAfter some deliberation, we reluctantly decided to give this talk in German since we have a lot to show and talk about within a constrained time window. However, live translation services should be available via streaming (or DECT) so our international guests can participate. Of course, questions asked in English are welcome as well.", 
+                                "language": "en", 
+                                "abstract": "How to build a pinball machine? We introduce you to all basics and explain the different options for hardware and software. As an example, we show images of our own custom pinball machine.", 
+                                "description": "This talk gives an overview over all the components in a pinball machine which includes software and a lot of hardware. Afterwards, we go over all the steps when designing and building a pinball machine. We start with basic design rules, physical limits and best practices. Then, we focus on the mechanical and electronic components. After that, we talk about software and display (DMD vs LCD) options. At the end, we explain how to build or manufacture certain parts for your machine.\r\n\r\nFor the hardware, we talk about:\r\n- EM, WPC and modern machines\r\n- Coils and Switches\r\n- Sources for mechanical elements\r\n- Gi/Lamps\r\n- RGB LEDs\r\n- Display option (DMDs, LED-DMDs, LCDs) and how to control them\r\n\r\nElectronics:\r\n- Open Pinball Project (Open Hardware)\r\n- Multimorphic P-Roc and P3-Roc\r\n- FAST Pinball Boards\r\n- Full custom options\r\n- Fadecandy/Openpixel\r\n- I2C and ServoControllers\r\n\r\nSoftware options:\r\n- Mission Pinball Framework (Disclaimer: I'm one of the authors)\r\n- pypinprocgame/pypinprocgameHD\r\n\r\nBuilding/Manufacturing Parts:\r\n- Playfields (including printing)\r\n- Cabinet\r\n- Metal ramps\r\n- Wire ramps\r\n- Plastic ramps\r\n- Plastics/Decals\r\n- Inserts\r\n- Mechanics", 
                                 "recording_license": "CC BY 4.0", 
                                 "do_not_record": false, 
                                 "persons": [
                                     {
-                                        "id": 6266, 
-                                        "public_name": "Steini"
-                                    }, 
-                                    {
-                                        "id": 7110, 
-                                        "public_name": "Ruben Neugebauer"
-                                    }, 
-                                    {
-                                        "id": 4231, 
-                                        "public_name": "benthor"
+                                        "id": 3565, 
+                                        "public_name": "jab"
                                     }
                                 ], 
-                                "links": [
-                                    {
-                                        "url": "https://sea-watch.org/", 
-                                        "title": "Sea Watch"
-                                    }
-                                ], 
+                                "links": [], 
                                 "attachments": []
                             }, 
                             {
@@ -7312,7 +7303,7 @@
                                 "type": "lecture", 
                                 "language": "en", 
                                 "abstract": "France is under a state of emergency since November 2015. Several laws and a more intrusive surveillance framework, infringing rights and freedoms, have been  adopted these recent years in the name of the fight against terrorism. Privacy, freedom of expression... these words could soon disappear from French vocabulary as the number of measures increases as the same time than their intensity. We will show how it happened and what are our actions to try to defend the rights of all to privacy and freedom of speech.", 
-                                "description": "", 
+                                "description": "\r\nThe next French presidential elections will take place in spring 2017 under the state of emergency while all laws recently adopted are making our national motto \"libert\u00e9, \u00e9galit\u00e9, fraternit\u00e9\" out of date. Furthermore, the increasing surveillance drifts are undermining Privacy whereas this is a fundamental right and a sine qua non condition for freedom.\r\nWe are looking back on the three years span of law adopted on surveillance in France as well as the more than one-year old state of emegency. What does that mean for our rights ? What is at stake ? In which society model are we heading? \r\nWhat can we learn form the French exeperience? Let's find out.", 
                                 "recording_license": "CC BY 4.0", 
                                 "do_not_record": false, 
                                 "persons": [
@@ -7480,27 +7471,27 @@
                                 "attachments": []
                             }, 
                             {
-                                "id": 8419, 
-                                "guid": "5f0ab68a-8e2d-481e-b009-55a1af58760c", 
+                                "id": 8412, 
+                                "guid": "2aba641b-114d-4dac-866e-533314a3c108", 
                                 "logo": null, 
                                 "date": "2016-12-29T21:15:00+01:00", 
                                 "start": "21:15", 
                                 "duration": "00:30", 
                                 "room": "Saal 6", 
-                                "slug": "33c3-8419-the_clash_of_digitalizations", 
-                                "title": "The Clash of Digitalizations", 
-                                "subtitle": "The Devolution of Arab Men from Humans to Digital Fodder", 
+                                "slug": "33c3-8412-from_server_farm_to_data_table", 
+                                "title": " From Server Farm to Data Table", 
+                                "subtitle": "", 
                                 "track": "Art & Culture", 
                                 "type": "lecture", 
                                 "language": "en", 
-                                "abstract": "This talk discusses the representation of Arab males in video games and the adverse effect it has on the collective political imagination. Anonymous military-aged Arab men become increasingly the exception to the laws of human rights, and become default targets for conventional and unmanned drone attacks. This devolution is seen through the lens of the changing nature of conflict through digitalization, the collapse of the nation state in Iraq and Syria, and the future of war. ", 
-                                "description": "In the popular video game series \"Call of Duty: Modern Warfare\", Arab men are consistently depicted as the mindless throngs of the indestinguishable enemy. The First Person Shooter (FPS) genre lends itself to killing enemies, usually many in the same round, but the evolution of the target went from Nazi's in Wolfenstein 3D in 1992, to targets that become increasingly comparable to Arabs and Muslims in the following years. So besides historically oriented games that focus on the combatants of World War II, most games since the 1990's begin to shift their focus to another kind of enemy--one that suspiciously looks Arab or Islamic. Even Sci-Fi epics like the Halo series, which take place may hundreds of years in the future, the enemies start taking on an exotified look and feel, and follow an obviously religious ideology that is inimical to universal peace. The smallest insignificant alien becomes a strategic risk as they become \"suicide bombers\" blowing themselves up before they die, expressing a sigh of cowardice before they die. \r\n\r\nIn \"Modern Warfare 2\", something suprising happens. The Arab characters are given a little more depth and backstory, and the Arabic dialogue is the most realistic of any of the other games. It also becomes the version of the game that is most modified by users (in so-called \"mods\"). Hacked and converted to other versions, there is significantly a version used by Al-Qaeda for recruitment purposes. The production company responsible, Infinity Ward, later had its two chief developers and founders fired under mysterious circumstances. \r\n\r\nAs a researcher on radical Islamic thought, over the years I have collected some materials about video games and their uses for recruitment and ideological training on the Jihadist side. What I would like to do for 33C3 is show versions of the modded games parrallel to the originals in a face-off setting, and give a lecture about the background to these games. I will explore stories of recruitment from American soldiers, and how these games factored into their decision to join the U.S. military. Through the digital realm, I will propose a new framework for understanding the so-called Huntingtonian \"Clash of Civilizations\"--where very recent cultural artifacts become automatic motivations. As a drone operator sees the pixelation of a real Arab male on the screen, it is an image he's shot at in the virtual domain over and over again since he was a child.  The Arab male has devolved from being a human being (in the way that women or children, or caucasian males are) to being mere fodder, a natural target where you simply just shoot. ", 
+                                "abstract": "\r\nEarly digital computers were the size of rooms. While the devices have gotten smaller, because of the increasingly networked nature of technology the room has gotten bigger--it's ceased having walls and started to cover the ocean floor and ascend into low earth orbit. While Neal Stephenson may have cornered this living-inside-a-computer narrative in 1996 with \"Mother Earth, Mother Board\", in the past twenty years the seams of the network have become even more opaque, subsumed into The Cloud and other problematic abstractions. This talk will mostly be about different approaches to documenting, comprehending, and thinking about network infrastructure and the ways that the visual vernacular of technologies shape their history and politics. \r\n\r\n", 
+                                "description": "", 
                                 "recording_license": "", 
                                 "do_not_record": false, 
                                 "persons": [
                                     {
-                                        "id": 6169, 
-                                        "public_name": "Saud Al-Zaid"
+                                        "id": 7176, 
+                                        "public_name": "Ingrid Burrington"
                                     }
                                 ], 
                                 "links": [], 
@@ -9287,7 +9278,7 @@
                                 "subtitle": "", 
                                 "track": "CCC", 
                                 "type": "lecture", 
-                                "language": "en", 
+                                "language": "de", 
                                 "abstract": "", 
                                 "description": "", 
                                 "recording_license": "", 
@@ -9321,8 +9312,8 @@
                                 "track": "Science", 
                                 "type": "lecture", 
                                 "language": "en", 
-                                "abstract": "Eventhough the Snowden revelations for the first time clearly show that mass surveillance of communications is carried out on a global level, little knowledge seems to be available to the general public as well as the hacker community how these so-called COMINT operations actually work. The talk focusses on mass surveillance based on methods known from research of the interdiscplinary field of Computationanal Linguistics (or Natural Language Processing) and demonstrates how generation of selectors for mass surveilling text messages can occur.", 
-                                "description": "Since the globalized Echelon system of the NSA surveillance complex was reveilled in 1988 by investigative journalist Duncan Campbell, it's known that keyword-based surveillance forms exist, which classify as mass surveillance, because all communications in reach are affected.\r\n\r\nHowever, little knowledge is available concerning the nature of these words, which shall be the needles the secret services search for in the haystack. Eventhough different leaks exist, showing different forms of hard selectors (like telephone numbers or e-mail addresses of high-ranking policians or economic actors), there's also evidence for soft selectors, targeting no specific persons, but whole groups or populations.\r\n\r\nThere's no clear knowledge available of how such selectors are defined. However, combining insights from Snowden and WikiLeaks documents, taking into account the ``neutral'' state-of-the-art research in the field of Computational Linguistics and Human Language Technology, but also specific surveillance research (e. g. from the EU-sponsored INDECT project including scaring assumptions about human nature) and own experiments done by author during his research, a much deeper understanding of the selectors' nature can be achieved. As such, the talk helps to demestify the COMINT work and turns their supposed ``secret knowledge'' to the public. The talk also shows that the application of such methods by principle suffer from catastrophic false-positive rates, thus affecting lots of innocent people in any case, eventhough governments wants us to believe the opposite, telling us stories of precise searches being done only.\r\n\r\nThe speaker by education is Computational Linguist, Sociologist and Neuroinformatician. As activist of the Chaos Computer Club in Switzerland (CCC-CH), he not just fighted a surveillance law introducing extended mass surveillance introducing selector search of communications in Switzerland, but also focussed during his master thesis on exactly this topic.", 
+                                "abstract": "Even though the Snowden revelations for the first time clearly show that mass surveillance of communications is carried out on a global level, little knowledge seems to be available to the general public as well as the hacker community how these so-called COMINT operations actually work. The talk focuses on mass surveillance based on methods known from research of the interdiscplinary field of Computationanal Linguistics (or Natural Language Processing) and demonstrates how generation of selectors for mass surveilling text messages can occur.", 
+                                "description": "Since the globalized Echelon system of the NSA surveillance complex was reveilled in 1988 by investigative journalist Duncan Campbell, it's known that keyword-based surveillance forms exist, which classify as mass surveillance, because all communications in reach are affected.\r\n\r\nHowever, little knowledge is available concerning the nature of these words, which are supposed be the needles the secret services search for in the haystack. Even though different leaks exist, showing different forms of hard selectors (like telephone numbers or email addresses of high-ranking policians or economic actors), there's also evidence for soft selectors, targeting no specific persons, but whole groups or populations.\r\n\r\nThere's no clear knowledge available of how such selectors are defined. However, combining insights from Snowden and WikiLeaks documents, taking into account the \"neutral\" state-of-the-art research in the field of Computational Linguistics and Human Language Technology, but also specific surveillance research (e.g., from the EU-sponsored INDECT project including their scaring assumptions about human nature) and own experiments done by the author during his research, a much deeper understanding of the selectors' nature can be achieved. As such, the talk helps to demistify the COMINT work and turns its supposed \"secret knowledge\" to the public. The talk also shows that the application of such methods by principle suffer from catastrophic false-positive rates, thus affecting lots of innocent people in any case, even though governments wants us to believe the opposite, telling us stories of precise searches being carried out only.\r\n\r\nThe speaker by education is Computational Linguist, Sociologist and Neuroinformatician. As activist of the Chaos Computer Club in Switzerland (CCC-CH), he not just fighted a surveillance law introducing extended mass surveillance introducing selector search of communications in Switzerland, but also focused his master thesis on exactly this topic.", 
                                 "recording_license": "CC BY 4.0", 
                                 "do_not_record": false, 
                                 "persons": [
@@ -9339,6 +9330,10 @@
                                     {
                                         "url": "https://www.nachrichtendienstgesetz.ch/", 
                                         "title": "Page against the surveillance law (NDG) mentioned in the talk (DE)"
+                                    }, 
+                                    {
+                                        "url": "https://twitter.com/vecirex", 
+                                        "title": "@vecirex (Twitter)"
                                     }
                                 ], 
                                 "attachments": []

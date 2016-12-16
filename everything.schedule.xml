@@ -1,5 +1,5 @@
 <schedule>
-  <version>INSUFFICIENT DATA</version>
+  <version>NOT A BUG</version>
   <conference>
     <acronym>33c3</acronym>
     <title>33. Chaos Communication Congress</title>
@@ -361,7 +361,7 @@ In the past, console homebrew usually focused on bringing up a development envir
 &#13;
 The PS4 is particularly great for Linux, because it is based on a modified x86 platform and a modified Radeon GPU. That means that once the basic OS port is complete, it can run existing games - even Steam games and other commercial software. But just how similar is the PS4 to a PC? Can you just throw GRUB on it and boot an Ubuntu kernel? Not quite.&#13;
 &#13;
-In this talk we'll cover the PS4 hardware and part of its software environment, and how we reverse engineered enough of it to write Linux drivers and kernel patches. We'll go over how we went from basic code execution to building a 'kexec' function that can boot into Linux from the PS4's FreeBSD-based kernel. We'll reverse engineer the PS4's special hardware, from special PCI interrupt management to the HDMI encoder.  We'll dive deep into the Radeon-based GPU architecture, and we'll share some previously unreleased released research and tools of interest to AMD Radeon driver developers and hackers.&#13;
+In this talk we'll cover the PS4 hardware and part of its software environment, and how we reverse engineered enough of it to write Linux drivers and kernel patches. We'll go over how we went from basic code execution to building a 'kexec' function that can boot into Linux from the PS4's FreeBSD-based kernel. We'll reverse engineer the PS4's special hardware, from special PCI interrupt management to the HDMI encoder.  We'll dive deep into the Radeon-based GPU architecture, and we'll share some previously unreleased research and tools of interest to AMD Radeon driver developers and hackers.&#13;
 &#13;
 If you're interested in the strange world of x86 hardware that isn't quite a PC, then this talk is for you.</description>
         <recording>
@@ -578,7 +578,7 @@ Finally, our results have implications for human prejudice. Given how deeply bia
         </persons>
         <links>
           <link href="http://www.princeton.edu/%7Eaylinc/papers/caliskan-islam_semantics.pdf">Semantics derived automatically from language corpora necessarily contain human biases</link>
-          <link href="https://www.securityweek2016.tu-darmstadt.de/pets-2016/hotpets/">A Story of Discrimination and Unfairness</link>
+          <link href="https://petsymposium.org/2016/spw-mirror/pets-2016/hotpets/">A Story of Discrimination and Unfairness</link>
           <link href="https://freedom-to-tinker.com/2016/08/24/language-necessarily-contains-human-biases-and-so-will-machines-trained-on-language-corpora/">Blogpost</link>
           <link href="https://motherboard.vice.com/read/its-our-fault-that-ai-thinks-white-names-are-more-pleasant-than-black-names">News Article #1</link>
           <link href="https://psmag.com/artificial-intelligence-will-be-as-biased-and-prejudiced-as-its-human-creators-38fe415f86dd#.1zybfgg7z">News Article  #2</link>
@@ -685,7 +685,7 @@ Wir m&#246;chten aber auch zeigen, wie einfach es zumindest auf technischer Eben
         <attachments/>
       </event>
       <event id="8344" guid="686b1941-b211-4902-b4c4-1d642398e08b">
-        <logo/>
+        <logo>/system/events/logos/000/008/344/large/game_over_1.png?1481818206</logo>
         <date>2016-12-27T20:30:00+01:00</date>
         <start>20:30</start>
         <duration>01:00</duration>
@@ -1136,7 +1136,7 @@ We show how these weaknesses translate into disclosure of traveler's personal in
         </recording>
         <persons>
           <person id="1741">Karsten Nohl</person>
-          <person id="7238">nemanja</person>
+          <person id="7238">Nemanja Nikodijevic</person>
         </persons>
         <links/>
         <attachments/>
@@ -2944,7 +2944,7 @@ Im kurzweiligen Abend-Vortrag geben sie einen kleinen Abriss &#252;ber die Gesch
         <logo>/system/events/logos/000/007/960/large/logo.png?1474487509</logo>
         <date>2016-12-29T00:45:00+01:00</date>
         <start>00:45</start>
-        <duration>01:00</duration>
+        <duration>01:30</duration>
         <room>Saal 1</room>
         <slug>33c3-7960-fnord-jahresruckblick</slug>
         <title>Fnord-Jahresr&#252;ckblick</title>
@@ -3174,10 +3174,10 @@ We must stop these proposals from harming the internet. I&#8217;ll lay out how y
         <track>Security</track>
         <type>lecture</type>
         <language>de</language>
-        <abstract>Blockchain ist die Technologie welche moderne Kryptow&#228;hrungen erm&#246;glicht. In dem Vortrag wird die Funktionsweise von Blockchains ganz allgemein erkl&#228;ren. Anhand der Bitcoin Blockchain wird ausserdem gezeigt, wie diese Funktionen in einem echten System umgesetzt werden k&#246;nnen.</abstract>
+        <abstract>Blockchain ist die Technologie welche moderne Kryptow&#228;hrungen erm&#246;glicht. In dem Vortrag wird die Funktionsweise von Blockchains ganz allgemein erkl&#228;rt. Anhand der Bitcoin Blockchain wird ausserdem gezeigt, wie diese Funktionen in einem echten System umgesetzt werden k&#246;nnen.</abstract>
         <description>Blockchain ist die Technologie hinter Bitcoin. Sie macht Kryptow&#228;hrungen &#252;berhaupt erst m&#246;glich und die meisten Vorg&#228;nge moderner Kryptow&#228;hrungen k&#246;nnen anhand der jeweiligen Blockchain aufgezeigt und erkl&#228;rt werden.&#13;
 &#13;
-Der Vortrag gibt eine Einf&#252;hrung zu Blockchains. Es wird gezeigt, was Blockchains  bezwecken sollen und wie sie das erreichen. Die Grundlegenden Eigenschaften werden anhand einers abstrakten Modells erkl&#228;rt:&#13;
+Der Vortrag gibt eine Einf&#252;hrung zu Blockchains. Es wird gezeigt, was Blockchains  bezwecken sollen und wie sie das erreichen. Die Grundlegenden Eigenschaften werden anhand eines abstrakten Modells erkl&#228;rt:&#13;
 &#13;
 &lt;ul&gt;&#13;
   &lt;li&gt;Wie wird ein Konsens etabliert&lt;/li&gt;&#13;
@@ -3245,7 +3245,7 @@ After a couple of weeks and some phone calls we were able to acquire the persona
         <room>Saal 2</room>
         <slug>33c3-7912-spiegelmining_reverse_engineering_von_spiegel-online</slug>
         <title>SpiegelMining &#8211; Reverse Engineering von Spiegel-Online</title>
-        <subtitle>Wer denkt, Vorratsdatenspeicherungen und &#8222;Big Data&#8220; sind harmlos, der sollte diesen Vortrag besuchen</subtitle>
+        <subtitle>Wer denkt, Vorratsdatenspeicherungen und &#8222;Big Data&#8220; sind harmlos, der kriegt hier eine Demo an Spiegel-Online.</subtitle>
         <track>Ethics, Society &amp; Politics</track>
         <type>lecture</type>
         <language>de</language>
@@ -3402,58 +3402,37 @@ Our sample implementation is accompanied by a bootloader that provides a USB HID
         <links/>
         <attachments/>
       </event>
-      <event id="8012" guid="70269173-72a8-4eab-b356-f22faea6cdca">
-        <logo/>
+      <event id="7963" guid="c45fa431-69f9-47db-a90c-fb596efdcb55">
+        <logo>/system/events/logos/000/007/963/large/14726308_1208926132479694_5138167602106859520_n.jpg?1479920421</logo>
         <date>2016-12-28T17:15:00+01:00</date>
         <start>17:15</start>
         <duration>01:00</duration>
         <room>Saal G</room>
-        <slug>33c3-8012-building_custom_pinball_machines</slug>
-        <title>Building Custom Pinball Machines</title>
-        <subtitle>What you need and how it works. An experiences report</subtitle>
+        <slug>33c3-7963-searchwing_-_drones_to_find_refugees_in_mediterranean_sea</slug>
+        <title>SearchWing - Drones to find refugees in Mediterranean Sea</title>
+        <subtitle/>
         <track>Hardware &amp; Making</track>
         <type>lecture</type>
-        <language>en</language>
-        <abstract>How to build a pinball machine? We introduce you to all basics and explain the different options for hardware and software. As an example, we show images of our own custom pinball machine.</abstract>
-        <description>This talk gives an overview over all the components in a pinball machine which includes software and a lot of hardware. Afterwards, we go over all the steps when designing and building a pinball machine. We start with basic design rules, physical limits and best practices. Then, we focus on the mechanical and electronic components. After that, we talk about software and display (DMD vs LCD) options. At the end, we explain how to build or manufacture certain parts for your machine.&#13;
-&#13;
-For the hardware, we talk about:&#13;
-- EM, WPC and modern machines&#13;
-- Coils and Switches&#13;
-- Sources for mechanical elements&#13;
-- Gi/Lamps&#13;
-- RGB LEDs&#13;
-- Display option (DMDs, LED-DMDs, LCDs) and how to control them&#13;
-&#13;
-Electronics:&#13;
-- Open Pinball Project (Open Hardware)&#13;
-- Multimorphic P-Roc and P3-Roc&#13;
-- FAST Pinball Boards&#13;
-- Full custom options&#13;
-- Fadecandy/Openpixel&#13;
-- I2C and ServoControllers&#13;
-&#13;
-Software options:&#13;
-- Mission Pinball Framework (Disclaimer: I'm one of the authors)&#13;
-- pypinprocgame/pypinprocgameHD&#13;
-&#13;
-Building/Manufacturing Parts:&#13;
-- Playfields (including printing)&#13;
-- Cabinet&#13;
-- Metal ramps&#13;
-- Wire ramps&#13;
-- Plastic ramps&#13;
-- Plastics/Decals&#13;
-- Inserts&#13;
-- Mechanics</description>
+        <language>de</language>
+        <abstract>Refugees are dying in the Mediterranean Sea. Thousands of them. &#13;
+We are building fixed wing drones, autonomously searching for refugee-vessels in a radius of 50km around a base-ship. &#13;
+The association "Seawatch e.V." has bought two well equipped Ships to help and rescue those people. But to help them we first have to find them.</abstract>
+        <description>CCC-Berlin and "Sea Watch e.V." are working together to use high tech for humanitarian projects.  &#13;
+In this talk we will explain the situation in the Mediterranean Sea and show possibilities to help refugees in mortal danger with high tech. &#13;
+We will present a smartphone app for organising the multidimensional chaos in the Mediterranean Sea and we explain in depth, how the development of the drones is proceeding, what already works and which challenges are still waiting.   &#13;
+After some deliberation, we reluctantly decided to give this talk in German since we have a lot to show and talk about within a constrained time window. However, live translation services should be available via streaming (or DECT) so our international guests can participate. Of course, questions asked in English are welcome as well.</description>
         <recording>
           <license>CC BY 4.0</license>
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="3565">jab</person>
+          <person id="6266">Steini</person>
+          <person id="7110">Ruben Neugebauer</person>
+          <person id="4231">benthor</person>
         </persons>
-        <links/>
+        <links>
+          <link href="https://sea-watch.org/">Sea Watch</link>
+        </links>
         <attachments/>
       </event>
       <event id="7827" guid="7ef9172a-e2c7-4e78-9316-08449bd582c6">
@@ -3618,29 +3597,30 @@ This talk will give an overview who is affected, what type of information will b
         <links/>
         <attachments/>
       </event>
-      <event id="8412" guid="2aba641b-114d-4dac-866e-533314a3c108">
+      <event id="8419" guid="5f0ab68a-8e2d-481e-b009-55a1af58760c">
         <logo/>
         <date>2016-12-28T12:15:00+01:00</date>
         <start>12:15</start>
         <duration>00:30</duration>
         <room>Saal 6</room>
-        <slug>33c3-8412-from_server_farm_to_data_table</slug>
-        <title> From Server Farm to Data Table</title>
-        <subtitle/>
+        <slug>33c3-8419-the_clash_of_digitalizations</slug>
+        <title>The Clash of Digitalizations</title>
+        <subtitle>The Devolution of Arab Men from Humans to Digital Fodder</subtitle>
         <track>Art &amp; Culture</track>
         <type>lecture</type>
         <language>en</language>
-        <abstract>&#13;
-Early digital computers were the size of rooms. While the devices have gotten smaller, because of the increasingly networked nature of technology the room has gotten bigger--it's ceased having walls and started to cover the ocean floor and ascend into low earth orbit. While Neal Stephenson may have cornered this living-inside-a-computer narrative in 1996 with "Mother Earth, Mother Board", in the past twenty years the seams of the network have become even more opaque, subsumed into The Cloud and other problematic abstractions. This talk will mostly be about different approaches to documenting, comprehending, and thinking about network infrastructure and the ways that the visual vernacular of technologies shape their history and politics. &#13;
+        <abstract>This talk discusses the representation of Arab males in video games and the adverse effect it has on the collective political imagination. Anonymous military-aged Arab men become increasingly the exception to the laws of human rights, and become default targets for conventional and unmanned drone attacks. This devolution is seen through the lens of the changing nature of conflict through digitalization, the collapse of the nation state in Iraq and Syria, and the future of war. </abstract>
+        <description>In the popular video game series "Call of Duty: Modern Warfare", Arab men are consistently depicted as the mindless throngs of the indestinguishable enemy. The First Person Shooter (FPS) genre lends itself to killing enemies, usually many in the same round, but the evolution of the target went from Nazi's in Wolfenstein 3D in 1992, to targets that become increasingly comparable to Arabs and Muslims in the following years. So besides historically oriented games that focus on the combatants of World War II, most games since the 1990's begin to shift their focus to another kind of enemy--one that suspiciously looks Arab or Islamic. Even Sci-Fi epics like the Halo series, which take place may hundreds of years in the future, the enemies start taking on an exotified look and feel, and follow an obviously religious ideology that is inimical to universal peace. The smallest insignificant alien becomes a strategic risk as they become "suicide bombers" blowing themselves up before they die, expressing a sigh of cowardice before they die. &#13;
 &#13;
-</abstract>
-        <description/>
+In "Modern Warfare 2", something suprising happens. The Arab characters are given a little more depth and backstory, and the Arabic dialogue is the most realistic of any of the other games. It also becomes the version of the game that is most modified by users (in so-called "mods"). Hacked and converted to other versions, there is significantly a version used by Al-Qaeda for recruitment purposes. The production company responsible, Infinity Ward, later had its two chief developers and founders fired under mysterious circumstances. &#13;
+&#13;
+As a researcher on radical Islamic thought, over the years I have collected some materials about video games and their uses for recruitment and ideological training on the Jihadist side. What I would like to do for 33C3 is show versions of the modded games parrallel to the originals in a face-off setting, and give a lecture about the background to these games. I will explore stories of recruitment from American soldiers, and how these games factored into their decision to join the U.S. military. Through the digital realm, I will propose a new framework for understanding the so-called Huntingtonian "Clash of Civilizations"--where very recent cultural artifacts become automatic motivations. As a drone operator sees the pixelation of a real Arab male on the screen, it is an image he's shot at in the virtual domain over and over again since he was a child.  The Arab male has devolved from being a human being (in the way that women or children, or caucasian males are) to being mere fodder, a natural target where you simply just shoot. </description>
         <recording>
           <license/>
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="7176">Ingrid Burrington</person>
+          <person id="6169">Saud Al-Zaid</person>
         </persons>
         <links/>
         <attachments/>
@@ -3704,10 +3684,7 @@ The embedded world, however, poses a variety of unique challenges (resulting fro
           <person id="6699">Ali Abbasi</person>
         </persons>
         <links/>
-        <attachments>
-          <attachment href="/system/event_attachments/attachments/000/003/097/original/wheel_of_fortune_ccc_presentation.pptx?1481478632">Wheel of Fortune Slides (PPTX)</attachment>
-          <attachment href="/system/event_attachments/attachments/000/003/098/original/wheel_of_fortune_ccc_presentation.pdf?1481478632">Wheel of Fortune Slides (PDF)</attachment>
-        </attachments>
+        <attachments/>
       </event>
       <event id="8418" guid="69ce21df-4bf5-43ce-a500-ac7707ee64b7">
         <logo/>
@@ -5563,7 +5540,7 @@ Using the Mansoor attack as a case study, we will provide a window into how rese
         </recording>
         <persons>
           <person id="1633">frank</person>
-          <person id="5182">Linus Neumann</person>
+          <person id="3995">Linus Neumann</person>
           <person id="1630">Constanze Kurz</person>
           <person id="4395">nexus</person>
         </persons>
@@ -5777,7 +5754,7 @@ Lauri, and what are the changes we should be fighting for?</description>
         <type>lecture</type>
         <language>en</language>
         <abstract>The long term survival of the human species requires that we become an interplanetary species. But we must answer two big questions: where are we going, and how do we get there? We explore what scientists know (and don&#8217;t know) about humanity&#8217;s potential future homes both inside and outside the solar system, and then we&#8217;ll dive into the technological challenges of (and potential solutions for) getting humans to and colonizing a new planet.</abstract>
-        <description>Long the realm of science fiction, interplanetary colonization is now taken more and more seriously by scientists and space agancies alike as technologies come within reach. We will evaluate obstacles and solutions by looking at two topics: Where to go? and How to get there?&#13;
+        <description>Long the realm of science fiction, interplanetary colonization is now taken more and more seriously by scientists and space agencies alike as technologies come within reach. We will evaluate obstacles and solutions by looking at two topics: Where to go? and How to get there?&#13;
 Part 1 explores the options that humans have in expanding to new planets. There are now 3,518 exoplanets in 2,635 planetary systems confirmed. We&#8217;ll discuss how astronomers find planets, and how they learn about the conditions there. How do we pick a colonization target based on the data we can gather when there is no way of sending probes there and getting information back in reasonable time like we do in our solar system?&#13;
 Part 2 gives an overview of technologies currently available to get humans to other planets, and what that means in terms of humanity&#8217;s expansion. We'll also talk about the technology advancements necessary for truly interstellar colonization.</description>
         <recording>
@@ -6312,37 +6289,58 @@ deployment. With this presentation we aim to convey insights into:&#13;
         <links/>
         <attachments/>
       </event>
-      <event id="7963" guid="c45fa431-69f9-47db-a90c-fb596efdcb55">
-        <logo>/system/events/logos/000/007/963/large/14726308_1208926132479694_5138167602106859520_n.jpg?1479920421</logo>
+      <event id="8012" guid="70269173-72a8-4eab-b356-f22faea6cdca">
+        <logo/>
         <date>2016-12-29T16:00:00+01:00</date>
         <start>16:00</start>
         <duration>01:00</duration>
         <room>Saal G</room>
-        <slug>33c3-7963-searchwing_-_drones_to_find_refugees_in_mediterranean_sea</slug>
-        <title>SearchWing - Drones to find refugees in Mediterranean Sea</title>
-        <subtitle/>
+        <slug>33c3-8012-building_custom_pinball_machines</slug>
+        <title>Building Custom Pinball Machines</title>
+        <subtitle>What you need and how it works. An experiences report</subtitle>
         <track>Hardware &amp; Making</track>
         <type>lecture</type>
-        <language>de</language>
-        <abstract>Refugees are dying in the Mediterranean Sea. Thousands of them. &#13;
-We are building fixed wing drones, autonomously searching for refugee-vessels in a radius of 50km around a base-ship. &#13;
-The association "Seawatch e.V." has bought two well equipped Ships to help and rescue those people. But to help them we first have to find them.</abstract>
-        <description>CCC-Berlin and "Sea Watch e.V." are working together to use high tech for humanitarian projects.  &#13;
-In this talk we will explain the situation in the Mediterranean Sea and show possibilities to help refugees in mortal danger with high tech. &#13;
-We will present a smartphone app for organising the multidimensional chaos in the Mediterranean Sea and we explain in depth, how the development of the drones is proceeding, what already works and which challenges are still waiting.   &#13;
-After some deliberation, we reluctantly decided to give this talk in German since we have a lot to show and talk about within a constrained time window. However, live translation services should be available via streaming (or DECT) so our international guests can participate. Of course, questions asked in English are welcome as well.</description>
+        <language>en</language>
+        <abstract>How to build a pinball machine? We introduce you to all basics and explain the different options for hardware and software. As an example, we show images of our own custom pinball machine.</abstract>
+        <description>This talk gives an overview over all the components in a pinball machine which includes software and a lot of hardware. Afterwards, we go over all the steps when designing and building a pinball machine. We start with basic design rules, physical limits and best practices. Then, we focus on the mechanical and electronic components. After that, we talk about software and display (DMD vs LCD) options. At the end, we explain how to build or manufacture certain parts for your machine.&#13;
+&#13;
+For the hardware, we talk about:&#13;
+- EM, WPC and modern machines&#13;
+- Coils and Switches&#13;
+- Sources for mechanical elements&#13;
+- Gi/Lamps&#13;
+- RGB LEDs&#13;
+- Display option (DMDs, LED-DMDs, LCDs) and how to control them&#13;
+&#13;
+Electronics:&#13;
+- Open Pinball Project (Open Hardware)&#13;
+- Multimorphic P-Roc and P3-Roc&#13;
+- FAST Pinball Boards&#13;
+- Full custom options&#13;
+- Fadecandy/Openpixel&#13;
+- I2C and ServoControllers&#13;
+&#13;
+Software options:&#13;
+- Mission Pinball Framework (Disclaimer: I'm one of the authors)&#13;
+- pypinprocgame/pypinprocgameHD&#13;
+&#13;
+Building/Manufacturing Parts:&#13;
+- Playfields (including printing)&#13;
+- Cabinet&#13;
+- Metal ramps&#13;
+- Wire ramps&#13;
+- Plastic ramps&#13;
+- Plastics/Decals&#13;
+- Inserts&#13;
+- Mechanics</description>
         <recording>
           <license>CC BY 4.0</license>
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="6266">Steini</person>
-          <person id="7110">Ruben Neugebauer</person>
-          <person id="4231">benthor</person>
+          <person id="3565">jab</person>
         </persons>
-        <links>
-          <link href="https://sea-watch.org/">Sea Watch</link>
-        </links>
+        <links/>
         <attachments/>
       </event>
       <event id="8163" guid="a1f43609-a446-41e7-9ac6-4db12bcb14c1">
@@ -6674,7 +6672,10 @@ Antonio Barresi is Co-founder and CEO of xorlab, a Swiss IT security company. Be
         <type>lecture</type>
         <language>en</language>
         <abstract>France is under a state of emergency since November 2015. Several laws and a more intrusive surveillance framework, infringing rights and freedoms, have been  adopted these recent years in the name of the fight against terrorism. Privacy, freedom of expression... these words could soon disappear from French vocabulary as the number of measures increases as the same time than their intensity. We will show how it happened and what are our actions to try to defend the rights of all to privacy and freedom of speech.</abstract>
-        <description/>
+        <description>&#13;
+The next French presidential elections will take place in spring 2017 under the state of emergency while all laws recently adopted are making our national motto "libert&#233;, &#233;galit&#233;, fraternit&#233;" out of date. Furthermore, the increasing surveillance drifts are undermining Privacy whereas this is a fundamental right and a sine qua non condition for freedom.&#13;
+We are looking back on the three years span of law adopted on surveillance in France as well as the more than one-year old state of emegency. What does that mean for our rights ? What is at stake ? In which society model are we heading? &#13;
+What can we learn form the French exeperience? Let's find out.</description>
         <recording>
           <license>CC BY 4.0</license>
           <optout>false</optout>
@@ -6825,30 +6826,29 @@ Au&#223;erdem werden wir folgende Fragen beantworten: Wie weit reicht intrinsisc
         </links>
         <attachments/>
       </event>
-      <event id="8419" guid="5f0ab68a-8e2d-481e-b009-55a1af58760c">
+      <event id="8412" guid="2aba641b-114d-4dac-866e-533314a3c108">
         <logo/>
         <date>2016-12-29T21:15:00+01:00</date>
         <start>21:15</start>
         <duration>00:30</duration>
         <room>Saal 6</room>
-        <slug>33c3-8419-the_clash_of_digitalizations</slug>
-        <title>The Clash of Digitalizations</title>
-        <subtitle>The Devolution of Arab Men from Humans to Digital Fodder</subtitle>
+        <slug>33c3-8412-from_server_farm_to_data_table</slug>
+        <title> From Server Farm to Data Table</title>
+        <subtitle/>
         <track>Art &amp; Culture</track>
         <type>lecture</type>
         <language>en</language>
-        <abstract>This talk discusses the representation of Arab males in video games and the adverse effect it has on the collective political imagination. Anonymous military-aged Arab men become increasingly the exception to the laws of human rights, and become default targets for conventional and unmanned drone attacks. This devolution is seen through the lens of the changing nature of conflict through digitalization, the collapse of the nation state in Iraq and Syria, and the future of war. </abstract>
-        <description>In the popular video game series "Call of Duty: Modern Warfare", Arab men are consistently depicted as the mindless throngs of the indestinguishable enemy. The First Person Shooter (FPS) genre lends itself to killing enemies, usually many in the same round, but the evolution of the target went from Nazi's in Wolfenstein 3D in 1992, to targets that become increasingly comparable to Arabs and Muslims in the following years. So besides historically oriented games that focus on the combatants of World War II, most games since the 1990's begin to shift their focus to another kind of enemy--one that suspiciously looks Arab or Islamic. Even Sci-Fi epics like the Halo series, which take place may hundreds of years in the future, the enemies start taking on an exotified look and feel, and follow an obviously religious ideology that is inimical to universal peace. The smallest insignificant alien becomes a strategic risk as they become "suicide bombers" blowing themselves up before they die, expressing a sigh of cowardice before they die. &#13;
+        <abstract>&#13;
+Early digital computers were the size of rooms. While the devices have gotten smaller, because of the increasingly networked nature of technology the room has gotten bigger--it's ceased having walls and started to cover the ocean floor and ascend into low earth orbit. While Neal Stephenson may have cornered this living-inside-a-computer narrative in 1996 with "Mother Earth, Mother Board", in the past twenty years the seams of the network have become even more opaque, subsumed into The Cloud and other problematic abstractions. This talk will mostly be about different approaches to documenting, comprehending, and thinking about network infrastructure and the ways that the visual vernacular of technologies shape their history and politics. &#13;
 &#13;
-In "Modern Warfare 2", something suprising happens. The Arab characters are given a little more depth and backstory, and the Arabic dialogue is the most realistic of any of the other games. It also becomes the version of the game that is most modified by users (in so-called "mods"). Hacked and converted to other versions, there is significantly a version used by Al-Qaeda for recruitment purposes. The production company responsible, Infinity Ward, later had its two chief developers and founders fired under mysterious circumstances. &#13;
-&#13;
-As a researcher on radical Islamic thought, over the years I have collected some materials about video games and their uses for recruitment and ideological training on the Jihadist side. What I would like to do for 33C3 is show versions of the modded games parrallel to the originals in a face-off setting, and give a lecture about the background to these games. I will explore stories of recruitment from American soldiers, and how these games factored into their decision to join the U.S. military. Through the digital realm, I will propose a new framework for understanding the so-called Huntingtonian "Clash of Civilizations"--where very recent cultural artifacts become automatic motivations. As a drone operator sees the pixelation of a real Arab male on the screen, it is an image he's shot at in the virtual domain over and over again since he was a child.  The Arab male has devolved from being a human being (in the way that women or children, or caucasian males are) to being mere fodder, a natural target where you simply just shoot. </description>
+</abstract>
+        <description/>
         <recording>
           <license/>
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="6169">Saud Al-Zaid</person>
+          <person id="7176">Ingrid Burrington</person>
         </persons>
         <links/>
         <attachments/>
@@ -8381,7 +8381,7 @@ Im Zuge von noch mehr Transparenz, Kritik &amp; Selbstkritik und kontinuierliche
         <subtitle/>
         <track>CCC</track>
         <type>lecture</type>
-        <language>en</language>
+        <language>de</language>
         <abstract/>
         <description/>
         <recording>
@@ -8409,14 +8409,14 @@ Im Zuge von noch mehr Transparenz, Kritik &amp; Selbstkritik und kontinuierliche
         <track>Science</track>
         <type>lecture</type>
         <language>en</language>
-        <abstract>Eventhough the Snowden revelations for the first time clearly show that mass surveillance of communications is carried out on a global level, little knowledge seems to be available to the general public as well as the hacker community how these so-called COMINT operations actually work. The talk focusses on mass surveillance based on methods known from research of the interdiscplinary field of Computationanal Linguistics (or Natural Language Processing) and demonstrates how generation of selectors for mass surveilling text messages can occur.</abstract>
+        <abstract>Even though the Snowden revelations for the first time clearly show that mass surveillance of communications is carried out on a global level, little knowledge seems to be available to the general public as well as the hacker community how these so-called COMINT operations actually work. The talk focuses on mass surveillance based on methods known from research of the interdiscplinary field of Computationanal Linguistics (or Natural Language Processing) and demonstrates how generation of selectors for mass surveilling text messages can occur.</abstract>
         <description>Since the globalized Echelon system of the NSA surveillance complex was reveilled in 1988 by investigative journalist Duncan Campbell, it's known that keyword-based surveillance forms exist, which classify as mass surveillance, because all communications in reach are affected.&#13;
 &#13;
-However, little knowledge is available concerning the nature of these words, which shall be the needles the secret services search for in the haystack. Eventhough different leaks exist, showing different forms of hard selectors (like telephone numbers or e-mail addresses of high-ranking policians or economic actors), there's also evidence for soft selectors, targeting no specific persons, but whole groups or populations.&#13;
+However, little knowledge is available concerning the nature of these words, which are supposed be the needles the secret services search for in the haystack. Even though different leaks exist, showing different forms of hard selectors (like telephone numbers or email addresses of high-ranking policians or economic actors), there's also evidence for soft selectors, targeting no specific persons, but whole groups or populations.&#13;
 &#13;
-There's no clear knowledge available of how such selectors are defined. However, combining insights from Snowden and WikiLeaks documents, taking into account the ``neutral'' state-of-the-art research in the field of Computational Linguistics and Human Language Technology, but also specific surveillance research (e. g. from the EU-sponsored INDECT project including scaring assumptions about human nature) and own experiments done by author during his research, a much deeper understanding of the selectors' nature can be achieved. As such, the talk helps to demestify the COMINT work and turns their supposed ``secret knowledge'' to the public. The talk also shows that the application of such methods by principle suffer from catastrophic false-positive rates, thus affecting lots of innocent people in any case, eventhough governments wants us to believe the opposite, telling us stories of precise searches being done only.&#13;
+There's no clear knowledge available of how such selectors are defined. However, combining insights from Snowden and WikiLeaks documents, taking into account the "neutral" state-of-the-art research in the field of Computational Linguistics and Human Language Technology, but also specific surveillance research (e.g., from the EU-sponsored INDECT project including their scaring assumptions about human nature) and own experiments done by the author during his research, a much deeper understanding of the selectors' nature can be achieved. As such, the talk helps to demistify the COMINT work and turns its supposed "secret knowledge" to the public. The talk also shows that the application of such methods by principle suffer from catastrophic false-positive rates, thus affecting lots of innocent people in any case, even though governments wants us to believe the opposite, telling us stories of precise searches being carried out only.&#13;
 &#13;
-The speaker by education is Computational Linguist, Sociologist and Neuroinformatician. As activist of the Chaos Computer Club in Switzerland (CCC-CH), he not just fighted a surveillance law introducing extended mass surveillance introducing selector search of communications in Switzerland, but also focussed during his master thesis on exactly this topic.</description>
+The speaker by education is Computational Linguist, Sociologist and Neuroinformatician. As activist of the Chaos Computer Club in Switzerland (CCC-CH), he not just fighted a surveillance law introducing extended mass surveillance introducing selector search of communications in Switzerland, but also focused his master thesis on exactly this topic.</description>
         <recording>
           <license>CC BY 4.0</license>
           <optout>false</optout>
@@ -8427,6 +8427,7 @@ The speaker by education is Computational Linguist, Sociologist and Neuroinforma
         <links>
           <link href="https://archive.org/details/MA_computerlinguistikmassenueberwachung">Master thesis of the speaker (DE)</link>
           <link href="https://www.nachrichtendienstgesetz.ch/">Page against the surveillance law (NDG) mentioned in the talk (DE)</link>
+          <link href="https://twitter.com/vecirex">@vecirex (Twitter)</link>
         </links>
         <attachments/>
       </event>
