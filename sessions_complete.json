@@ -910,56 +910,52 @@
             "1483041600"
         ]
     }, 
-    "Session:FHB Cheese Rendezvous 33c3# 22a6fa5aae7b3b0bd3db1f35945b183c": {
+    "Session:Congress Everywhere Greet & Meet# ce5c5f06cd4f16a61e55dd8e63796c95": {
         "Held in language": [
-            "en - English"
+            "de - German"
         ], 
         "Has start time": [
-            "1483038000"
+            "1482951600"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "https://foodhackingbase.org/wiki/Cheese_rendezvous_33c3"
-        ], 
+        "Has website": [], 
         "Has description": [
-            "If you love cheese this event will make you very very happy!"
+            "How to provide some congress feeling to your people at home ? \n\nCongress Everywhere events in hackerspaces usually happen at evening as public viewing of congress talks. Such a livestream-only link provides very limited \"congress feelings\". In your local timezone, the events do start with a major break, where no talk happens and therefore no livestream is sent out \n\nLet's fill this break with meet and greet between your congress site and your hackerspace at home.\n\nFor details how this might happen, see our last year session description\nhttps://events.ccc.de/congress/2015/wiki/Session:Congress_Everywhere_Breaktime"
         ], 
-        "Has session type": [
-            "Other"
-        ], 
+        "Has session type": [], 
         "Has session location": [
             {
-                "fulltext": "Assembly:Foodhackingbase", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Foodhackingbase", 
-                "namespace": 504, 
+                "fulltext": "Room:Hall 13-14", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_13-14", 
+                "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [
-            "Session I."
+            "IceBreaker Day 2"
         ], 
         "Is organized by": [
             {
-                "fulltext": "User:Algoldor", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Algoldor", 
+                "fulltext": "User:Myon", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Myon", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "FHB Cheese Rendezvous 33c3"
+            "Congress Everywhere Greet & Meet"
         ], 
         "Has duration": [
-            90
+            40
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:FHB_Cheese_Rendezvous_33c3", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Congress_Everywhere_Greet_%26_Meet", 
         "Has end time": [
-            "1483043400"
+            "1482954000"
         ]
     }, 
     "Session:Kurzfilm-Screening: \"61-Tage\" Deutschland auf der Flucht# 9d38911f81e502bac62a018ea4e1a347": {
@@ -3655,41 +3651,6 @@
             "1482768000"
         ]
     }, 
-    "Session:Wizard of Berlin's Freifunk Firmware# 5c511c0633d1e142ab295af9eb175d0e": {
-        "Held in language": [
-            "de - German"
-        ], 
-        "Has start time": [], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "We'll present our new wizard for configuring Freifunk routers"
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:Freifunk", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Freifunk", 
-                "namespace": 504, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [], 
-        "Has title": [
-            "Wizard of Berlin's Freifunk Firmware"
-        ], 
-        "Has duration": [], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Wizard_of_Berlin%27s_Freifunk_Firmware", 
-        "Has end time": []
-    }, 
     "Session:Cyberthingy# ac3e137e198cda248c6f4d44bd664362": {
         "Held in language": [
             "en - English"
@@ -4385,53 +4346,40 @@
             "1482928200"
         ]
     }, 
-    "Session:Congress Everywhere Greet & Meet# decbdeb1e946df0f7aebf812972d62ca": {
+    "Session:Wizard of Berlin's Freifunk Firmware# 5c511c0633d1e142ab295af9eb175d0e": {
         "Held in language": [
             "de - German"
         ], 
-        "Has start time": [
-            "1482953400"
-        ], 
+        "Has start time": [], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [
-            "How to provide some congress feeling to your people at home ? \n\nCongress Everywhere events in hackerspaces usually happen at evening as public viewing of congress talks. Such a livestream-only link provides very limited \"congress feelings\". In your local timezone, the events do start with a major break, where no talk happens and therefore no livestream is sent out \n\nLet's fill this break with meet and greet between your congress site and your hackerspace at home.\n\nFor details how this might happen, see our last year session description\nhttps://events.ccc.de/congress/2015/wiki/Session:Congress_Everywhere_Breaktime"
+            "We'll present our new wizard for configuring Freifunk routers"
         ], 
-        "Has session type": [], 
+        "Has session type": [
+            "Workshop"
+        ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall 13-14", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_13-14", 
-                "namespace": 516, 
+                "fulltext": "Assembly:Freifunk", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Freifunk", 
+                "namespace": 504, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [
-            "IceBreaker Day 2"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Myon", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Myon", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
         "Has title": [
-            "Congress Everywhere Greet & Meet"
+            "Wizard of Berlin's Freifunk Firmware"
         ], 
-        "Has duration": [
-            40
-        ], 
+        "Has duration": [], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Congress_Everywhere_Greet_%26_Meet", 
-        "Has end time": [
-            "1482955800"
-        ]
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Wizard_of_Berlin%27s_Freifunk_Firmware", 
+        "Has end time": []
     }, 
     "Session:Coder Dojo# 8ba93735bba7d3bfbd659432e4e1a209": {
         "Held in language": [
@@ -9845,6 +9793,58 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Wordclock", 
         "Has end time": [
             "1482966000"
+        ]
+    }, 
+    "Session:FHB Cheese Rendezvous 33c3# 22a6fa5aae7b3b0bd3db1f35945b183c": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1483038000"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://foodhackingbase.org/wiki/Cheese_rendezvous_33c3"
+        ], 
+        "Has description": [
+            "If you love cheese this event will make you very very happy!"
+        ], 
+        "Has session type": [
+            "Other"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Foodhackingbase", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Foodhackingbase", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Session I."
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Algoldor", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Algoldor", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "FHB Cheese Rendezvous 33c3"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:FHB_Cheese_Rendezvous_33c3", 
+        "Has end time": [
+            "1483043400"
         ]
     }, 
     "Session:An UnCivilization Commune ReWilded Life Shared with Squirrels# dd95e8a0bc6dcebefc291461f0a81cfe": {
