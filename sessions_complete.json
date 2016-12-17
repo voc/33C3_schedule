@@ -1794,6 +1794,62 @@
             "1482863400"
         ]
     }, 
+    "Session:State of the InterNAT - Freifunk Rheinland AS201701 Update# bdd353c87c2a760026f9f53c377d9243": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1483016400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "htp:ffrl.de"
+        ], 
+        "Has description": [
+            "Statusupdate from Freifunk Rheinland Backbone (AS201701). Was war, was ist, was wird."
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall C.2", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.2", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Barbarossa", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Barbarossa", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Takt", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Takt", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "State of the InterNAT - Freifunk Rheinland AS201701 Update"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:State_of_the_InterNAT_-_Freifunk_Rheinland_AS201701_Update", 
+        "Has end time": [
+            "1483020000"
+        ]
+    }, 
     "Session:How to Organize a CryptoParty# a16011b4eeabaa057517fefd6c958655": {
         "Held in language": [
             "en - English"
@@ -9763,6 +9819,54 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:OpenOversight", 
         "Has end time": [
             "1483011600"
+        ]
+    }, 
+    "Session:SOSDF(H)B: Salt-Orchestrated Software Defined Freifunk (Hochstift) Backbone: DataCenter und Carrier Techniken f\u00fcr Freifunk abgucken# b0f5da3802bc83573a8eefbfc73a8311": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1483009200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://github.com/FreifunkHochstift/ffho-salt-public"
+        ], 
+        "Has description": [], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall C.2", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.2", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Barbarossa", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Barbarossa", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "SOSDF(H)B"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:SOSDF(H)B:_Salt-Orchestrated_Software_Defined_Freifunk_(Hochstift)_Backbone:_DataCenter_und_Carrier_Techniken_f%C3%BCr_Freifunk_abgucken", 
+        "Has end time": [
+            "1483014600"
         ]
     }, 
     "Session:SuSi-Angelmeetings# 61eb65e61b717da207194923b8b9fdb3": {
