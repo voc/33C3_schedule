@@ -36,7 +36,7 @@
         "speakers": "Reisende"
     }, 
     {
-        "event_id": 1142, 
+        "event_id": 1145, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -48,7 +48,7 @@
         "speakers": "Ijon"
     }, 
     {
-        "event_id": 1155, 
+        "event_id": 1154, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -168,7 +168,7 @@
         "speakers": "Obaz, UMT, CoopDot"
     }, 
     {
-        "event_id": 1150, 
+        "event_id": 1149, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1131, 
@@ -264,7 +264,7 @@
         "speakers": "Djim, Duisburch, Benni, Cbass, Stean"
     }, 
     {
-        "event_id": 1038, 
+        "event_id": 1036, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -360,7 +360,7 @@
         "speakers": "Sebalis"
     }, 
     {
-        "event_id": 1037, 
+        "event_id": 1038, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -408,7 +408,7 @@
         "speakers": "Reisende"
     }, 
     {
-        "event_id": 1143, 
+        "event_id": 1142, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -420,7 +420,7 @@
         "speakers": "Ijon"
     }, 
     {
-        "event_id": 1152, 
+        "event_id": 1156, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -492,7 +492,7 @@
         "speakers": "Jeffburdges"
     }, 
     {
-        "event_id": 1032, 
+        "event_id": 1031, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1131, 
@@ -540,7 +540,7 @@
         "speakers": "Eest9"
     }, 
     {
-        "event_id": 1034, 
+        "event_id": 1033, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1132, 
@@ -624,7 +624,7 @@
         "speakers": "Nana berlin"
     }, 
     {
-        "event_id": 1028, 
+        "event_id": 1027, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1133, 
@@ -636,7 +636,7 @@
         "speakers": "Nana berlin"
     }, 
     {
-        "event_id": 1029, 
+        "event_id": 1030, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1133, 
@@ -648,7 +648,7 @@
         "speakers": "Nana berlin"
     }, 
     {
-        "event_id": 1033, 
+        "event_id": 1034, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1133, 
@@ -720,7 +720,7 @@
         "speakers": "A.Vibrio.F."
     }, 
     {
-        "event_id": 1027, 
+        "event_id": 1028, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1134, 
@@ -732,7 +732,7 @@
         "speakers": "Nana berlin"
     }, 
     {
-        "event_id": 1030, 
+        "event_id": 1029, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1134, 
@@ -744,7 +744,7 @@
         "speakers": "Nana berlin"
     }, 
     {
-        "event_id": 1031, 
+        "event_id": 1032, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1134, 
@@ -816,7 +816,7 @@
         "speakers": "KaerF"
     }, 
     {
-        "event_id": 1151, 
+        "event_id": 1150, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1134, 
@@ -1044,7 +1044,7 @@
         "speakers": "Ineiti"
     }, 
     {
-        "event_id": 1137, 
+        "event_id": 1138, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -1056,7 +1056,7 @@
         "speakers": "Reisende"
     }, 
     {
-        "event_id": 1144, 
+        "event_id": 1143, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -1332,7 +1332,7 @@
         "speakers": "Tecer"
     }, 
     {
-        "event_id": 1147, 
+        "event_id": 1151, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1134, 
@@ -1380,7 +1380,7 @@
         "speakers": "DerNiko"
     }, 
     {
-        "event_id": 1156, 
+        "event_id": 1155, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1230, 
@@ -1404,7 +1404,7 @@
         "speakers": "Eal"
     }, 
     {
-        "event_id": 1036, 
+        "event_id": 1037, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -1452,7 +1452,7 @@
         "speakers": "Reisende"
     }, 
     {
-        "event_id": 1138, 
+        "event_id": 1137, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -1524,7 +1524,7 @@
         "speakers": "Becha"
     }, 
     {
-        "event_id": 1153, 
+        "event_id": 1152, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1131, 
@@ -1548,7 +1548,7 @@
         "speakers": "Stephan.schwichtenberg"
     }, 
     {
-        "event_id": 1148, 
+        "event_id": 1147, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1134, 
