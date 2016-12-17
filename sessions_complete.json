@@ -2747,6 +2747,50 @@
             "1482937200"
         ]
     }, 
+    "Session:Post Colonial Computing# 6c9664a498ee4f863078bf3f9b36eb28": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "upcoming"
+        ], 
+        "Has session type": [
+            "Discussion"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall C.3", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.3", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Al-Badri Nelles", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Al-Badri_Nelles", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Post Colonial Computing"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Post_Colonial_Computing", 
+        "Has end time": []
+    }, 
     "Session:Subtitles-Angelmeetings# 3f394b79cf5c8d868ddc732d38346a06": {
         "Held in language": [
             "en - English"
