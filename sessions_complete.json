@@ -6700,58 +6700,6 @@
             "1482956100"
         ]
     }, 
-    "Session:Stage Manager Angel Introduction# 391e226a6dc0aa72ad5b79b718ed0cfa": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1483038000"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://events.ccc.de/congress/2016/wiki/Static:Stage_manager"
-        ], 
-        "Has description": [
-            "Stage Managers are responsible for a specific lecture hall (Saal) and all the talks within a 4 hour time slot. In short, stage managers make sure the talks go as smoothly as possible, including technical issues and crowd management.\n\nDuring this Session we will introduce you to your dutys as a stage manager and teach you all that you need to know to make the Talks during 33c3 run as smoothly as possible."
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall A.1", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Day3 Introduction Stagemanagers"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Ijon", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Ijon", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Stage Manager Angel Introduction"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Stage_Manager_Angel_Introduction", 
-        "Has end time": [
-            "1483041600"
-        ]
-    }, 
     "Session:DSM, EIF, RED: Acronyms on the EU level and why they matter for software freedom# 7445ce4e0e403f70db3ba261dbd68684": {
         "Held in language": [
             "en - English"
@@ -6935,53 +6883,57 @@
             "1483039800"
         ]
     }, 
-    "Session:OpenOversight# 71718dc7bde7d3c96aba5bc0b57c7915": {
+    "Session:Stage Manager Angel Introduction# 391e226a6dc0aa72ad5b79b718ed0cfa": {
         "Held in language": [
             "en - English"
         ], 
-        "Has start time": [], 
+        "Has start time": [
+            "1483038000"
+        ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [
-            "http://openoversight.lucyparsonslabs.com"
+            "https://events.ccc.de/congress/2016/wiki/Static:Stage_manager"
         ], 
         "Has description": [
-            "OpenOversight aims to maintain a database of police officers and provide a digital gallery that allows the public to identify the name and badge number of a police officer they would like to file a misconduct complaint about."
+            "Stage Managers are responsible for a specific lecture hall (Saal) and all the talks within a 4 hour time slot. In short, stage managers make sure the talks go as smoothly as possible, including technical issues and crowd management.\n\nDuring this Session we will introduce you to your dutys as a stage manager and teach you all that you need to know to make the Talks during 33c3 run as smoothly as possible."
         ], 
         "Has session type": [
-            "Talk"
+            "Workshop"
         ], 
         "Has session location": [
             {
-                "fulltext": "Assembly:Anarchist Village", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Anarchist_Village", 
-                "namespace": 504, 
+                "fulltext": "Room:Hall A.1", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
+                "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [
-            "OpenOversight"
+            "Day3 Introduction Stagemanagers"
         ], 
         "Is organized by": [
             {
-                "fulltext": "User:Bmeson", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Bmeson", 
+                "fulltext": "User:Ijon", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Ijon", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "OpenOversight"
+            "Stage Manager Angel Introduction"
         ], 
         "Has duration": [
-            40
+            60
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:OpenOversight", 
-        "Has end time": []
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Stage_Manager_Angel_Introduction", 
+        "Has end time": [
+            "1483041600"
+        ]
     }, 
     "Session:Your own Glowing Micropet!# 0e82b1cb18d1fac1e9981aa274ccfdf6": {
         "Held in language": [
@@ -9753,6 +9705,64 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
             "1482785100"
+        ]
+    }, 
+    "Session:OpenOversight# 741196bdb3b5ce69e8678d25f9aff96f": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1483009200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://openoversight.lucyparsonslabs.com"
+        ], 
+        "Has description": [
+            "OpenOversight aims to maintain a database of police officers and provide a digital gallery that allows the public to identify the name and badge number of a police officer they would like to file a misconduct complaint about."
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Anarchist Village", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Anarchist_Village", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "OpenOversight"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Bmeson", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Bmeson", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Redshiftzero", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Redshiftzero", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "OpenOversight"
+        ], 
+        "Has duration": [
+            40
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:OpenOversight", 
+        "Has end time": [
+            "1483011600"
         ]
     }, 
     "Session:SuSi-Angelmeetings# 61eb65e61b717da207194923b8b9fdb3": {
