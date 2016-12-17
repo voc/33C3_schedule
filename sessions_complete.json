@@ -1834,6 +1834,12 @@
                 "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Takt", 
                 "namespace": 2, 
                 "exists": true
+            }, 
+            {
+                "fulltext": "User:Lars", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Lars", 
+                "namespace": 2, 
+                "exists": true
             }
         ], 
         "Has title": [
