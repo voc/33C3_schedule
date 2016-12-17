@@ -514,6 +514,68 @@
             "1482935400"
         ]
     }, 
+    "Session:State of the InterNAT - Freifunk Rheinland AS201701 Update# 42bf8c1eb323807f1a0155b261e1358b": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1483009200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "htp:ffrl.de"
+        ], 
+        "Has description": [
+            "Statusupdate from Freifunk Rheinland Backbone (AS201701). Was war, was ist, was wird."
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall C.2", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.2", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Barbarossa", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Barbarossa", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Takt", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Takt", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Lars", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Lars", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "State of the InterNAT - Freifunk Rheinland AS201701 Update"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:State_of_the_InterNAT_-_Freifunk_Rheinland_AS201701_Update", 
+        "Has end time": [
+            "1483012800"
+        ]
+    }, 
     "Session:\"My\" software, like \"my\" hand or like \"my car\"?# 4e67f599939ba0abceb1ffe771c2f455": {
         "Held in language": [
             "en - English"
@@ -1162,122 +1224,27 @@
             "1482867600"
         ]
     }, 
-    "Session:Discussing Postcolonial Computing# 14deb55d5ac3b3986de7c00f3709f05a": {
+    "Session:Freifunk und die VDS# 2e04b5c579a580421eb70139baa92fb3": {
         "Held in language": [
-            "ab - Abkhazian", 
-            "af - Afrikaans", 
-            "an - Aragonese", 
-            "ar - Arabic", 
-            "as - Assamese", 
-            "az - Azerbaijani", 
-            "be - Belarusian", 
-            "bg - Bulgarian", 
-            "bn - Bengali", 
-            "bo - Tibetan", 
-            "br - Breton", 
-            "bs - Bosnian", 
-            "ca - Catalan / Valencian", 
-            "ce - Chechen", 
-            "co - Corsican", 
-            "cs - Czech", 
-            "cu - Church Slavic", 
-            "cy - Welsh", 
-            "da - Danish", 
-            "de - German", 
-            "el - Greek", 
-            "en - English", 
-            "eo - Esperanto", 
-            "es - Spanish / Castilian", 
-            "et - Estonian", 
-            "eu - Basque", 
-            "fa - Persian", 
-            "fi - Finnish", 
-            "fj - Fijian", 
-            "fo - Faroese", 
-            "fr - French", 
-            "fy - Western Frisian", 
-            "ga - Irish", 
-            "gd - Gaelic / Scottish Gaelic", 
-            "gl - Galician", 
-            "gv - Manx", 
-            "he - Hebrew", 
-            "hi - Hindi", 
-            "hr - Croatian", 
-            "ht - Haitian; Haitian Creole", 
-            "hu - Hungarian", 
-            "hy - Armenian", 
-            "id - Indonesian", 
-            "is - Icelandic", 
-            "it - Italian", 
-            "ja - Japanese", 
-            "jv - Javanese", 
-            "ka - Georgian", 
-            "kg - Kongo", 
-            "ko - Korean", 
-            "ku - Kurdish", 
-            "kw - Cornish", 
-            "ky - Kirghiz", 
-            "la - Latin", 
-            "lb - Luxembourgish; Letzeburgesch", 
-            "li - Limburgan; Limburger; Limburgish", 
-            "ln - Lingala", 
-            "lt - Lithuanian", 
-            "lv - Latvian", 
-            "mg - Malagasy", 
-            "mk - Macedonian", 
-            "mn - Mongolian", 
-            "mo - Moldavian", 
-            "ms - Malay", 
-            "mt - Maltese", 
-            "my - Burmese", 
-            "nb - Norwegian (Bokm\u00e5l)", 
-            "ne - Nepali", 
-            "nl - Dutch", 
-            "nn - Norwegian (Nynorsk)", 
-            "no - Norwegian", 
-            "oc - Occitan (post 1500); Proven\u00e7al", 
-            "pl - Polish", 
-            "pt - Portuguese", 
-            "rm - Raeto-Romance", 
-            "ro - Romanian", 
-            "ru - Russian", 
-            "sc - Sardinian", 
-            "se - Northern Sami", 
-            "sk - Slovak", 
-            "sl - Slovenian", 
-            "so - Somali", 
-            "sq - Albanian", 
-            "sr - Serbian", 
-            "sv - Swedish", 
-            "sw - Swahili", 
-            "tk - Turkmen", 
-            "tr - Turkish", 
-            "ty - Tahitian", 
-            "uk - Ukrainian", 
-            "ur - Urdu", 
-            "uz - Uzbek", 
-            "vi - Vietnamese", 
-            "vo - Volap\u00fck", 
-            "yi - Yiddish", 
-            "zh - Chinese"
+            "en - English"
         ], 
         "Has start time": [
-            "1482944400"
+            "1483005600"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [
-            "Introduction input and discussion placeholder"
+            "Philip von Freifunk Rheinland gibt einen Ein- und \u00dcberblick \u00fcber die aktuellen Entwicklungen zur VDS"
         ], 
         "Has session type": [
             "Discussion"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall C.3", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.3", 
+                "fulltext": "Room:Hall C.2", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.2", 
                 "namespace": 516, 
                 "exists": true
             }
@@ -1285,14 +1252,14 @@
         "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Al-Badri Nelles", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Al-Badri_Nelles", 
+                "fulltext": "User:Pberndro", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Pberndro", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Discussing Postcolonial Computing"
+            "Freifunk und die VDS"
         ], 
         "Has duration": [
             60
@@ -1300,9 +1267,9 @@
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Discussing_Postcolonial_Computing", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Freifunk_und_die_VDS", 
         "Has end time": [
-            "1482948000"
+            "1483009200"
         ]
     }, 
     "Session:3D scan yourself# 07fd3c770a47140f5c5c4fe19a8c3787": {
@@ -1794,68 +1761,6 @@
             "1482863400"
         ]
     }, 
-    "Session:State of the InterNAT - Freifunk Rheinland AS201701 Update# bdd353c87c2a760026f9f53c377d9243": {
-        "Held in language": [
-            "de - German"
-        ], 
-        "Has start time": [
-            "1483016400"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "htp:ffrl.de"
-        ], 
-        "Has description": [
-            "Statusupdate from Freifunk Rheinland Backbone (AS201701). Was war, was ist, was wird."
-        ], 
-        "Has session type": [
-            "Talk"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall C.2", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.2", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Barbarossa", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Barbarossa", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:Takt", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Takt", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:Lars", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Lars", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "State of the InterNAT - Freifunk Rheinland AS201701 Update"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:State_of_the_InterNAT_-_Freifunk_Rheinland_AS201701_Update", 
-        "Has end time": [
-            "1483020000"
-        ]
-    }, 
     "Session:How to Organize a CryptoParty# a16011b4eeabaa057517fefd6c958655": {
         "Held in language": [
             "en - English"
@@ -2241,12 +2146,12 @@
             "1482937200"
         ]
     }, 
-    "Session:Subtitles-Angelmeetings# f48797b83b3006b88510ce3136aec9e2": {
+    "Session:Subtitles-Angelmeetings# 33d15813452eabff67587b00e4525369": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1483024500"
+            "1482851700"
         ], 
         "Has event track": [
             "Session"
@@ -2262,8 +2167,8 @@
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall F", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_F", 
+                "fulltext": "Room:Hall A.1", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
                 "namespace": 516, 
                 "exists": true
             }
@@ -2288,7 +2193,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Subtitles-Angelmeetings", 
         "Has end time": [
-            "1483026300"
+            "1482853500"
         ]
     }, 
     "Session:Coder Dojo# ce369fbaa66a09e01586ffcab4b39c4a": {
@@ -2720,47 +2625,79 @@
             "1483042500"
         ]
     }, 
-    "Session:Freifunk und die VDS# 37384e1b9143d83deb07a78d113f2ea2": {
+    "Session:Junghackertag# 57c679ae529436a05dfdcee1bdce0f4e": {
         "Held in language": [
-            "en - English"
+            "de - German"
         ], 
-        "Has start time": [], 
+        "Has start time": [
+            "1482886800"
+        ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [
-            "Philip von Freifunk Rheinland gibt einen Ein- und \u00dcberblick \u00fcber die aktuellen Entwicklungen zur VDS"
+            "L\u00f6tworkshop von Chaos Macht Schule f\u00fcr Junghacker"
         ], 
         "Has session type": [
-            "Discussion"
+            "Workshop"
         ], 
         "Has session location": [
             {
-                "fulltext": "Assembly:Freifunk", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Freifunk", 
-                "namespace": 504, 
+                "fulltext": "Room:Hall F", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_F", 
+                "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [], 
+        "Has subtitle": [
+            "L\u00f6tworkshop von Chaos Macht Schule"
+        ], 
         "Is organized by": [
             {
-                "fulltext": "User:Pberndro", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Pberndro", 
+                "fulltext": "User:Djim", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Djim", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Duisburch", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Duisburch", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Benni", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Benni", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Cbass", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Cbass", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Stean", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Stean", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Freifunk und die VDS"
+            "Junghackertag"
         ], 
-        "Has duration": [], 
+        "Has duration": [
+            1380
+        ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Freifunk_und_die_VDS", 
-        "Has end time": []
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Junghackertag", 
+        "Has end time": [
+            "1482969600"
+        ]
     }, 
     "Session:3D printing for beginners# ddb26e60e003b634d86f8aa4523445d7": {
         "Held in language": [
@@ -4199,6 +4136,54 @@
             "1483025400"
         ]
     }, 
+    "Session:SOSDF(H)B: Salt-Orchestrated Software Defined Freifunk (Hochstift) Backbone: DataCenter und Carrier Techniken f\u00fcr Freifunk abgucken# fa2cd46e82d27fc0d7de8b1515b3effa": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1483014600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://github.com/FreifunkHochstift/ffho-salt-public"
+        ], 
+        "Has description": [], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall C.2", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.2", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Barbarossa", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Barbarossa", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "SOSDF(H)B"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:SOSDF(H)B:_Salt-Orchestrated_Software_Defined_Freifunk_(Hochstift)_Backbone:_DataCenter_und_Carrier_Techniken_f%C3%BCr_Freifunk_abgucken", 
+        "Has end time": [
+            "1483020000"
+        ]
+    }, 
     "Session:3D printing for beginners# 3e34e23260a6991b946f86b764eb0767": {
         "Held in language": [
             "en - English"
@@ -4627,41 +4612,6 @@
         "Has end time": [
             "1482849000"
         ]
-    }, 
-    "Session:Freifunk und die VDS# 10b605712408a3d3f69e1494a7fdbab1": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Philip von Freifunk Rheinland gibt einen Ein- und \u00dcberblick \u00fcber die aktuellen Entwicklungen zur VDS"
-        ], 
-        "Has session type": [
-            "Discussion"
-        ], 
-        "Has session location": [], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Pberndro", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Pberndro", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Freifunk und die VDS"
-        ], 
-        "Has duration": [], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Freifunk_und_die_VDS", 
-        "Has end time": []
     }, 
     "Session:IoT by beginners for beginners: Getting started with NodeMCU# 5fc8056ed8ebfff4669f211c66e5e25a": {
         "Held in language": [
@@ -5264,12 +5214,12 @@
             "1483030800"
         ]
     }, 
-    "Session:Subtitles-Angelmeetings# 33d15813452eabff67587b00e4525369": {
+    "Session:Subtitles-Angelmeetings# f48797b83b3006b88510ce3136aec9e2": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482851700"
+            "1483024500"
         ], 
         "Has event track": [
             "Session"
@@ -5285,8 +5235,8 @@
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall A.1", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
+                "fulltext": "Room:Hall F", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_F", 
                 "namespace": 516, 
                 "exists": true
             }
@@ -5311,7 +5261,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Subtitles-Angelmeetings", 
         "Has end time": [
-            "1482853500"
+            "1483026300"
         ]
     }, 
     "Session:Off Grid: a videogame about hacking, data privacy, and surveillance# c5626b218dcaf7fe2c0ab1eff5125d93": {
@@ -7187,78 +7137,54 @@
             "1483041600"
         ]
     }, 
-    "Session:Junghackertag# 57c679ae529436a05dfdcee1bdce0f4e": {
+    "Session:There is no birthday party# 172955a48fe885c1b849ffea7ee016aa": {
         "Held in language": [
             "de - German"
         ], 
         "Has start time": [
-            "1482886800"
+            "1483034400"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
+        "Has website": [
+            "http://thereisnogame.de"
+        ], 
         "Has description": [
-            "L\u00f6tworkshop von Chaos Macht Schule f\u00fcr Junghacker"
+            "see title"
         ], 
         "Has session type": [
-            "Workshop"
+            "Other"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall F", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_F", 
+                "fulltext": "Room:Anti Error Lounge", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Anti_Error_Lounge", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [
-            "L\u00f6tworkshop von Chaos Macht Schule"
-        ], 
+        "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Djim", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Djim", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:Duisburch", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Duisburch", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:Benni", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Benni", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:Cbass", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Cbass", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:Stean", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Stean", 
+                "fulltext": "User:Reisende", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Reisende", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Junghackertag"
+            "There is no birthday party"
         ], 
         "Has duration": [
-            1380
+            45
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Junghackertag", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:There_is_no_birthday_party", 
         "Has end time": [
-            "1482969600"
+            "1483037100"
         ]
     }, 
     "Session:Space Hacking# b787a13c30041f982fc7186223360be6": {
@@ -9241,6 +9167,149 @@
             "1482865200"
         ]
     }, 
+    "Session:Discussing Postcolonial Computing# 14deb55d5ac3b3986de7c00f3709f05a": {
+        "Held in language": [
+            "ab - Abkhazian", 
+            "af - Afrikaans", 
+            "an - Aragonese", 
+            "ar - Arabic", 
+            "as - Assamese", 
+            "az - Azerbaijani", 
+            "be - Belarusian", 
+            "bg - Bulgarian", 
+            "bn - Bengali", 
+            "bo - Tibetan", 
+            "br - Breton", 
+            "bs - Bosnian", 
+            "ca - Catalan / Valencian", 
+            "ce - Chechen", 
+            "co - Corsican", 
+            "cs - Czech", 
+            "cu - Church Slavic", 
+            "cy - Welsh", 
+            "da - Danish", 
+            "de - German", 
+            "el - Greek", 
+            "en - English", 
+            "eo - Esperanto", 
+            "es - Spanish / Castilian", 
+            "et - Estonian", 
+            "eu - Basque", 
+            "fa - Persian", 
+            "fi - Finnish", 
+            "fj - Fijian", 
+            "fo - Faroese", 
+            "fr - French", 
+            "fy - Western Frisian", 
+            "ga - Irish", 
+            "gd - Gaelic / Scottish Gaelic", 
+            "gl - Galician", 
+            "gv - Manx", 
+            "he - Hebrew", 
+            "hi - Hindi", 
+            "hr - Croatian", 
+            "ht - Haitian; Haitian Creole", 
+            "hu - Hungarian", 
+            "hy - Armenian", 
+            "id - Indonesian", 
+            "is - Icelandic", 
+            "it - Italian", 
+            "ja - Japanese", 
+            "jv - Javanese", 
+            "ka - Georgian", 
+            "kg - Kongo", 
+            "ko - Korean", 
+            "ku - Kurdish", 
+            "kw - Cornish", 
+            "ky - Kirghiz", 
+            "la - Latin", 
+            "lb - Luxembourgish; Letzeburgesch", 
+            "li - Limburgan; Limburger; Limburgish", 
+            "ln - Lingala", 
+            "lt - Lithuanian", 
+            "lv - Latvian", 
+            "mg - Malagasy", 
+            "mk - Macedonian", 
+            "mn - Mongolian", 
+            "mo - Moldavian", 
+            "ms - Malay", 
+            "mt - Maltese", 
+            "my - Burmese", 
+            "nb - Norwegian (Bokm\u00e5l)", 
+            "ne - Nepali", 
+            "nl - Dutch", 
+            "nn - Norwegian (Nynorsk)", 
+            "no - Norwegian", 
+            "oc - Occitan (post 1500); Proven\u00e7al", 
+            "pl - Polish", 
+            "pt - Portuguese", 
+            "rm - Raeto-Romance", 
+            "ro - Romanian", 
+            "ru - Russian", 
+            "sc - Sardinian", 
+            "se - Northern Sami", 
+            "sk - Slovak", 
+            "sl - Slovenian", 
+            "so - Somali", 
+            "sq - Albanian", 
+            "sr - Serbian", 
+            "sv - Swedish", 
+            "sw - Swahili", 
+            "tk - Turkmen", 
+            "tr - Turkish", 
+            "ty - Tahitian", 
+            "uk - Ukrainian", 
+            "ur - Urdu", 
+            "uz - Uzbek", 
+            "vi - Vietnamese", 
+            "vo - Volap\u00fck", 
+            "yi - Yiddish", 
+            "zh - Chinese"
+        ], 
+        "Has start time": [
+            "1482944400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Introduction input and discussion placeholder"
+        ], 
+        "Has session type": [
+            "Discussion"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall C.3", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.3", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Al-Badri Nelles", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Al-Badri_Nelles", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Discussing Postcolonial Computing"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Discussing_Postcolonial_Computing", 
+        "Has end time": [
+            "1482948000"
+        ]
+    }, 
     "Session:Bin\u00e4rgewitter H\u00f6rertreffen# 8f6b08be3d281eabebdec03d0527e53a": {
         "Held in language": [
             "de - German"
@@ -9322,56 +9391,6 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Eris_Rising", 
         "Has end time": []
-    }, 
-    "Session:There is no birthday party# 172955a48fe885c1b849ffea7ee016aa": {
-        "Held in language": [
-            "de - German"
-        ], 
-        "Has start time": [
-            "1483034400"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "http://thereisnogame.de"
-        ], 
-        "Has description": [
-            "see title"
-        ], 
-        "Has session type": [
-            "Other"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Anti Error Lounge", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Anti_Error_Lounge", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Reisende", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Reisende", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "There is no birthday party"
-        ], 
-        "Has duration": [
-            45
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:There_is_no_birthday_party", 
-        "Has end time": [
-            "1483037100"
-        ]
     }, 
     "Session:Translation meetings# 36252d5cc335293f00e927b0b6eba7fb": {
         "Held in language": [
@@ -9825,54 +9844,6 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:OpenOversight", 
         "Has end time": [
             "1483011600"
-        ]
-    }, 
-    "Session:SOSDF(H)B: Salt-Orchestrated Software Defined Freifunk (Hochstift) Backbone: DataCenter und Carrier Techniken f\u00fcr Freifunk abgucken# b0f5da3802bc83573a8eefbfc73a8311": {
-        "Held in language": [
-            "de - German"
-        ], 
-        "Has start time": [
-            "1483009200"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://github.com/FreifunkHochstift/ffho-salt-public"
-        ], 
-        "Has description": [], 
-        "Has session type": [
-            "Talk"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall C.2", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.2", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Barbarossa", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Barbarossa", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "SOSDF(H)B"
-        ], 
-        "Has duration": [
-            90
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:SOSDF(H)B:_Salt-Orchestrated_Software_Defined_Freifunk_(Hochstift)_Backbone:_DataCenter_und_Carrier_Techniken_f%C3%BCr_Freifunk_abgucken", 
-        "Has end time": [
-            "1483014600"
         ]
     }, 
     "Session:SuSi-Angelmeetings# 61eb65e61b717da207194923b8b9fdb3": {
