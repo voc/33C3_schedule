@@ -4206,7 +4206,7 @@ Welcome to the Subtitles Angelmeeting!</description>
       </event>
     </room>
     <room name="Hall C.1">
-      <event id="1027" guid="20196cb4a0fcac3e8a926eb6752e785d">
+      <event id="1028" guid="20196cb4a0fcac3e8a926eb6752e785d">
         <logo/>
         <date>2016-12-28T10:00:00+01:00</date>
         <start>10:00</start>
@@ -4295,7 +4295,7 @@ F&#252;r Neueinsteiger, Menschen und andere Lebensformen die meinen sie k&#246;n
       </event>
     </room>
     <room name="Hall C.2">
-      <event id="1029" guid="ca9c35c335c11d72074a1e9e6046cb6e">
+      <event id="1030" guid="ca9c35c335c11d72074a1e9e6046cb6e">
         <logo/>
         <date>2016-12-28T10:00:00+01:00</date>
         <start>10:00</start>
@@ -4428,7 +4428,7 @@ Presented by Nik, a 26 year-old software developer and network admin from Bonn, 
           <link>https://events.ccc.de/congress/2016/wiki/Session:Boat_instruments_hacking</link>
         </links>
       </event>
-      <event id="1028" guid="82b6f15ab0e1d33b37e9817f997864d8">
+      <event id="1027" guid="82b6f15ab0e1d33b37e9817f997864d8">
         <logo/>
         <date>2016-12-28T11:00:00+01:00</date>
         <start>11:00</start>
@@ -4645,7 +4645,7 @@ Bitte unbedingt vorher per mail an fabian@fabmail.org registrieren, da die Teiln
           <link>https://events.ccc.de/congress/2016/wiki/Session:Coder_Dojo</link>
         </links>
       </event>
-      <event id="1030" guid="3e5566423bb7179b1698b34b8fba2524">
+      <event id="1029" guid="3e5566423bb7179b1698b34b8fba2524">
         <logo/>
         <date>2016-12-28T11:00:00+01:00</date>
         <start>11:00</start>
