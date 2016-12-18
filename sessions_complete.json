@@ -1244,7 +1244,7 @@
             "https://freifunk-rheinland.net"
         ], 
         "Has description": [
-            "Philip von Freifunk Rheinland gibt einen Ein- und \u00dcberblick \u00fcber die aktuellen Entwicklungen zur VDS"
+            "Philip von Freifunk Rheinland gibt einen Ein- und \u00dcberblick \u00fcber die aktuellen Entwicklungen zur VDS, den aktuellen Status der Klage sowie Infos zu unserem Antrag auf Aussetzung und den Konsequenzen f\u00fcr unseren Backbone (AS201701)."
         ], 
         "Has session type": [
             "Talk"
@@ -2581,86 +2581,6 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Film-Blocker", 
         "Has end time": [
             "1483042500"
-        ]
-    }, 
-    "Session:Junghackertag# 57c679ae529436a05dfdcee1bdce0f4e": {
-        "Held in language": [
-            "de - German"
-        ], 
-        "Has start time": [
-            "1482886800", 
-            "1482886800"
-        ], 
-        "Has event track": [
-            "Session", 
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "L\u00f6tworkshop von Chaos Macht Schule f\u00fcr Junghacker"
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall F", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_F", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "L\u00f6tworkshop von Chaos Macht Schule", 
-            "L\u00f6tworkshop von Chaos Macht Schule"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Djim", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Djim", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:Duisburch", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Duisburch", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:Benni", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Benni", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:Cbass", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Cbass", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:Stean", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Stean", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Junghackertag"
-        ], 
-        "Has duration": [
-            1380, 
-            1380
-        ], 
-        "Has color": [
-            "#0099ab", 
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Junghackertag", 
-        "Has end time": [
-            "1482969600", 
-            "1482969600"
         ]
     }, 
     "Session:3D printing for beginners# ddb26e60e003b634d86f8aa4523445d7": {
