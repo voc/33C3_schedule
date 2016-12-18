@@ -1719,56 +1719,6 @@
             "1482948000"
         ]
     }, 
-    "Session:Surface Mount Electronics Assembly for Terrified Beginners# bf43d8b5a156882133d1c4114e23f55c": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1482858000"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90mins, 20\u20ac/kit, avoid caffeine immediately before."
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:HardwareHackingArea", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:HardwareHackingArea", 
-                "namespace": 504, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Day 1 - Session 3"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Kliment", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Kliment", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Surface Mount Electronics Assembly for Terrified Beginners"
-        ], 
-        "Has duration": [
-            90
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Surface_Mount_Electronics_Assembly_for_Terrified_Beginners", 
-        "Has end time": [
-            "1482863400"
-        ]
-    }, 
     "Session:How to Organize a CryptoParty# a16011b4eeabaa057517fefd6c958655": {
         "Held in language": [
             "en - English"
@@ -3741,12 +3691,12 @@
             "1482865200"
         ]
     }, 
-    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
+    "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482764400"
+            "1483102800"
         ], 
         "Has event track": [
             "Session"
@@ -3765,7 +3715,7 @@
             }
         ], 
         "Has subtitle": [
-            "Introduction Meeting for new angels"
+            "Abbaumeeting"
         ], 
         "Is organized by": [
             {
@@ -3786,7 +3736,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
-            "1482768000"
+            "1483106400"
         ]
     }, 
     "Session:Cyberthingy# ac3e137e198cda248c6f4d44bd664362": {
@@ -9996,40 +9946,44 @@
             "1483096800"
         ]
     }, 
-    "Session:Strategien, \u00dcberwachungsskepsis in die Mitte der Gesellschaft zu tragen / Anti Surveillance Campaigning Targeted at the Masses# c451004589b4ba4f409ccc7b9998066c": {
+    "Session:Surface Mount Electronics Assembly for Terrified Beginners# bf43d8b5a156882133d1c4114e23f55c": {
         "Held in language": [
             "en - English"
         ], 
-        "Has start time": [], 
+        "Has start time": [
+            "1482858000"
+        ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [
-            "We will give some input and then want to start a discussion about strategies to make \"mainstream\" people care about surveillance and privacy. (mainstream = outside of hacker community/tech bubble)"
+            "Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90mins, 20\u20ac/kit, avoid caffeine immediately before."
         ], 
         "Has session type": [
-            "Discussion"
+            "Workshop"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall C.2", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.2", 
-                "namespace": 516, 
+                "fulltext": "Assembly:HardwareHackingArea", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:HardwareHackingArea", 
+                "namespace": 504, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [], 
+        "Has subtitle": [
+            "Day 1 - Session 3"
+        ], 
         "Is organized by": [
             {
-                "fulltext": "User:Vikvik", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Vikvik", 
+                "fulltext": "User:Kliment", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Kliment", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Strategien, \u00dcberwachungsskepsis in die Mitte der Gesellschaft zu tragen / Anti Surveillance Campaigning Targeted at the Masses"
+            "Surface Mount Electronics Assembly for Terrified Beginners"
         ], 
         "Has duration": [
             90
@@ -10037,8 +9991,10 @@
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Strategien,_%C3%9Cberwachungsskepsis_in_die_Mitte_der_Gesellschaft_zu_tragen_/_Anti_Surveillance_Campaigning_Targeted_at_the_Masses", 
-        "Has end time": []
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Surface_Mount_Electronics_Assembly_for_Terrified_Beginners", 
+        "Has end time": [
+            "1482863400"
+        ]
     }, 
     "Session:Radio Lockdown: Community WiFis unite!# 3ef0602faa4a92ba21a0b5d2b7bc8970": {
         "Held in language": [
@@ -11045,6 +11001,54 @@
             "1483119000"
         ]
     }, 
+    "Session:Strategien, \u00dcberwachungsskepsis in die Mitte der Gesellschaft zu tragen / Anti Surveillance Campaigning Targeted at the Masses# 5ebc6a7272a467641276dbc4679922c6": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482942600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "We will give some input and then want to start a discussion about strategies to make \"mainstream\" people care about surveillance and privacy. (mainstream = outside of hacker community/tech bubble)."
+        ], 
+        "Has session type": [
+            "Discussion"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall C.2", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.2", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Vikvik", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Vikvik", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Strategien, \u00dcberwachungsskepsis in die Mitte der Gesellschaft zu tragen / Anti Surveillance Campaigning Targeted at the Masses"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Strategien,_%C3%9Cberwachungsskepsis_in_die_Mitte_der_Gesellschaft_zu_tragen_/_Anti_Surveillance_Campaigning_Targeted_at_the_Masses", 
+        "Has end time": [
+            "1482948000"
+        ]
+    }, 
     "Session:Hebocon Registration and testfights# c96f8241b40551474bf5e709887c4192": {
         "Held in language": [
             "en - English"
@@ -11188,12 +11192,12 @@
             "1482863400"
         ]
     }, 
-    "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
+    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1483102800"
+            "1482764400"
         ], 
         "Has event track": [
             "Session"
@@ -11212,7 +11216,7 @@
             }
         ], 
         "Has subtitle": [
-            "Abbaumeeting"
+            "Introduction Meeting for new angels"
         ], 
         "Is organized by": [
             {
@@ -11233,7 +11237,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
-            "1483106400"
+            "1482768000"
         ]
     }, 
     "Session:Line-of-sight visualizer# 24d9aabcf7d4df6b349a03dbf75a5641": {
