@@ -5996,6 +5996,54 @@
             "1482894000"
         ]
     }, 
+    "Session:Keysigning party# c9c72e0b5cc35d6418ab62c9ec6b364f": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482953400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "We will check each other's identity papers and sign each other's OpenPGP keys. This builds the OpenPGP Web of Trust, and it's also just a nice get-together."
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall C.2", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.2", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Digital Brains", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Digital_Brains", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Keysigning party"
+        ], 
+        "Has duration": [
+            180
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Keysigning_party", 
+        "Has end time": [
+            "1482964200"
+        ]
+    }, 
     "Session:3D printing for beginners# 53ee8d12c7bca172edf73bebc064b3ea": {
         "Held in language": [
             "en - English"
