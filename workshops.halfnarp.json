@@ -744,19 +744,7 @@
         "speakers": "TobiOrNotTobi, Trema"
     }, 
     {
-        "event_id": 1088, 
-        "track_id": 10, 
-        "track_name": "Session", 
-        "room_id": 1230, 
-        "room_name": "Hall F", 
-        "start_time": "2016-12-28T01:00:00+01:00", 
-        "duration": 82800, 
-        "title": "Junghackertag", 
-        "abstract": "L\u00f6tworkshop von Chaos Macht Schule f\u00fcr Junghacker", 
-        "speakers": "Djim, Duisburch, Benni, Cbass, Stean"
-    }, 
-    {
-        "event_id": 1090, 
+        "event_id": 1089, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1132, 
@@ -768,7 +756,7 @@
         "speakers": "Digital Brains"
     }, 
     {
-        "event_id": 1095, 
+        "event_id": 1094, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1131, 
@@ -780,7 +768,7 @@
         "speakers": "Eest9"
     }, 
     {
-        "event_id": 1096, 
+        "event_id": 1095, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1230, 
@@ -792,7 +780,7 @@
         "speakers": "DerNiko"
     }, 
     {
-        "event_id": 1097, 
+        "event_id": 1096, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1132, 
@@ -804,7 +792,7 @@
         "speakers": "Varac, Kwadronaut"
     }, 
     {
-        "event_id": 1102, 
+        "event_id": 1101, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1133, 
@@ -816,7 +804,7 @@
         "speakers": "Leodin, Xilent"
     }, 
     {
-        "event_id": 1103, 
+        "event_id": 1102, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1132, 
@@ -828,7 +816,7 @@
         "speakers": ""
     }, 
     {
-        "event_id": 1104, 
+        "event_id": 1103, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -840,7 +828,7 @@
         "speakers": "Eal"
     }, 
     {
-        "event_id": 1105, 
+        "event_id": 1104, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -852,7 +840,7 @@
         "speakers": "Kirils"
     }, 
     {
-        "event_id": 1106, 
+        "event_id": 1105, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -864,7 +852,7 @@
         "speakers": "Kire"
     }, 
     {
-        "event_id": 1107, 
+        "event_id": 1106, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1134, 
@@ -876,7 +864,7 @@
         "speakers": "Stephan.schwichtenberg"
     }, 
     {
-        "event_id": 1108, 
+        "event_id": 1107, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1132, 
@@ -888,7 +876,7 @@
         "speakers": "Eal"
     }, 
     {
-        "event_id": 1109, 
+        "event_id": 1108, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1134, 
@@ -900,7 +888,7 @@
         "speakers": "Tecer"
     }, 
     {
-        "event_id": 1113, 
+        "event_id": 1112, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1134, 
@@ -912,7 +900,7 @@
         "speakers": "NMarkus, PeterVanPan"
     }, 
     {
-        "event_id": 1114, 
+        "event_id": 1113, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1133, 
@@ -924,7 +912,7 @@
         "speakers": "Konrad, Aleimba, Rupi, Iimog"
     }, 
     {
-        "event_id": 1116, 
+        "event_id": 1115, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1134, 
@@ -936,7 +924,7 @@
         "speakers": "Kbeckmann"
     }, 
     {
-        "event_id": 1117, 
+        "event_id": 1116, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -948,7 +936,7 @@
         "speakers": "Blinry"
     }, 
     {
-        "event_id": 1118, 
+        "event_id": 1117, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1134, 
@@ -960,7 +948,7 @@
         "speakers": "Varac, Zara"
     }, 
     {
-        "event_id": 1119, 
+        "event_id": 1118, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -972,7 +960,7 @@
         "speakers": "Ineiti"
     }, 
     {
-        "event_id": 1120, 
+        "event_id": 1119, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1120, 
@@ -984,7 +972,7 @@
         "speakers": "Eal"
     }, 
     {
-        "event_id": 1121, 
+        "event_id": 1120, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -996,7 +984,7 @@
         "speakers": "Eal"
     }, 
     {
-        "event_id": 1122, 
+        "event_id": 1121, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1120, 
@@ -1008,7 +996,7 @@
         "speakers": "Obaz, UMT, CoopDot"
     }, 
     {
-        "event_id": 1123, 
+        "event_id": 1122, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1131, 
@@ -1020,7 +1008,7 @@
         "speakers": "Obaz, UMT, CoopDot"
     }, 
     {
-        "event_id": 1124, 
+        "event_id": 1123, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1134, 
@@ -1032,7 +1020,7 @@
         "speakers": "Eal"
     }, 
     {
-        "event_id": 1125, 
+        "event_id": 1124, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1134, 
@@ -1044,7 +1032,7 @@
         "speakers": "KaerF"
     }, 
     {
-        "event_id": 1126, 
+        "event_id": 1125, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1132, 
@@ -1056,7 +1044,7 @@
         "speakers": "Barbarossa"
     }, 
     {
-        "event_id": 1128, 
+        "event_id": 1127, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -1068,7 +1056,7 @@
         "speakers": "Reisende"
     }, 
     {
-        "event_id": 1129, 
+        "event_id": 1128, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -1080,7 +1068,7 @@
         "speakers": "Reisende"
     }, 
     {
-        "event_id": 1130, 
+        "event_id": 1129, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -1092,7 +1080,7 @@
         "speakers": "Reisende"
     }, 
     {
-        "event_id": 1131, 
+        "event_id": 1130, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -1104,7 +1092,7 @@
         "speakers": "Reisende"
     }, 
     {
-        "event_id": 1132, 
+        "event_id": 1131, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -1116,7 +1104,7 @@
         "speakers": "Reisende"
     }, 
     {
-        "event_id": 1133, 
+        "event_id": 1132, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -1128,7 +1116,7 @@
         "speakers": "Reisende"
     }, 
     {
-        "event_id": 1134, 
+        "event_id": 1133, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -1140,7 +1128,7 @@
         "speakers": "Reisende"
     }, 
     {
-        "event_id": 1135, 
+        "event_id": 1134, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -1152,7 +1140,7 @@
         "speakers": "Reisende"
     }, 
     {
-        "event_id": 1136, 
+        "event_id": 1135, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -1164,7 +1152,7 @@
         "speakers": "Reisende"
     }, 
     {
-        "event_id": 1137, 
+        "event_id": 1136, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -1176,7 +1164,7 @@
         "speakers": "Reisende"
     }, 
     {
-        "event_id": 1138, 
+        "event_id": 1137, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -1188,7 +1176,7 @@
         "speakers": "Reisende"
     }, 
     {
-        "event_id": 1139, 
+        "event_id": 1138, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -1200,7 +1188,7 @@
         "speakers": "Reisende"
     }, 
     {
-        "event_id": 1140, 
+        "event_id": 1139, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1131, 
@@ -1212,7 +1200,7 @@
         "speakers": "Uebelhacker"
     }, 
     {
-        "event_id": 1141, 
+        "event_id": 1140, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1120, 
@@ -1224,7 +1212,7 @@
         "speakers": "Uebelhacker"
     }, 
     {
-        "event_id": 1142, 
+        "event_id": 1141, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1132, 
@@ -1236,7 +1224,7 @@
         "speakers": "Jona"
     }, 
     {
-        "event_id": 1143, 
+        "event_id": 1142, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -1248,7 +1236,7 @@
         "speakers": "Ijon"
     }, 
     {
-        "event_id": 1144, 
+        "event_id": 1143, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -1260,7 +1248,7 @@
         "speakers": "Ijon"
     }, 
     {
-        "event_id": 1145, 
+        "event_id": 1144, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -1272,7 +1260,7 @@
         "speakers": "Ijon"
     }, 
     {
-        "event_id": 1146, 
+        "event_id": 1145, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -1284,7 +1272,7 @@
         "speakers": "Ijon"
     }, 
     {
-        "event_id": 1147, 
+        "event_id": 1146, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1132, 
@@ -1296,7 +1284,7 @@
         "speakers": "Barbarossa, Takt, Lars, ThomasDOTwtf"
     }, 
     {
-        "event_id": 1148, 
+        "event_id": 1147, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1132, 
@@ -1308,7 +1296,7 @@
         "speakers": "Vikvik"
     }, 
     {
-        "event_id": 1149, 
+        "event_id": 1148, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1134, 
@@ -1320,7 +1308,7 @@
         "speakers": "Cube"
     }, 
     {
-        "event_id": 1150, 
+        "event_id": 1149, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1131, 
@@ -1332,7 +1320,7 @@
         "speakers": "Cube"
     }, 
     {
-        "event_id": 1151, 
+        "event_id": 1150, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1131, 
@@ -1344,7 +1332,7 @@
         "speakers": "Cube"
     }, 
     {
-        "event_id": 1152, 
+        "event_id": 1151, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1134, 
@@ -1356,7 +1344,7 @@
         "speakers": "Cube"
     }, 
     {
-        "event_id": 1153, 
+        "event_id": 1152, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1134, 
@@ -1368,7 +1356,7 @@
         "speakers": "Cube"
     }, 
     {
-        "event_id": 1154, 
+        "event_id": 1153, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1131, 
@@ -1380,7 +1368,7 @@
         "speakers": "Cube"
     }, 
     {
-        "event_id": 1155, 
+        "event_id": 1154, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -1392,7 +1380,7 @@
         "speakers": "Cube"
     }, 
     {
-        "event_id": 1156, 
+        "event_id": 1155, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1131, 
@@ -1404,7 +1392,7 @@
         "speakers": "Cube"
     }, 
     {
-        "event_id": 1157, 
+        "event_id": 1156, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1230, 
@@ -1416,7 +1404,7 @@
         "speakers": "Cube"
     }, 
     {
-        "event_id": 1158, 
+        "event_id": 1157, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -1428,7 +1416,7 @@
         "speakers": "Cube"
     }, 
     {
-        "event_id": 1169, 
+        "event_id": 1168, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -1440,7 +1428,7 @@
         "speakers": "Jeffburdges"
     }, 
     {
-        "event_id": 1170, 
+        "event_id": 1169, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -1452,7 +1440,7 @@
         "speakers": "Eal"
     }, 
     {
-        "event_id": 1171, 
+        "event_id": 1170, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -1464,7 +1452,7 @@
         "speakers": "Eal"
     }, 
     {
-        "event_id": 1172, 
+        "event_id": 1171, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 0, 
@@ -1476,7 +1464,7 @@
         "speakers": "Reisende"
     }, 
     {
-        "event_id": 1173, 
+        "event_id": 1172, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1120, 
@@ -1488,7 +1476,7 @@
         "speakers": "Julius"
     }, 
     {
-        "event_id": 1174, 
+        "event_id": 1173, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1134, 
@@ -1500,7 +1488,7 @@
         "speakers": "Dawning-sun"
     }, 
     {
-        "event_id": 1175, 
+        "event_id": 1174, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -1512,7 +1500,7 @@
         "speakers": "Sebalis"
     }, 
     {
-        "event_id": 1176, 
+        "event_id": 1175, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -1524,7 +1512,7 @@
         "speakers": "Sebalis"
     }, 
     {
-        "event_id": 1177, 
+        "event_id": 1176, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -1536,7 +1524,7 @@
         "speakers": "Sebalis"
     }, 
     {
-        "event_id": 1178, 
+        "event_id": 1177, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -1548,7 +1536,7 @@
         "speakers": "Sebalis"
     }, 
     {
-        "event_id": 1179, 
+        "event_id": 1178, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -1560,7 +1548,7 @@
         "speakers": "Sebalis"
     }, 
     {
-        "event_id": 1180, 
+        "event_id": 1179, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -1572,7 +1560,7 @@
         "speakers": "Sebalis"
     }, 
     {
-        "event_id": 1181, 
+        "event_id": 1180, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -1584,7 +1572,7 @@
         "speakers": "Sebalis"
     }, 
     {
-        "event_id": 1182, 
+        "event_id": 1181, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -1596,7 +1584,7 @@
         "speakers": "Sebalis"
     }, 
     {
-        "event_id": 1183, 
+        "event_id": 1182, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1133, 
@@ -1608,7 +1596,7 @@
         "speakers": "Njumaen"
     }, 
     {
-        "event_id": 1184, 
+        "event_id": 1183, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 0, 
@@ -1620,7 +1608,7 @@
         "speakers": "Jwacalex, V0tti, Felixs"
     }, 
     {
-        "event_id": 1185, 
+        "event_id": 1184, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 0, 
@@ -1632,7 +1620,7 @@
         "speakers": "Jwacalex, V0tti, Felixs"
     }, 
     {
-        "event_id": 1186, 
+        "event_id": 1185, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 0, 
@@ -1644,7 +1632,7 @@
         "speakers": "Jwacalex, V0tti, Felixs"
     }, 
     {
-        "event_id": 1187, 
+        "event_id": 1186, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 0, 
@@ -1656,7 +1644,7 @@
         "speakers": "Jwacalex, V0tti, Felixs"
     }, 
     {
-        "event_id": 1188, 
+        "event_id": 1187, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1132, 
@@ -1668,7 +1656,7 @@
         "speakers": "Eal"
     }, 
     {
-        "event_id": 1189, 
+        "event_id": 1188, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1120, 
@@ -1680,7 +1668,7 @@
         "speakers": "Jeffburdges"
     }, 
     {
-        "event_id": 1191, 
+        "event_id": 1190, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -1692,7 +1680,7 @@
         "speakers": "Eal"
     }, 
     {
-        "event_id": 1192, 
+        "event_id": 1191, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1134, 
@@ -1704,7 +1692,7 @@
         "speakers": "Eal"
     }, 
     {
-        "event_id": 1193, 
+        "event_id": 1192, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1134, 
@@ -1716,7 +1704,7 @@
         "speakers": "Brightbyte"
     }, 
     {
-        "event_id": 1194, 
+        "event_id": 1193, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1133, 
@@ -1728,7 +1716,7 @@
         "speakers": "Fabianurban"
     }, 
     {
-        "event_id": 1195, 
+        "event_id": 1194, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1133, 
@@ -1740,7 +1728,7 @@
         "speakers": "Fabianurban"
     }, 
     {
-        "event_id": 1196, 
+        "event_id": 1195, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1133, 
