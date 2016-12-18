@@ -1443,6 +1443,18 @@
         "event_id": 1170, 
         "track_id": 10, 
         "track_name": "Session", 
+        "room_id": 1230, 
+        "room_name": "Hall F", 
+        "start_time": "2016-12-28T01:00:00+01:00", 
+        "duration": 82800, 
+        "title": "Test", 
+        "abstract": "L\u00f6tworkshop von Chaos Macht Schule f\u00fcr Junghacker", 
+        "speakers": "Djim, Duisburch, Benni, Cbass, Stean"
+    }, 
+    {
+        "event_id": 1171, 
+        "track_id": 10, 
+        "track_name": "Session", 
         "room_id": 1013, 
         "room_name": "Hall 13-14", 
         "start_time": "2016-12-29T16:00:00+01:00", 
@@ -1452,7 +1464,7 @@
         "speakers": "Eal"
     }, 
     {
-        "event_id": 1171, 
+        "event_id": 1172, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -1464,7 +1476,7 @@
         "speakers": "Eal"
     }, 
     {
-        "event_id": 1172, 
+        "event_id": 1173, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 0, 
@@ -1476,7 +1488,7 @@
         "speakers": "Reisende"
     }, 
     {
-        "event_id": 1173, 
+        "event_id": 1174, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1120, 
@@ -1488,7 +1500,7 @@
         "speakers": "Julius"
     }, 
     {
-        "event_id": 1174, 
+        "event_id": 1175, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1134, 
@@ -1500,7 +1512,7 @@
         "speakers": "Dawning-sun"
     }, 
     {
-        "event_id": 1175, 
+        "event_id": 1176, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -1512,7 +1524,7 @@
         "speakers": "Sebalis"
     }, 
     {
-        "event_id": 1176, 
+        "event_id": 1177, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -1524,7 +1536,7 @@
         "speakers": "Sebalis"
     }, 
     {
-        "event_id": 1177, 
+        "event_id": 1178, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -1536,7 +1548,7 @@
         "speakers": "Sebalis"
     }, 
     {
-        "event_id": 1178, 
+        "event_id": 1179, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -1548,7 +1560,7 @@
         "speakers": "Sebalis"
     }, 
     {
-        "event_id": 1179, 
+        "event_id": 1180, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -1560,7 +1572,7 @@
         "speakers": "Sebalis"
     }, 
     {
-        "event_id": 1180, 
+        "event_id": 1181, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -1572,7 +1584,7 @@
         "speakers": "Sebalis"
     }, 
     {
-        "event_id": 1181, 
+        "event_id": 1182, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -1584,7 +1596,7 @@
         "speakers": "Sebalis"
     }, 
     {
-        "event_id": 1182, 
+        "event_id": 1183, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -1596,7 +1608,7 @@
         "speakers": "Sebalis"
     }, 
     {
-        "event_id": 1183, 
+        "event_id": 1184, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1133, 
@@ -1608,7 +1620,7 @@
         "speakers": "Njumaen"
     }, 
     {
-        "event_id": 1184, 
+        "event_id": 1185, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 0, 
@@ -1620,24 +1632,12 @@
         "speakers": "Jwacalex, V0tti, Felixs"
     }, 
     {
-        "event_id": 1185, 
-        "track_id": 10, 
-        "track_name": "Session", 
-        "room_id": 0, 
-        "room_name": "Saal 6", 
-        "start_time": "2016-12-28T15:00:00+01:00", 
-        "duration": 3600, 
-        "title": "VOC Engelmeeting", 
-        "abstract": "Daily meeting for all VOC Angels.", 
-        "speakers": "Jwacalex, V0tti, Felixs"
-    }, 
-    {
         "event_id": 1186, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 0, 
         "room_name": "Saal 6", 
-        "start_time": "2016-12-29T15:00:00+01:00", 
+        "start_time": "2016-12-28T15:00:00+01:00", 
         "duration": 3600, 
         "title": "VOC Engelmeeting", 
         "abstract": "Daily meeting for all VOC Angels.", 
@@ -1649,7 +1649,7 @@
         "track_name": "Session", 
         "room_id": 0, 
         "room_name": "Saal 6", 
-        "start_time": "2016-12-30T15:00:00+01:00", 
+        "start_time": "2016-12-29T15:00:00+01:00", 
         "duration": 3600, 
         "title": "VOC Engelmeeting", 
         "abstract": "Daily meeting for all VOC Angels.", 
@@ -1657,6 +1657,18 @@
     }, 
     {
         "event_id": 1188, 
+        "track_id": 10, 
+        "track_name": "Session", 
+        "room_id": 0, 
+        "room_name": "Saal 6", 
+        "start_time": "2016-12-30T15:00:00+01:00", 
+        "duration": 3600, 
+        "title": "VOC Engelmeeting", 
+        "abstract": "Daily meeting for all VOC Angels.", 
+        "speakers": "Jwacalex, V0tti, Felixs"
+    }, 
+    {
+        "event_id": 1189, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1132, 
@@ -1668,7 +1680,7 @@
         "speakers": "Eal"
     }, 
     {
-        "event_id": 1189, 
+        "event_id": 1190, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1120, 
@@ -1680,7 +1692,7 @@
         "speakers": "Jeffburdges"
     }, 
     {
-        "event_id": 1191, 
+        "event_id": 1192, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -1692,7 +1704,7 @@
         "speakers": "Eal"
     }, 
     {
-        "event_id": 1192, 
+        "event_id": 1193, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1134, 
@@ -1704,7 +1716,7 @@
         "speakers": "Eal"
     }, 
     {
-        "event_id": 1193, 
+        "event_id": 1194, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1134, 
@@ -1716,7 +1728,7 @@
         "speakers": "Brightbyte"
     }, 
     {
-        "event_id": 1194, 
+        "event_id": 1195, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1133, 
@@ -1728,7 +1740,7 @@
         "speakers": "Fabianurban"
     }, 
     {
-        "event_id": 1195, 
+        "event_id": 1196, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1133, 
@@ -1740,7 +1752,7 @@
         "speakers": "Fabianurban"
     }, 
     {
-        "event_id": 1196, 
+        "event_id": 1197, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1133, 
