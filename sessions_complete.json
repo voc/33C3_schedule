@@ -11166,6 +11166,80 @@
             "1482768000"
         ]
     }, 
+    "Session:CmS L\u00f6tworkshop# d1897094367e176206138bc5442358e2": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1482886800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "L\u00f6tworkshop von Chaos Macht Schule f\u00fcr Junghacker"
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall F", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_F", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "L\u00f6tworkshop von Chaos Macht Schule"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Djim", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Djim", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Duisburch", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Duisburch", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Benni", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Benni", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Cbass", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Cbass", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Stean", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Stean", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "CmS L\u00f6tworkshop"
+        ], 
+        "Has duration": [
+            1380
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:CmS_L%C3%B6tworkshop", 
+        "Has end time": [
+            "1482969600"
+        ]
+    }, 
     "Session:Line-of-sight visualizer# 24d9aabcf7d4df6b349a03dbf75a5641": {
         "Held in language": [
             "en - English"
