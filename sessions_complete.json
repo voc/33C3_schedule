@@ -971,52 +971,43 @@
             "1483109940"
         ]
     }, 
-    "Session:Kopf aus dem Sand - Wie du ohne Parteien die Politik beeinflussen kannst!# 54658319eed2515969b1014ff1a8a046": {
+    "Session:Film-Abend# dc97ce7587e6de93f68f0bb1fbfdbd9c": {
         "Held in language": [
-            "de - German"
+            "en - English"
         ], 
         "Has start time": [
-            "1482930000"
+            "1483034400"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [
-            "#KopfausdemSand - Wenn du denkst Unterschriftenlisten und nie beachtete Demos sind die einzigen Methoden um die Politik in \u00d6sterreich, Deutschland oder der EU zu beeinflussen, dann m\u00f6chte ich dir hier einen \u00dcberblick geben welche M\u00f6glichkeiten es noch gibt um die Gesetzgebung und Verwaltung zu unseren Gunsten zu beeinflussen.\nMan kann zwar Gesetze selbst nicht schaffen, aber der Einfluss ist noch lange nicht bei 0! Wir haben sowohl die Netzneutralit\u00e4t Gro\u00dfteils gerettet als auch schon einmal die Vorratsdatenspeicherung gekippt.\nF\u00fcr Neueinsteiger, Menschen und andere Lebensformen die meinen sie k\u00f6nnten noch etwas Neues lernen."
+            "Blocked for Film Screenings by Content Team"
         ], 
-        "Has session type": [
-            "Talk"
-        ], 
+        "Has session type": [], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall C.1", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.1", 
+                "fulltext": "Room:Hall F", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_F", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Eest9", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Eest9", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
+        "Is organized by": [], 
         "Has title": [
-            "Kopf aus dem Sand - Wie du ohne Parteien die Politik beeinflussen kannst!"
+            "Film-Abend"
         ], 
         "Has duration": [
-            45
+            135
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Kopf_aus_dem_Sand_-_Wie_du_ohne_Parteien_die_Politik_beeinflussen_kannst!", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Film-Abend", 
         "Has end time": [
-            "1482932700"
+            "1483042500"
         ]
     }, 
     "Session:Dn42: Decentralised Network 42# 6cc22c4c4e007033d2720248eb98797d": {
@@ -2203,12 +2194,12 @@
             "1482937200"
         ]
     }, 
-    "Session:Subtitles-Angelmeetings# f48797b83b3006b88510ce3136aec9e2": {
+    "Session:Subtitles-Angelmeetings# 33d15813452eabff67587b00e4525369": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1483024500"
+            "1482851700"
         ], 
         "Has event track": [
             "Session"
@@ -2224,8 +2215,8 @@
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall F", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_F", 
+                "fulltext": "Room:Hall A.1", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
                 "namespace": 516, 
                 "exists": true
             }
@@ -2250,7 +2241,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Subtitles-Angelmeetings", 
         "Has end time": [
-            "1483026300"
+            "1482853500"
         ]
     }, 
     "Session:Coder Dojo# ce369fbaa66a09e01586ffcab4b39c4a": {
@@ -2493,6 +2484,45 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
             "1482933600"
+        ]
+    }, 
+    "Session:Movie Night# 4712451863c504ac72d4e643f6a79938": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1483034400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Blocked for Film Screenings by Content Team"
+        ], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall F", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_F", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Movie Night"
+        ], 
+        "Has duration": [
+            135
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Movie_Night", 
+        "Has end time": [
+            "1483042500"
         ]
     }, 
     "Session:Gender diversity in the Free Software community# 222753fa4ab554d18d3b16a66070f707": {
@@ -4895,6 +4925,56 @@
             "1482953400"
         ]
     }, 
+    "Session:Privacy by default with pretty Easy privacy (p\u2261p)# 59be5c85949ce87027b75f249e4d8589": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482861600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://pep.foundation/"
+        ], 
+        "Has description": [
+            "The pretty Easy privacy project (p\u2261p) is a project to turn the cyberpunk movement's dream into reality that everyone should be able to protect his/her privacy using technical tools. Overall p\u2261p is about changing today's default of digital written communications from unencrypted, unanonymized and unverified to encrypted, anonymized and verified. p\u2261p's vision is to offer an automatic and easy to use solution to make all end-to-end written digital communications over the Internet \u2018Private and Secure by Default and Design\u2018. With that 'unencrypted' e-mails become the exception not the norm. The p\u2261p project aims at encrypting existing written digital communications and does not force users to switch to platform-centric or other crypto solutions, in which users are likely to be locked."
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall B", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_B", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Eal", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Eal", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Privacy by default with pretty Easy privacy (p\u2261p)"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Privacy_by_default_with_pretty_Easy_privacy_(p%E2%89%A1p)", 
+        "Has end time": [
+            "1482865200"
+        ]
+    }, 
     "Session:Skillconvention c# 15f21480446aabdd28aa3fe571253266": {
         "Held in language": [
             "en - English"
@@ -5291,12 +5371,12 @@
             "1483030800"
         ]
     }, 
-    "Session:Subtitles-Angelmeetings# 33d15813452eabff67587b00e4525369": {
+    "Session:Subtitles-Angelmeetings# f48797b83b3006b88510ce3136aec9e2": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482851700"
+            "1483024500"
         ], 
         "Has event track": [
             "Session"
@@ -5312,8 +5392,8 @@
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall A.1", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
+                "fulltext": "Room:Hall F", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_F", 
                 "namespace": 516, 
                 "exists": true
             }
@@ -5338,7 +5418,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Subtitles-Angelmeetings", 
         "Has end time": [
-            "1482853500"
+            "1483026300"
         ]
     }, 
     "Session:Off Grid: a videogame about hacking, data privacy, and surveillance# c5626b218dcaf7fe2c0ab1eff5125d93": {
@@ -9413,29 +9493,27 @@
             "1482937200"
         ]
     }, 
-    "Session:Privacy by default with pretty Easy privacy (p\u2261p)# 59be5c85949ce87027b75f249e4d8589": {
+    "Session:Kopf aus dem Sand - Wie du ohne Parteien die Politik beeinflussen kannst!# 54658319eed2515969b1014ff1a8a046": {
         "Held in language": [
-            "en - English"
+            "de - German"
         ], 
         "Has start time": [
-            "1482861600"
+            "1482930000"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "https://pep.foundation/"
-        ], 
+        "Has website": [], 
         "Has description": [
-            "The pretty Easy privacy project (p\u2261p) is a project to turn the cyberpunk movement's dream into reality that everyone should be able to protect his/her privacy using technical tools. Overall p\u2261p is about changing today's default of digital written communications from unencrypted, unanonymized and unverified to encrypted, anonymized and verified. p\u2261p's vision is to offer an automatic and easy to use solution to make all end-to-end written digital communications over the Internet \u2018Private and Secure by Default and Design\u2018. With that 'unencrypted' e-mails become the exception not the norm. The p\u2261p project aims at encrypting existing written digital communications and does not force users to switch to platform-centric or other crypto solutions, in which users are likely to be locked."
+            "#KopfausdemSand - Wenn du denkst Unterschriftenlisten und nie beachtete Demos sind die einzigen Methoden um die Politik in \u00d6sterreich, Deutschland oder der EU zu beeinflussen, dann m\u00f6chte ich dir hier einen \u00dcberblick geben welche M\u00f6glichkeiten es noch gibt um die Gesetzgebung und Verwaltung zu unseren Gunsten zu beeinflussen.\nMan kann zwar Gesetze selbst nicht schaffen, aber der Einfluss ist noch lange nicht bei 0! Wir haben sowohl die Netzneutralit\u00e4t Gro\u00dfteils gerettet als auch schon einmal die Vorratsdatenspeicherung gekippt.\nF\u00fcr Neueinsteiger, Menschen und andere Lebensformen die meinen sie k\u00f6nnten noch etwas Neues lernen."
         ], 
         "Has session type": [
             "Talk"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall B", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_B", 
+                "fulltext": "Room:Hall C.1", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.1", 
                 "namespace": 516, 
                 "exists": true
             }
@@ -9443,24 +9521,24 @@
         "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Eal", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Eal", 
+                "fulltext": "User:Eest9", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Eest9", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Privacy by default with pretty Easy privacy (p\u2261p)"
+            "Kopf aus dem Sand - Wie du ohne Parteien die Politik beeinflussen kannst!"
         ], 
         "Has duration": [
-            60
+            45
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Privacy_by_default_with_pretty_Easy_privacy_(p%E2%89%A1p)", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Kopf_aus_dem_Sand_-_Wie_du_ohne_Parteien_die_Politik_beeinflussen_kannst!", 
         "Has end time": [
-            "1482865200"
+            "1482932700"
         ]
     }, 
     "Session:Discussing Postcolonial Computing# 14deb55d5ac3b3986de7c00f3709f05a": {
@@ -11393,6 +11471,84 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Fiction_Writers%27_Session", 
         "Has end time": [
             "1482863400"
+        ]
+    }, 
+    "Session:Movie Night# e81169038db8e5ffee3fa6db477d956c": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1483045200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Blocked for Film Screenings by Content Team"
+        ], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall F", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_F", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Movie Night"
+        ], 
+        "Has duration": [
+            180
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Movie_Night", 
+        "Has end time": [
+            "1483056000"
+        ]
+    }, 
+    "Session:Film-Abend# fbc9e7ed36a705cf72c554aa7c10ff35": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1483045200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Blocked for Film Screenings by Content Team"
+        ], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall F", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_F", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Film-Abend"
+        ], 
+        "Has duration": [
+            180
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Film-Abend", 
+        "Has end time": [
+            "1483056000"
         ]
     }, 
     "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
