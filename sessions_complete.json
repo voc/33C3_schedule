@@ -2824,52 +2824,6 @@
             "1482933600"
         ]
     }, 
-    "Session:MAKE-IT: Interactive presentation of the EU research project about the Maker Movement# 421caefb7f929a5e90f47766af3918ae": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "http://make-it.io/"
-        ], 
-        "Has description": [
-            "This interactive session consists of a 10 minute presentation to present the EU research project MAKE-IT, followed by a 20 minute discussion with the participants. \n\nMAKE-IT is a Horizon2020 European research project focused on how the role of Collective Awareness Platforms (CAPS) enables the growth and governance of the Maker movement, particularly in relation to Information Technology, using and creating social innovations and achieving sustainability. \n\nThe international research consortium investigates ten makerspaces in eight different countries to learn about their \"organisation and governance\", \"peer and collaborative activities\" and \"value creation and impact\". \n\nI would like to present research findings of the ongoing project (2016-2017) and critically assess, enrich and validate them in an interactive discussion with the session participants."
-        ], 
-        "Has session type": [
-            "Talk"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall C.1", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.1", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Janosch", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Janosch", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "MAKE-IT"
-        ], 
-        "Has duration": [
-            30
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:MAKE-IT:_Interactive_presentation_of_the_EU_research_project_about_the_Maker_Movement", 
-        "Has end time": []
-    }, 
     "Session:Open Science Workshop# d93aeca26ff9fa5a1b03992460914abb": {
         "Held in language": [
             "en - English"
@@ -6457,6 +6411,56 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:CmS_L%C3%B6tworkshop_Vorbesprechung_f%C3%BCr_Helfer", 
         "Has end time": [
             "1482854400"
+        ]
+    }, 
+    "Session:MAKE-IT: Interactive presentation of the EU research project about the Maker Movement# 67401bc43789ad6fdd1191d39486f1ed": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482942600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://make-it.io/"
+        ], 
+        "Has description": [
+            "This interactive session consists of a 10 minute presentation to present the EU research project MAKE-IT, followed by a 20 minute discussion with the participants. \n\nMAKE-IT is a Horizon2020 European research project focused on how the role of Collective Awareness Platforms (CAPS) enables the growth and governance of the Maker movement, particularly in relation to Information Technology, using and creating social innovations and achieving sustainability. \n\nThe international research consortium investigates ten makerspaces in eight different countries to learn about their \"organisation and governance\", \"peer and collaborative activities\" and \"value creation and impact\". \n\nI would like to present research findings of the ongoing project (2016-2017) and critically assess, enrich and validate them in an interactive discussion with the session participants."
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall C.1", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.1", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Janosch", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Janosch", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "MAKE-IT"
+        ], 
+        "Has duration": [
+            30
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:MAKE-IT:_Interactive_presentation_of_the_EU_research_project_about_the_Maker_Movement", 
+        "Has end time": [
+            "1482944400"
         ]
     }, 
     "Session:Dn42: Decentralised Network 42# 4a80950934f4ea3dbd5f529e36a5c8ff": {
