@@ -1,56 +1,4 @@
 {
-    "Session:Stage Manager Angel Introduction# 000a0488f2404d1ea417ad9f2f124e43": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1482786000"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://events.ccc.de/congress/2016/wiki/Static:Stage_manager"
-        ], 
-        "Has description": [
-            "Stage Managers are responsible for a specific lecture hall (Saal) and all the talks within a 4 hour time slot. In short, stage managers make sure the talks go as smoothly as possible, including technical issues and crowd management.\n\nDuring this Session we will introduce you to your dutys as a stage manager and teach you all that you need to know to make the Talks during 33c3 run as smoothly as possible."
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall A.1", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Day0 Introduction Stagemanager and Heralds"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Ijon", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Ijon", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Stage Manager Angel Introduction"
-        ], 
-        "Has duration": [
-            90
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Stage_Manager_Angel_Introduction", 
-        "Has end time": [
-            "1482791400"
-        ]
-    }, 
     "Session:Tor# 597a60bf1df02da1110f843b155078a9": {
         "Held in language": [
             "en - English"
@@ -2205,12 +2153,12 @@
             "1482937200"
         ]
     }, 
-    "Session:Subtitles-Angelmeetings# f48797b83b3006b88510ce3136aec9e2": {
+    "Session:Subtitles-Angelmeetings# 33d15813452eabff67587b00e4525369": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1483024500"
+            "1482851700"
         ], 
         "Has event track": [
             "Session"
@@ -2226,8 +2174,8 @@
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall F", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_F", 
+                "fulltext": "Room:Hall A.1", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
                 "namespace": 516, 
                 "exists": true
             }
@@ -2252,7 +2200,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Subtitles-Angelmeetings", 
         "Has end time": [
-            "1483026300"
+            "1482853500"
         ]
     }, 
     "Session:Coder Dojo# ce369fbaa66a09e01586ffcab4b39c4a": {
@@ -3718,12 +3666,12 @@
             "1482865200"
         ]
     }, 
-    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
+    "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482764400"
+            "1483102800"
         ], 
         "Has event track": [
             "Session"
@@ -3742,7 +3690,7 @@
             }
         ], 
         "Has subtitle": [
-            "Introduction Meeting for new angels"
+            "Abbaumeeting"
         ], 
         "Is organized by": [
             {
@@ -3763,7 +3711,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
-            "1482768000"
+            "1483106400"
         ]
     }, 
     "Session:Cyberthingy# ac3e137e198cda248c6f4d44bd664362": {
@@ -5243,12 +5191,12 @@
             "1483030800"
         ]
     }, 
-    "Session:Subtitles-Angelmeetings# 33d15813452eabff67587b00e4525369": {
+    "Session:Subtitles-Angelmeetings# f48797b83b3006b88510ce3136aec9e2": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482851700"
+            "1483024500"
         ], 
         "Has event track": [
             "Session"
@@ -5264,8 +5212,8 @@
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall A.1", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
+                "fulltext": "Room:Hall F", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_F", 
                 "namespace": 516, 
                 "exists": true
             }
@@ -5290,7 +5238,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Subtitles-Angelmeetings", 
         "Has end time": [
-            "1482853500"
+            "1483026300"
         ]
     }, 
     "Session:Off Grid: a videogame about hacking, data privacy, and surveillance# c5626b218dcaf7fe2c0ab1eff5125d93": {
@@ -6789,6 +6737,58 @@
             "1482956100"
         ]
     }, 
+    "Session:Stage Manager Angel Introduction# 391e226a6dc0aa72ad5b79b718ed0cfa": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1483038000"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://events.ccc.de/congress/2016/wiki/Static:Stage_manager"
+        ], 
+        "Has description": [
+            "Stage Managers are responsible for a specific lecture hall (Saal) and all the talks within a 4 hour time slot. In short, stage managers make sure the talks go as smoothly as possible, including technical issues and crowd management.\n\nDuring this Session we will introduce you to your dutys as a stage manager and teach you all that you need to know to make the Talks during 33c3 run as smoothly as possible."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall A.1", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Day3 Introduction Stagemanagers"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Ijon", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Ijon", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Stage Manager Angel Introduction"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Stage_Manager_Angel_Introduction", 
+        "Has end time": [
+            "1483041600"
+        ]
+    }, 
     "Session:DSM, EIF, RED: Acronyms on the EU level and why they matter for software freedom# 7445ce4e0e403f70db3ba261dbd68684": {
         "Held in language": [
             "en - English"
@@ -6972,12 +6972,12 @@
             "1483039800"
         ]
     }, 
-    "Session:Stage Manager Angel Introduction# 391e226a6dc0aa72ad5b79b718ed0cfa": {
+    "Session:Stage Manager Angel Introduction# 000a0488f2404d1ea417ad9f2f124e43": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1483038000"
+            "1482786000"
         ], 
         "Has event track": [
             "Session"
@@ -7000,7 +7000,7 @@
             }
         ], 
         "Has subtitle": [
-            "Day3 Introduction Stagemanagers"
+            "Day0 Introduction Stagemanager and Heralds"
         ], 
         "Is organized by": [
             {
@@ -7014,14 +7014,14 @@
             "Stage Manager Angel Introduction"
         ], 
         "Has duration": [
-            60
+            90
         ], 
         "Has color": [
             "#0099ab"
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Stage_Manager_Angel_Introduction", 
         "Has end time": [
-            "1483041600"
+            "1482791400"
         ]
     }, 
     "Session:Your own Glowing Micropet!# 0e82b1cb18d1fac1e9981aa274ccfdf6": {
@@ -8637,6 +8637,57 @@
             "1483112700"
         ]
     }, 
+    "Session:A walk through the inner core of pEp# 786a0e1c0bd44bf7e249b4f8a8927373": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482922800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://pep.foundation", 
+            "https://pep-project.org"
+        ], 
+        "Has description": [
+            "A p\u2261p engine developer gives a tour through the inner workings of the p\u2261p engine, the core which is used to drive the crypto used in p\u2261p, message transport, and automatic key management and synchronization. Discussed will be fundamental features and functionality of the engine core and how that relates to the apps and adapters using p\u2261p, as well as some discussion of upcoming near-term and longer-term future developmens of the p\u2261p technology."
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall B", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_B", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Pf", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Pf", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "A walk through the inner core of pEp"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:A_walk_through_the_inner_core_of_pEp", 
+        "Has end time": [
+            "1482928200"
+        ]
+    }, 
     "Session:PCB design for beginners using KiCad# 879d60a3732c2a57d7135e0054308fdf": {
         "Held in language": [
             "en - English"
@@ -9162,30 +9213,29 @@
             "1483061400"
         ]
     }, 
-    "Session:A walk through pEp's tech# 2736e16a7129c5876386de902485fd08": {
+    "Session:Neuropil# daa19eb9f450d649e67c6a5413c97265": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482922800"
+            "1483108200"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [
-            "https://pep-project.org", 
-            "https://pep.foundation"
+            "http://www.neuropil.org"
         ], 
         "Has description": [
-            "p\u2261p engine hackers show you the inner workings of the p\u2261p engine, the core which is used to drive the crypto used in p\u2261p, message transport and -- most importantly -- automatic key management and synchronization. In this session you also can get technical answers to questions concerning future developments of the p\u2261p technology."
+            "making and breaking of neuropil :-)\nwe would like to set up an neuropil network together with the participants and try to identify vulnerabilities ..."
         ], 
         "Has session type": [
             "Workshop"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall B", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_B", 
+                "fulltext": "Room:Hall C.4", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.4", 
                 "namespace": 516, 
                 "exists": true
             }
@@ -9193,24 +9243,24 @@
         "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Pf", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Pf", 
+                "fulltext": "User:Stephan.schwichtenberg", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Stephan.schwichtenberg", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "A walk through pEp's tech"
+            "Neuropil"
         ], 
         "Has duration": [
-            120
+            180
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:A_walk_through_pEp%27s_tech", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Neuropil", 
         "Has end time": [
-            "1482930000"
+            "1483119000"
         ]
     }, 
     "Session:Wikidata, the encyclopedia by bots, for bots# eb38492af6c27a43e14bfbed50abf298": {
@@ -11245,62 +11295,12 @@
             "1482863400"
         ]
     }, 
-    "Session:Neuropil# daa19eb9f450d649e67c6a5413c97265": {
+    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1483108200"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "http://www.neuropil.org"
-        ], 
-        "Has description": [
-            "making and breaking of neuropil :-)\nwe would like to set up an neuropil network together with the participants and try to identify vulnerabilities ..."
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall C.4", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.4", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Stephan.schwichtenberg", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Stephan.schwichtenberg", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Neuropil"
-        ], 
-        "Has duration": [
-            180
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Neuropil", 
-        "Has end time": [
-            "1483119000"
-        ]
-    }, 
-    "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1483102800"
+            "1482764400"
         ], 
         "Has event track": [
             "Session"
@@ -11319,7 +11319,7 @@
             }
         ], 
         "Has subtitle": [
-            "Abbaumeeting"
+            "Introduction Meeting for new angels"
         ], 
         "Is organized by": [
             {
@@ -11340,7 +11340,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
-            "1483106400"
+            "1482768000"
         ]
     }, 
     "Session:Line-of-sight visualizer# 24d9aabcf7d4df6b349a03dbf75a5641": {
