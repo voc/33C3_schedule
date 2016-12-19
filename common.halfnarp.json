@@ -36,7 +36,7 @@
         "speakers": "Reisende"
     }, 
     {
-        "event_id": 1154, 
+        "event_id": 1151, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -48,7 +48,7 @@
         "speakers": "Ijon"
     }, 
     {
-        "event_id": 1164, 
+        "event_id": 1162, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -168,7 +168,7 @@
         "speakers": "Obaz, UMT, CoopDot"
     }, 
     {
-        "event_id": 1159, 
+        "event_id": 1158, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1131, 
@@ -252,7 +252,7 @@
         "speakers": "Djim, Duisburch, Benni, Cbass, Stean"
     }, 
     {
-        "event_id": 1040, 
+        "event_id": 1039, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -360,7 +360,7 @@
         "speakers": "Envy"
     }, 
     {
-        "event_id": 1039, 
+        "event_id": 1038, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -408,7 +408,7 @@
         "speakers": "Reisende"
     }, 
     {
-        "event_id": 1151, 
+        "event_id": 1152, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -420,7 +420,7 @@
         "speakers": "Ijon"
     }, 
     {
-        "event_id": 1165, 
+        "event_id": 1163, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -492,7 +492,7 @@
         "speakers": "Jeffburdges"
     }, 
     {
-        "event_id": 1037, 
+        "event_id": 1034, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1131, 
@@ -552,7 +552,7 @@
         "speakers": "Janosch"
     }, 
     {
-        "event_id": 1029, 
+        "event_id": 1036, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1132, 
@@ -648,7 +648,7 @@
         "speakers": "Lassekarstensen"
     }, 
     {
-        "event_id": 1030, 
+        "event_id": 1029, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1133, 
@@ -660,19 +660,7 @@
         "speakers": "Nana berlin"
     }, 
     {
-        "event_id": 1032, 
-        "track_id": 10, 
-        "track_name": "Session", 
-        "room_id": 1133, 
-        "room_name": "Hall C.3", 
-        "start_time": "2016-12-28T11:00:00+01:00", 
-        "duration": 3600, 
-        "title": "Coder Dojo", 
-        "abstract": "Slot 1 Room 1 \n", 
-        "speakers": "Nana berlin"
-    }, 
-    {
-        "event_id": 1033, 
+        "event_id": 1030, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1133, 
@@ -684,7 +672,19 @@
         "speakers": "Nana berlin"
     }, 
     {
-        "event_id": 1036, 
+        "event_id": 1033, 
+        "track_id": 10, 
+        "track_name": "Session", 
+        "room_id": 1133, 
+        "room_name": "Hall C.3", 
+        "start_time": "2016-12-28T11:00:00+01:00", 
+        "duration": 3600, 
+        "title": "Coder Dojo", 
+        "abstract": "Slot 1 Room 1 \n", 
+        "speakers": "Nana berlin"
+    }, 
+    {
+        "event_id": 1037, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1133, 
@@ -768,19 +768,7 @@
         "speakers": "Nana berlin"
     }, 
     {
-        "event_id": 1034, 
-        "track_id": 10, 
-        "track_name": "Session", 
-        "room_id": 1134, 
-        "room_name": "Hall C.4", 
-        "start_time": "2016-12-28T11:00:00+01:00", 
-        "duration": 3600, 
-        "title": "Coder Dojo", 
-        "abstract": "Slot 1 Room 2 \n", 
-        "speakers": "Nana berlin"
-    }, 
-    {
-        "event_id": 1035, 
+        "event_id": 1032, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1134, 
@@ -789,6 +777,18 @@
         "duration": 3600, 
         "title": "Coder Dojo", 
         "abstract": "Slot 0 Room 2 \n", 
+        "speakers": "Nana berlin"
+    }, 
+    {
+        "event_id": 1035, 
+        "track_id": 10, 
+        "track_name": "Session", 
+        "room_id": 1134, 
+        "room_name": "Hall C.4", 
+        "start_time": "2016-12-28T11:00:00+01:00", 
+        "duration": 3600, 
+        "title": "Coder Dojo", 
+        "abstract": "Slot 1 Room 2 \n", 
         "speakers": "Nana berlin"
     }, 
     {
@@ -840,7 +840,7 @@
         "speakers": "KaerF"
     }, 
     {
-        "event_id": 1160, 
+        "event_id": 1159, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1134, 
@@ -1080,7 +1080,7 @@
         "speakers": "Reisende"
     }, 
     {
-        "event_id": 1153, 
+        "event_id": 1154, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -1380,7 +1380,7 @@
         "speakers": "Tecer"
     }, 
     {
-        "event_id": 1161, 
+        "event_id": 1160, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1134, 
@@ -1476,7 +1476,7 @@
         "speakers": ""
     }, 
     {
-        "event_id": 1166, 
+        "event_id": 1164, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1230, 
@@ -1500,7 +1500,7 @@
         "speakers": "Eal"
     }, 
     {
-        "event_id": 1038, 
+        "event_id": 1040, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -1620,7 +1620,7 @@
         "speakers": "Becha"
     }, 
     {
-        "event_id": 1162, 
+        "event_id": 1165, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1131, 
@@ -1644,7 +1644,7 @@
         "speakers": "Stephan.schwichtenberg"
     }, 
     {
-        "event_id": 1157, 
+        "event_id": 1161, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1134, 
