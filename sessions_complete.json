@@ -1909,6 +1909,60 @@
             "1482883140"
         ]
     }, 
+    "Session:Erkl\u00e4rt Technik den Menschen?# fdc1365b52e9e1bcdf702e260b258032": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1483020000"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Hilft uns Technologie, uns besser zu verstehen? Oder sind Mensch und Technik nicht vergleichbar?\nWir pr\u00e4sentieren eine Theorie des US-amerikanischen Philosophen Daniel Dennett, die \"intuition pumps\". Er geht davon aus, dass technologische Ph\u00e4nomene dabei helfen, den menschlichen Geist zu veranschaulichen und ihn immer besser zu erkl\u00e4ren. Diesen intuition pump m\u00f6chten wir zun\u00e4chst erkl\u00e4ren und M\u00f6glichkeiten und Grenzen dieser Theorie aufzeigen, um anschlie\u00dfend zur Diskussion \u00fcberzugehen."
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall C.4", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.4", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:CaySpells", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:CaySpells", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:PJay", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:PJay", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Erkl\u00e4rt Technik den Menschen?"
+        ], 
+        "Has duration": [
+            30
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Erkl%C3%A4rt_Technik_den_Menschen%3F", 
+        "Has end time": [
+            "1483021800"
+        ]
+    }, 
     "Session:Are decentralized services unable to innovate?# 0043166f5c425145741cb5a178a7ac3c": {
         "Held in language": [
             "en - English"
