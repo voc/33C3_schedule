@@ -893,7 +893,7 @@ Welcome to the Subtitles Angelmeeting!</description>
   </day>
   <day date="2016-12-28" index="3" end="2016-12-29T04:00:00+01:00" start="2016-12-28T06:00:00+01:00">
     <room name="Hall C.1">
-      <event id="1036" guid="20196cb4a0fcac3e8a926eb6752e785d">
+      <event id="1035" guid="20196cb4a0fcac3e8a926eb6752e785d">
         <logo/>
         <date>2016-12-28T10:00:00+01:00</date>
         <start>10:00</start>
@@ -1206,7 +1206,7 @@ Presented by Nik, a 26 year-old software developer and network admin from Bonn, 
           <link>https://events.ccc.de/congress/2016/wiki/Session:Coder_Dojo</link>
         </links>
       </event>
-      <event id="1032" guid="a2d3c9df94b90cd7240898885d1eb3ec">
+      <event id="1031" guid="a2d3c9df94b90cd7240898885d1eb3ec">
         <logo/>
         <date>2016-12-28T10:00:00+01:00</date>
         <start>10:00</start>
@@ -1227,7 +1227,7 @@ Presented by Nik, a 26 year-old software developer and network admin from Bonn, 
           <link>https://events.ccc.de/congress/2016/wiki/Session:Coder_Dojo</link>
         </links>
       </event>
-      <event id="1033" guid="fdd8a9c86e797d9c002a514c55992e1d">
+      <event id="1034" guid="fdd8a9c86e797d9c002a514c55992e1d">
         <logo/>
         <date>2016-12-28T15:00:00+01:00</date>
         <start>15:00</start>
@@ -1378,7 +1378,7 @@ You can bring own bottles by yourself, too. It is possible that we will not have
           <link>https://events.ccc.de/congress/2016/wiki/Session:Coder_Dojo</link>
         </links>
       </event>
-      <event id="1031" guid="114bbdf055b462c90916308a51310575">
+      <event id="1032" guid="114bbdf055b462c90916308a51310575">
         <logo/>
         <date>2016-12-28T12:00:00+01:00</date>
         <start>12:00</start>
@@ -1399,7 +1399,7 @@ You can bring own bottles by yourself, too. It is possible that we will not have
           <link>https://events.ccc.de/congress/2016/wiki/Session:Coder_Dojo</link>
         </links>
       </event>
-      <event id="1034" guid="ce369fbaa66a09e01586ffcab4b39c4a">
+      <event id="1033" guid="ce369fbaa66a09e01586ffcab4b39c4a">
         <logo/>
         <date>2016-12-28T10:00:00+01:00</date>
         <start>10:00</start>
@@ -1420,7 +1420,7 @@ You can bring own bottles by yourself, too. It is possible that we will not have
           <link>https://events.ccc.de/congress/2016/wiki/Session:Coder_Dojo</link>
         </links>
       </event>
-      <event id="1035" guid="f7580cf27bd0d4bb0bd704612ab55f0e">
+      <event id="1036" guid="f7580cf27bd0d4bb0bd704612ab55f0e">
         <logo/>
         <date>2016-12-28T15:00:00+01:00</date>
         <start>15:00</start>
