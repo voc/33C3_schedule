@@ -2153,12 +2153,12 @@
             "1482937200"
         ]
     }, 
-    "Session:Subtitles-Angelmeetings# 33d15813452eabff67587b00e4525369": {
+    "Session:Subtitles-Angelmeetings# f48797b83b3006b88510ce3136aec9e2": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482851700"
+            "1483024500"
         ], 
         "Has event track": [
             "Session"
@@ -2174,8 +2174,8 @@
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall A.1", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
+                "fulltext": "Room:Hall F", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_F", 
                 "namespace": 516, 
                 "exists": true
             }
@@ -2200,7 +2200,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Subtitles-Angelmeetings", 
         "Has end time": [
-            "1482853500"
+            "1483026300"
         ]
     }, 
     "Session:Coder Dojo# ce369fbaa66a09e01586ffcab4b39c4a": {
@@ -2823,6 +2823,52 @@
         "Has end time": [
             "1482933600"
         ]
+    }, 
+    "Session:MAKE-IT: Interactive presentation of the EU research project about the Maker Movement# 421caefb7f929a5e90f47766af3918ae": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://make-it.io/"
+        ], 
+        "Has description": [
+            "This interactive session consists of a 10 minute presentation to present the EU research project MAKE-IT, followed by a 20 minute discussion with the participants. \n\nMAKE-IT is a Horizon2020 European research project focused on how the role of Collective Awareness Platforms (CAPS) enables the growth and governance of the Maker movement, particularly in relation to Information Technology, using and creating social innovations and achieving sustainability. \n\nThe international research consortium investigates ten makerspaces in eight different countries to learn about their \"organisation and governance\", \"peer and collaborative activities\" and \"value creation and impact\". \n\nI would like to present research findings of the ongoing project (2016-2017) and critically assess, enrich and validate them in an interactive discussion with the session participants."
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall C.1", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.1", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Janosch", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Janosch", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "MAKE-IT"
+        ], 
+        "Has duration": [
+            30
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:MAKE-IT:_Interactive_presentation_of_the_EU_research_project_about_the_Maker_Movement", 
+        "Has end time": []
     }, 
     "Session:Open Science Workshop# d93aeca26ff9fa5a1b03992460914abb": {
         "Held in language": [
@@ -3664,6 +3710,56 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:How_to_Survive_33C3_CryptoParty", 
         "Has end time": [
             "1482865200"
+        ]
+    }, 
+    "Session:Implications of the EU copyright reform on Free Software# 2e3ae7e1eed32991d1e513792a5bcc0e": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482937200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://fsfe.org/news/2016/news-20160928-01.en.html"
+        ], 
+        "Has description": [
+            "The meeting is designed to bring together advocates to\ndiscuss and exchange the views about the implications of on-going\ncopyright reform on Free Software, in particular the inclusion of\nfar-reaching DRM measures in the latest proposal for the directive and\nhow this can have an impact on Free Software."
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall C.4", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.4", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Eal", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Eal", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Implications of the EU copyright reform on Free Software"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Implications_of_the_EU_copyright_reform_on_Free_Software", 
+        "Has end time": [
+            "1482940800"
         ]
     }, 
     "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
@@ -5191,12 +5287,12 @@
             "1483030800"
         ]
     }, 
-    "Session:Subtitles-Angelmeetings# f48797b83b3006b88510ce3136aec9e2": {
+    "Session:Subtitles-Angelmeetings# 33d15813452eabff67587b00e4525369": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1483024500"
+            "1482851700"
         ], 
         "Has event track": [
             "Session"
@@ -5212,8 +5308,8 @@
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall F", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_F", 
+                "fulltext": "Room:Hall A.1", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
                 "namespace": 516, 
                 "exists": true
             }
@@ -5238,7 +5334,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Subtitles-Angelmeetings", 
         "Has end time": [
-            "1483026300"
+            "1482853500"
         ]
     }, 
     "Session:Off Grid: a videogame about hacking, data privacy, and surveillance# c5626b218dcaf7fe2c0ab1eff5125d93": {
@@ -8637,57 +8733,6 @@
             "1483112700"
         ]
     }, 
-    "Session:A walk through the inner core of pEp# 786a0e1c0bd44bf7e249b4f8a8927373": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1482922800"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://pep.foundation", 
-            "https://pep-project.org"
-        ], 
-        "Has description": [
-            "A p\u2261p engine developer gives a tour through the inner workings of the p\u2261p engine, the core which is used to drive the crypto used in p\u2261p, message transport, and automatic key management and synchronization. Discussed will be fundamental features and functionality of the engine core and how that relates to the apps and adapters using p\u2261p, as well as some discussion of upcoming near-term and longer-term future developmens of the p\u2261p technology."
-        ], 
-        "Has session type": [
-            "Talk"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall B", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_B", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Pf", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Pf", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "A walk through the inner core of pEp"
-        ], 
-        "Has duration": [
-            90
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:A_walk_through_the_inner_core_of_pEp", 
-        "Has end time": [
-            "1482928200"
-        ]
-    }, 
     "Session:PCB design for beginners using KiCad# 879d60a3732c2a57d7135e0054308fdf": {
         "Held in language": [
             "en - English"
@@ -10783,29 +10828,30 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:OpenPGP_use_cases_beyond_email", 
         "Has end time": []
     }, 
-    "Session:Implications of the EU copyright reform on Free Software# 2e3ae7e1eed32991d1e513792a5bcc0e": {
+    "Session:A walk through the inner core of pEp# c5792c955c345b45775792db81e1421b": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482937200"
+            "1482925500"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [
-            "https://fsfe.org/news/2016/news-20160928-01.en.html"
+            "https://pep.foundation", 
+            "https://pep-project.org"
         ], 
         "Has description": [
-            "The meeting is designed to bring together advocates to\ndiscuss and exchange the views about the implications of on-going\ncopyright reform on Free Software, in particular the inclusion of\nfar-reaching DRM measures in the latest proposal for the directive and\nhow this can have an impact on Free Software."
+            "A p\u2261p engine developer gives a tour through the inner workings of the p\u2261p engine, the core which is used to drive the crypto used in p\u2261p, message transport, and automatic key management and synchronization. Discussed will be fundamental features and functionality of the engine core and how that relates to the apps and adapters using p\u2261p, as well as some discussion of upcoming near-term and longer-term future developmens of the p\u2261p technology."
         ], 
         "Has session type": [
-            "Meeting"
+            "Talk"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall C.4", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.4", 
+                "fulltext": "Room:Hall B", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_B", 
                 "namespace": 516, 
                 "exists": true
             }
@@ -10813,24 +10859,24 @@
         "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Eal", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Eal", 
+                "fulltext": "User:Pf", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Pf", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Implications of the EU copyright reform on Free Software"
+            "A walk through the inner core of pEp"
         ], 
         "Has duration": [
-            60
+            75
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Implications_of_the_EU_copyright_reform_on_Free_Software", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:A_walk_through_the_inner_core_of_pEp", 
         "Has end time": [
-            "1482940800"
+            "1482930000"
         ]
     }, 
     "Session:LEAP Platform for vpn + LEAP and Pixelated platform for email providers# b819f54577f99f8993cb65e10a058942": {
