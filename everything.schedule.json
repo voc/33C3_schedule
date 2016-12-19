@@ -1543,7 +1543,7 @@
                                 "attachments": []
                             }, 
                             {
-                                "id": 1194, 
+                                "id": 1193, 
                                 "guid": "6312ac8705d66d48286a983da9f23d29", 
                                 "logo": null, 
                                 "date": "2016-12-27T15:00:00+01:00", 
@@ -1618,10 +1618,10 @@
                             }, 
                             {
                                 "id": 1136, 
-                                "guid": "27b5025dd294b5fa15d8915eac1b6f73", 
+                                "guid": "06de81ba9b71b450d9cbf61661471ee5", 
                                 "logo": null, 
-                                "date": "2016-12-28T02:00:00+01:00", 
-                                "start": "02:00", 
+                                "date": "2016-12-28T01:00:00+01:00", 
+                                "start": "01:00", 
                                 "duration": "1:00", 
                                 "room": "Hall A.1", 
                                 "slug": "", 
@@ -1645,11 +1645,11 @@
                                 ]
                             }, 
                             {
-                                "id": 1139, 
-                                "guid": "06de81ba9b71b450d9cbf61661471ee5", 
+                                "id": 1137, 
+                                "guid": "27b5025dd294b5fa15d8915eac1b6f73", 
                                 "logo": null, 
-                                "date": "2016-12-28T01:00:00+01:00", 
-                                "start": "01:00", 
+                                "date": "2016-12-28T02:00:00+01:00", 
+                                "start": "02:00", 
                                 "duration": "1:00", 
                                 "room": "Hall A.1", 
                                 "slug": "", 
@@ -1701,7 +1701,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1166, 
+                                "id": 1164, 
                                 "guid": "33d15813452eabff67587b00e4525369", 
                                 "logo": null, 
                                 "date": "2016-12-27T15:15:00+01:00", 
@@ -1732,34 +1732,7 @@
                         "Hall A.2": [], 
                         "Hall B": [
                             {
-                                "id": 1058, 
-                                "guid": "00888f6062ff7c2f3f8fa508c3fd5ae4", 
-                                "logo": null, 
-                                "date": "2016-12-27T13:00:00+01:00", 
-                                "start": "13:00", 
-                                "duration": "1:00", 
-                                "room": "Hall B", 
-                                "slug": "", 
-                                "title": "Engelmeeting", 
-                                "subtitle": "Angel meeting day 1", 
-                                "track": "self organized sessions", 
-                                "type": "meeting", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Knuth", 
-                                        "public_name": "Knuth"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting"
-                                ]
-                            }, 
-                            {
-                                "id": 1060, 
+                                "id": 1053, 
                                 "guid": "dfad004af29a4928e21fc593833ccad8", 
                                 "logo": null, 
                                 "date": "2016-12-27T19:45:00+01:00", 
@@ -1786,7 +1759,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1062, 
+                                "id": 1055, 
                                 "guid": "36dbc1feca09488704db9acac8b61603", 
                                 "logo": null, 
                                 "date": "2016-12-27T15:00:00+01:00", 
@@ -1796,6 +1769,33 @@
                                 "slug": "", 
                                 "title": "Engelmeeting", 
                                 "subtitle": "Introduction meeting for new angels", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Knuth", 
+                                        "public_name": "Knuth"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting"
+                                ]
+                            }, 
+                            {
+                                "id": 1062, 
+                                "guid": "00888f6062ff7c2f3f8fa508c3fd5ae4", 
+                                "logo": null, 
+                                "date": "2016-12-27T13:00:00+01:00", 
+                                "start": "13:00", 
+                                "duration": "1:00", 
+                                "room": "Hall B", 
+                                "slug": "", 
+                                "title": "Engelmeeting", 
+                                "subtitle": "Angel meeting day 1", 
                                 "track": "self organized sessions", 
                                 "type": "meeting", 
                                 "language": "en", 
@@ -2106,35 +2106,6 @@
                                     "http://www.jokoren.de/33C3.html", 
                                     "https://events.ccc.de/congress/2016/wiki/Session:Fiction_Writers%27_Session"
                                 ]
-                            }, 
-                            {
-                                "id": 1203, 
-                                "guid": "a81b206c2434a1f268a76104982400a4", 
-                                "logo": null, 
-                                "date": "2016-12-27T20:00:00+01:00", 
-                                "start": "20:00", 
-                                "duration": "3:00", 
-                                "room": "Hall C.3", 
-                                "slug": "", 
-                                "title": "Wordclock", 
-                                "subtitle": "Workshop1", 
-                                "track": "self organized sessions", 
-                                "type": "workshop", 
-                                "language": "", 
-                                "abstract": "", 
-                                "description": "Wir bauen wieder Wordclocks.\nBitte unbedingt vorher per mail an fabian@fabmail.org registrieren, da die Teilnehmerzahl auf 15 Personen beschr\u00e4nkt ist.", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Fabianurban", 
-                                        "public_name": "Fabianurban"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://github.com/fablabnbg/OpenWordClock", 
-                                    "http://imgur.com/a/oHxLx", 
-                                    "https://events.ccc.de/congress/2016/wiki/Session:Wordclock"
-                                ]
                             }
                         ], 
                         "Hall C.4": [
@@ -2383,7 +2354,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1137, 
+                                "id": 1138, 
                                 "guid": "42fc3badce6e91ea0ecfb85cb8434a1f", 
                                 "logo": null, 
                                 "date": "2016-12-28T03:00:00+01:00", 
@@ -2411,7 +2382,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1138, 
+                                "id": 1139, 
                                 "guid": "c34d388fc65ca7945372d2f3c603589c", 
                                 "logo": null, 
                                 "date": "2016-12-28T02:00:00+01:00", 
@@ -2439,34 +2410,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1185, 
-                                "guid": "0a4fe5181783d435230396b59ecd3fe6", 
-                                "logo": null, 
-                                "date": "2016-12-27T19:40:00+01:00", 
-                                "start": "19:40", 
-                                "duration": "0:50", 
-                                "room": "Hall 13-14", 
-                                "slug": "", 
-                                "title": "Translation meetings", 
-                                "subtitle": "day 1, evening meeting", 
-                                "track": "self organized sessions", 
-                                "type": "", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "The translation angels (interpreters) meet twice per day to self-organise (day 0, evening to day 4, afternoon)", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Sebalis", 
-                                        "public_name": "Sebalis"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2016/wiki/Session:Translation_meetings"
-                                ]
-                            }, 
-                            {
-                                "id": 1189, 
+                                "id": 1186, 
                                 "guid": "d6363e66156d0473f5f996f9726e7805", 
                                 "logo": null, 
                                 "date": "2016-12-27T15:10:00+01:00", 
@@ -2491,12 +2435,39 @@
                                 "links": [
                                     "https://events.ccc.de/congress/2016/wiki/Session:Translation_meetings"
                                 ]
+                            }, 
+                            {
+                                "id": 1190, 
+                                "guid": "0a4fe5181783d435230396b59ecd3fe6", 
+                                "logo": null, 
+                                "date": "2016-12-27T19:40:00+01:00", 
+                                "start": "19:40", 
+                                "duration": "0:50", 
+                                "room": "Hall 13-14", 
+                                "slug": "", 
+                                "title": "Translation meetings", 
+                                "subtitle": "day 1, evening meeting", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "The translation angels (interpreters) meet twice per day to self-organise (day 0, evening to day 4, afternoon)", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Sebalis", 
+                                        "public_name": "Sebalis"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Translation_meetings"
+                                ]
                             }
                         ], 
                         "Lounge DisKo": [], 
                         "Assembly:3D Printing": [
                             {
-                                "id": 1001, 
+                                "id": 1003, 
                                 "guid": "a326479729629b0a0cfd1125de7285e1", 
                                 "logo": null, 
                                 "date": "2016-12-27T14:00:00+01:00", 
@@ -2523,7 +2494,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1006, 
+                                "id": 1008, 
                                 "guid": "419977ca84111491ee44c770a82bc1f8", 
                                 "logo": null, 
                                 "date": "2016-12-27T18:00:00+01:00", 
@@ -2725,7 +2696,7 @@
                         ], 
                         "Assembly:Chaos West": [
                             {
-                                "id": 1096, 
+                                "id": 1097, 
                                 "guid": "f4c6067d7f0eb9f9ba91ccff12d54ad8", 
                                 "logo": null, 
                                 "date": "2016-12-27T21:00:00+01:00", 
@@ -2759,7 +2730,7 @@
                         ], 
                         "Assembly:HardwareHackingArea": [
                             {
-                                "id": 1103, 
+                                "id": 1105, 
                                 "guid": "20f5117729a9edfafeab9750503b79a2", 
                                 "logo": null, 
                                 "date": "2016-12-27T17:00:00+01:00", 
@@ -2786,7 +2757,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1167, 
+                                "id": 1171, 
                                 "guid": "820ef8c10ff8c89f2562b4268804af07", 
                                 "logo": null, 
                                 "date": "2016-12-27T13:00:00+01:00", 
@@ -2813,7 +2784,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1170, 
+                                "id": 1173, 
                                 "guid": "a01901e1604e2bda7e4405917a4e766b", 
                                 "logo": null, 
                                 "date": "2016-12-27T15:00:00+01:00", 
@@ -2840,7 +2811,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1173, 
+                                "id": 1175, 
                                 "guid": "bf43d8b5a156882133d1c4114e23f55c", 
                                 "logo": null, 
                                 "date": "2016-12-27T17:00:00+01:00", 
@@ -4244,7 +4215,7 @@
                                 "attachments": []
                             }, 
                             {
-                                "id": 1195, 
+                                "id": 1194, 
                                 "guid": "da904f0f6639dd430983667df8b38a91", 
                                 "logo": null, 
                                 "date": "2016-12-28T15:00:00+01:00", 
@@ -4373,10 +4344,10 @@
                             }, 
                             {
                                 "id": 1140, 
-                                "guid": "58e0cb7cce31f817c96521e059bf40e1", 
+                                "guid": "70c8429502d619a4df08c3b41d47c88c", 
                                 "logo": null, 
-                                "date": "2016-12-29T01:30:00+01:00", 
-                                "start": "01:30", 
+                                "date": "2016-12-29T00:30:00+01:00", 
+                                "start": "00:30", 
                                 "duration": "1:00", 
                                 "room": "Hall A.1", 
                                 "slug": "", 
@@ -4400,11 +4371,11 @@
                                 ]
                             }, 
                             {
-                                "id": 1143, 
-                                "guid": "70c8429502d619a4df08c3b41d47c88c", 
+                                "id": 1142, 
+                                "guid": "58e0cb7cce31f817c96521e059bf40e1", 
                                 "logo": null, 
-                                "date": "2016-12-29T00:30:00+01:00", 
-                                "start": "00:30", 
+                                "date": "2016-12-29T01:30:00+01:00", 
+                                "start": "01:30", 
                                 "duration": "1:00", 
                                 "room": "Hall A.1", 
                                 "slug": "", 
@@ -4456,7 +4427,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1162, 
+                                "id": 1165, 
                                 "guid": "3f394b79cf5c8d868ddc732d38346a06", 
                                 "logo": null, 
                                 "date": "2016-12-28T15:15:00+01:00", 
@@ -4516,7 +4487,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1053, 
+                                "id": 1057, 
                                 "guid": "8e5b07a7ad7ea771c8b3f9d10ca70ad5", 
                                 "logo": null, 
                                 "date": "2016-12-28T13:00:00+01:00", 
@@ -4543,7 +4514,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1055, 
+                                "id": 1059, 
                                 "guid": "80dd81cc8c3b304d9b1707f131c929b7", 
                                 "logo": null, 
                                 "date": "2016-12-28T19:45:00+01:00", 
@@ -4628,7 +4599,7 @@
                         ], 
                         "Hall C.1": [
                             {
-                                "id": 1028, 
+                                "id": 1036, 
                                 "guid": "20196cb4a0fcac3e8a926eb6752e785d", 
                                 "logo": null, 
                                 "date": "2016-12-28T10:00:00+01:00", 
@@ -4767,7 +4738,7 @@
                         ], 
                         "Hall C.2": [
                             {
-                                "id": 1030, 
+                                "id": 1028, 
                                 "guid": "ca9c35c335c11d72074a1e9e6046cb6e", 
                                 "logo": null, 
                                 "date": "2016-12-28T10:00:00+01:00", 
@@ -4987,16 +4958,16 @@
                                 ]
                             }, 
                             {
-                                "id": 1031, 
-                                "guid": "fdd8a9c86e797d9c002a514c55992e1d", 
+                                "id": 1030, 
+                                "guid": "8ba93735bba7d3bfbd659432e4e1a209", 
                                 "logo": null, 
-                                "date": "2016-12-28T15:00:00+01:00", 
-                                "start": "15:00", 
+                                "date": "2016-12-28T12:00:00+01:00", 
+                                "start": "12:00", 
                                 "duration": "1:00", 
                                 "room": "Hall C.3", 
                                 "slug": "", 
                                 "title": "Coder Dojo", 
-                                "subtitle": "Slot 3 Room 1", 
+                                "subtitle": "Slot 2 Room 1", 
                                 "track": "self organized sessions", 
                                 "type": "workshop", 
                                 "language": "de", 
@@ -5014,34 +4985,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1033, 
-                                "guid": "82b6f15ab0e1d33b37e9817f997864d8", 
-                                "logo": null, 
-                                "date": "2016-12-28T11:00:00+01:00", 
-                                "start": "11:00", 
-                                "duration": "1:00", 
-                                "room": "Hall C.3", 
-                                "slug": "", 
-                                "title": "Coder Dojo", 
-                                "subtitle": "Slot 1 Room 1", 
-                                "track": "self organized sessions", 
-                                "type": "workshop", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Nana_berlin", 
-                                        "public_name": "Nana berlin"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2016/wiki/Session:Coder_Dojo"
-                                ]
-                            }, 
-                            {
-                                "id": 1034, 
+                                "id": 1032, 
                                 "guid": "a2d3c9df94b90cd7240898885d1eb3ec", 
                                 "logo": null, 
                                 "date": "2016-12-28T10:00:00+01:00", 
@@ -5068,16 +5012,43 @@
                                 ]
                             }, 
                             {
-                                "id": 1037, 
-                                "guid": "8ba93735bba7d3bfbd659432e4e1a209", 
+                                "id": 1033, 
+                                "guid": "fdd8a9c86e797d9c002a514c55992e1d", 
                                 "logo": null, 
-                                "date": "2016-12-28T12:00:00+01:00", 
-                                "start": "12:00", 
+                                "date": "2016-12-28T15:00:00+01:00", 
+                                "start": "15:00", 
                                 "duration": "1:00", 
                                 "room": "Hall C.3", 
                                 "slug": "", 
                                 "title": "Coder Dojo", 
-                                "subtitle": "Slot 2 Room 1", 
+                                "subtitle": "Slot 3 Room 1", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Nana_berlin", 
+                                        "public_name": "Nana berlin"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Coder_Dojo"
+                                ]
+                            }, 
+                            {
+                                "id": 1037, 
+                                "guid": "82b6f15ab0e1d33b37e9817f997864d8", 
+                                "logo": null, 
+                                "date": "2016-12-28T11:00:00+01:00", 
+                                "start": "11:00", 
+                                "duration": "1:00", 
+                                "room": "Hall C.3", 
+                                "slug": "", 
+                                "title": "Coder Dojo", 
+                                "subtitle": "Slot 1 Room 1", 
                                 "track": "self organized sessions", 
                                 "type": "workshop", 
                                 "language": "de", 
@@ -5181,36 +5152,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1204, 
-                                "guid": "b1382fa6ee8217cf189b843ec5e06c5f", 
-                                "logo": null, 
-                                "date": "2016-12-28T20:00:00+01:00", 
-                                "start": "20:00", 
-                                "duration": "3:00", 
-                                "room": "Hall C.3", 
-                                "slug": "", 
-                                "title": "Wordclock", 
-                                "subtitle": "Workshop2", 
-                                "track": "self organized sessions", 
-                                "type": "workshop", 
-                                "language": "", 
-                                "abstract": "", 
-                                "description": "Wir bauen wieder Wordclocks.\nBitte unbedingt vorher per mail an fabian@fabmail.org registrieren, da die Teilnehmerzahl auf 15 Personen beschr\u00e4nkt ist.", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Fabianurban", 
-                                        "public_name": "Fabianurban"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://github.com/fablabnbg/OpenWordClock", 
-                                    "http://imgur.com/a/oHxLx", 
-                                    "https://events.ccc.de/congress/2016/wiki/Session:Wordclock"
-                                ]
-                            }, 
-                            {
-                                "id": 1205, 
+                                "id": 1203, 
                                 "guid": "0e82b1cb18d1fac1e9981aa274ccfdf6", 
                                 "logo": null, 
                                 "date": "2016-12-28T15:00:00+01:00", 
@@ -5240,60 +5182,6 @@
                         "Hall C.4": [
                             {
                                 "id": 1029, 
-                                "guid": "114bbdf055b462c90916308a51310575", 
-                                "logo": null, 
-                                "date": "2016-12-28T12:00:00+01:00", 
-                                "start": "12:00", 
-                                "duration": "1:00", 
-                                "room": "Hall C.4", 
-                                "slug": "", 
-                                "title": "Coder Dojo", 
-                                "subtitle": "Slot 2 Room 2", 
-                                "track": "self organized sessions", 
-                                "type": "workshop", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Nana_berlin", 
-                                        "public_name": "Nana berlin"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2016/wiki/Session:Coder_Dojo"
-                                ]
-                            }, 
-                            {
-                                "id": 1032, 
-                                "guid": "f7580cf27bd0d4bb0bd704612ab55f0e", 
-                                "logo": null, 
-                                "date": "2016-12-28T15:00:00+01:00", 
-                                "start": "15:00", 
-                                "duration": "1:00", 
-                                "room": "Hall C.4", 
-                                "slug": "", 
-                                "title": "Coder Dojo", 
-                                "subtitle": "Slot 3 Room 2", 
-                                "track": "self organized sessions", 
-                                "type": "workshop", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Nana_berlin", 
-                                        "public_name": "Nana berlin"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2016/wiki/Session:Coder_Dojo"
-                                ]
-                            }, 
-                            {
-                                "id": 1035, 
                                 "guid": "3e5566423bb7179b1698b34b8fba2524", 
                                 "logo": null, 
                                 "date": "2016-12-28T11:00:00+01:00", 
@@ -5320,7 +5208,34 @@
                                 ]
                             }, 
                             {
-                                "id": 1036, 
+                                "id": 1031, 
+                                "guid": "114bbdf055b462c90916308a51310575", 
+                                "logo": null, 
+                                "date": "2016-12-28T12:00:00+01:00", 
+                                "start": "12:00", 
+                                "duration": "1:00", 
+                                "room": "Hall C.4", 
+                                "slug": "", 
+                                "title": "Coder Dojo", 
+                                "subtitle": "Slot 2 Room 2", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Nana_berlin", 
+                                        "public_name": "Nana berlin"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Coder_Dojo"
+                                ]
+                            }, 
+                            {
+                                "id": 1034, 
                                 "guid": "ce369fbaa66a09e01586ffcab4b39c4a", 
                                 "logo": null, 
                                 "date": "2016-12-28T10:00:00+01:00", 
@@ -5330,6 +5245,33 @@
                                 "slug": "", 
                                 "title": "Coder Dojo", 
                                 "subtitle": "Slot 0 Room 2", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Nana_berlin", 
+                                        "public_name": "Nana berlin"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Coder_Dojo"
+                                ]
+                            }, 
+                            {
+                                "id": 1035, 
+                                "guid": "f7580cf27bd0d4bb0bd704612ab55f0e", 
+                                "logo": null, 
+                                "date": "2016-12-28T15:00:00+01:00", 
+                                "start": "15:00", 
+                                "duration": "1:00", 
+                                "room": "Hall C.4", 
+                                "slug": "", 
+                                "title": "Coder Dojo", 
+                                "subtitle": "Slot 3 Room 2", 
                                 "track": "self organized sessions", 
                                 "type": "workshop", 
                                 "language": "de", 
@@ -5723,6 +5665,34 @@
                             }, 
                             {
                                 "id": 1141, 
+                                "guid": "390998a1ab9f42dbefdc4f9bf1f69e29", 
+                                "logo": null, 
+                                "date": "2016-12-29T00:30:00+01:00", 
+                                "start": "00:30", 
+                                "duration": "1:00", 
+                                "room": "Hall 13-14", 
+                                "slug": "", 
+                                "title": "Skillconvention b", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "all travelers of a certain skill will be invented to join their respective session", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Reisende", 
+                                        "public_name": "Reisende"
+                                    }
+                                ], 
+                                "links": [
+                                    "http://thereisnogame.de", 
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Skillconvention_b"
+                                ]
+                            }, 
+                            {
+                                "id": 1143, 
                                 "guid": "b71ce3ffa02dca5f83180aaf66581567", 
                                 "logo": null, 
                                 "date": "2016-12-29T01:30:00+01:00", 
@@ -5750,39 +5720,11 @@
                                 ]
                             }, 
                             {
-                                "id": 1142, 
+                                "id": 1144, 
                                 "guid": "b06e4dfefe4629fdaf4c0ae1e5116d41", 
                                 "logo": null, 
                                 "date": "2016-12-29T02:30:00+01:00", 
                                 "start": "02:30", 
-                                "duration": "1:00", 
-                                "room": "Hall 13-14", 
-                                "slug": "", 
-                                "title": "Skillconvention b", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "meeting", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "all travelers of a certain skill will be invented to join their respective session", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Reisende", 
-                                        "public_name": "Reisende"
-                                    }
-                                ], 
-                                "links": [
-                                    "http://thereisnogame.de", 
-                                    "https://events.ccc.de/congress/2016/wiki/Session:Skillconvention_b"
-                                ]
-                            }, 
-                            {
-                                "id": 1144, 
-                                "guid": "390998a1ab9f42dbefdc4f9bf1f69e29", 
-                                "logo": null, 
-                                "date": "2016-12-29T00:30:00+01:00", 
-                                "start": "00:30", 
                                 "duration": "1:00", 
                                 "room": "Hall 13-14", 
                                 "slug": "", 
@@ -5833,7 +5775,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1186, 
+                                "id": 1183, 
                                 "guid": "415473cd68f9363bb56f229dfd94bb7b", 
                                 "logo": null, 
                                 "date": "2016-12-28T15:10:00+01:00", 
@@ -5860,7 +5802,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1190, 
+                                "id": 1187, 
                                 "guid": "d18b6c2f9bccb7fcaae47ed524788ae1", 
                                 "logo": null, 
                                 "date": "2016-12-28T19:40:00+01:00", 
@@ -5917,7 +5859,7 @@
                         "Lounge DisKo": [], 
                         "Assembly:3D Printing": [
                             {
-                                "id": 1002, 
+                                "id": 1004, 
                                 "guid": "ddb26e60e003b634d86f8aa4523445d7", 
                                 "logo": null, 
                                 "date": "2016-12-28T14:00:00+01:00", 
@@ -5971,7 +5913,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1007, 
+                                "id": 1006, 
                                 "guid": "efc769e4b039c628a6e600227bb0eed7", 
                                 "logo": null, 
                                 "date": "2016-12-28T18:00:00+01:00", 
@@ -6055,7 +5997,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1104, 
+                                "id": 1102, 
                                 "guid": "54a32b454efb9018a9f51249d16423e5", 
                                 "logo": null, 
                                 "date": "2016-12-28T11:00:00+01:00", 
@@ -6082,7 +6024,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1172, 
+                                "id": 1169, 
                                 "guid": "355c17455570d5dcd171a0a3ffdb2c05", 
                                 "logo": null, 
                                 "date": "2016-12-28T16:30:00+01:00", 
@@ -6109,7 +6051,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1174, 
+                                "id": 1170, 
                                 "guid": "2c66a4829556ad08c8f7b6d8fd68e204", 
                                 "logo": null, 
                                 "date": "2016-12-28T18:30:00+01:00", 
@@ -6288,7 +6230,7 @@
                         ], 
                         "Assembly:Chaos West": [
                             {
-                                "id": 1095, 
+                                "id": 1096, 
                                 "guid": "1d417fdc38d9002139dfa87a15a17e0e", 
                                 "logo": null, 
                                 "date": "2016-12-28T21:00:00+01:00", 
@@ -6322,7 +6264,7 @@
                         ], 
                         "": [
                             {
-                                "id": 1169, 
+                                "id": 1167, 
                                 "guid": "423151d2bd90d5fe5bc5e9ffd2d9e687", 
                                 "logo": null, 
                                 "date": "2016-12-28T14:00:00+01:00", 
@@ -7783,7 +7725,7 @@
                                 "attachments": []
                             }, 
                             {
-                                "id": 1192, 
+                                "id": 1195, 
                                 "guid": "6c7712cd8c07af6fc45588ac8e3f3c56", 
                                 "logo": null, 
                                 "date": "2016-12-29T15:00:00+01:00", 
@@ -7918,7 +7860,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1146, 
+                                "id": 1145, 
                                 "guid": "15f21480446aabdd28aa3fe571253266", 
                                 "logo": null, 
                                 "date": "2016-12-30T00:30:00+01:00", 
@@ -8054,7 +7996,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1057, 
+                                "id": 1061, 
                                 "guid": "b667c273cc0ea6bfc41077c37c7daca4", 
                                 "logo": null, 
                                 "date": "2016-12-29T13:00:00+01:00", 
@@ -8081,7 +8023,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1059, 
+                                "id": 1063, 
                                 "guid": "7b2a2ebb53b4e58845bc13580d788dad", 
                                 "logo": null, 
                                 "date": "2016-12-29T19:45:00+01:00", 
@@ -8621,7 +8563,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1051, 
+                                "id": 1052, 
                                 "guid": "6cc22c4c4e007033d2720248eb98797d", 
                                 "logo": null, 
                                 "date": "2016-12-29T18:00:00+01:00", 
@@ -8754,11 +8696,11 @@
                             }, 
                             {
                                 "id": 1071, 
-                                "guid": "e8e7292727500d0072186d9f2d0d0add", 
+                                "guid": "afdd31277e2c1f456697250610dab6c4", 
                                 "logo": null, 
-                                "date": "2016-12-29T18:00:00+01:00", 
-                                "start": "18:00", 
-                                "duration": "2:15", 
+                                "date": "2016-12-29T21:00:00+01:00", 
+                                "start": "21:00", 
+                                "duration": "3:00", 
                                 "room": "Hall F", 
                                 "slug": "", 
                                 "title": "Film-Blocker", 
@@ -8775,11 +8717,11 @@
                             }, 
                             {
                                 "id": 1072, 
-                                "guid": "afdd31277e2c1f456697250610dab6c4", 
+                                "guid": "e8e7292727500d0072186d9f2d0d0add", 
                                 "logo": null, 
-                                "date": "2016-12-29T21:00:00+01:00", 
-                                "start": "21:00", 
-                                "duration": "3:00", 
+                                "date": "2016-12-29T18:00:00+01:00", 
+                                "start": "18:00", 
+                                "duration": "2:15", 
                                 "room": "Hall F", 
                                 "slug": "", 
                                 "title": "Film-Blocker", 
@@ -8824,27 +8766,6 @@
                             }, 
                             {
                                 "id": 1111, 
-                                "guid": "e81169038db8e5ffee3fa6db477d956c", 
-                                "logo": null, 
-                                "date": "2016-12-29T21:00:00+01:00", 
-                                "start": "21:00", 
-                                "duration": "3:00", 
-                                "room": "Hall F", 
-                                "slug": "", 
-                                "title": "Movie Night", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "Blocked for Film Screenings by Content Team", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2016/wiki/Session:Movie_Night"
-                                ]
-                            }, 
-                            {
-                                "id": 1112, 
                                 "guid": "4712451863c504ac72d4e643f6a79938", 
                                 "logo": null, 
                                 "date": "2016-12-29T18:00:00+01:00", 
@@ -8865,7 +8786,28 @@
                                 ]
                             }, 
                             {
-                                "id": 1163, 
+                                "id": 1112, 
+                                "guid": "e81169038db8e5ffee3fa6db477d956c", 
+                                "logo": null, 
+                                "date": "2016-12-29T21:00:00+01:00", 
+                                "start": "21:00", 
+                                "duration": "3:00", 
+                                "room": "Hall F", 
+                                "slug": "", 
+                                "title": "Movie Night", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Blocked for Film Screenings by Content Team", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Movie_Night"
+                                ]
+                            }, 
+                            {
+                                "id": 1166, 
                                 "guid": "f48797b83b3006b88510ce3136aec9e2", 
                                 "logo": null, 
                                 "date": "2016-12-29T15:15:00+01:00", 
@@ -9004,11 +8946,11 @@
                                 ]
                             }, 
                             {
-                                "id": 1145, 
-                                "guid": "e359d1f9d3b1ca042ad6170cb80f550f", 
+                                "id": 1146, 
+                                "guid": "a1496422476dce53d2f614263adbeeca", 
                                 "logo": null, 
-                                "date": "2016-12-30T00:30:00+01:00", 
-                                "start": "00:30", 
+                                "date": "2016-12-30T01:30:00+01:00", 
+                                "start": "01:30", 
                                 "duration": "1:00", 
                                 "room": "Hall 13-14", 
                                 "slug": "", 
@@ -9033,10 +8975,10 @@
                             }, 
                             {
                                 "id": 1147, 
-                                "guid": "a1496422476dce53d2f614263adbeeca", 
+                                "guid": "e359d1f9d3b1ca042ad6170cb80f550f", 
                                 "logo": null, 
-                                "date": "2016-12-30T01:30:00+01:00", 
-                                "start": "01:30", 
+                                "date": "2016-12-30T00:30:00+01:00", 
+                                "start": "00:30", 
                                 "duration": "1:00", 
                                 "room": "Hall 13-14", 
                                 "slug": "", 
@@ -9089,33 +9031,6 @@
                             }, 
                             {
                                 "id": 1184, 
-                                "guid": "36252d5cc335293f00e927b0b6eba7fb", 
-                                "logo": null, 
-                                "date": "2016-12-29T19:40:00+01:00", 
-                                "start": "19:40", 
-                                "duration": "0:50", 
-                                "room": "Hall 13-14", 
-                                "slug": "", 
-                                "title": "Translation meetings", 
-                                "subtitle": "day 3, evening meeting", 
-                                "track": "self organized sessions", 
-                                "type": "", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "The translation angels (interpreters) meet twice per day to self-organise (day 0, evening to day 4, afternoon)", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Sebalis", 
-                                        "public_name": "Sebalis"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2016/wiki/Session:Translation_meetings"
-                                ]
-                            }, 
-                            {
-                                "id": 1187, 
                                 "guid": "7ced348984f17dd88a5c96ea1e3435ec", 
                                 "logo": null, 
                                 "date": "2016-12-29T15:10:00+01:00", 
@@ -9140,12 +9055,39 @@
                                 "links": [
                                     "https://events.ccc.de/congress/2016/wiki/Session:Translation_meetings"
                                 ]
+                            }, 
+                            {
+                                "id": 1189, 
+                                "guid": "36252d5cc335293f00e927b0b6eba7fb", 
+                                "logo": null, 
+                                "date": "2016-12-29T19:40:00+01:00", 
+                                "start": "19:40", 
+                                "duration": "0:50", 
+                                "room": "Hall 13-14", 
+                                "slug": "", 
+                                "title": "Translation meetings", 
+                                "subtitle": "day 3, evening meeting", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "The translation angels (interpreters) meet twice per day to self-organise (day 0, evening to day 4, afternoon)", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Sebalis", 
+                                        "public_name": "Sebalis"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Translation_meetings"
+                                ]
                             }
                         ], 
                         "Lounge DisKo": [], 
                         "Assembly:3D Printing": [
                             {
-                                "id": 1003, 
+                                "id": 1001, 
                                 "guid": "53ee8d12c7bca172edf73bebc064b3ea", 
                                 "logo": null, 
                                 "date": "2016-12-29T14:00:00+01:00", 
@@ -9172,7 +9114,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1008, 
+                                "id": 1007, 
                                 "guid": "07fd3c770a47140f5c5c4fe19a8c3787", 
                                 "logo": null, 
                                 "date": "2016-12-29T18:00:00+01:00", 
@@ -9256,7 +9198,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1105, 
+                                "id": 1103, 
                                 "guid": "1708e12825a580ad6d6e1505a4f06a8a", 
                                 "logo": null, 
                                 "date": "2016-12-29T11:00:00+01:00", 
@@ -9283,7 +9225,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1175, 
+                                "id": 1172, 
                                 "guid": "e8d4aeb2d2ef0415687e34e714ed7c92", 
                                 "logo": null, 
                                 "date": "2016-12-29T16:30:00+01:00", 
@@ -9310,7 +9252,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1176, 
+                                "id": 1174, 
                                 "guid": "61a5509d9d46ea6fccc963286ccc18e8", 
                                 "logo": null, 
                                 "date": "2016-12-29T18:30:00+01:00", 
@@ -9432,7 +9374,7 @@
                         ], 
                         "Assembly:Scottish Consulate": [
                             {
-                                "id": 1052, 
+                                "id": 1051, 
                                 "guid": "4a80950934f4ea3dbd5f529e36a5c8ff", 
                                 "logo": null, 
                                 "date": "2016-12-29T20:00:00+01:00", 
@@ -9525,7 +9467,7 @@
                         ], 
                         "Assembly:Chaos West": [
                             {
-                                "id": 1094, 
+                                "id": 1095, 
                                 "guid": "0a8934d5eb4b97daac361fc42865fb7d", 
                                 "logo": null, 
                                 "date": "2016-12-29T21:00:00+01:00", 
@@ -10181,7 +10123,7 @@
                                 "attachments": []
                             }, 
                             {
-                                "id": 1193, 
+                                "id": 1192, 
                                 "guid": "6fb34c92d05b83c60d241c1e8caeeeb0", 
                                 "logo": null, 
                                 "date": "2016-12-30T15:00:00+01:00", 
@@ -10229,7 +10171,7 @@
                         "Hall A.2": [], 
                         "Hall B": [
                             {
-                                "id": 1061, 
+                                "id": 1054, 
                                 "guid": "a9980c368a3480f25ab2bd4588283ecf", 
                                 "logo": null, 
                                 "date": "2016-12-30T13:00:00+01:00", 
@@ -10286,7 +10228,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1164, 
+                                "id": 1162, 
                                 "guid": "17595f694e88dd271208bb120d2ded5d", 
                                 "logo": null, 
                                 "date": "2016-12-30T15:15:00+01:00", 
@@ -10405,7 +10347,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1188, 
+                                "id": 1185, 
                                 "guid": "660e4d0d3a22279ed18e88982d5006fa", 
                                 "logo": null, 
                                 "date": "2016-12-30T15:10:00+01:00", 
@@ -10435,7 +10377,7 @@
                         "Lounge DisKo": [], 
                         "Assembly:3D Printing": [
                             {
-                                "id": 1004, 
+                                "id": 1002, 
                                 "guid": "3e34e23260a6991b946f86b764eb0767", 
                                 "logo": null, 
                                 "date": "2016-12-30T14:00:00+01:00", 
@@ -10464,7 +10406,7 @@
                         ], 
                         "Assembly:HardwareHackingArea": [
                             {
-                                "id": 1102, 
+                                "id": 1104, 
                                 "guid": "0ea6a4d4288ec847b8b7da9a8e7cf319", 
                                 "logo": null, 
                                 "date": "2016-12-30T11:00:00+01:00", 
@@ -10492,15 +10434,15 @@
                             }, 
                             {
                                 "id": 1168, 
-                                "guid": "0029ffd6b50d454bfba86f9d8de24d35", 
+                                "guid": "458f6f7faeda7724ed8eb3f48713d4b9", 
                                 "logo": null, 
-                                "date": "2016-12-30T13:00:00+01:00", 
-                                "start": "13:00", 
+                                "date": "2016-12-30T15:00:00+01:00", 
+                                "start": "15:00", 
                                 "duration": "1:30", 
                                 "room": "Assembly:HardwareHackingArea", 
                                 "slug": "", 
                                 "title": "Surface Mount Electronics Assembly for Terrified Beginners", 
-                                "subtitle": "Day 4 - Session 1", 
+                                "subtitle": "Day 4 - Session 2", 
                                 "track": "self organized sessions", 
                                 "type": "workshop", 
                                 "language": "en", 
@@ -10518,16 +10460,16 @@
                                 ]
                             }, 
                             {
-                                "id": 1171, 
-                                "guid": "458f6f7faeda7724ed8eb3f48713d4b9", 
+                                "id": 1176, 
+                                "guid": "0029ffd6b50d454bfba86f9d8de24d35", 
                                 "logo": null, 
-                                "date": "2016-12-30T15:00:00+01:00", 
-                                "start": "15:00", 
+                                "date": "2016-12-30T13:00:00+01:00", 
+                                "start": "13:00", 
                                 "duration": "1:30", 
                                 "room": "Assembly:HardwareHackingArea", 
                                 "slug": "", 
                                 "title": "Surface Mount Electronics Assembly for Terrified Beginners", 
-                                "subtitle": "Day 4 - Session 2", 
+                                "subtitle": "Day 4 - Session 1", 
                                 "track": "self organized sessions", 
                                 "type": "workshop", 
                                 "language": "en", 
