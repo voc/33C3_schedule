@@ -15,7 +15,7 @@
                     "rooms": {
                         "Hall C.1": [
                             {
-                                "id": 1159, 
+                                "id": 1162, 
                                 "guid": "343a8aace7d1623c8e8956a076f9fea8", 
                                 "logo": null, 
                                 "date": "2016-12-26T21:00:00+01:00", 
@@ -364,7 +364,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1160, 
+                                "id": 1163, 
                                 "guid": "eadeae943acf78b348bef9d2bde23827", 
                                 "logo": null, 
                                 "date": "2016-12-27T19:30:00+01:00", 
@@ -1147,7 +1147,7 @@
                     "rooms": {
                         "Hall C.1": [
                             {
-                                "id": 1032, 
+                                "id": 1030, 
                                 "guid": "20196cb4a0fcac3e8a926eb6752e785d", 
                                 "logo": null, 
                                 "date": "2016-12-28T10:00:00+01:00", 
@@ -1286,7 +1286,7 @@
                         ], 
                         "Hall C.2": [
                             {
-                                "id": 1034, 
+                                "id": 1032, 
                                 "guid": "ca9c35c335c11d72074a1e9e6046cb6e", 
                                 "logo": null, 
                                 "date": "2016-12-28T10:00:00+01:00", 
@@ -1506,33 +1506,6 @@
                                 ]
                             }, 
                             {
-                                "id": 1028, 
-                                "guid": "a2d3c9df94b90cd7240898885d1eb3ec", 
-                                "logo": null, 
-                                "date": "2016-12-28T10:00:00+01:00", 
-                                "start": "10:00", 
-                                "duration": "1:00", 
-                                "room": "Hall C.3", 
-                                "slug": "", 
-                                "title": "Coder Dojo", 
-                                "subtitle": "Slot 0 Room 1", 
-                                "track": "self organized sessions", 
-                                "type": "workshop", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Nana_berlin", 
-                                        "public_name": "Nana berlin"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2016/wiki/Session:Coder_Dojo"
-                                ]
-                            }, 
-                            {
                                 "id": 1029, 
                                 "guid": "8ba93735bba7d3bfbd659432e4e1a209", 
                                 "logo": null, 
@@ -1587,7 +1560,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1036, 
+                                "id": 1035, 
                                 "guid": "82b6f15ab0e1d33b37e9817f997864d8", 
                                 "logo": null, 
                                 "date": "2016-12-28T11:00:00+01:00", 
@@ -1597,6 +1570,33 @@
                                 "slug": "", 
                                 "title": "Coder Dojo", 
                                 "subtitle": "Slot 1 Room 1", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Nana_berlin", 
+                                        "public_name": "Nana berlin"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Coder_Dojo"
+                                ]
+                            }, 
+                            {
+                                "id": 1036, 
+                                "guid": "a2d3c9df94b90cd7240898885d1eb3ec", 
+                                "logo": null, 
+                                "date": "2016-12-28T10:00:00+01:00", 
+                                "start": "10:00", 
+                                "duration": "1:00", 
+                                "room": "Hall C.3", 
+                                "slug": "", 
+                                "title": "Coder Dojo", 
+                                "subtitle": "Slot 0 Room 1", 
                                 "track": "self organized sessions", 
                                 "type": "workshop", 
                                 "language": "de", 
@@ -1729,7 +1729,7 @@
                         ], 
                         "Hall C.4": [
                             {
-                                "id": 1030, 
+                                "id": 1028, 
                                 "guid": "ce369fbaa66a09e01586ffcab4b39c4a", 
                                 "logo": null, 
                                 "date": "2016-12-28T10:00:00+01:00", 
@@ -1783,7 +1783,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1035, 
+                                "id": 1034, 
                                 "guid": "f7580cf27bd0d4bb0bd704612ab55f0e", 
                                 "logo": null, 
                                 "date": "2016-12-28T15:00:00+01:00", 
@@ -1959,7 +1959,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1161, 
+                                "id": 1159, 
                                 "guid": "da07397031c03293fbe740e60de1d900", 
                                 "logo": null, 
                                 "date": "2016-12-28T19:30:00+01:00", 
@@ -3366,7 +3366,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1162, 
+                                "id": 1160, 
                                 "guid": "d00c1c245094b81ef14225970bc1d86f", 
                                 "logo": null, 
                                 "date": "2016-12-29T19:30:00+01:00", 
@@ -3502,11 +3502,11 @@
                         "Hall F": [
                             {
                                 "id": 1070, 
-                                "guid": "fbc9e7ed36a705cf72c554aa7c10ff35", 
+                                "guid": "dc97ce7587e6de93f68f0bb1fbfdbd9c", 
                                 "logo": null, 
-                                "date": "2016-12-29T21:00:00+01:00", 
-                                "start": "21:00", 
-                                "duration": "3:00", 
+                                "date": "2016-12-29T18:00:00+01:00", 
+                                "start": "18:00", 
+                                "duration": "2:15", 
                                 "room": "Hall F", 
                                 "slug": "", 
                                 "title": "Film-Abend", 
@@ -3523,11 +3523,11 @@
                             }, 
                             {
                                 "id": 1071, 
-                                "guid": "dc97ce7587e6de93f68f0bb1fbfdbd9c", 
+                                "guid": "fbc9e7ed36a705cf72c554aa7c10ff35", 
                                 "logo": null, 
-                                "date": "2016-12-29T18:00:00+01:00", 
-                                "start": "18:00", 
-                                "duration": "2:15", 
+                                "date": "2016-12-29T21:00:00+01:00", 
+                                "start": "21:00", 
+                                "duration": "3:00", 
                                 "room": "Hall F", 
                                 "slug": "", 
                                 "title": "Film-Abend", 
@@ -4340,7 +4340,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1163, 
+                                "id": 1161, 
                                 "guid": "61eb65e61b717da207194923b8b9fdb3", 
                                 "logo": null, 
                                 "date": "2016-12-30T11:00:00+01:00", 
