@@ -312,7 +312,7 @@
         "speakers": "Obaz, UMT, CoopDot"
     }, 
     {
-        "event_id": 1160, 
+        "event_id": 1163, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1131, 
@@ -804,7 +804,7 @@
         "speakers": "Jeffburdges"
     }, 
     {
-        "event_id": 1032, 
+        "event_id": 1030, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1131, 
@@ -864,7 +864,7 @@
         "speakers": "Janosch"
     }, 
     {
-        "event_id": 1034, 
+        "event_id": 1032, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1132, 
@@ -960,18 +960,6 @@
         "speakers": "Lassekarstensen"
     }, 
     {
-        "event_id": 1028, 
-        "track_id": 10, 
-        "track_name": "Session", 
-        "room_id": 1133, 
-        "room_name": "Hall C.3", 
-        "start_time": "2016-12-28T10:00:00+01:00", 
-        "duration": 3600, 
-        "title": "Coder Dojo", 
-        "abstract": "Slot 0 Room 1 \n", 
-        "speakers": "Nana berlin"
-    }, 
-    {
         "event_id": 1029, 
         "track_id": 10, 
         "track_name": "Session", 
@@ -996,7 +984,7 @@
         "speakers": "Nana berlin"
     }, 
     {
-        "event_id": 1036, 
+        "event_id": 1035, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1133, 
@@ -1005,6 +993,18 @@
         "duration": 3600, 
         "title": "Coder Dojo", 
         "abstract": "Slot 1 Room 1 \n", 
+        "speakers": "Nana berlin"
+    }, 
+    {
+        "event_id": 1036, 
+        "track_id": 10, 
+        "track_name": "Session", 
+        "room_id": 1133, 
+        "room_name": "Hall C.3", 
+        "start_time": "2016-12-28T10:00:00+01:00", 
+        "duration": 3600, 
+        "title": "Coder Dojo", 
+        "abstract": "Slot 0 Room 1 \n", 
         "speakers": "Nana berlin"
     }, 
     {
@@ -1056,7 +1056,7 @@
         "speakers": "A.Vibrio.F."
     }, 
     {
-        "event_id": 1030, 
+        "event_id": 1028, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1134, 
@@ -1080,7 +1080,7 @@
         "speakers": "Nana berlin"
     }, 
     {
-        "event_id": 1035, 
+        "event_id": 1034, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1134, 
@@ -1152,7 +1152,7 @@
         "speakers": "KaerF"
     }, 
     {
-        "event_id": 1161, 
+        "event_id": 1159, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1134, 
@@ -1884,7 +1884,7 @@
         "speakers": "Tecer"
     }, 
     {
-        "event_id": 1162, 
+        "event_id": 1160, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1134, 
@@ -1901,8 +1901,8 @@
         "track_name": "Session", 
         "room_id": 1230, 
         "room_name": "Hall F", 
-        "start_time": "2016-12-29T21:00:00+01:00", 
-        "duration": 10800, 
+        "start_time": "2016-12-29T18:00:00+01:00", 
+        "duration": 8100, 
         "title": "Film-Abend", 
         "abstract": " \nBlocked for Film Screenings by Content Team", 
         "speakers": ""
@@ -1913,8 +1913,8 @@
         "track_name": "Session", 
         "room_id": 1230, 
         "room_name": "Hall F", 
-        "start_time": "2016-12-29T18:00:00+01:00", 
-        "duration": 8100, 
+        "start_time": "2016-12-29T21:00:00+01:00", 
+        "duration": 10800, 
         "title": "Film-Abend", 
         "abstract": " \nBlocked for Film Screenings by Content Team", 
         "speakers": ""
@@ -2160,7 +2160,7 @@
         "speakers": "Stephan.schwichtenberg"
     }, 
     {
-        "event_id": 1163, 
+        "event_id": 1161, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1134, 
