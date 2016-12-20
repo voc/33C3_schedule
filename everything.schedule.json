@@ -1585,12 +1585,424 @@
                                 ]
                             }
                         ], 
+                        "Sendezentrumsb\u00fchne": [
+                            {
+                                "id": 383, 
+                                "guid": "226e244c-4781-47e4-8dd7-2d74607ae02f", 
+                                "logo": "/system/events/logos/000/000/383/large/qx8g3qfa_400x400.jpg?1482079808", 
+                                "date": "2016-12-27T12:00:00+01:00", 
+                                "start": "12:00", 
+                                "duration": "00:30", 
+                                "room": "Sendezentrumsb\u00fchne", 
+                                "slug": "33c3-383-begrussung_sendezentrum", 
+                                "title": "Begr\u00fc\u00dfung Sendezentrum", 
+                                "subtitle": "Wir sagen Hallo!", 
+                                "track": "Sendezentrumsb\u00fchne", 
+                                "type": "", 
+                                "language": "de", 
+                                "abstract": "Zum Warmmachen vor der ersten B\u00fchnensession und der ersten Aufnahme am Podcastingtisch, m\u00f6chten wir mit euch zusammenkommen und euch im Sendezentrum auf dem 33C3 willkommen hei\u00dfen.", 
+                                "description": "Wir m\u00f6chten euch \"Hallo\" sagen und in einer schnellen, intensiven aber herzlichen Vorstellungsrunde herausbekommen, wer alles auf dem CCCongress unterwegs sein wird und ein Herz f\u00fcr das Podcasting hat.\r\nIhr bekommt auch eine \u00dcbersicht \u00fcber die M\u00f6glichkeiten, die euch im Sendezentrum auf dem 33C3 erwarten. Wir freuen uns auf euch!", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 29, 
+                                        "public_name": "Martin Fischer"
+                                    }, 
+                                    {
+                                        "id": 39, 
+                                        "public_name": "Ulrike Kretzmer"
+                                    }, 
+                                    {
+                                        "id": 7, 
+                                        "public_name": "Tim Pritlove"
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": []
+                            }, 
+                            {
+                                "id": 399, 
+                                "guid": "d138ab48-768b-4303-87d2-e31bfbf4eef3", 
+                                "logo": "/system/events/logos/000/000/399/large/nHrbp8sU.jpg?1480276359", 
+                                "date": "2016-12-27T12:30:00+01:00", 
+                                "start": "12:30", 
+                                "duration": "00:55", 
+                                "room": "Sendezentrumsb\u00fchne", 
+                                "slug": "33c3-399-podcastpat_innen_prasentieren_podcast-formate", 
+                                "title": "Podcastpat_innen pr\u00e4sentieren: Podcast-Formate", 
+                                "subtitle": "Podcasting f\u00fcr Anf\u00e4nger", 
+                                "track": "Sendezentrumsb\u00fchne", 
+                                "type": "workshop", 
+                                "language": "de", 
+                                "abstract": "Laberpodcast, Interviewpodcast, Magazin oder Feature: Was f\u00fcr Podcast-Formate gibt es eigentlich? Die Podcastpat_innen nehmen Euch mit zu einer Rundreise durch die deutschsprachige Podcastlandschaft.", 
+                                "description": "Am Anfang gibt es immer ein Problem: Welches Thema, welches Format, welche Software, welcher Ver\u00f6ffentlichungsort? Die Podcastpat_innen sind ein selbstorganisiertes Communityprojekt und wollen Anf\u00e4nger_innen beim Start ihres eigenen Podcasts unterst\u00fctzen. Auf der B\u00fchne stellen Daniel Me\u00dfner und Tine Nowak das Podcastpat_innen-Projekt kurz vor und starten dann mit einem \u00dcberblick zu den verschiedenen Podcastformaten in einer speziellen 33C3-Edition. ", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 67, 
+                                        "public_name": "tinowa"
+                                    }, 
+                                    {
+                                        "id": 46, 
+                                        "public_name": "Daniel Me\u00dfner"
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": []
+                            }, 
+                            {
+                                "id": 390, 
+                                "guid": "46f1b3cf-5cd4-4a6c-bb07-6ead116c2475", 
+                                "logo": null, 
+                                "date": "2016-12-27T14:00:00+01:00", 
+                                "start": "14:00", 
+                                "duration": "00:45", 
+                                "room": "Sendezentrumsb\u00fchne", 
+                                "slug": "33c3-390-die_ultraschall_rauspertaste", 
+                                "title": "Die Ultraschall R\u00e4uspertaste", 
+                                "subtitle": "g\u00fcnstige MIDI Controller selber bauen", 
+                                "track": "Sendezentrumsb\u00fchne", 
+                                "type": "lecture", 
+                                "language": "de", 
+                                "abstract": "MIDI R\u00e4uspertasten kann man sehr g\u00fcnstig mit einem Arduino und geeigneter mechanischer Hardware selber Bauen. Ob T\u00fcrklingelknopf oder Fu\u00dftaster. Jeder kann seine Wunsch-MIDI-Fernbedienung f\u00fcr Ultraschall selber bauen.", 
+                                "description": "Robert Nixdorf und Udo Sauer \"forschen\" seit l\u00e4ngerem auf dem Gebiet MIDI-Controller und stellen einige einfache und ein paar komplexere M\u00f6glichkeiten vor, Ultraschall fernzusteuern. ", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 212, 
+                                        "public_name": "fernsehmuell"
+                                    }, 
+                                    {
+                                        "id": 214, 
+                                        "public_name": "Diodenschein"
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": []
+                            }, 
+                            {
+                                "id": 396, 
+                                "guid": "9381b4e6-65b2-4879-9f7e-aec5a91d12f3", 
+                                "logo": null, 
+                                "date": "2016-12-27T15:15:00+01:00", 
+                                "start": "15:15", 
+                                "duration": "00:45", 
+                                "room": "Sendezentrumsb\u00fchne", 
+                                "slug": "33c3-396-salon_faire_elektronik", 
+                                "title": "Salon Faire Elektronik", 
+                                "subtitle": "Der Stand der Dinge", 
+                                "track": "Sendezentrumsb\u00fchne", 
+                                "type": "podium", 
+                                "language": "de", 
+                                "abstract": "In der ersten Folge des neuen Podcasts <i>Salon Faire Elektronik<i> erl\u00e4utern wir im Expertengespr\u00e4ch den aktuellen Stand der Dinge. Wir finden heraus, was zu tun ist, um an Hardware zu kommen bei deren Entstehung niemand zu Schaden kommt und alle korrekt bezahlt werden.", 
+                                "description": "", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 217, 
+                                        "public_name": "Matthias"
+                                    }, 
+                                    {
+                                        "id": 252, 
+                                        "public_name": "Sebastian Beschke"
+                                    }
+                                ], 
+                                "links": [
+                                    {
+                                        "url": "http://faire-computer.de", 
+                                        "title": "Faire Computer"
+                                    }, 
+                                    {
+                                        "url": "https://fairloetet.de", 
+                                        "title": "FairL\u00f6tet"
+                                    }, 
+                                    {
+                                        "url": "https://www.nager-it.de/", 
+                                        "title": "NagerIT"
+                                    }
+                                ], 
+                                "attachments": []
+                            }, 
+                            {
+                                "id": 397, 
+                                "guid": "8bc5a09a-26c0-4cf7-ac6c-160a7e85e38a", 
+                                "logo": "/system/events/logos/000/000/397/large/GBNI_Logo.jpg?1480281472", 
+                                "date": "2016-12-27T16:30:00+01:00", 
+                                "start": "16:30", 
+                                "duration": "01:30", 
+                                "room": "Sendezentrumsb\u00fchne", 
+                                "slug": "33c3-397-gala_be_need_inn", 
+                                "title": "Gala Be Need Inn", 
+                                "subtitle": "Die Podcast Gameshow", 
+                                "track": "Sendezentrumsb\u00fchne", 
+                                "type": "other", 
+                                "language": "de", 
+                                "abstract": "Die Rateshow deren Name ein Anagram des Originals ist!", 
+                                "description": "In dieser Show geht es um die L\u00f6sung hinter Fragen wie was ist ein Alarmstuhl, was ist Spritzgeld oder warum haben Z\u00fcge aus Deutschland nach Frankreich Knallerbsen an Board!\r\n\r\nEin Team aus vier Kandidaten versucht diese R\u00e4tsel m\u00f6glichst schnell zu l\u00f6sen, hat einer der Vier die L\u00f6sung gefunden gewinnt er f\u00fcnf Euro. Alle anderen, samt Moderator, m\u00fcssen sich ein Kurzen trinken. \r\nWird die L\u00f6sung nicht gefunden gehen f\u00fcnf Euro als Spende ans Sendezentrum. Pro R\u00e4tsel sind circa 10 Minuten eingeplant. ", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 85, 
+                                        "public_name": "MacSnider"
+                                    }
+                                ], 
+                                "links": [
+                                    {
+                                        "url": "http://galabeneedinn.de", 
+                                        "title": "Gala Be Need Inn Website"
+                                    }
+                                ], 
+                                "attachments": []
+                            }, 
+                            {
+                                "id": 377, 
+                                "guid": "1e162894-cf1d-4670-934f-1909e52fc4ac", 
+                                "logo": "/system/events/logos/000/000/377/large/rechtsbelehrung-klein.png?1478555273", 
+                                "date": "2016-12-27T18:30:00+01:00", 
+                                "start": "18:30", 
+                                "duration": "01:30", 
+                                "room": "Sendezentrumsb\u00fchne", 
+                                "slug": "33c3-377-rechtsbelehrung_com", 
+                                "title": "rechtsbelehrung.com", 
+                                "subtitle": "Recht autonom - Gesch\u00e4ftsf\u00e4higkeit und Haftung von KIs, Bots und autonomen Systemen.", 
+                                "track": "Sendezentrumsb\u00fchne", 
+                                "type": "workshop", 
+                                "language": "de", 
+                                "abstract": "Wer zahlt, wenn Bots in einen Kaufrausch geraten oder autonom fahrende Autos sich nicht an die Verkehrsregeln halten? Entwickler, Nutzer oder etwa die KI selbst?", 
+                                "description": "Die Rechtsbelehrung ist ein Podcast, der \u00fcber rechtliche Ph\u00e4nomene, die entstehen, wenn die Meatwelt mit dem digitalen Raum verschmilzt. Auf dem Congress - wahrscheinlich der letzten Veranstaltung, auf der es au\u00dfer Menschen keine weiteren vernunftbegabten Entit\u00e4ten geben wird - wollen sich Thomas Schwenke und Marcus Richter einer der \u00e4ltesten Fragen der Menschheit zuwenden: Wer ist schuld?\r\n\r\nWer zahlt, wenn Bots in einen Kaufrausch geraten oder autonom fahrende Autos sich nicht an die Verkehrsregeln halten? Entwickler, Nutzer oder etwa die KI selbst? Wenn autonome Systeme unabh\u00e4ngig agieren und sich selbst definieren, sollten sie dann nicht auch rechtlich autonom werden? \r\n\r\nWird es neben den nat\u00fcrlichen Personen (aka Menschen) und juristischen Personen (aka Firmen) auch eine \"E-Person\" geben? Die beiden Menschen der Rechtsbelehrung bringen viele Ideen, Grundlagen sowie Fragen mit und werden sich gemeinsam mit dem Publikum auf die Suche nach den Antworten begeben.", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 69, 
+                                        "public_name": "Marcus Richter"
+                                    }, 
+                                    {
+                                        "id": 228, 
+                                        "public_name": "Dr. Thomas Schwenke"
+                                    }
+                                ], 
+                                "links": [
+                                    {
+                                        "url": "http://rechtsbelehrung.com", 
+                                        "title": "Die Rechtsbelehrung"
+                                    }
+                                ], 
+                                "attachments": []
+                            }, 
+                            {
+                                "id": 393, 
+                                "guid": "04418c92-8483-4db1-b019-d3981270a625", 
+                                "logo": "/system/events/logos/000/000/393/large/wisspod_logo.png?1480106308", 
+                                "date": "2016-12-27T20:30:00+01:00", 
+                                "start": "20:30", 
+                                "duration": "01:00", 
+                                "room": "Sendezentrumsb\u00fchne", 
+                                "slug": "33c3-393-wisspod-quiz", 
+                                "title": "Wisspod-Quiz", 
+                                "subtitle": "", 
+                                "track": "Sendezentrumsb\u00fchne", 
+                                "type": "", 
+                                "language": "de", 
+                                "abstract": "Wir werden auf der Sendezentrums-B\u00fchne interessante G\u00e4ste aus dem Bereich des Wissenschaftspodcasting aber auch der Wissenschaftskommunikation haben, mit ihnen \u00fcber Wissenschaftskommunikation diskutieren und gemeinsam mit dem Publikum ein Jeopardy-Quiz veranstalten. Dabei gilt es mit Hilfe von Audioauschnitten aus Wissen{schaft}spodcasts die dort behandelten Themen zu erraten.", 
+                                "description": "Wissen{schaft}spodcasts sind Podcasts, deren prim\u00e4res Ziel die Wissensvermittlung ist. Wir sind davon \u00fcberzeugt, dass Podcasts ein geeignetes didaktisches Medium zur nachhaltigen Wissensvermittlung sind und haben daher das kuratierte Wisspod Verzeichnis http://wissenschaftspodcasts.de erstellt. Dar\u00fcber hinaus sind Wissen{schaft}spodcasts aber noch etwas: Lehrreiche Unterhaltung. Sie z\u00e4hlen darum aus gutem Grund zu den beliebtesten Podcastangeboten. Darum glauben wir, dass speziell diese Podcasts auf die Showb\u00fchne geh\u00f6ren. \r\nGanz nebenbei wird dabei das vielf\u00e4ltige Angebot der kuratierten Wisspod-Webseite vorgestellt. Wir m\u00f6chten die Bandbreite dieser Formate durch den Showcharakter sichtbar machen und daf\u00fcr sensibilisieren, dass Podcasts ein noch untersch\u00e4tztes Potenzial bergen. Durch die Show f\u00fchren einige Mitglieder der Wisspod-Redaktion, die so auch sichtbarer werden und anschlie\u00dfend zur Diskussion zur Verf\u00fcgung stehen.", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 144, 
+                                        "public_name": "Nicolas W\u00f6hrl"
+                                    }, 
+                                    {
+                                        "id": 46, 
+                                        "public_name": "Daniel Me\u00dfner"
+                                    }, 
+                                    {
+                                        "id": 208, 
+                                        "public_name": "Martin R\u00fctzler"
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": []
+                            }, 
+                            {
+                                "id": 406, 
+                                "guid": "8d5a7667-32f3-4436-89b1-849a8543a9b1", 
+                                "logo": null, 
+                                "date": "2016-12-27T22:00:00+01:00", 
+                                "start": "22:00", 
+                                "duration": "01:00", 
+                                "room": "Sendezentrumsb\u00fchne", 
+                                "slug": "33c3-406-quizradio", 
+                                "title": "Quizradio", 
+                                "subtitle": "", 
+                                "track": "Sendezentrumsb\u00fchne", 
+                                "type": "", 
+                                "language": "de", 
+                                "abstract": "Ein Quizpodcast", 
+                                "description": "Das Projekt \"Quizradio\" ist gerade noch im Aufbau und wird auf der Podcast-Liveb\u00fchne des 33c3 seinen ersten Erfolg feiern. Kandidaten aus dem Publikum treten gegeinandern an, um sich in Quizfragen zu messen, die vielleicht nicht ganz so typisch wie bei Jauch und Pilawa sind.", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 222, 
+                                        "public_name": "Sebi"
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": []
+                            }
+                        ], 
+                        "Podcastingtisch": [
+                            {
+                                "id": 402, 
+                                "guid": "77741771-4517-41a0-8ccb-538e610a9222", 
+                                "logo": "/system/events/logos/000/000/402/large/nHrbp8sU.jpg?1480281829", 
+                                "date": "2016-12-27T16:00:00+01:00", 
+                                "start": "16:00", 
+                                "duration": "00:55", 
+                                "room": "Podcastingtisch", 
+                                "slug": "33c3-402-podcastpat_innen_talk_i", 
+                                "title": "Podcastpat_innen Talk I", 
+                                "subtitle": "Mach mit am Podcastingtisch!", 
+                                "track": "Podcastingtisch", 
+                                "type": "meeting", 
+                                "language": "de", 
+                                "abstract": "Egal wie alt - alle k\u00f6nnen Podcasts produzieren. Hast Du auch schon \u00fcberlegt, mit dem Podcasten anzufangen? Am Podcastingtisch kann man das Podcasten gleich ausprobieren.", 
+                                "description": "Die Podcastpat_innen sind ein selbstorganisiertes Communityprojekt und wollen Anf\u00e4nger_innen beim Start ihres eigenen Podcasts unterst\u00fctzen. Setz Dich mit zu uns an den Podcastingtisch und frag alles zum Podcasten, was Du gerne wissen m\u00f6chtest. Vielleicht willst Du selbst mit den Podcasting beginnen? Wir brainstormen, denken nach und h\u00f6ren zu. Am Tisch begr\u00fcsst Euch heute u.a. Tine Nowak...\r\n\r\nEs sind weitere Podcastpat_innen vor Ort: Sprich uns an!", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 67, 
+                                        "public_name": "tinowa"
+                                    }
+                                ], 
+                                "links": [
+                                    {
+                                        "url": "http://das-sendezentrum.de/projekt/podcastpat_innen/", 
+                                        "title": "Infos zu den Podcastpat_innen"
+                                    }
+                                ], 
+                                "attachments": []
+                            }, 
+                            {
+                                "id": 392, 
+                                "guid": "ac449788-f3b7-4aa7-bc4b-e4186dd22aab", 
+                                "logo": "/system/events/logos/000/000/392/large/BlickwechselLogo.jpeg?1480018459", 
+                                "date": "2016-12-27T17:00:00+01:00", 
+                                "start": "17:00", 
+                                "duration": "00:45", 
+                                "room": "Podcastingtisch", 
+                                "slug": "33c3-392-blickwechsel", 
+                                "title": "Blickwechsel", 
+                                "subtitle": "Sprich mit uns", 
+                                "track": "Podcastingtisch", 
+                                "type": "other", 
+                                "language": "de", 
+                                "abstract": "Chris und Horst setzten sich an den Tisch und besprechen ein Homo- und ein Heterothema.", 
+                                "description": "Wenn H\u00f6rer_innen Lust haben k\u00f6nnen sie gerne dazu kommen oder Themen in den Kommentaren vorgeben und wir reden beim Kongress dar\u00fcber.", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 206, 
+                                        "public_name": "die_horst"
+                                    }, 
+                                    {
+                                        "id": 199, 
+                                        "public_name": "Chris"
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": []
+                            }, 
+                            {
+                                "id": 382, 
+                                "guid": "de84d660-e9d2-4757-b8da-72de7172d78c", 
+                                "logo": "/system/events/logos/000/000/382/large/kulturpessimisten_original.png?1478883007", 
+                                "date": "2016-12-27T22:00:00+01:00", 
+                                "start": "22:00", 
+                                "duration": "01:00", 
+                                "room": "Podcastingtisch", 
+                                "slug": "33c3-382-kulturpessimisten_feat_insnider_-_rogue_one", 
+                                "title": "Kulturpessimisten feat InSnider - Rogue one", 
+                                "subtitle": "", 
+                                "track": "Podcastingtisch", 
+                                "type": "other", 
+                                "language": "de", 
+                                "abstract": "Rebellen! Todesstern! Vader!", 
+                                "description": "Wie schon auf dem 32c3 setzen wir auch dieses Jahr die Tradition fort, die neueste Fortsetzung des Star Wars Universums zu besprechen, Rogue One. Nat\u00fcrlich ist dabei auch wieder der MacSnider mit von der Partie.", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 101, 
+                                        "public_name": "Eric Schmieder"
+                                    }, 
+                                    {
+                                        "id": 85, 
+                                        "public_name": "MacSnider"
+                                    }
+                                ], 
+                                "links": [
+                                    {
+                                        "url": "http://die-kulturpessimisten.de", 
+                                        "title": "Blog"
+                                    }, 
+                                    {
+                                        "url": "http://die-kulturpessimisten.de/blog/2016/01/03/ks012-star-wars-episode-vii-das-erwachen-der-macht/", 
+                                        "title": "Besprechung von Episode 7"
+                                    }
+                                ], 
+                                "attachments": []
+                            }, 
+                            {
+                                "id": 384, 
+                                "guid": "e3719cab-573f-479a-9c66-adc5f2bf8643", 
+                                "logo": "/system/events/logos/000/000/384/large/tis_logo.png?1478983879", 
+                                "date": "2016-12-27T23:00:00+01:00", 
+                                "start": "23:00", 
+                                "duration": "01:00", 
+                                "room": "Podcastingtisch", 
+                                "slug": "33c3-384-the_insnider_feat_die_kulturpessimisten_-_rogue_one", 
+                                "title": " The InSnider feat. die Kulturpessimisten - Rogue One", 
+                                "subtitle": "Der Crossover Podcast Talk zu Rogue One - A Star Wars Story", 
+                                "track": "Podcastingtisch", 
+                                "type": "other", 
+                                "language": "de", 
+                                "abstract": "Vader! Rebellen! Todesstern!", 
+                                "description": "Wie schon auf dem 32c3 setzen wir auch dieses Jahr die Tradition fort, die neueste Fortsetzung des Star Wars Universums zu besprechen, Rogue One. Mit dabei sind wieder die Jungs vom Podcast \"Die Kulturpessimisten\"", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 85, 
+                                        "public_name": "MacSnider"
+                                    }
+                                ], 
+                                "links": [
+                                    {
+                                        "url": "http://theinsnider.de/", 
+                                        "title": "Website"
+                                    }, 
+                                    {
+                                        "url": "http://theinsnider.de/tis033-the-force-awakens/", 
+                                        "title": "Besprechung von Episode 7"
+                                    }
+                                ], 
+                                "attachments": []
+                            }
+                        ], 
                         "Hall 1": [], 
                         "Hall 2": [], 
                         "Hall G": [], 
                         "Hall 6": [], 
-                        "Sendezentrumsb\u00fchne": [], 
-                        "Podcastingtisch": [], 
                         "Hall A.1": [
                             {
                                 "id": 1116, 
@@ -4305,12 +4717,471 @@
                                 ]
                             }
                         ], 
+                        "Sendezentrumsb\u00fchne": [
+                            {
+                                "id": 412, 
+                                "guid": "4eb317dd-2644-4bf2-868c-fb178322e982", 
+                                "logo": null, 
+                                "date": "2016-12-28T10:30:00+01:00", 
+                                "start": "10:30", 
+                                "duration": "00:30", 
+                                "room": "Sendezentrumsb\u00fchne", 
+                                "slug": "33c3-412-junghackertag_-_begrussung", 
+                                "title": "Junghackertag - Begr\u00fc\u00dfung", 
+                                "subtitle": "", 
+                                "track": "Sendezentrumsb\u00fchne", 
+                                "type": "", 
+                                "language": "de", 
+                                "abstract": "Begr\u00fc\u00dfung des Junghackertag-Publikums mit kurzer\r\nVorstellung des Congresses und der einzelnen Workshops und Angebote.", 
+                                "description": "", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [], 
+                                "links": [], 
+                                "attachments": []
+                            }, 
+                            {
+                                "id": 400, 
+                                "guid": "31d94a01-69a4-42e8-aa09-e40b859319a9", 
+                                "logo": "/system/events/logos/000/000/400/large/JungPodcaster_innenTalk.png?1480277247", 
+                                "date": "2016-12-28T13:15:00+01:00", 
+                                "start": "13:15", 
+                                "duration": "00:45", 
+                                "room": "Sendezentrumsb\u00fchne", 
+                                "slug": "33c3-400-podcasting_fur_kinder_jugendliche_familien", 
+                                "title": "Podcasting f\u00fcr Kinder, Jugendliche & Familien", 
+                                "subtitle": "Jungpodcaster_innen Talk", 
+                                "track": "Sendezentrumsb\u00fchne", 
+                                "type": "workshop", 
+                                "language": "de", 
+                                "abstract": "Egal wie alt - alle k\u00f6nnen Podcasts produzieren. Hast Du auch schon \u00fcberlegt, mit dem Podcasten anzufangen? Auf der B\u00fchne erz\u00e4hlen junge Menschen, die selbst Audio online stellen oder die mit ihren Eltern podcasten von ihrem Podcast-Alltag.", 
+                                "description": "Doch wo f\u00e4ngt man an? Und was haben die podcastenden Familien davon? Moderiert wird die B\u00fchnen-Session von Nele Heise (Podcastpatin). Mit dabei sind:\r\n- Toby Baier (Einschlafen Podcast)\r\n- Mareile Baier (Klogschieters)\r\n- Lovis Baier (Mal mit uns)\r\n- Andreas Rinke (INFOeinholen)\r\n- Lukas Rinke (Talentschmiede Podcast)\r\n\r\nIm Anschluss gibt es die M\u00f6glichkeit, am Podcast-Tisch das Podcasten gleich auszuprobieren oder sich dazu setzen und zuzuh\u00f6ren. F\u00fcr Fragen sind Podcastpat_innen vor Ort. Sprich uns an!", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 67, 
+                                        "public_name": "tinowa"
+                                    }, 
+                                    {
+                                        "id": 140, 
+                                        "public_name": "Nele"
+                                    }, 
+                                    {
+                                        "id": 216, 
+                                        "public_name": "Toby Baier"
+                                    }
+                                ], 
+                                "links": [
+                                    {
+                                        "url": "http://das-sendezentrum.de/projekt/podcastpat_innen/", 
+                                        "title": "Infos zu den Podcastpat_innen"
+                                    }
+                                ], 
+                                "attachments": []
+                            }, 
+                            {
+                                "id": 388, 
+                                "guid": "1e5e49a7-b76d-4efa-91e0-4ea90c052aea", 
+                                "logo": "/system/events/logos/000/000/388/large/logo.png?1479203470", 
+                                "date": "2016-12-28T14:30:00+01:00", 
+                                "start": "14:30", 
+                                "duration": "01:00", 
+                                "room": "Sendezentrumsb\u00fchne", 
+                                "slug": "33c3-388-hor_doch_mal_zu", 
+                                "title": "H\u00f6r doch mal zu", 
+                                "subtitle": "Ein Labberpodcast", 
+                                "track": "Sendezentrumsb\u00fchne", 
+                                "type": "podium", 
+                                "language": "de", 
+                                "abstract": "H\u00f6r doch mal zu ist ein relative neuer Labberpodcast, und der einzige mit doppel B. Wir wollen auf der B\u00fchne einen pers\u00f6nlichen politischen Jahresr\u00fcckblick machen und w\u00fcrden uns freuen, wenn wir das auch machen k\u00f6nnen. Unter anderem wollen mit Hilfe eines Brennpunktraten auf das Jahr zur\u00fcckblicken und das Publikum ist eingeladen, sich zu beteiligen. Auch Fragen zu Autismus sind m\u00f6glich...", 
+                                "description": "Wir sind Jan und Frank und machen den Podcast \u201cH\u00f6r doch mal zu\u201d. Jan wurde 1988 in Berlin (Ost) geboren und arbeitet in der IT. Au\u00dferdem ist Jan Autist. Frank ist 1953 in Berlin(West) geboren und lebe noch immer (gerne) in der Stadt. Er arbeite seit erfolgreich abgebrochenem E-Technik Studium an der TU Berlin in der IT, Schwerpunkt \u201cMail\u201d und \u2018n bischen System-Administration und Netz.\r\nDurch den Altersunterschied ergibt sich bei uns immer eine gewisse Spannung, die wir auch gerne auf die B\u00fchne des Sendezentrums auf dem 33c3 bringen wollen.", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 204, 
+                                        "public_name": "Jan"
+                                    }, 
+                                    {
+                                        "id": 220, 
+                                        "public_name": "mailonator"
+                                    }
+                                ], 
+                                "links": [
+                                    {
+                                        "url": "http://hoer-doch-mal-zu.de/", 
+                                        "title": "H\u00f6r doch mal zu"
+                                    }
+                                ], 
+                                "attachments": []
+                            }, 
+                            {
+                                "id": 413, 
+                                "guid": "2ad6481e-5e76-42af-a3d1-5665a2798edd", 
+                                "logo": null, 
+                                "date": "2016-12-28T16:00:00+01:00", 
+                                "start": "16:00", 
+                                "duration": "00:30", 
+                                "room": "Sendezentrumsb\u00fchne", 
+                                "slug": "33c3-413-junghackertag-podcast", 
+                                "title": "Junghackertag-Podcast", 
+                                "subtitle": "", 
+                                "track": "Sendezentrumsb\u00fchne", 
+                                "type": "", 
+                                "language": "de", 
+                                "abstract": "Wir wollen die Kinder nach ihren Erlebnissen auf dem\r\nCongress befragen und eventuell langj\u00e4hrige Congress-Besucher:innen da haben, die Fragen beantworten k\u00f6nnen.", 
+                                "description": "", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [], 
+                                "links": [], 
+                                "attachments": []
+                            }, 
+                            {
+                                "id": 372, 
+                                "guid": "71f78a8b-26ab-443f-bc9d-f0d6bc148c4f", 
+                                "logo": "/system/events/logos/000/000/372/large/as7KikRK_400x400.jpg?1481049309", 
+                                "date": "2016-12-28T16:45:00+01:00", 
+                                "start": "16:45", 
+                                "duration": "01:00", 
+                                "room": "Sendezentrumsb\u00fchne", 
+                                "slug": "33c3-372-die_sprechstunde", 
+                                "title": "Die Sprechstunde", 
+                                "subtitle": "", 
+                                "track": "Sendezentrumsb\u00fchne", 
+                                "type": "", 
+                                "language": "de", 
+                                "abstract": "Wir, Christoph Herburg und Thomas Brandt wollen mit euch \u00fcber Schule sprechen und was l\u00e4ge da n\u00e4her als das klassische Format der Sprechstunde aufzumachen. Ihr stellt Fragen und wir versuchen sie bestm\u00f6glich zu beantworten. Dabei kann es um praktische Probleme, wie auch die gro\u00dfen politischen Fragen gehen.", 
+                                "description": "", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 198, 
+                                        "public_name": "Thomas Brandt"
+                                    }, 
+                                    {
+                                        "id": 234, 
+                                        "public_name": "Christoph Herburg"
+                                    }
+                                ], 
+                                "links": [
+                                    {
+                                        "url": "http://www.schulsprecher-podcast.de", 
+                                        "title": "Website"
+                                    }
+                                ], 
+                                "attachments": []
+                            }, 
+                            {
+                                "id": 376, 
+                                "guid": "47eedd9d-adf7-40d6-80fa-40f560fd3794", 
+                                "logo": "/system/events/logos/000/000/376/large/WeisheitKlein.jpg?1478553649", 
+                                "date": "2016-12-28T18:15:00+01:00", 
+                                "start": "18:15", 
+                                "duration": "01:00", 
+                                "room": "Sendezentrumsb\u00fchne", 
+                                "slug": "33c3-376-der_weisheit", 
+                                "title": "Der Weisheit", 
+                                "subtitle": "Dr. Weisheit ist im Haus! ", 
+                                "track": "Sendezentrumsb\u00fchne", 
+                                "type": "podium", 
+                                "language": "de", 
+                                "abstract": "Drei Staffeln lang haben wir \u00fcber unsere Probleme besprochen. Jetzt l\u00f6sen wir Eure. ", 
+                                "description": "Der Weisheit ist ein einst\u00fcndiges Radiomagazin mit Malik Aziz, Marcus Richter, Patricia Cammarata und Frau Kirsche. Gesprochen wird \u00fcber Allt\u00e4gliches, Tiefsch\u00fcrfendes und Albernes, also das, was uns gerade bewegt. \r\n\r\nJetzt ist es soweit: Frau Kirsche, Patricia, Malik und Marcus kehren auf den Congress zur\u00fcck und retten die Welt. Eure Welt. Nachdem wir auf dem 32C3 eure Fragen beantwortet haben, wollen wir jetzt Eure Probleme l\u00f6sen.\r\n\r\nIhr wollt die Antwort auf das Trolley-Problem? Der Schwippschwager eurer Schwester hat dem Hund des Friseurs eurer Tante ein Ohr abgebissen und ihr wisst nicht wie ihr euch verhalten wollt? Ihr braucht eine Quote, aber wisst nicht wie viele? \r\n\r\nKommt zur B\u00fchne im Sendezentrum und all eure Fragen sollen f\u00fcr immer beantwortet werden. In einer Stunde. Nicht mehr und nicht weniger. \r\n\r\nPS: Falls ihr euch nicht traut die Fragen live auf der B\u00fchne zu stellen, k\u00f6nnt ihr sie auch vorher an fragen@derweisheit.de schicken. ", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 69, 
+                                        "public_name": "Marcus Richter"
+                                    }, 
+                                    {
+                                        "id": 113, 
+                                        "public_name": "Patricia Cammarata"
+                                    }, 
+                                    {
+                                        "id": 200, 
+                                        "public_name": "Malik"
+                                    }, 
+                                    {
+                                        "id": 239, 
+                                        "public_name": "Frau Kirsche"
+                                    }
+                                ], 
+                                "links": [
+                                    {
+                                        "url": "http://derweisheit.de", 
+                                        "title": "[Der Webseite]"
+                                    }
+                                ], 
+                                "attachments": []
+                            }, 
+                            {
+                                "id": 411, 
+                                "guid": "5c9003b7-543d-476a-89f0-eee5ed36327c", 
+                                "logo": null, 
+                                "date": "2016-12-28T19:45:00+01:00", 
+                                "start": "19:45", 
+                                "duration": "00:45", 
+                                "room": "Sendezentrumsb\u00fchne", 
+                                "slug": "33c3-411-sciene_slam", 
+                                "title": "Sciene Slam", 
+                                "subtitle": "", 
+                                "track": "Sendezentrumsb\u00fchne", 
+                                "type": "", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 255, 
+                                        "public_name": "Julia Offe"
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": []
+                            }, 
+                            {
+                                "id": 373, 
+                                "guid": "3a53269d-4dcb-4a56-b018-7db9f230aab3", 
+                                "logo": "/system/events/logos/000/000/373/large/Screenshot_2016-11-05_15h_57m_32s.png?1478357863", 
+                                "date": "2016-12-28T21:00:00+01:00", 
+                                "start": "21:00", 
+                                "duration": "01:00", 
+                                "room": "Sendezentrumsb\u00fchne", 
+                                "slug": "33c3-373-teenagersexbeichte", 
+                                "title": "teenagersexbeichte", 
+                                "subtitle": "Das geile Lifestylemagazin mit Malik und Johnny", 
+                                "track": "Sendezentrumsb\u00fchne", 
+                                "type": "performance", 
+                                "language": "de", 
+                                "abstract": "Wir legen den Senderzetrum in Schud und assche. f\u00fcr gelt. aber nix den sagen ok", 
+                                "description": "Unseren unterhaltsamen und tiergerechten Lifestylepodcast werden im Jahr von \u00fcber 1,2 Millionen Zuschauern gelesen, darunter auch von viele Prominenten. Bundespr\u00e4sident Dr. Ronan Keating, der Bayerische Ministerpr\u00e4sident Dr. Angela Merkels, das Bayerische Kabinett oder Au\u00dfenminister a.D. Oppa G\u00fcntrich sind gerngesehene G\u00e4ste vor ihren Podcatchern. Auch viele Schauspieler und Popstars (Michael Jackson, Bon Jovi, die Kelly-Familie, also vermuten wir) z\u00e4hlen zu unseren \"Fans\", ebenso wie Holger Pritlove und Marcus Stockmann.\r\n\r\nAnl\u00e4\u00dflich des 33c3 Gastspiels 2016 in Hamburch besuchen die Box-Champions Vitali und Vladimir Klitschko die Vorstellung. Bundesarbeitsminister a.D. Nikolaus Grill war zu Gast in seinem Wahlkreis S\u00fcdstra\u00dfe und schwang bei einem Kurzauftritt in der Manege die ber\u00fchmte Pita-Peitsche. In \u00d6sterreich kam der \"bekennende\" Blindseefan Alexander Tavor mit Familie gleich zweimal und zollte Malik und Johnny bei einem Pausenempfang seine Hochachtung f\u00fcr ihr Lebenswerk.", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 200, 
+                                        "public_name": "Malik"
+                                    }, 
+                                    {
+                                        "id": 230, 
+                                        "public_name": "teenagersexjohnny"
+                                    }
+                                ], 
+                                "links": [
+                                    {
+                                        "url": "www.teenagersexbeichte.de", 
+                                        "title": "teenagersexbeichte"
+                                    }
+                                ], 
+                                "attachments": []
+                            }, 
+                            {
+                                "id": 410, 
+                                "guid": "0cf3ff5b-9d86-4831-8eac-588d92771f63", 
+                                "logo": "/system/events/logos/000/000/410/large/tG88RpTQ_400x400.jpg?1481130545", 
+                                "date": "2016-12-28T22:30:00+01:00", 
+                                "start": "22:30", 
+                                "duration": "01:00", 
+                                "room": "Sendezentrumsb\u00fchne", 
+                                "slug": "33c3-410-freakshow", 
+                                "title": "Freakshow", 
+                                "subtitle": "", 
+                                "track": "Sendezentrumsb\u00fchne", 
+                                "type": "", 
+                                "language": "de", 
+                                "abstract": "Freak Show ist ein Podcast, der sich mit dem Leben mit Technik im 21. Jahrhundert auseinandersetzt und dabei eine Vielzahl von Themen anschneidet. Es ist kein Geheimnis, dass das Team sich viel und gerne mit Apple und seinen Produkten, Programmierung, Bitcoin, Gitarren, Podcasting und anderen Lastern herumschl\u00e4gt. Aber wir reden auch \u00fcber was anderes.", 
+                                "description": "", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [], 
+                                "links": [
+                                    {
+                                        "url": "https://freakshow.fm/", 
+                                        "title": "Freakshow Webseite"
+                                    }
+                                ], 
+                                "attachments": []
+                            }
+                        ], 
+                        "Podcastingtisch": [
+                            {
+                                "id": 378, 
+                                "guid": "d47a7ba2-86e4-4263-9085-3a95b7c3ec4d", 
+                                "logo": "/system/events/logos/000/000/378/large/wisspod_logo.png?1478636852", 
+                                "date": "2016-12-28T13:00:00+01:00", 
+                                "start": "13:00", 
+                                "duration": "00:45", 
+                                "room": "Podcastingtisch", 
+                                "slug": "33c3-378-wisspod_inside", 
+                                "title": "Wisspod Inside", 
+                                "subtitle": "", 
+                                "track": "Podcastingtisch", 
+                                "type": "", 
+                                "language": "de", 
+                                "abstract": "Wisspod ist ein Reisef\u00fchrer durch die Welt der Wissenschaftspodcasts. Das Redaktionsteam stellt das Projekt vor und diskutiert \u00fcber weitere Pl\u00e4ne des kuratierten Angebots.", 
+                                "description": "", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 46, 
+                                        "public_name": "Daniel Me\u00dfner"
+                                    }
+                                ], 
+                                "links": [
+                                    {
+                                        "url": "http://wissenschaftspodcasts.de/", 
+                                        "title": "Wisspod"
+                                    }
+                                ], 
+                                "attachments": []
+                            }, 
+                            {
+                                "id": 405, 
+                                "guid": "770ba5a4-6d45-46c2-b953-af51dfa467a2", 
+                                "logo": "/system/events/logos/000/000/405/large/vushmu8z_400x400.jpg?1481045718", 
+                                "date": "2016-12-28T14:00:00+01:00", 
+                                "start": "14:00", 
+                                "duration": "01:00", 
+                                "room": "Podcastingtisch", 
+                                "slug": "33c3-405-goldene_zehn_-_folge_28", 
+                                "title": "Goldene Zehn - Folge 28", 
+                                "subtitle": "", 
+                                "track": "Podcastingtisch", 
+                                "type": "", 
+                                "language": "de", 
+                                "abstract": "Aufzeichnung der 28ten Folge des Podcasts \"die goldene Zehn\". Mit Henry und Sebi live und einem Kai aus der Dose.", 
+                                "description": "Aufzeichnung der 28ten Folge des Podcasts \"die goldene Zehn\". Mit Henry und Sebi live und einem Kai aus der Dose.", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 222, 
+                                        "public_name": "Sebi"
+                                    }, 
+                                    {
+                                        "id": 221, 
+                                        "public_name": "Schmalzstullenk\u00f6nig"
+                                    }, 
+                                    {
+                                        "id": 224, 
+                                        "public_name": "Kai"
+                                    }
+                                ], 
+                                "links": [
+                                    {
+                                        "url": "http://g10.eu/", 
+                                        "title": "Die goldene Zehn"
+                                    }
+                                ], 
+                                "attachments": []
+                            }, 
+                            {
+                                "id": 401, 
+                                "guid": "efc694fc-349c-461b-9562-83ca4a8ee714", 
+                                "logo": "/system/events/logos/000/000/401/large/JungPodcaster_innenTisch.png?1480280927", 
+                                "date": "2016-12-28T15:00:00+01:00", 
+                                "start": "15:00", 
+                                "duration": "00:55", 
+                                "room": "Podcastingtisch", 
+                                "slug": "33c3-401-podcastpat_innen_talk_ii", 
+                                "title": "Podcastpat_innen Talk II", 
+                                "subtitle": "Jungpodcaster_innen Edition", 
+                                "track": "Podcastingtisch", 
+                                "type": "meeting", 
+                                "language": "de", 
+                                "abstract": "Egal wie alt - alle k\u00f6nnen Podcasts produzieren. Hast Du auch schon \u00fcberlegt, mit dem Podcasten anzufangen? Am Podcasttisch kann man das Podcasten gleich ausprobieren.", 
+                                "description": "Im Rahmen des Junghacker-Tags steht der Podcasttisch Kindern und Jugendlichen frei, gemeinsam mit den Podcastpat_innen einen Podcast aufzunehmen. Welche Fragen zum Podcasting gibt es? Wor\u00fcber w\u00fcrden die Jungpodcaster_innen selber gerne podcasten? Wie f\u00fchrt man Gespr\u00e4che? Ein gemeinsamer Podcast-Einstieg! Am Tisch begr\u00fcssen Euch heute Nele Heise und Simon D\u00fcckert...\r\n\r\nEs sind weitere Podcastpat_innen f\u00fcr Fragen vor Ort.", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 67, 
+                                        "public_name": "tinowa"
+                                    }, 
+                                    {
+                                        "id": 57, 
+                                        "public_name": "Simon D\u00fcckert"
+                                    }
+                                ], 
+                                "links": [
+                                    {
+                                        "url": "http://das-sendezentrum.de/projekt/podcastpat_innen/", 
+                                        "title": "Infos zu den Podcastpat_innen"
+                                    }
+                                ], 
+                                "attachments": []
+                            }, 
+                            {
+                                "id": 404, 
+                                "guid": "64cf49b7-f333-4068-b919-5d526c0dbe47", 
+                                "logo": "/system/events/logos/000/000/404/large/abslogo06.png?1480286836", 
+                                "date": "2016-12-28T16:00:00+01:00", 
+                                "start": "16:00", 
+                                "duration": "01:00", 
+                                "room": "Podcastingtisch", 
+                                "slug": "33c3-404-abs-magazin", 
+                                "title": "ABS-Magazin", 
+                                "subtitle": "Arbeit, Bildung, Soziales. Gesellschaftspolitisches Magazin bei RadioX.", 
+                                "track": "Podcastingtisch", 
+                                "type": "other", 
+                                "language": "de", 
+                                "abstract": "W\u00f6chentliche Magazinsendung auf RadioX, dem nichtkommerziellen B\u00fcrgerradio. Frankfurt 91,8MHz. Live vom 33c3.", 
+                                "description": "Unterhaltungen mit Besucher:innen und Machern:innen des 33c3. Sowohl Details zur aktuellen Lage, als auch der gro\u00dfe \u00dcberblick. Welche Herausforderungen durch neue Technik ergeben sich f\u00fcr unsrere Gesellschaft?", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 223, 
+                                        "public_name": "Michael"
+                                    }
+                                ], 
+                                "links": [
+                                    {
+                                        "url": "http://absmagazin.de", 
+                                        "title": "absmagazin.de"
+                                    }
+                                ], 
+                                "attachments": []
+                            }, 
+                            {
+                                "id": 394, 
+                                "guid": "a4b615be-5e46-4b48-8f78-d2b006995e60", 
+                                "logo": "/system/events/logos/000/000/394/large/Logo_2015-11-16.jpg?1480113060", 
+                                "date": "2016-12-28T17:00:00+01:00", 
+                                "start": "17:00", 
+                                "duration": "01:00", 
+                                "room": "Podcastingtisch", 
+                                "slug": "33c3-394-abcoholics_folge_t", 
+                                "title": "ABCoholics Folge T", 
+                                "subtitle": "", 
+                                "track": "Podcastingtisch", 
+                                "type": "", 
+                                "language": "de", 
+                                "abstract": "ABCoholics, der Info-Podcast auf Zeit l\u00e4d G\u00e4ste und spricht \u00fcber Themen mit dem Anfangsbuchstaben T. Gesellschaft, Kultur, Wissenschaft, Politik. Lasst euch \u00fcberraschen", 
+                                "description": "Bei den ABCoholics sprechen wir \u00fcber alles. \r\nTechnik, Wissenschaft, Politik, Gesellschaft und was uns sonst so einf\u00e4llt. Dabei muss nur eines gegeben sein: Der Anfangsbuchstabe. \r\nIn Folge T sprechen wir mit 2 G\u00e4sten \u00fcber 4 Themen zum Bustaben T. Lasst euch \u00fcberraschen", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 215, 
+                                        "public_name": "StillesOe"
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": []
+                            }
+                        ], 
                         "Hall 1": [], 
                         "Hall 2": [], 
                         "Hall G": [], 
                         "Hall 6": [], 
-                        "Sendezentrumsb\u00fchne": [], 
-                        "Podcastingtisch": [], 
                         "Hall A.1": [
                             {
                                 "id": 1014, 
@@ -7852,12 +8723,538 @@
                                 ]
                             }
                         ], 
+                        "Sendezentrumsb\u00fchne": [
+                            {
+                                "id": 391, 
+                                "guid": "57333763-6035-4945-bbe5-10a090126c21", 
+                                "logo": null, 
+                                "date": "2016-12-29T12:15:00+01:00", 
+                                "start": "12:15", 
+                                "duration": "01:30", 
+                                "room": "Sendezentrumsb\u00fchne", 
+                                "slug": "33c3-391-cybermorningshow", 
+                                "title": "CyberMorningshow", 
+                                "subtitle": "Die Morningshow f\u00fcr alle Nerds und Nicht nerds. Full cyber show", 
+                                "track": "Sendezentrumsb\u00fchne", 
+                                "type": "other", 
+                                "language": "de", 
+                                "abstract": "In der CyberMorningshow passiert viel. Aber meist nichts sinnvolles.", 
+                                "description": "Die Cyber Morningshow ist eine Bunte Mischung aus Musik, Moderation und G\u00e4sten.\r\nWir laden euch ein 2h lang mit uns auf der B\u00fchne \u00fcber CYBER zu reden und sich dabei selbst nicht zu ernst zu nehmen. \r\nMusik gibt's dabei von Couchsofa, die Moderation \u00fcbernimmt td00", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 213, 
+                                        "public_name": "td00"
+                                    }, 
+                                    {
+                                        "id": 225, 
+                                        "public_name": "couchsofa"
+                                    }, 
+                                    {
+                                        "id": 226, 
+                                        "public_name": "marudor"
+                                    }, 
+                                    {
+                                        "id": 227, 
+                                        "public_name": "Tii"
+                                    }
+                                ], 
+                                "links": [
+                                    {
+                                        "url": "https://mixcloud.com/couchsofa/hackover-morningshow-die-etwas-andere-diskussionsrunde-zum-thema-cloudfibre-und-cyberbusiness/", 
+                                        "title": "Hackover Cybermorningshow "
+                                    }
+                                ], 
+                                "attachments": []
+                            }, 
+                            {
+                                "id": 387, 
+                                "guid": "919752c2-5d10-4543-b4be-1b8178a14618", 
+                                "logo": "/system/events/logos/000/000/387/large/horst_die_podcast.jpg?1479070036", 
+                                "date": "2016-12-29T14:15:00+01:00", 
+                                "start": "14:15", 
+                                "duration": "00:45", 
+                                "room": "Sendezentrumsb\u00fchne", 
+                                "slug": "33c3-387-horst_-_die_podcast", 
+                                "title": "HORST - Die Podcast", 
+                                "subtitle": "Dinge die zu sagen sind", 
+                                "track": "Sendezentrumsb\u00fchne", 
+                                "type": "other", 
+                                "language": "de", 
+                                "abstract": "Die erste Folge \"Horst - die Podcast\" live vom 33C3. Meine G\u00e4ste sind: Michaela Lehr, Philip Jocks und Reinhold Remscheid.", 
+                                "description": "Michaela ist Entwicklerin und Frau. Eine Kombination die manchmal f\u00fcr Verwirrung sorgt. In welchen Bereichen Michaela arbeitet und welcher Umgang mitunter gepflegt wird sind 2 Themen die ich gerne mit Michaela besprechen m\u00f6chte.  \r\nPhilip Jocks ist derjenige, der Das Kongressmotto \"works for me\" zwischen T\u00fcr und Angel raus gehauen hat.Ein kurzer Einblick in das Seelenleben eines Mottogebers.\r\nReinhold Remscheid. Wer ist dieser Mensch hinter der Kunstfigur Reinhard Remford? Was treibt ihn an und wer ist f\u00fcr die absurden Drehb\u00fccher verantwortlich? Das kl\u00e4rt der Schauspieler Reinhold Remscheid excklusiv auf. ", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 206, 
+                                        "public_name": "die_horst"
+                                    }, 
+                                    {
+                                        "id": 240, 
+                                        "public_name": "@FischaelaMeer "
+                                    }, 
+                                    {
+                                        "id": 241, 
+                                        "public_name": "@FiLiS"
+                                    }, 
+                                    {
+                                        "id": 242, 
+                                        "public_name": "Reinhold Remscheid"
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": []
+                            }, 
+                            {
+                                "id": 395, 
+                                "guid": "a288d8dd-db0a-455d-881b-bc6d9c593fa3", 
+                                "logo": "/system/events/logos/000/000/395/large/wrint_realitaetsabgleich_2014_200.jpeg?1480174449", 
+                                "date": "2016-12-29T15:30:00+01:00", 
+                                "start": "15:30", 
+                                "duration": "01:00", 
+                                "room": "Sendezentrumsb\u00fchne", 
+                                "slug": "33c3-395-realitatsabgleich", 
+                                "title": "Realit\u00e4tsabgleich", 
+                                "subtitle": "inklusive privater Verkaufsshow", 
+                                "track": "Sendezentrumsb\u00fchne", 
+                                "type": "podium", 
+                                "language": "de", 
+                                "abstract": "The show where Holger Klein and Toby Baier talk about their realities (and sometimes sell stuff they bought but don't need).", 
+                                "description": "Diese Sendung in der Holger Klein und Toby Baier ihre Realit\u00e4ten abgleichen (und Kram verkaufen, den sie mal gekauft haben aber nicht brauchen)", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 216, 
+                                        "public_name": "Toby Baier"
+                                    }, 
+                                    {
+                                        "id": 86, 
+                                        "public_name": "Holgi"
+                                    }
+                                ], 
+                                "links": [
+                                    {
+                                        "url": "http://www.wrint.de/category/realitaetsabgleich/", 
+                                        "title": "WRINT Realit\u00e4tsabgleich"
+                                    }
+                                ], 
+                                "attachments": []
+                            }, 
+                            {
+                                "id": 408, 
+                                "guid": "a2e9e432-b74b-4a6d-bee7-d926ccf0cfd1", 
+                                "logo": "/system/events/logos/000/000/408/large/aQFHaOid_400x400.png?1481125181", 
+                                "date": "2016-12-29T17:00:00+01:00", 
+                                "start": "17:00", 
+                                "duration": "01:00", 
+                                "room": "Sendezentrumsb\u00fchne", 
+                                "slug": "33c3-408-genusscast_live", 
+                                "title": "Genusscast LIVE", 
+                                "subtitle": "live schmeckts besser", 
+                                "track": "Sendezentrumsb\u00fchne", 
+                                "type": "other", 
+                                "language": "de", 
+                                "abstract": "Der Genusscast LIVE auf dem @33c3 - maha und heckpiet. Probieren $dinge auf der B\u00fchne und lassen das Publikum teilhaben", 
+                                "description": "Der Genusscast LIVE auf dem @33c3 - maha und heckpiet. Probieren $dinge auf der B\u00fchne und lassen das Publikum teilhaben", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 231, 
+                                        "public_name": "heckpiet"
+                                    }
+                                ], 
+                                "links": [
+                                    {
+                                        "url": "www.genusscast.de", 
+                                        "title": "Homepage"
+                                    }
+                                ], 
+                                "attachments": []
+                            }, 
+                            {
+                                "id": 389, 
+                                "guid": "72e44333-c59a-47a4-9ef3-d5e8c9637eb6", 
+                                "logo": "/system/events/logos/000/000/389/large/Bina%CC%88rgewitter-Logo-j.png?1479408821", 
+                                "date": "2016-12-29T18:30:00+01:00", 
+                                "start": "18:30", 
+                                "duration": "01:30", 
+                                "room": "Sendezentrumsb\u00fchne", 
+                                "slug": "33c3-389-binargewitter_live", 
+                                "title": "Bin\u00e4rgewitter Live", 
+                                "subtitle": "Sicherheit durch Ignoranz", 
+                                "track": "Sendezentrumsb\u00fchne", 
+                                "type": "other", 
+                                "language": "de", 
+                                "abstract": "Bin\u00e4rgewitter ist ein Live Podcast der sich Schwerpunktm\u00e4\u00dfig mit Linux, Open Source, IT Sicherheit und dem Web besch\u00e4ftigt. ", 
+                                "description": "Neben dem \u00dcblichen wie finden wir den 33C3 und was ist in den letzten Wochen passiert werden wir versuchen versuchen Live OS/2 Warp, ReactOS, CoreOS, NixOS, Haiku, Hannah Montana Linux (aka obskure Betriebssysteme) zu installieren und unsere Eindr\u00fccke zu schildern. Am Ende wird per Applaus entschieden....", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 209, 
+                                        "public_name": "Ingo Ebel"
+                                    }, 
+                                    {
+                                        "id": 218, 
+                                        "public_name": "madmas"
+                                    }, 
+                                    {
+                                        "id": 251, 
+                                        "public_name": "makefoo"
+                                    }
+                                ], 
+                                "links": [
+                                    {
+                                        "url": "http://binaergewitter.de", 
+                                        "title": "Bin\u00e4rgewitter"
+                                    }
+                                ], 
+                                "attachments": []
+                            }, 
+                            {
+                                "id": 375, 
+                                "guid": "32e9b904-0c52-4262-8e56-03cee2342424", 
+                                "logo": "/system/events/logos/000/000/375/large/technische-aufklaerung-cover-1400.jpg?1478439084", 
+                                "date": "2016-12-29T20:30:00+01:00", 
+                                "start": "20:30", 
+                                "duration": "01:00", 
+                                "room": "Sendezentrumsb\u00fchne", 
+                                "slug": "33c3-375-technische_aufklarung_live", 
+                                "title": "Technische Aufkl\u00e4rung live", 
+                                "subtitle": "R\u00fcckblick auf 2016 und Quiz", 
+                                "track": "Sendezentrumsb\u00fchne", 
+                                "type": "other", 
+                                "language": "de", 
+                                "abstract": "Wir blicken auf die Ereignisse rund um den Geheimdienst-Untersuchungsausschuss im Jahr 2016 zur\u00fcck und veranstalten ein Quiz f\u00fcr die H\u00f6rerInnen.", 
+                                "description": "Seit \u00fcber zwei Jahren ermittelt der Geheimdienst-Untersuchungsausschuss des Bundestages zur globalen \u00dcberwachungsaff\u00e4re. Allein in diesem Jahr fanden 21 \u00f6ffentliche Sitzungen statt. In den Massenmedien ist der Ausschuss allerdings kaum noch ein Thema und zwischendurch wurde auch noch das neue BND-Gesetz beschlossen, das viele bisher illegale Praktiken des Auslandsnachrichtendienstes legalisiert. Wir blicken zur\u00fcck auf das Jahr 2016 und sprechen \u00fcber unsere Eindr\u00fccke aus dem #NSAUA. Am Ende gibt es ein Quiz, bei dem die aufmerksamsten H\u00f6rerInnen ihr Wissen unter Beweis stellen k\u00f6nnen.", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 72, 
+                                        "public_name": "Jonas Sch\u00f6nfelder"
+                                    }, 
+                                    {
+                                        "id": 37, 
+                                        "public_name": "Felix Betzin"
+                                    }, 
+                                    {
+                                        "id": 235, 
+                                        "public_name": "Daniel L\u00fccking"
+                                    }, 
+                                    {
+                                        "id": 236, 
+                                        "public_name": "Anna Biselli"
+                                    }, 
+                                    {
+                                        "id": 237, 
+                                        "public_name": "Cbass"
+                                    }, 
+                                    {
+                                        "id": 238, 
+                                        "public_name": "Stella Schiffczyk"
+                                    }
+                                ], 
+                                "links": [
+                                    {
+                                        "url": "http://technische-aufklaerung.de", 
+                                        "title": "Webseite"
+                                    }, 
+                                    {
+                                        "url": "https://twitter.com/aufklaerung_pod", 
+                                        "title": "Twitter"
+                                    }
+                                ], 
+                                "attachments": []
+                            }, 
+                            {
+                                "id": 407, 
+                                "guid": "2aa8c426-7d58-47b6-8eca-78be573f7ec9", 
+                                "logo": "/system/events/logos/000/000/407/large/CoverS03Wiki.png?1480537179", 
+                                "date": "2016-12-29T22:00:00+01:00", 
+                                "start": "22:00", 
+                                "duration": "01:20", 
+                                "room": "Sendezentrumsb\u00fchne", 
+                                "slug": "33c3-407-puerto_patida", 
+                                "title": "Puerto Patida", 
+                                "subtitle": "R\u00e4tsel & Rollenspiel", 
+                                "track": "Sendezentrumsb\u00fchne", 
+                                "type": "other", 
+                                "language": "de", 
+                                "abstract": "Eine Kandidat:in aus dem Publikum k\u00e4mpft live um ihr \u00fcberleben. Dazu muss Sie knifflige R\u00e4tsel l\u00f6sen. Motto: Sterben oder eine coole Sau sein! ", 
+                                "description": "Das grimme-nominierte Live-Rollenspiel Puerto Patida sucht sich eine Kandidat:in aus dem Publikum, die in einer spannenden Geschichte auf kuriose Charaktere treffen wird. Dabei versucht sie mehrere R\u00e4tsel zu l\u00f6sen um nicht von einer \u00fcbergro\u00dfen Spinne oder einem Gourmet-Kannibalen gefressen zu werden, um von einer verr\u00fcckten Insel wieder fliehen zu k\u00f6nnen. ", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 61, 
+                                        "public_name": "Johannes (ohneQ)"
+                                    }, 
+                                    {
+                                        "id": 250, 
+                                        "public_name": "schaarsen"
+                                    }, 
+                                    {
+                                        "id": 216, 
+                                        "public_name": "Toby Baier"
+                                    }, 
+                                    {
+                                        "id": 126, 
+                                        "public_name": "Jan Gie\u00dfmann"
+                                    }
+                                ], 
+                                "links": [
+                                    {
+                                        "url": "http://www.puertopatida.de", 
+                                        "title": "Puerto Patida"
+                                    }, 
+                                    {
+                                        "url": "http://wiki.puertopatida.de", 
+                                        "title": "Puerto Patida \u2022 Wiki"
+                                    }, 
+                                    {
+                                        "url": "https://youtu.be/qCcYLabHzqI", 
+                                        "title": "Aufzeichnung vom 32c3"
+                                    }
+                                ], 
+                                "attachments": []
+                            }, 
+                            {
+                                "id": 414, 
+                                "guid": "07fffebb-9dcf-4b1a-8cce-00e435a8681c", 
+                                "logo": null, 
+                                "date": "2016-12-30T00:30:00+01:00", 
+                                "start": "00:30", 
+                                "duration": "01:00", 
+                                "room": "Sendezentrumsb\u00fchne", 
+                                "slug": "33c3-414-ubertragung_methodisch_inkorrekt", 
+                                "title": "\u00dcbertragung Methodisch inkorrekt", 
+                                "subtitle": "", 
+                                "track": "Sendezentrumsb\u00fchne", 
+                                "type": "", 
+                                "language": "de", 
+                                "abstract": "Wir \u00fcbertragen live ins Sendezentrum:\r\nWer hat diese Jungs wieder rein gelassen?! Nicolas W\u00f6hrl und Reinhard Remfort sind eine Gefahr f\u00fcr Leib und Leben. Unter dem Deckmantel der Wissenschaftskommunikation machen sie auf der B\u00fchne alles das, was sie an der Uni nie gewagt h\u00e4tten. Dazu sprechen sie \u00fcber aktuelle wissenschaftliche Themen. Laaaangweilig! Wer will denn sowas sehen? Unstrukturiert, abschweifend, hoffnungslos subjektiv und immer garantiert methodisch inkorrekt.", 
+                                "description": "Live-\u00dcbertragung: Eigentlich ein Podcast der alle 14 Tage erscheint. Nach dem gro\u00dfen Erfolg auf dem Kongress im letzten Jahr wird diesmal eine noch gr\u00f6\u00dfere Show abgezogen: Experimente die mal interessant, mal fragw\u00fcrdig sind. Wissenschaftler die mal belehrend und mal unzurechnungsf\u00e4hig sind. Wissenschaftliche Studien die mal nobelpreisverd\u00e4chtig und mal zweifelhaft sind. Wissenschaft auf der Showb\u00fchne. It works, bitches! ", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [], 
+                                "links": [], 
+                                "attachments": []
+                            }
+                        ], 
+                        "Podcastingtisch": [
+                            {
+                                "id": 403, 
+                                "guid": "ec5a43e8-9b3b-4393-a4b5-86cfff554c04", 
+                                "logo": "/system/events/logos/000/000/403/large/nHrbp8sU.jpg?1480282038", 
+                                "date": "2016-12-29T12:00:00+01:00", 
+                                "start": "12:00", 
+                                "duration": "00:55", 
+                                "room": "Podcastingtisch", 
+                                "slug": "33c3-403-podcastpat_innen_talk_iii", 
+                                "title": "Podcastpat_innen Talk III", 
+                                "subtitle": "Mach mit am Podcastingtisch!", 
+                                "track": "Podcastingtisch", 
+                                "type": "meeting", 
+                                "language": "de", 
+                                "abstract": "Egal wie alt - alle k\u00f6nnen Podcasts produzieren. Hast Du auch schon \u00fcberlegt, mit dem Podcasten anzufangen? Am Podcastingtisch kann man das Podcasten gleich ausprobieren.", 
+                                "description": "Die Podcastpat_innen sind ein selbstorganisiertes Communityprojekt und wollen Anf\u00e4nger_innen beim Start ihres eigenen Podcasts unterst\u00fctzen. Setz Dich mit zu uns an den Podcastingtisch und frag alles zum Podcasten, was Du gerne wissen m\u00f6chtest. Vielleicht willst Du selbst mit den Podcasting beginnen? Wir brainstormen, denken nach und h\u00f6ren zu. Am Tisch begr\u00fcsst Euch heute u.a. Daniel Me\u00dfner...\r\n\r\nEs sind weitere Podcastpat_innen vor Ort: Sprich uns an!", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 46, 
+                                        "public_name": "Daniel Me\u00dfner"
+                                    }
+                                ], 
+                                "links": [
+                                    {
+                                        "url": "http://das-sendezentrum.de/projekt/podcastpat_innen/", 
+                                        "title": "Infos zu den Podcastpat_innen"
+                                    }
+                                ], 
+                                "attachments": []
+                            }, 
+                            {
+                                "id": 386, 
+                                "guid": "dc923e71-5e24-430d-a12f-0d0391cd40c3", 
+                                "logo": "/system/events/logos/000/000/386/large/slw600x600_h.png?1479058497", 
+                                "date": "2016-12-29T13:00:00+01:00", 
+                                "start": "13:00", 
+                                "duration": "00:55", 
+                                "room": "Podcastingtisch", 
+                                "slug": "33c3-386-sliding_windows", 
+                                "title": "Sliding Windows", 
+                                "subtitle": "Live from 33C3", 
+                                "track": "Podcastingtisch", 
+                                "type": "other", 
+                                "language": "de", 
+                                "abstract": "\"Sliding Windows\" ist ein Interview-Audiocast zu Themen professioneller IT mit Thorsten Butz. ", 
+                                "description": "Erfahren Sie mehr auf \"www.slidingwindows.de\".", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 207, 
+                                        "public_name": "Thorsten Butz"
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": []
+                            }, 
+                            {
+                                "id": 379, 
+                                "guid": "b356dc8b-6cc3-424a-92d6-0837262e20bc", 
+                                "logo": "/system/events/logos/000/000/379/large/logo.png?1478853259", 
+                                "date": "2016-12-29T14:00:00+01:00", 
+                                "start": "14:00", 
+                                "duration": "00:45", 
+                                "room": "Podcastingtisch", 
+                                "slug": "33c3-379-aua-uff-code_goes_zeitsprung", 
+                                "title": "Aua-Uff-Code! goes Zeitsprung", 
+                                "subtitle": "Ein Podcast crossover \u00fcber die Geschichte des Bugs", 
+                                "track": "Podcastingtisch", 
+                                "type": "performance", 
+                                "language": "de", 
+                                "abstract": "Daniel vom Zeitsprung und Stefan von Aua-uff-Code setzen sich an einen Tisch und machen eine Crossover Episode zur Geschichte des Bugs.", 
+                                "description": "", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 171, 
+                                        "public_name": "informatom"
+                                    }, 
+                                    {
+                                        "id": 46, 
+                                        "public_name": "Daniel Me\u00dfner"
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": []
+                            }, 
+                            {
+                                "id": 374, 
+                                "guid": "56746689-a9cb-4323-b1fb-110597049fb6", 
+                                "logo": "/system/events/logos/000/000/374/large/14094056452c70.jpg?1478361643", 
+                                "date": "2016-12-29T16:00:00+01:00", 
+                                "start": "16:00", 
+                                "duration": "01:00", 
+                                "room": "Podcastingtisch", 
+                                "slug": "33c3-374-der_alljahrliche_nerdkunde_und_bits_of_berlin_crossover_rudelpodcast", 
+                                "title": "Der allj\u00e4hrliche Nerdkunde und Bits of Berlin Crossover Rudelpodcast", 
+                                "subtitle": "", 
+                                "track": "Podcastingtisch", 
+                                "type": "podium", 
+                                "language": "de", 
+                                "abstract": "Der allj\u00e4hrliche Nerdkunde / Bits of Berlin Rudelpodcast.", 
+                                "description": "Im ersten Jahr wurden wir noch ungl\u00e4ubig bestaunt, als wir mit einer recht gro\u00dfen Gruppe an Menschen einen Podcast produzieren wollten. Mittlerweile ist unser Rudelpodcast vom CCC in Hamburg eine lieb gewonnene  Tradition.", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 202, 
+                                        "public_name": "Bitboxer"
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": []
+                            }, 
+                            {
+                                "id": 409, 
+                                "guid": "f46c9d65-3a8c-479d-ada2-c8c84f2fd8a9", 
+                                "logo": null, 
+                                "date": "2016-12-29T17:00:00+01:00", 
+                                "start": "17:00", 
+                                "duration": "01:00", 
+                                "room": "Podcastingtisch", 
+                                "slug": "33c3-409-zwangschast", 
+                                "title": "ZwangsCHast", 
+                                "subtitle": "Da fallen auch der Mur\u00e4ne nur schlechte Wortwitze ein.", 
+                                "track": "Podcastingtisch", 
+                                "type": "other", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [], 
+                                "links": [], 
+                                "attachments": []
+                            }, 
+                            {
+                                "id": 381, 
+                                "guid": "3231795c-362c-4b99-8eeb-bfaea70c7299", 
+                                "logo": "/system/events/logos/000/000/381/large/damals-tm-podcast_400x400.png?1478882603", 
+                                "date": "2016-12-29T19:00:00+01:00", 
+                                "start": "19:00", 
+                                "duration": "01:30", 
+                                "room": "Podcastingtisch", 
+                                "slug": "33c3-381-raumfahrt_damals", 
+                                "title": "Raumfahrt damals\u2122", 
+                                "subtitle": "Countdown & damals\u2122 pr\u00e9sentant", 
+                                "track": "Podcastingtisch", 
+                                "type": "other", 
+                                "language": "de", 
+                                "abstract": "90 Minuten Podcasten \u00fcber die Raumfahrt\u2122, damals", 
+                                "description": "", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 174, 
+                                        "public_name": "ajuvo"
+                                    }
+                                ], 
+                                "links": [
+                                    {
+                                        "url": "http://www.damals-tm-podcast.de", 
+                                        "title": "damals-tm-podcast"
+                                    }
+                                ], 
+                                "attachments": []
+                            }, 
+                            {
+                                "id": 380, 
+                                "guid": "c4c36fc5-e462-4193-bd2c-85ec1a21fbe5", 
+                                "logo": "/system/events/logos/000/000/380/large/cropped-CD-Cover-Web-1400x1400.jpg?1478881923", 
+                                "date": "2016-12-29T20:30:00+01:00", 
+                                "start": "20:30", 
+                                "duration": "01:30", 
+                                "room": "Podcastingtisch", 
+                                "slug": "33c3-380-countdown_podcast", 
+                                "title": "Countdown Podcast", 
+                                "subtitle": "Expedition 33C3", 
+                                "track": "Podcastingtisch", 
+                                "type": "other", 
+                                "language": "de", 
+                                "abstract": "Raumfahrtthemen auf dem 33C3", 
+                                "description": "Der Countdown Podcast diskutiert alle zwei Wochen \u00fcber Aktuelles aus der Raumfahrt. Auf dem 33C3 wollen wir \u00fcber Vortr\u00e4ge, Projekte und mit Leuten reden, die einen Bezug zur Raumfahrt haben.", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 70, 
+                                        "public_name": "VanillaChief"
+                                    }
+                                ], 
+                                "links": [
+                                    {
+                                        "url": "http://countdown-podcast.de", 
+                                        "title": "Countdown Podcast Website"
+                                    }
+                                ], 
+                                "attachments": []
+                            }
+                        ], 
                         "Hall 1": [], 
                         "Hall 2": [], 
                         "Hall G": [], 
                         "Hall 6": [], 
-                        "Sendezentrumsb\u00fchne": [], 
-                        "Podcastingtisch": [], 
                         "Hall A.1": [
                             {
                                 "id": 1000, 
@@ -10282,12 +11679,45 @@
                                 ]
                             }
                         ], 
+                        "Sendezentrumsb\u00fchne": [], 
+                        "Podcastingtisch": [
+                            {
+                                "id": 385, 
+                                "guid": "af5f1e6e-c63a-4fec-a335-dc44cd5eb822", 
+                                "logo": "/system/events/logos/000/000/385/large/tis_logo.png?1478984129", 
+                                "date": "2016-12-30T13:00:00+01:00", 
+                                "start": "13:00", 
+                                "duration": "01:30", 
+                                "room": "Podcastingtisch", 
+                                "slug": "33c3-385-the_insnider_-_mein_erstes_mal_congres", 
+                                "title": "The InSnider - Mein erstes Mal Congres", 
+                                "subtitle": "#33c3 Ausgabe", 
+                                "track": "Podcastingtisch", 
+                                "type": "other", 
+                                "language": "de", 
+                                "abstract": "Mein erstes (zweites) Mal... auf dem Congress.", 
+                                "description": "Wie ist es so das erste Mal auf dem Congress zu sein? Schon auf dem 32c3 hat MacSnider mit einigen Erst(und zweit)-lingen dar\u00fcber gesprochen was sie sich vom Congress erhofft haben und erlebt haben. ", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 85, 
+                                        "public_name": "MacSnider"
+                                    }
+                                ], 
+                                "links": [
+                                    {
+                                        "url": "http://theinsnider.de/tis034-mein-erstes-mal-congress-32c3/", 
+                                        "title": "Mein erstes Mal Congress #32c3"
+                                    }
+                                ], 
+                                "attachments": []
+                            }
+                        ], 
                         "Hall 1": [], 
                         "Hall 2": [], 
                         "Hall G": [], 
                         "Hall 6": [], 
-                        "Sendezentrumsb\u00fchne": [], 
-                        "Podcastingtisch": [], 
                         "Hall A.1": [], 
                         "Hall A.2": [], 
                         "Hall B": [
