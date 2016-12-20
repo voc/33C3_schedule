@@ -2011,6 +2011,55 @@
             "1483047000"
         ]
     }, 
+    "Session:In kurzer Zeit zur Schl\u00fcsselwurst# 0936add29a07c5b130fe33a8deb42d7f": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482933600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Wir knoten uns mithilfe von Paracord eigene kleine Schl\u00fcsselanh\u00e4nger. Es ist nicht sonderlich schwierig und es gibt nur eine begrenzte Anzahl von Material, aber was soll's. Bei Bedarf k\u00f6nnt ihr auch gerne einfach so vorbeikommen."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Lokale Gruppe", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Lokale_Gruppe", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Zichy", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Zichy", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "In kurzer Zeit zur Schl\u00fcsselwurst"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:In_kurzer_Zeit_zur_Schl%C3%BCsselwurst", 
+        "Has end time": [
+            "1482937200"
+        ]
+    }, 
     "Session:Congress Everywhere Greet & Meet# 8b165ece02b1d870610d15256031bca9": {
         "Held in language": [
             "de - German"
