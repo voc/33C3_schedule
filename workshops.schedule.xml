@@ -9,7 +9,7 @@
   </conference>
   <day date="2016-12-26" index="1" end="2016-12-27T04:00:00+01:00" start="2016-12-26T06:00:00+01:00">
     <room name="Hall C.1">
-      <event id="1159" guid="343a8aace7d1623c8e8956a076f9fea8">
+      <event id="1162" guid="343a8aace7d1623c8e8956a076f9fea8">
         <logo/>
         <date>2016-12-26T21:00:00+01:00</date>
         <start>21:00</start>
@@ -275,7 +275,7 @@ This is our Code of Conduct: https://events.ccc.de/congress/2015/wiki/Projects:C
           <link>https://events.ccc.de/congress/2016/wiki/Session:Queer_Feminist_Geeks_Gathering</link>
         </links>
       </event>
-      <event id="1160" guid="eadeae943acf78b348bef9d2bde23827">
+      <event id="1163" guid="eadeae943acf78b348bef9d2bde23827">
         <logo/>
         <date>2016-12-27T19:30:00+01:00</date>
         <start>19:30</start>
@@ -893,7 +893,7 @@ Welcome to the Subtitles Angelmeeting!</description>
   </day>
   <day date="2016-12-28" index="3" end="2016-12-29T04:00:00+01:00" start="2016-12-28T06:00:00+01:00">
     <room name="Hall C.1">
-      <event id="1033" guid="20196cb4a0fcac3e8a926eb6752e785d">
+      <event id="1030" guid="20196cb4a0fcac3e8a926eb6752e785d">
         <logo/>
         <date>2016-12-28T10:00:00+01:00</date>
         <start>10:00</start>
@@ -1010,7 +1010,7 @@ I would like to present research findings of the ongoing project (2016-2017) and
       </event>
     </room>
     <room name="Hall C.2">
-      <event id="1035" guid="ca9c35c335c11d72074a1e9e6046cb6e">
+      <event id="1032" guid="ca9c35c335c11d72074a1e9e6046cb6e">
         <logo/>
         <date>2016-12-28T10:00:00+01:00</date>
         <start>10:00</start>
@@ -1185,7 +1185,7 @@ Presented by Nik, a 26 year-old software developer and network admin from Bonn, 
           <link>https://events.ccc.de/congress/2016/wiki/Session:Boat_instruments_hacking</link>
         </links>
       </event>
-      <event id="1028" guid="8ba93735bba7d3bfbd659432e4e1a209">
+      <event id="1029" guid="8ba93735bba7d3bfbd659432e4e1a209">
         <logo/>
         <date>2016-12-28T12:00:00+01:00</date>
         <start>12:00</start>
@@ -1206,28 +1206,7 @@ Presented by Nik, a 26 year-old software developer and network admin from Bonn, 
           <link>https://events.ccc.de/congress/2016/wiki/Session:Coder_Dojo</link>
         </links>
       </event>
-      <event id="1029" guid="a2d3c9df94b90cd7240898885d1eb3ec">
-        <logo/>
-        <date>2016-12-28T10:00:00+01:00</date>
-        <start>10:00</start>
-        <duration>1:00</duration>
-        <room>Hall C.3</room>
-        <slug/>
-        <title>Coder Dojo</title>
-        <subtitle>Slot 0 Room 1</subtitle>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>de</language>
-        <abstract/>
-        <description/>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2016/wiki/User:Nana_berlin">Nana berlin</person>
-        </persons>
-        <links>
-          <link>https://events.ccc.de/congress/2016/wiki/Session:Coder_Dojo</link>
-        </links>
-      </event>
-      <event id="1032" guid="fdd8a9c86e797d9c002a514c55992e1d">
+      <event id="1033" guid="fdd8a9c86e797d9c002a514c55992e1d">
         <logo/>
         <date>2016-12-28T15:00:00+01:00</date>
         <start>15:00</start>
@@ -1248,7 +1227,7 @@ Presented by Nik, a 26 year-old software developer and network admin from Bonn, 
           <link>https://events.ccc.de/congress/2016/wiki/Session:Coder_Dojo</link>
         </links>
       </event>
-      <event id="1036" guid="82b6f15ab0e1d33b37e9817f997864d8">
+      <event id="1035" guid="82b6f15ab0e1d33b37e9817f997864d8">
         <logo/>
         <date>2016-12-28T11:00:00+01:00</date>
         <start>11:00</start>
@@ -1257,6 +1236,27 @@ Presented by Nik, a 26 year-old software developer and network admin from Bonn, 
         <slug/>
         <title>Coder Dojo</title>
         <subtitle>Slot 1 Room 1</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2016/wiki/User:Nana_berlin">Nana berlin</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2016/wiki/Session:Coder_Dojo</link>
+        </links>
+      </event>
+      <event id="1036" guid="a2d3c9df94b90cd7240898885d1eb3ec">
+        <logo/>
+        <date>2016-12-28T10:00:00+01:00</date>
+        <start>10:00</start>
+        <duration>1:00</duration>
+        <room>Hall C.3</room>
+        <slug/>
+        <title>Coder Dojo</title>
+        <subtitle>Slot 0 Room 1</subtitle>
         <track>self organized sessions</track>
         <type>workshop</type>
         <language>de</language>
@@ -1357,15 +1357,15 @@ You can bring own bottles by yourself, too. It is possible that we will not have
       </event>
     </room>
     <room name="Hall C.4">
-      <event id="1030" guid="114bbdf055b462c90916308a51310575">
+      <event id="1028" guid="ce369fbaa66a09e01586ffcab4b39c4a">
         <logo/>
-        <date>2016-12-28T12:00:00+01:00</date>
-        <start>12:00</start>
+        <date>2016-12-28T10:00:00+01:00</date>
+        <start>10:00</start>
         <duration>1:00</duration>
         <room>Hall C.4</room>
         <slug/>
         <title>Coder Dojo</title>
-        <subtitle>Slot 2 Room 2</subtitle>
+        <subtitle>Slot 0 Room 2</subtitle>
         <track>self organized sessions</track>
         <type>workshop</type>
         <language>de</language>
@@ -1378,15 +1378,15 @@ You can bring own bottles by yourself, too. It is possible that we will not have
           <link>https://events.ccc.de/congress/2016/wiki/Session:Coder_Dojo</link>
         </links>
       </event>
-      <event id="1031" guid="ce369fbaa66a09e01586ffcab4b39c4a">
+      <event id="1031" guid="114bbdf055b462c90916308a51310575">
         <logo/>
-        <date>2016-12-28T10:00:00+01:00</date>
-        <start>10:00</start>
+        <date>2016-12-28T12:00:00+01:00</date>
+        <start>12:00</start>
         <duration>1:00</duration>
         <room>Hall C.4</room>
         <slug/>
         <title>Coder Dojo</title>
-        <subtitle>Slot 0 Room 2</subtitle>
+        <subtitle>Slot 2 Room 2</subtitle>
         <track>self organized sessions</track>
         <type>workshop</type>
         <language>de</language>
@@ -1540,7 +1540,7 @@ Looking forward to see you there and as a future contributor. ;)</description>
           <link>https://events.ccc.de/congress/2016/wiki/Session:Radio_Lockdown:_Community_WiFis_unite!</link>
         </links>
       </event>
-      <event id="1161" guid="da07397031c03293fbe740e60de1d900">
+      <event id="1159" guid="da07397031c03293fbe740e60de1d900">
         <logo/>
         <date>2016-12-28T19:30:00+01:00</date>
         <start>19:30</start>
@@ -2647,7 +2647,7 @@ Wir pr&#228;sentieren eine Theorie des US-amerikanischen Philosophen Daniel Denn
           <link>https://events.ccc.de/congress/2016/wiki/Session:Numerical_Weather_Prediction_Tutorial</link>
         </links>
       </event>
-      <event id="1162" guid="d00c1c245094b81ef14225970bc1d86f">
+      <event id="1160" guid="d00c1c245094b81ef14225970bc1d86f">
         <logo/>
         <date>2016-12-29T19:30:00+01:00</date>
         <start>19:30</start>
@@ -2756,11 +2756,11 @@ Wir pr&#228;sentieren eine Theorie des US-amerikanischen Philosophen Daniel Denn
       </event>
     </room>
     <room name="Hall F">
-      <event id="1070" guid="fbc9e7ed36a705cf72c554aa7c10ff35">
+      <event id="1070" guid="dc97ce7587e6de93f68f0bb1fbfdbd9c">
         <logo/>
-        <date>2016-12-29T21:00:00+01:00</date>
-        <start>21:00</start>
-        <duration>3:00</duration>
+        <date>2016-12-29T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>2:15</duration>
         <room>Hall F</room>
         <slug/>
         <title>Film-Abend</title>
@@ -2775,11 +2775,11 @@ Wir pr&#228;sentieren eine Theorie des US-amerikanischen Philosophen Daniel Denn
           <link>https://events.ccc.de/congress/2016/wiki/Session:Film-Abend</link>
         </links>
       </event>
-      <event id="1071" guid="dc97ce7587e6de93f68f0bb1fbfdbd9c">
+      <event id="1071" guid="fbc9e7ed36a705cf72c554aa7c10ff35">
         <logo/>
-        <date>2016-12-29T18:00:00+01:00</date>
-        <start>18:00</start>
-        <duration>2:15</duration>
+        <date>2016-12-29T21:00:00+01:00</date>
+        <start>21:00</start>
+        <duration>3:00</duration>
         <room>Hall F</room>
         <slug/>
         <title>Film-Abend</title>
@@ -3440,7 +3440,7 @@ we would like to set up an neuropil network together with the participants and t
           <link>https://events.ccc.de/congress/2016/wiki/Session:Neuropil</link>
         </links>
       </event>
-      <event id="1163" guid="61eb65e61b717da207194923b8b9fdb3">
+      <event id="1161" guid="61eb65e61b717da207194923b8b9fdb3">
         <logo/>
         <date>2016-12-30T11:00:00+01:00</date>
         <start>11:00</start>
