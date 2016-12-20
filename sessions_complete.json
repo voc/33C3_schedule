@@ -1419,50 +1419,6 @@
             "1483038000"
         ]
     }, 
-    "Session:Emacs rehab center (vim workshop)# 1bc13672062ba7c97dc6f6098037d3a3": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Admitting you have a problem is the first step to getting better. We'll create a welcoming, safe space for recovering emacs users, and teach the fundamentals of vim. We'll also have some more advanced tips for people who want to up their vim-fu.\n\nWe had lots of fun at 32c3, this time we'll be learning a few new tricks to put sublime and atom users to shame as well.\n\n<code>$ cat motto\n\n\"emacs is awesome\"\n\n$ vim motto\n\nwciwvim&lt;ESC&gt;ZZ\n\n$ cat motto\n\n\"vim is awesome\"</code>"
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:Milliways", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Milliways", 
-                "namespace": 504, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Aestetix", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Aestetix", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Emacs rehab center (vim workshop)"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Emacs_rehab_center_(vim_workshop)", 
-        "Has end time": []
-    }, 
     "Session:Train the CryptoParty Trainer# 15d77550626146b226d51911f3ea7155": {
         "Held in language": [
             "en - English"
@@ -5077,44 +5033,42 @@
             "1482865200"
         ]
     }, 
-    "Session:Skillconvention c# 15f21480446aabdd28aa3fe571253266": {
+    "Session:Coder Dojo# a2d3c9df94b90cd7240898885d1eb3ec": {
         "Held in language": [
-            "en - English"
+            "de - German"
         ], 
         "Has start time": [
-            "1483057800"
+            "1482919200"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "http://thereisnogame.de"
-        ], 
-        "Has description": [
-            "all travelers of a certain skill will be invited to join their respective convention"
-        ], 
+        "Has website": [], 
+        "Has description": [], 
         "Has session type": [
-            "Meeting"
+            "Workshop"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall A.1", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
+                "fulltext": "Room:Hall C.3", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.3", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [], 
+        "Has subtitle": [
+            "Slot 0 Room 1"
+        ], 
         "Is organized by": [
             {
-                "fulltext": "User:Reisende", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Reisende", 
+                "fulltext": "User:Nana berlin", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Nana_berlin", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Skillconvention c"
+            "Coder Dojo"
         ], 
         "Has duration": [
             60
@@ -5122,9 +5076,9 @@
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Skillconvention_c", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Coder_Dojo", 
         "Has end time": [
-            "1483061400"
+            "1482922800"
         ]
     }, 
     "Session:Surface Mount Electronics Assembly for Terrified Beginners# a01901e1604e2bda7e4405917a4e766b": {
@@ -7546,6 +7500,56 @@
             "1483041600"
         ]
     }, 
+    "Session:Skillconvention c# 15f21480446aabdd28aa3fe571253266": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1483057800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://thereisnogame.de"
+        ], 
+        "Has description": [
+            "all travelers of a certain skill will be invited to join their respective convention"
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall A.1", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Reisende", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Reisende", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Skillconvention c"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Skillconvention_c", 
+        "Has end time": [
+            "1483061400"
+        ]
+    }, 
     "Session:There is no birthday party# 172955a48fe885c1b849ffea7ee016aa": {
         "Held in language": [
             "de - German"
@@ -7642,6 +7646,54 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Space_Hacking", 
         "Has end time": [
             "1482865200"
+        ]
+    }, 
+    "Session:Emacs rehab center (vim workshop)# f8e7d1c3bed5883c628e1009ef251aa4": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482238800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Admitting you have a problem is the first step to getting better. We'll create a welcoming, safe space for recovering emacs users, and teach the fundamentals of vim. We'll also have some more advanced tips for people who want to up their vim-fu.\n\nWe had lots of fun at 32c3, this time we'll be learning a few new tricks to put sublime and atom users to shame as well.\n\n<code>$ cat motto\n\n\"emacs is awesome\"\n\n$ vim motto\n\nwciwvim&lt;ESC&gt;ZZ\n\n$ cat motto\n\n\"vim is awesome\"</code>"
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Milliways", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Milliways", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Aestetix", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Aestetix", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Emacs rehab center (vim workshop)"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Emacs_rehab_center_(vim_workshop)", 
+        "Has end time": [
+            "1482242400"
         ]
     }, 
     "Session:Entscheidungsfindung/Konsens# c5bce8af22940d51c942e1826f801c86": {
@@ -8266,42 +8318,42 @@
             "1483034400"
         ]
     }, 
-    "Session:Coder Dojo# a2d3c9df94b90cd7240898885d1eb3ec": {
+    "Session:FSaaS: Challenges for 'Free Software as a Service' in business# d132d8604f7ecac61db1cbf423ca9e6e": {
         "Held in language": [
-            "de - German"
+            "en - English"
         ], 
         "Has start time": [
-            "1482919200"
+            "1482957000"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
-        "Has description": [], 
+        "Has description": [
+            "Of all the Free Software business models, Software-as-a-Service (SaaS) is one of the most appealing. Wordpresss blazed a path over a decade ago that few have managed to follow. How do Free Software businesses of this nature work? What are their biggest challenges? And why aren't there more of them? Bring your ideas for a discussion."
+        ], 
         "Has session type": [
-            "Workshop"
+            "Discussion"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall C.3", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.3", 
+                "fulltext": "Room:Hall 13-14", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_13-14", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [
-            "Slot 0 Room 1"
-        ], 
+        "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Nana berlin", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Nana_berlin", 
+                "fulltext": "User:Eal", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Eal", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Coder Dojo"
+            "FSaaS"
         ], 
         "Has duration": [
             60
@@ -8309,9 +8361,9 @@
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Coder_Dojo", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:FSaaS:_Challenges_for_%27Free_Software_as_a_Service%27_in_business", 
         "Has end time": [
-            "1482922800"
+            "1482960600"
         ]
     }, 
     "Session:Skillconvention b# 390998a1ab9f42dbefdc4f9bf1f69e29": {
@@ -11066,54 +11118,6 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:LEAP_Platform_for_vpn_%2B_LEAP_and_Pixelated_platform_for_email_providers", 
         "Has end time": [
             "1482951600"
-        ]
-    }, 
-    "Session:FSaaS: Challenges for 'Free Software as a Service' in business# d132d8604f7ecac61db1cbf423ca9e6e": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1482957000"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Of all the Free Software business models, Software-as-a-Service (SaaS) is one of the most appealing. Wordpresss blazed a path over a decade ago that few have managed to follow. How do Free Software businesses of this nature work? What are their biggest challenges? And why aren't there more of them? Bring your ideas for a discussion."
-        ], 
-        "Has session type": [
-            "Discussion"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall 13-14", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_13-14", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Eal", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Eal", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "FSaaS"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:FSaaS:_Challenges_for_%27Free_Software_as_a_Service%27_in_business", 
-        "Has end time": [
-            "1482960600"
         ]
     }, 
     "Session:Numerical Weather Prediction Tutorial# 1991d7c2adefc5daab2a75f4b429a67d": {
