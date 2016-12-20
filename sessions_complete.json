@@ -871,29 +871,29 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Freifunk@GSoC2016", 
         "Has end time": []
     }, 
-    "Session:Netzpolitik in der Schweiz 2017# 5f82deed17bcbda99f3adf3343ea86db": {
+    "Session:Subtitles-Angelmeetings# f48797b83b3006b88510ce3136aec9e2": {
         "Held in language": [
-            "de - German"
+            "en - English"
         ], 
         "Has start time": [
-            "1482873300"
+            "1483024500"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [
-            "https://www.digitale-gesellschaft.ch"
+            "https://c3subtitles.de/"
         ], 
         "Has description": [
-            "Nach dem Talk zur Netzpolitik in der Schweiz 2016 treffen wir uns zum Kennenlernen, Planen und Absprechen."
+            "The Angelmeeting for the subtitles Angels.\nIf you want to be approved as a subtitles Angel, please visit!\nIf you are one already, this is the easiest way to meet and manage shifts etc.\nWelcome to the Subtitles Angelmeeting!"
         ], 
         "Has session type": [
             "Meeting"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall A.1", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
+                "fulltext": "Room:Hall F", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_F", 
                 "namespace": 516, 
                 "exists": true
             }
@@ -901,24 +901,24 @@
         "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Kire", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Kire", 
+                "fulltext": "User:Cube", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Cube", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Netzpolitik in der Schweiz 2017"
+            "Subtitles-Angelmeetings"
         ], 
         "Has duration": [
-            120
+            30
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Netzpolitik_in_der_Schweiz_2017", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Subtitles-Angelmeetings", 
         "Has end time": [
-            "1482880500"
+            "1483026300"
         ]
     }, 
     "Session:LearnToSolder# 0ea6a4d4288ec847b8b7da9a8e7cf319": {
@@ -2252,54 +2252,49 @@
             "1482937200"
         ]
     }, 
-    "Session:Subtitles-Angelmeetings# 33d15813452eabff67587b00e4525369": {
+    "Session:Bin\u00e4rgewitter H\u00f6rertreffen# bf538cd7b25b8b8a635527e3e91a64cc": {
         "Held in language": [
-            "en - English"
+            "de - German"
         ], 
         "Has start time": [
-            "1482851700"
+            "1483027200"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [
-            "https://c3subtitles.de/"
+            "http://http%3B//krepel.us"
         ], 
         "Has description": [
-            "The Angelmeeting for the subtitles Angels.\nIf you want to be approved as a subtitles Angel, please visit!\nIf you are one already, this is the easiest way to meet and manage shifts etc.\nWelcome to the Subtitles Angelmeeting!"
+            "Bin\u00e4rgewitter H\u00f6rertreffen auf dem 33c3"
         ], 
         "Has session type": [
             "Meeting"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall A.1", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
+                "fulltext": "Room:Hall B", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_B", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Cube", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Cube", 
-                "namespace": 2, 
-                "exists": true
-            }
+        "Has subtitle": [
+            "Do it, do it NOW!"
         ], 
+        "Is organized by": [], 
         "Has title": [
-            "Subtitles-Angelmeetings"
+            "Bin\u00e4rgewitter H\u00f6rertreffen"
         ], 
         "Has duration": [
-            30
+            120
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Subtitles-Angelmeetings", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Bin%C3%A4rgewitter_H%C3%B6rertreffen", 
         "Has end time": [
-            "1482853500"
+            "1483034400"
         ]
     }, 
     "Session:Coder Dojo# ce369fbaa66a09e01586ffcab4b39c4a": {
@@ -5477,12 +5472,12 @@
             "1483030800"
         ]
     }, 
-    "Session:Subtitles-Angelmeetings# f48797b83b3006b88510ce3136aec9e2": {
+    "Session:Subtitles-Angelmeetings# 33d15813452eabff67587b00e4525369": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1483024500"
+            "1482851700"
         ], 
         "Has event track": [
             "Session"
@@ -5498,8 +5493,8 @@
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall F", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_F", 
+                "fulltext": "Room:Hall A.1", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
                 "namespace": 516, 
                 "exists": true
             }
@@ -5524,7 +5519,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Subtitles-Angelmeetings", 
         "Has end time": [
-            "1483026300"
+            "1482853500"
         ]
     }, 
     "Session:Off Grid: a videogame about hacking, data privacy, and surveillance# c5626b218dcaf7fe2c0ab1eff5125d93": {
@@ -7698,54 +7693,6 @@
             "1482865200"
         ]
     }, 
-    "Session:Emacs rehab center (vim workshop)# f8e7d1c3bed5883c628e1009ef251aa4": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1482238800"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Admitting you have a problem is the first step to getting better. We'll create a welcoming, safe space for recovering emacs users, and teach the fundamentals of vim. We'll also have some more advanced tips for people who want to up their vim-fu.\n\nWe had lots of fun at 32c3, this time we'll be learning a few new tricks to put sublime and atom users to shame as well.\n\n<code>$ cat motto\n\n\"emacs is awesome\"\n\n$ vim motto\n\nwciwvim&lt;ESC&gt;ZZ\n\n$ cat motto\n\n\"vim is awesome\"</code>"
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:Milliways", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Milliways", 
-                "namespace": 504, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Aestetix", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Aestetix", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Emacs rehab center (vim workshop)"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Emacs_rehab_center_(vim_workshop)", 
-        "Has end time": [
-            "1482242400"
-        ]
-    }, 
     "Session:Entscheidungsfindung/Konsens# c5bce8af22940d51c942e1826f801c86": {
         "Held in language": [
             "de - German"
@@ -8414,42 +8361,42 @@
             "1483034400"
         ]
     }, 
-    "Session:FSaaS: Challenges for 'Free Software as a Service' in business# d132d8604f7ecac61db1cbf423ca9e6e": {
+    "Session:Emacs rehab center (vim workshop)# f8e7d1c3bed5883c628e1009ef251aa4": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482957000"
+            "1482238800"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [
-            "Of all the Free Software business models, Software-as-a-Service (SaaS) is one of the most appealing. Wordpresss blazed a path over a decade ago that few have managed to follow. How do Free Software businesses of this nature work? What are their biggest challenges? And why aren't there more of them? Bring your ideas for a discussion."
+            "Admitting you have a problem is the first step to getting better. We'll create a welcoming, safe space for recovering emacs users, and teach the fundamentals of vim. We'll also have some more advanced tips for people who want to up their vim-fu.\n\nWe had lots of fun at 32c3, this time we'll be learning a few new tricks to put sublime and atom users to shame as well.\n\n<code>$ cat motto\n\n\"emacs is awesome\"\n\n$ vim motto\n\nwciwvim&lt;ESC&gt;ZZ\n\n$ cat motto\n\n\"vim is awesome\"</code>"
         ], 
         "Has session type": [
-            "Discussion"
+            "Workshop"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall 13-14", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_13-14", 
-                "namespace": 516, 
+                "fulltext": "Assembly:Milliways", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Milliways", 
+                "namespace": 504, 
                 "exists": true
             }
         ], 
         "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Eal", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Eal", 
+                "fulltext": "User:Aestetix", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Aestetix", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "FSaaS"
+            "Emacs rehab center (vim workshop)"
         ], 
         "Has duration": [
             60
@@ -8457,9 +8404,9 @@
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:FSaaS:_Challenges_for_%27Free_Software_as_a_Service%27_in_business", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Emacs_rehab_center_(vim_workshop)", 
         "Has end time": [
-            "1482960600"
+            "1482242400"
         ]
     }, 
     "Session:Skillconvention b# 390998a1ab9f42dbefdc4f9bf1f69e29": {
@@ -9883,39 +9830,44 @@
             "1482948000"
         ]
     }, 
-    "Session:Bin\u00e4rgewitter H\u00f6rertreffen# 8f6b08be3d281eabebdec03d0527e53a": {
+    "Session:Netzpolitik in der Schweiz 2017# 5f82deed17bcbda99f3adf3343ea86db": {
         "Held in language": [
             "de - German"
         ], 
         "Has start time": [
-            "1483030800"
+            "1482873300"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [
-            "http://http%3B//krepel.us"
+            "https://www.digitale-gesellschaft.ch"
         ], 
         "Has description": [
-            "Bin\u00e4rgewitter H\u00f6rertreffen auf dem 33c3"
+            "Nach dem Talk zur Netzpolitik in der Schweiz 2016 treffen wir uns zum Kennenlernen, Planen und Absprechen."
         ], 
         "Has session type": [
             "Meeting"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall B", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_B", 
+                "fulltext": "Room:Hall A.1", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [
-            "Do it, do it NOW!"
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Kire", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Kire", 
+                "namespace": 2, 
+                "exists": true
+            }
         ], 
-        "Is organized by": [], 
         "Has title": [
-            "Bin\u00e4rgewitter H\u00f6rertreffen"
+            "Netzpolitik in der Schweiz 2017"
         ], 
         "Has duration": [
             120
@@ -9923,9 +9875,9 @@
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Bin%C3%A4rgewitter_H%C3%B6rertreffen", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Netzpolitik_in_der_Schweiz_2017", 
         "Has end time": [
-            "1483038000"
+            "1482880500"
         ]
     }, 
     "Session:Eris Rising# 041120007c5283bda6bce6a6905ff6d5": {
@@ -11214,6 +11166,54 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:LEAP_Platform_for_vpn_%2B_LEAP_and_Pixelated_platform_for_email_providers", 
         "Has end time": [
             "1482951600"
+        ]
+    }, 
+    "Session:FSaaS: Challenges for 'Free Software as a Service' in business# d132d8604f7ecac61db1cbf423ca9e6e": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482957000"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Of all the Free Software business models, Software-as-a-Service (SaaS) is one of the most appealing. Wordpresss blazed a path over a decade ago that few have managed to follow. How do Free Software businesses of this nature work? What are their biggest challenges? And why aren't there more of them? Bring your ideas for a discussion."
+        ], 
+        "Has session type": [
+            "Discussion"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall 13-14", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_13-14", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Eal", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Eal", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "FSaaS"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:FSaaS:_Challenges_for_%27Free_Software_as_a_Service%27_in_business", 
+        "Has end time": [
+            "1482960600"
         ]
     }, 
     "Session:Numerical Weather Prediction Tutorial# 1991d7c2adefc5daab2a75f4b429a67d": {

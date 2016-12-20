@@ -804,7 +804,7 @@
         "speakers": "Jeffburdges"
     }, 
     {
-        "event_id": 1037, 
+        "event_id": 1028, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1131, 
@@ -864,7 +864,7 @@
         "speakers": "Janosch"
     }, 
     {
-        "event_id": 1029, 
+        "event_id": 1030, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1132, 
@@ -960,7 +960,7 @@
         "speakers": "Lassekarstensen"
     }, 
     {
-        "event_id": 1030, 
+        "event_id": 1031, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1133, 
@@ -972,7 +972,7 @@
         "speakers": "Nana berlin"
     }, 
     {
-        "event_id": 1032, 
+        "event_id": 1033, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1133, 
@@ -984,7 +984,7 @@
         "speakers": "Nana berlin"
     }, 
     {
-        "event_id": 1033, 
+        "event_id": 1034, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1133, 
@@ -996,7 +996,7 @@
         "speakers": "Nana berlin"
     }, 
     {
-        "event_id": 1036, 
+        "event_id": 1037, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1133, 
@@ -1056,7 +1056,7 @@
         "speakers": "A.Vibrio.F."
     }, 
     {
-        "event_id": 1028, 
+        "event_id": 1029, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1134, 
@@ -1068,7 +1068,7 @@
         "speakers": "Nana berlin"
     }, 
     {
-        "event_id": 1031, 
+        "event_id": 1032, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1134, 
@@ -1080,7 +1080,7 @@
         "speakers": "Nana berlin"
     }, 
     {
-        "event_id": 1034, 
+        "event_id": 1035, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1134, 
@@ -1092,7 +1092,7 @@
         "speakers": "Nana berlin"
     }, 
     {
-        "event_id": 1035, 
+        "event_id": 1036, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1134, 
@@ -1613,7 +1613,7 @@
         "track_name": "Session", 
         "room_id": 1120, 
         "room_name": "Hall B", 
-        "start_time": "2016-12-29T17:00:00+01:00", 
+        "start_time": "2016-12-29T16:00:00+01:00", 
         "duration": 7200, 
         "title": "Bin\u00e4rgewitter H\u00f6rertreffen", 
         "abstract": "Do it, do it NOW! \nBin\u00e4rgewitter H\u00f6rertreffen auf dem 33c3", 
@@ -1961,8 +1961,8 @@
         "track_name": "Session", 
         "room_id": 1230, 
         "room_name": "Hall F", 
-        "start_time": "2016-12-29T18:00:00+01:00", 
-        "duration": 8100, 
+        "start_time": "2016-12-29T21:00:00+01:00", 
+        "duration": 10800, 
         "title": "Movie Night", 
         "abstract": " \nBlocked for Film Screenings by Content Team", 
         "speakers": ""
@@ -1973,8 +1973,8 @@
         "track_name": "Session", 
         "room_id": 1230, 
         "room_name": "Hall F", 
-        "start_time": "2016-12-29T21:00:00+01:00", 
-        "duration": 10800, 
+        "start_time": "2016-12-29T18:00:00+01:00", 
+        "duration": 8100, 
         "title": "Movie Night", 
         "abstract": " \nBlocked for Film Screenings by Content Team", 
         "speakers": ""
