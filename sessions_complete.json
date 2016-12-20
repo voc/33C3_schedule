@@ -1,56 +1,4 @@
 {
-    "Session:Stage Manager Angel Introduction# 000a0488f2404d1ea417ad9f2f124e43": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1482786000"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://events.ccc.de/congress/2016/wiki/Static:Stage_manager"
-        ], 
-        "Has description": [
-            "Stage Managers are responsible for a specific lecture hall (Saal) and all the talks within a 4 hour time slot. In short, stage managers make sure the talks go as smoothly as possible, including technical issues and crowd management.\n\nDuring this Session we will introduce you to your dutys as a stage manager and teach you all that you need to know to make the Talks during 33c3 run as smoothly as possible."
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall A.1", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Day0 Introduction Stagemanager and Heralds"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Ijon", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Ijon", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Stage Manager Angel Introduction"
-        ], 
-        "Has duration": [
-            90
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Stage_Manager_Angel_Introduction", 
-        "Has end time": [
-            "1482791400"
-        ]
-    }, 
     "Session:Tor# 597a60bf1df02da1110f843b155078a9": {
         "Held in language": [
             "en - English"
@@ -98,7 +46,7 @@
         ], 
         "Has website": [], 
         "Has description": [
-            "A guide to use your multiple devices with Free Software and synchronize them"
+            "This is a user-friendly guide for those who like to use their multiple devices (PC, Laptop, Phone, Tablet) with Free Software and to sync their data between these devices with Free Software as well. Liberate your devices and sync your data in freedom without the need of third-party accounts or services! \nFor example, use your phone with full usage-spectrum but without a Google account or any other account. Or create your own cloud and IT infrastructure to host your data on your own devices solely.\n\nAnd the best: You do not need to be a hacker for this! I will show you a user-friendly way to achieve freedom - all tools and software presented come with graphical interfaces and with no coding skills required.\n\nSelf-empowerment never was so easy!"
         ], 
         "Has session type": [
             "Talk"
@@ -3413,54 +3361,54 @@
             "1482940800"
         ]
     }, 
-    "Session:Prototype Fund - 1.2 Million Euros for Free Software Projects# e4648cc036bc044ba52e220226e31772": {
+    "Session:Obai Brause: caffeinated sherbet# 1e0fb8e2d4da98af2b872c1f1b3165a9": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482960600"
+            "1482262200"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [
-            "https://prototypefund.de"
+            "https://foodhackingbase.org/wiki/Caffeinated_Sherbet"
         ], 
         "Has description": [
-            "The Prototype Fund supports the implementation of ideas in civic tech, data literacy, data security and software infrastructure. With a grant of up to \u20ac30,000, software developers, hackers and creatives can write code and develop open source prototypes over a period of six months.\n\nApplying is as easy as possible and the next deadline at the begin of February. Come, hear and ask us everything about the Prototype Fund."
+            "During this workshop you have the ability to mix your own caffeinated sherbet powder. Just come over during the workshop time, mixing usually takes only 20-30min."
         ], 
         "Has session type": [
-            "Discussion"
+            "Workshop"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall 13-14", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_13-14", 
-                "namespace": 516, 
+                "fulltext": "Assembly:Foodhackingbase", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Foodhackingbase", 
+                "namespace": 504, 
                 "exists": true
             }
         ], 
         "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Eal", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Eal", 
+                "fulltext": "User:Schmittlauch", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Schmittlauch", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Prototype Fund - 1.2 Million Euros for Free Software Projects"
+            "Obai Brause"
         ], 
         "Has duration": [
-            30
+            120
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Prototype_Fund_-_1.2_Million_Euros_for_Free_Software_Projects", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Obai_Brause:_caffeinated_sherbet", 
         "Has end time": [
-            "1482962400"
+            "1482269400"
         ]
     }, 
     "Session:Klangteppich# 62fa2f6db9d6867d71bcb2dcbcc9ee82": {
@@ -3904,6 +3852,56 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Implications_of_the_EU_copyright_reform_on_Free_Software", 
         "Has end time": [
             "1482940800"
+        ]
+    }, 
+    "Session:Prototype Fund - 1.2 Million Euros for Free Software Projects# e4648cc036bc044ba52e220226e31772": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482960600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://prototypefund.de"
+        ], 
+        "Has description": [
+            "The Prototype Fund supports the implementation of ideas in civic tech, data literacy, data security and software infrastructure. With a grant of up to \u20ac30,000, software developers, hackers and creatives can write code and develop open source prototypes over a period of six months.\n\nApplying is as easy as possible and the next deadline at the begin of February. Come, hear and ask us everything about the Prototype Fund."
+        ], 
+        "Has session type": [
+            "Discussion"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall 13-14", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_13-14", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Eal", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Eal", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Prototype Fund - 1.2 Million Euros for Free Software Projects"
+        ], 
+        "Has duration": [
+            30
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Prototype_Fund_-_1.2_Million_Euros_for_Free_Software_Projects", 
+        "Has end time": [
+            "1482962400"
         ]
     }, 
     "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
@@ -7075,6 +7073,58 @@
             "1482956100"
         ]
     }, 
+    "Session:Stage Manager Angel Introduction# 391e226a6dc0aa72ad5b79b718ed0cfa": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1483038000"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://events.ccc.de/congress/2016/wiki/Static:Stage_manager"
+        ], 
+        "Has description": [
+            "Stage Managers are responsible for a specific lecture hall (Saal) and all the talks within a 4 hour time slot. In short, stage managers make sure the talks go as smoothly as possible, including technical issues and crowd management.\n\nDuring this Session we will introduce you to your dutys as a stage manager and teach you all that you need to know to make the Talks during 33c3 run as smoothly as possible."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall A.1", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Day3 Introduction Stagemanagers"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Ijon", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Ijon", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Stage Manager Angel Introduction"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Stage_Manager_Angel_Introduction", 
+        "Has end time": [
+            "1483041600"
+        ]
+    }, 
     "Session:DSM, EIF, RED: Acronyms on the EU level and why they matter for software freedom# 7445ce4e0e403f70db3ba261dbd68684": {
         "Held in language": [
             "en - English"
@@ -7258,12 +7308,12 @@
             "1483039800"
         ]
     }, 
-    "Session:Stage Manager Angel Introduction# 391e226a6dc0aa72ad5b79b718ed0cfa": {
+    "Session:Stage Manager Angel Introduction# 000a0488f2404d1ea417ad9f2f124e43": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1483038000"
+            "1482786000"
         ], 
         "Has event track": [
             "Session"
@@ -7286,7 +7336,7 @@
             }
         ], 
         "Has subtitle": [
-            "Day3 Introduction Stagemanagers"
+            "Day0 Introduction Stagemanager and Heralds"
         ], 
         "Is organized by": [
             {
@@ -7300,14 +7350,14 @@
             "Stage Manager Angel Introduction"
         ], 
         "Has duration": [
-            60
+            90
         ], 
         "Has color": [
             "#0099ab"
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Stage_Manager_Angel_Introduction", 
         "Has end time": [
-            "1483041600"
+            "1482791400"
         ]
     }, 
     "Session:Your own Glowing Micropet!# 0e82b1cb18d1fac1e9981aa274ccfdf6": {
