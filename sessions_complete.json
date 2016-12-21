@@ -8439,42 +8439,42 @@
             "1483034400"
         ]
     }, 
-    "Session:Emacs rehab center (vim workshop)# f8e7d1c3bed5883c628e1009ef251aa4": {
+    "Session:FSaaS: Challenges for 'Free Software as a Service' in business# d132d8604f7ecac61db1cbf423ca9e6e": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482238800"
+            "1482957000"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [
-            "Admitting you have a problem is the first step to getting better. We'll create a welcoming, safe space for recovering emacs users, and teach the fundamentals of vim. We'll also have some more advanced tips for people who want to up their vim-fu.\n\nWe had lots of fun at 32c3, this time we'll be learning a few new tricks to put sublime and atom users to shame as well.\n\n<code>$ cat motto\n\n\"emacs is awesome\"\n\n$ vim motto\n\nwciwvim&lt;ESC&gt;ZZ\n\n$ cat motto\n\n\"vim is awesome\"</code>"
+            "Of all the Free Software business models, Software-as-a-Service (SaaS) is one of the most appealing. Wordpresss blazed a path over a decade ago that few have managed to follow. How do Free Software businesses of this nature work? What are their biggest challenges? And why aren't there more of them? Bring your ideas for a discussion."
         ], 
         "Has session type": [
-            "Workshop"
+            "Discussion"
         ], 
         "Has session location": [
             {
-                "fulltext": "Assembly:Milliways", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Milliways", 
-                "namespace": 504, 
+                "fulltext": "Room:Hall 13-14", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_13-14", 
+                "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Aestetix", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Aestetix", 
+                "fulltext": "User:Eal", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Eal", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Emacs rehab center (vim workshop)"
+            "FSaaS"
         ], 
         "Has duration": [
             60
@@ -8482,9 +8482,9 @@
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Emacs_rehab_center_(vim_workshop)", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:FSaaS:_Challenges_for_%27Free_Software_as_a_Service%27_in_business", 
         "Has end time": [
-            "1482242400"
+            "1482960600"
         ]
     }, 
     "Session:Skillconvention b# 390998a1ab9f42dbefdc4f9bf1f69e29": {
@@ -9867,42 +9867,53 @@
             "1482880500"
         ]
     }, 
-    "Session:Eris Rising# 041120007c5283bda6bce6a6905ff6d5": {
+    "Session:Emacs rehab center (vim workshop)# c376fc6a53dd1d0a6fd8665caa12bb31": {
         "Held in language": [
             "en - English"
         ], 
-        "Has start time": [], 
+        "Has start time": [
+            "1482930000"
+        ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "http://cjpaget.co.uk"
-        ], 
+        "Has website": [], 
         "Has description": [
-            "Why hack machines, when you can hack people?\n\nA talk postulating a new type of hacker, the 'Eris': a blackhat sociologist who social engineers groups rather than individuals. Certain group ideologies or behaviors allow easy manipulation, and politically active communities like the hacker community will be in the targets in the coming era."
+            "Admitting you have a problem is the first step to getting better. We'll create a welcoming, safe space for recovering emacs users, and teach the fundamentals of vim. We'll also have some more advanced tips for people who want to up their vim-fu.\n\nWe had lots of fun at 32c3, this time we'll be learning a few new tricks to put sublime and atom users to shame as well.\n\n<code>$ cat motto\n\n\"emacs is awesome\"\n\n$ vim motto\n\nwciwvim&lt;ESC&gt;ZZ\n\n$ cat motto\n\n\"vim is awesome\"</code>"
         ], 
         "Has session type": [
-            "Talk"
+            "Workshop"
         ], 
-        "Has session location": [], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Milliways", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Milliways", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
         "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Colum", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Colum", 
+                "fulltext": "User:Aestetix", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Aestetix", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Eris Rising"
+            "Emacs rehab center (vim workshop)"
         ], 
-        "Has duration": [], 
+        "Has duration": [
+            60
+        ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Eris_Rising", 
-        "Has end time": []
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Emacs_rehab_center_(vim_workshop)", 
+        "Has end time": [
+            "1482933600"
+        ]
     }, 
     "Session:Translation meetings# 36252d5cc335293f00e927b0b6eba7fb": {
         "Held in language": [
@@ -10507,6 +10518,43 @@
         "Has end time": [
             "1482939000"
         ]
+    }, 
+    "Session:Eris Rising# 041120007c5283bda6bce6a6905ff6d5": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://cjpaget.co.uk"
+        ], 
+        "Has description": [
+            "Why hack machines, when you can hack people?\n\nA talk postulating a new type of hacker, the 'Eris': a blackhat sociologist who social engineers groups rather than individuals. Certain group ideologies or behaviors allow easy manipulation, and politically active communities like the hacker community will be in the targets in the coming era."
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Colum", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Colum", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Eris Rising"
+        ], 
+        "Has duration": [], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Eris_Rising", 
+        "Has end time": []
     }, 
     "Session:Surface Mount Electronics Assembly for Terrified Beginners# bf43d8b5a156882133d1c4114e23f55c": {
         "Held in language": [
@@ -11359,54 +11407,6 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:LEAP_Platform_for_vpn_%2B_LEAP_and_Pixelated_platform_for_email_providers", 
         "Has end time": [
             "1482951600"
-        ]
-    }, 
-    "Session:FSaaS: Challenges for 'Free Software as a Service' in business# d132d8604f7ecac61db1cbf423ca9e6e": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1482957000"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Of all the Free Software business models, Software-as-a-Service (SaaS) is one of the most appealing. Wordpresss blazed a path over a decade ago that few have managed to follow. How do Free Software businesses of this nature work? What are their biggest challenges? And why aren't there more of them? Bring your ideas for a discussion."
-        ], 
-        "Has session type": [
-            "Discussion"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall 13-14", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_13-14", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Eal", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Eal", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "FSaaS"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:FSaaS:_Challenges_for_%27Free_Software_as_a_Service%27_in_business", 
-        "Has end time": [
-            "1482960600"
         ]
     }, 
     "Session:Numerical Weather Prediction Tutorial# 1991d7c2adefc5daab2a75f4b429a67d": {
