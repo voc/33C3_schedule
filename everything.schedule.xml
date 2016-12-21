@@ -2311,9 +2311,9 @@ Interbrigadas, Graffitiarchiv und Mensch Meier.</description>
         <subtitle/>
         <track>self organized sessions</track>
         <type>workshop</type>
-        <language>de</language>
+        <language>en</language>
         <abstract/>
-        <description>For years I updated the signature for my email client manually &#8211; until I got fed up&#8230; That&#8217;s why I wrote a script to create a randomized signature block automatically from an RSS feed! Check it out on GitHub. In this workshop you'll customize the script for your needs!</description>
+        <description>For years I updated the signature for my emails manually &#8211; until I got fed up&#8230; That&#8217;s why I wrote a script to create a randomized signature block automatically from an RSS feed!</description>
         <persons>
           <person id="0" href="https://events.ccc.de/congress/2016/wiki/User:Birdy1976">Birdy1976</person>
         </persons>

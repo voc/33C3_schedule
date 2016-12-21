@@ -2540,9 +2540,9 @@
                                 "subtitle": "", 
                                 "track": "self organized sessions", 
                                 "type": "workshop", 
-                                "language": "de", 
+                                "language": "en", 
                                 "abstract": "", 
-                                "description": "For years I updated the signature for my email client manually \u2013 until I got fed up\u2026 That\u2019s why I wrote a script to create a randomized signature block automatically from an RSS feed! Check it out on GitHub. In this workshop you'll customize the script for your needs!", 
+                                "description": "For years I updated the signature for my emails manually \u2013 until I got fed up\u2026 That\u2019s why I wrote a script to create a randomized signature block automatically from an RSS feed!", 
                                 "persons": [
                                     {
                                         "id": 0, 

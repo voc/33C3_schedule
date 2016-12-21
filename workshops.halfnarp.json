@@ -20,7 +20,7 @@
         "start_time": "2016-12-27T10:15:00+01:00", 
         "duration": 1800, 
         "title": "42birds", 
-        "abstract": "For years I updated the signature for my email client manually \u2013 until I got fed up\u2026 That\u2019s why I wrote a script to create a randomized signature block automatically from an RSS feed! Check it out on GitHub. In this workshop you'll customize the script for your needs!", 
+        "abstract": "For years I updated the signature for my emails manually \u2013 until I got fed up\u2026 That\u2019s why I wrote a script to create a randomized signature block automatically from an RSS feed!", 
         "speakers": "Birdy1976"
     }, 
     {
