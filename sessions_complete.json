@@ -878,12 +878,12 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Freifunk@GSoC2016", 
         "Has end time": []
     }, 
-    "Session:Subtitles-Angelmeetings# 33d15813452eabff67587b00e4525369": {
+    "Session:Subtitles-Angelmeetings# f48797b83b3006b88510ce3136aec9e2": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482851700"
+            "1483024500"
         ], 
         "Has event track": [
             "Session"
@@ -899,8 +899,8 @@
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall A.1", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
+                "fulltext": "Room:Hall F", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_F", 
                 "namespace": 516, 
                 "exists": true
             }
@@ -925,7 +925,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Subtitles-Angelmeetings", 
         "Has end time": [
-            "1482853500"
+            "1483026300"
         ]
     }, 
     "Session:LearnToSolder# 0ea6a4d4288ec847b8b7da9a8e7cf319": {
@@ -3772,7 +3772,7 @@
         ], 
         "Has website": [], 
         "Has description": [
-            "Matrix is an open standard for decentralised communication. Riot is a messenger built on top of Matrix that supports group chats, multiple devices, persistent history and end to end encryption among other features.\nYou can run your own server and bridge to other platforms like IRC, Gitter, Slack and more.\nIn this talk I'll introduce you to Matrix and Riot, show you how it works, what you can do with it and why it is awesome.\n\nNote that I'm NOT a Matrix.org team member."
+            "Matrix is an open standard for decentralised communication. Riot is a messenger built on top of Matrix that supports group chats, multiple devices, persistent history and end to end encryption among other features.\nYou can run your own server and bridge to other platforms like IRC, Gitter, Slack and more.\nIn this talk I'll introduce you to Matrix and Riot, show you how it works, what you can do with it and why it is awesome.\n\nNote that I'm not a Matrix.org team member."
         ], 
         "Has session type": [
             "Talk"
@@ -4098,12 +4098,12 @@
             "1482940800"
         ]
     }, 
-    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
+    "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482764400"
+            "1483102800"
         ], 
         "Has event track": [
             "Session"
@@ -4122,7 +4122,7 @@
             }
         ], 
         "Has subtitle": [
-            "Introduction Meeting for new angels"
+            "Abbaumeeting"
         ], 
         "Is organized by": [
             {
@@ -4143,7 +4143,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
-            "1482768000"
+            "1483106400"
         ]
     }, 
     "Session:Cyberthingy# ac3e137e198cda248c6f4d44bd664362": {
@@ -5824,12 +5824,12 @@
             "1483030800"
         ]
     }, 
-    "Session:Subtitles-Angelmeetings# f48797b83b3006b88510ce3136aec9e2": {
+    "Session:Subtitles-Angelmeetings# 33d15813452eabff67587b00e4525369": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1483024500"
+            "1482851700"
         ], 
         "Has event track": [
             "Session"
@@ -5845,8 +5845,8 @@
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall F", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_F", 
+                "fulltext": "Room:Hall A.1", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
                 "namespace": 516, 
                 "exists": true
             }
@@ -5871,7 +5871,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Subtitles-Angelmeetings", 
         "Has end time": [
-            "1483026300"
+            "1482853500"
         ]
     }, 
     "Session:Off Grid: a videogame about hacking, data privacy, and surveillance# c5626b218dcaf7fe2c0ab1eff5125d93": {
@@ -7061,6 +7061,43 @@
         "Has end time": [
             "1483056000"
         ]
+    }, 
+    "Session:Internet cencorship in Belarus# 31f6c122fa90a9a9571d937a8dd4d8a5": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Belarus is a small Kolkhoz rulled by the authoritarian president Alexander Lukashenko since 1994. Several years ago belarusian government have discovered the internet and the danger that it pose to the status quo existing in the country. Since than Belarus made it first steps towards making internet a safe and secure space for dictatorship to flourish in the country.\n\nWhat were those steps and how the economy in crisis is creating infrastructure to block the dissent online."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall A.1", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Internet cencorship in Belarus"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Internet_cencorship_in_Belarus", 
+        "Has end time": []
     }, 
     "Session:Freifunk Hamburg Jahresr\u00fcckblick# fe896d35259c69eb785aa7201a005bf9": {
         "Held in language": [
@@ -10915,6 +10952,56 @@
             "1482894000"
         ]
     }, 
+    "Session:Introduction Into Anarchism# cedfca6a1f866f20e3dbcd7bf24daa34": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482931800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://abcdd.org"
+        ], 
+        "Has description": [
+            "Ideas of the anarchism existed before the network, however hacker's community willingly took anarchism appreciating its dedication to individual and collective freedom. With this session we will have a quick look on history of anarchism and the present of the anarchist struggle in the social and political sphere around the world. \n\nThis is a short presentation with a discussion round."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall B", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_B", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Tmnt", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Tmnt", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Introduction Into Anarchism"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Introduction_Into_Anarchism", 
+        "Has end time": [
+            "1482937200"
+        ]
+    }, 
     "Session:Off flavours in homebrewed beer# 06a0553985d2992394fd660075bbde7a": {
         "Held in language": [
             "en - English"
@@ -12257,12 +12344,12 @@
             "1483056000"
         ]
     }, 
-    "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
+    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1483102800"
+            "1482764400"
         ], 
         "Has event track": [
             "Session"
@@ -12281,7 +12368,7 @@
             }
         ], 
         "Has subtitle": [
-            "Abbaumeeting"
+            "Introduction Meeting for new angels"
         ], 
         "Is organized by": [
             {
@@ -12302,7 +12389,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
-            "1483106400"
+            "1482768000"
         ]
     }, 
     "Session:Line-of-sight visualizer# 24d9aabcf7d4df6b349a03dbf75a5641": {
