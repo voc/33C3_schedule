@@ -2863,45 +2863,6 @@
             "1482850800"
         ]
     }, 
-    "Session:Film-Blocker# e8e7292727500d0072186d9f2d0d0add": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1483034400"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Blocked for Film Screenings by Content Team"
-        ], 
-        "Has session type": [], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall F", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_F", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [], 
-        "Has title": [
-            "Film-Blocker"
-        ], 
-        "Has duration": [
-            135
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Film-Blocker", 
-        "Has end time": [
-            "1483042500"
-        ]
-    }, 
     "Session:3D printing for beginners# ddb26e60e003b634d86f8aa4523445d7": {
         "Held in language": [
             "en - English"
@@ -6110,47 +6071,44 @@
             "1482796800"
         ]
     }, 
-    "Session:Freifunk Webteam Meetup# a4c6b1023905f80841514340a971f8ac": {
+    "Session:Film-Blocker# e8e7292727500d0072186d9f2d0d0add": {
         "Held in language": [
-            "de - German"
+            "en - English"
         ], 
-        "Has start time": [], 
+        "Has start time": [
+            "1483034400"
+        ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [
-            "Viele der unter freifunk.net angebotenen Dienste ben\u00f6tigen Wartung und Weiterentwicklung. Wer sich hier engagieren m\u00f6chte, kommt einfach vorbei."
+            "Blocked for Film Screenings by Content Team"
         ], 
-        "Has session type": [
-            "Hands-On"
-        ], 
+        "Has session type": [], 
         "Has session location": [
             {
-                "fulltext": "Assembly:Freifunk", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Freifunk", 
-                "namespace": 504, 
+                "fulltext": "Room:Hall F", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_F", 
+                "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Andibraeu", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Andibraeu", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
+        "Is organized by": [], 
         "Has title": [
-            "Freifunk Webteam Meetup"
+            "Film-Blocker"
         ], 
-        "Has duration": [], 
+        "Has duration": [
+            135
+        ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Freifunk_Webteam_Meetup", 
-        "Has end time": []
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Film-Blocker", 
+        "Has end time": [
+            "1483042500"
+        ]
     }, 
     "Session:NewPipe# c61b9a40163f12ce5d0a42bc1defe320": {
         "Held in language": [
@@ -6352,54 +6310,54 @@
             "1482890400"
         ]
     }, 
-    "Session:Skillconvention a# c34d388fc65ca7945372d2f3c603589c": {
+    "Session:Einstieg in App-Programmierung und Scratch (f\u00fcr Kids)# 2cf3dea7a33c6a16043be20763068566": {
         "Held in language": [
-            "en - English"
+            "de - German"
         ], 
         "Has start time": [
-            "1482890400"
+            "1482939000"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "http://thereisnogame.de"
-        ], 
+        "Has website": [], 
         "Has description": [
-            "all travelers with a certain skill will be invited to these sessions."
+            "Einstieg in App-Programmierung und Scratch, 2 Workshops mit jeweils 90 Minuten f\u00fcr bis zu 20 Kids, organisiert von App Camps und Code+Design"
         ], 
         "Has session type": [
-            "Meeting"
+            "Workshop"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall 13-14", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_13-14", 
-                "namespace": 516, 
+                "fulltext": "Assembly:Jugend hackt", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Jugend_hackt", 
+                "namespace": 504, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [], 
+        "Has subtitle": [
+            "Workshop 2"
+        ], 
         "Is organized by": [
             {
-                "fulltext": "User:Reisende", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Reisende", 
+                "fulltext": "User:InaW", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:InaW", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Skillconvention a"
+            "Einstieg in App-Programmierung und Scratch (f\u00fcr Kids)"
         ], 
         "Has duration": [
-            60
+            90
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Skillconvention_a", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Einstieg_in_App-Programmierung_und_Scratch_(f%C3%BCr_Kids)", 
         "Has end time": [
-            "1482894000"
+            "1482944400"
         ]
     }, 
     "Session:Keysigning party# c9c72e0b5cc35d6418ab62c9ec6b364f": {
@@ -7537,53 +7495,47 @@
             "1482939000"
         ]
     }, 
-    "Session:Veripeditus AR Game Framework# 0428c11c8ade33fd85d5ca946d66fc2d": {
+    "Session:Freifunk Webteam Meetup# a4c6b1023905f80841514340a971f8ac": {
         "Held in language": [
-            "en - English"
+            "de - German"
         ], 
-        "Has start time": [
-            "1482937200"
-        ], 
+        "Has start time": [], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [
-            "Veripeditus is the first free and open source framework that enables everyone to develop augmented reality mobile games like Ingress or Pok\u00e9mon Go. It brings the creative side of such games to everyone, including, but not limited to, class rooms, along with a great new way of learning programming skills with Python.\n\nPresented by Nik, a 26 year-old software developer and network admin from Bonn, but better known as head of Teckids e.V., a youth organisation establishing a FOSS community among children."
+            "Viele der unter freifunk.net angebotenen Dienste ben\u00f6tigen Wartung und Weiterentwicklung. Wer sich hier engagieren m\u00f6chte, kommt einfach vorbei."
         ], 
         "Has session type": [
-            "Talk"
+            "Hands-On"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall C.2", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.2", 
-                "namespace": 516, 
+                "fulltext": "Assembly:Freifunk", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Freifunk", 
+                "namespace": 504, 
                 "exists": true
             }
         ], 
         "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Eal", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Eal", 
+                "fulltext": "User:Andibraeu", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Andibraeu", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Veripeditus AR Game Framework"
+            "Freifunk Webteam Meetup"
         ], 
-        "Has duration": [
-            60
-        ], 
+        "Has duration": [], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Veripeditus_AR_Game_Framework", 
-        "Has end time": [
-            "1482940800"
-        ]
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Freifunk_Webteam_Meetup", 
+        "Has end time": []
     }, 
     "Session:Surface Mount Electronics Assembly for Terrified Beginners# 61a5509d9d46ea6fccc963286ccc18e8": {
         "Held in language": [
@@ -7781,6 +7733,54 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Space_Hacking", 
         "Has end time": [
             "1482865200"
+        ]
+    }, 
+    "Session:Veripeditus AR Game Framework# 0428c11c8ade33fd85d5ca946d66fc2d": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482937200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Veripeditus is the first free and open source framework that enables everyone to develop augmented reality mobile games like Ingress or Pok\u00e9mon Go. It brings the creative side of such games to everyone, including, but not limited to, class rooms, along with a great new way of learning programming skills with Python.\n\nPresented by Nik, a 26 year-old software developer and network admin from Bonn, but better known as head of Teckids e.V., a youth organisation establishing a FOSS community among children."
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall C.2", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.2", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Eal", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Eal", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Veripeditus AR Game Framework"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Veripeditus_AR_Game_Framework", 
+        "Has end time": [
+            "1482940800"
         ]
     }, 
     "Session:Entscheidungsfindung/Konsens# c5bce8af22940d51c942e1826f801c86": {
@@ -10048,6 +10048,56 @@
             "1483042500"
         ]
     }, 
+    "Session:Skillconvention a# c34d388fc65ca7945372d2f3c603589c": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482890400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://thereisnogame.de"
+        ], 
+        "Has description": [
+            "all travelers with a certain skill will be invited to these sessions."
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall 13-14", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_13-14", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Reisende", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Reisende", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Skillconvention a"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Skillconvention_a", 
+        "Has end time": [
+            "1482894000"
+        ]
+    }, 
     "Session:What makes a secure mobile messenger? -- A comparison of WhatsApp competitors# 73db3246145a85eb6d6d6835c00e578e": {
         "Held in language": [
             "en - English"
@@ -10406,6 +10456,56 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:SuSi-Angelmeetings", 
         "Has end time": [
             "1483096800"
+        ]
+    }, 
+    "Session:Einstieg in App-Programmierung und Scratch (f\u00fcr Kids)# 54a00dbed551ab518956a48fc87935ee": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1482933600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Einstieg in App-Programmierung und Scratch, 2 Workshops mit jeweils 90 Minuten f\u00fcr bis zu 20 Kids, organisiert von App Camps und Code+Design"
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Jugend hackt", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Jugend_hackt", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Workshop 1"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:InaW", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:InaW", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Einstieg in App-Programmierung und Scratch (f\u00fcr Kids)"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Einstieg_in_App-Programmierung_und_Scratch_(f%C3%BCr_Kids)", 
+        "Has end time": [
+            "1482939000"
         ]
     }, 
     "Session:Surface Mount Electronics Assembly for Terrified Beginners# bf43d8b5a156882133d1c4114e23f55c": {
