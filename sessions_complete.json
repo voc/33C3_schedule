@@ -3953,12 +3953,12 @@
             "1482962400"
         ]
     }, 
-    "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
+    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1483102800"
+            "1482764400"
         ], 
         "Has event track": [
             "Session"
@@ -3977,7 +3977,7 @@
             }
         ], 
         "Has subtitle": [
-            "Abbaumeeting"
+            "Introduction Meeting for new angels"
         ], 
         "Is organized by": [
             {
@@ -3998,7 +3998,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
-            "1483106400"
+            "1482768000"
         ]
     }, 
     "Session:Cyberthingy# ac3e137e198cda248c6f4d44bd664362": {
@@ -5863,54 +5863,54 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Browsing_JS_on_Embedded", 
         "Has end time": []
     }, 
-    "Session:SuSi-Angelmeetings# da07397031c03293fbe740e60de1d900": {
+    "Session:Full schedule test session# 90e05898ce4e8e75beec25299337bbf2": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482953400"
+            "1483070400"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [
-            "https://c3subtitles.de/"
+            "https://google.com"
         ], 
         "Has description": [
-            "Angelmeeting for the Subtitles-superintendents."
+            "just for testing, ignore me"
         ], 
         "Has session type": [
-            "Meeting"
+            "Other"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall C.4", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.4", 
-                "namespace": 516, 
+                "fulltext": "Assembly:TEST ASSEMBLY PLEASE IGNORE", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:TEST_ASSEMBLY_PLEASE_IGNORE", 
+                "namespace": 504, 
                 "exists": true
             }
         ], 
         "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Cube", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Cube", 
+                "fulltext": "User:Andi-", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Andi-", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "SuSi-Angelmeetings"
+            "Full schedule test session"
         ], 
         "Has duration": [
-            20
+            60
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:SuSi-Angelmeetings", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Full_schedule_test_session", 
         "Has end time": [
-            "1482954600"
+            "1483074000"
         ]
     }, 
     "Session:Klangteppich# ba7529daf8b70e5380bf765af6139348": {
@@ -9586,6 +9586,56 @@
             "1482932700"
         ]
     }, 
+    "Session:SuSi-Angelmeetings# da07397031c03293fbe740e60de1d900": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482953400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://c3subtitles.de/"
+        ], 
+        "Has description": [
+            "Angelmeeting for the Subtitles-superintendents."
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall C.4", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.4", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Cube", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Cube", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "SuSi-Angelmeetings"
+        ], 
+        "Has duration": [
+            20
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:SuSi-Angelmeetings", 
+        "Has end time": [
+            "1482954600"
+        ]
+    }, 
     "Session:Discussing Postcolonial Computing# 14deb55d5ac3b3986de7c00f3709f05a": {
         "Held in language": [
             "ab - Abkhazian", 
@@ -11703,12 +11753,12 @@
             "1483056000"
         ]
     }, 
-    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
+    "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482764400"
+            "1483102800"
         ], 
         "Has event track": [
             "Session"
@@ -11727,7 +11777,7 @@
             }
         ], 
         "Has subtitle": [
-            "Introduction Meeting for new angels"
+            "Abbaumeeting"
         ], 
         "Is organized by": [
             {
@@ -11748,7 +11798,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
-            "1482768000"
+            "1483106400"
         ]
     }, 
     "Session:Line-of-sight visualizer# 24d9aabcf7d4df6b349a03dbf75a5641": {
