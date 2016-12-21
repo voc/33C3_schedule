@@ -1,56 +1,4 @@
 {
-    "Session:Stage Manager Angel Introduction# 000a0488f2404d1ea417ad9f2f124e43": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1482786000"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://events.ccc.de/congress/2016/wiki/Static:Stage_manager"
-        ], 
-        "Has description": [
-            "Stage Managers are responsible for a specific lecture hall (Saal) and all the talks within a 4 hour time slot. In short, stage managers make sure the talks go as smoothly as possible, including technical issues and crowd management.\n\nDuring this Session we will introduce you to your dutys as a stage manager and teach you all that you need to know to make the Talks during 33c3 run as smoothly as possible."
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall A.1", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Day0 Introduction Stagemanager and Heralds"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Ijon", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Ijon", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Stage Manager Angel Introduction"
-        ], 
-        "Has duration": [
-            90
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Stage_Manager_Angel_Introduction", 
-        "Has end time": [
-            "1482791400"
-        ]
-    }, 
     "Session:Tor# 597a60bf1df02da1110f843b155078a9": {
         "Held in language": [
             "en - English"
@@ -1372,29 +1320,122 @@
             "1482867600"
         ]
     }, 
-    "Session:Freifunk und die VDS# 2e04b5c579a580421eb70139baa92fb3": {
+    "Session:Discussing Postcolonial Computing# 14deb55d5ac3b3986de7c00f3709f05a": {
         "Held in language": [
-            "de - German"
+            "ab - Abkhazian", 
+            "af - Afrikaans", 
+            "an - Aragonese", 
+            "ar - Arabic", 
+            "as - Assamese", 
+            "az - Azerbaijani", 
+            "be - Belarusian", 
+            "bg - Bulgarian", 
+            "bn - Bengali", 
+            "bo - Tibetan", 
+            "br - Breton", 
+            "bs - Bosnian", 
+            "ca - Catalan / Valencian", 
+            "ce - Chechen", 
+            "co - Corsican", 
+            "cs - Czech", 
+            "cu - Church Slavic", 
+            "cy - Welsh", 
+            "da - Danish", 
+            "de - German", 
+            "el - Greek", 
+            "en - English", 
+            "eo - Esperanto", 
+            "es - Spanish / Castilian", 
+            "et - Estonian", 
+            "eu - Basque", 
+            "fa - Persian", 
+            "fi - Finnish", 
+            "fj - Fijian", 
+            "fo - Faroese", 
+            "fr - French", 
+            "fy - Western Frisian", 
+            "ga - Irish", 
+            "gd - Gaelic / Scottish Gaelic", 
+            "gl - Galician", 
+            "gv - Manx", 
+            "he - Hebrew", 
+            "hi - Hindi", 
+            "hr - Croatian", 
+            "ht - Haitian; Haitian Creole", 
+            "hu - Hungarian", 
+            "hy - Armenian", 
+            "id - Indonesian", 
+            "is - Icelandic", 
+            "it - Italian", 
+            "ja - Japanese", 
+            "jv - Javanese", 
+            "ka - Georgian", 
+            "kg - Kongo", 
+            "ko - Korean", 
+            "ku - Kurdish", 
+            "kw - Cornish", 
+            "ky - Kirghiz", 
+            "la - Latin", 
+            "lb - Luxembourgish; Letzeburgesch", 
+            "li - Limburgan; Limburger; Limburgish", 
+            "ln - Lingala", 
+            "lt - Lithuanian", 
+            "lv - Latvian", 
+            "mg - Malagasy", 
+            "mk - Macedonian", 
+            "mn - Mongolian", 
+            "mo - Moldavian", 
+            "ms - Malay", 
+            "mt - Maltese", 
+            "my - Burmese", 
+            "nb - Norwegian (Bokm\u00e5l)", 
+            "ne - Nepali", 
+            "nl - Dutch", 
+            "nn - Norwegian (Nynorsk)", 
+            "no - Norwegian", 
+            "oc - Occitan (post 1500); Proven\u00e7al", 
+            "pl - Polish", 
+            "pt - Portuguese", 
+            "rm - Raeto-Romance", 
+            "ro - Romanian", 
+            "ru - Russian", 
+            "sc - Sardinian", 
+            "se - Northern Sami", 
+            "sk - Slovak", 
+            "sl - Slovenian", 
+            "so - Somali", 
+            "sq - Albanian", 
+            "sr - Serbian", 
+            "sv - Swedish", 
+            "sw - Swahili", 
+            "tk - Turkmen", 
+            "tr - Turkish", 
+            "ty - Tahitian", 
+            "uk - Ukrainian", 
+            "ur - Urdu", 
+            "uz - Uzbek", 
+            "vi - Vietnamese", 
+            "vo - Volap\u00fck", 
+            "yi - Yiddish", 
+            "zh - Chinese"
         ], 
         "Has start time": [
-            "1483005600"
+            "1482944400"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "https://freifunk-rheinland.net"
-        ], 
+        "Has website": [], 
         "Has description": [
-            "Philip von Freifunk Rheinland gibt einen Ein- und \u00dcberblick \u00fcber die aktuellen Entwicklungen zur VDS, den aktuellen Status der Klage sowie Infos zu unserem Antrag auf Aussetzung und den Konsequenzen f\u00fcr unseren Backbone (AS201701)."
+            "Introduction input and discussion placeholder"
         ], 
         "Has session type": [
-            "Talk"
+            "Discussion"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall C.2", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.2", 
+                "fulltext": "Room:Hall C.3", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.3", 
                 "namespace": 516, 
                 "exists": true
             }
@@ -1402,14 +1443,14 @@
         "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Pberndro", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Pberndro", 
+                "fulltext": "User:Al-Badri Nelles", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Al-Badri_Nelles", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Freifunk und die VDS"
+            "Discussing Postcolonial Computing"
         ], 
         "Has duration": [
             60
@@ -1417,9 +1458,9 @@
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Freifunk_und_die_VDS", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Discussing_Postcolonial_Computing", 
         "Has end time": [
-            "1483009200"
+            "1482948000"
         ]
     }, 
     "Session:3D scan yourself# 07fd3c770a47140f5c5c4fe19a8c3787": {
@@ -2495,59 +2536,49 @@
             "1482787800"
         ]
     }, 
-    "Session:Hackerjeopardy - A New Approach# 451aa48d7756b2ddf9738f6379f946b8": {
+    "Session:CooTourHat bei Jugend hackt# 96a20c9f083a64347b14ce8f1029bb92": {
         "Held in language": [
             "de - German"
         ], 
-        "Has start time": [
-            "1482870600"
-        ], 
+        "Has start time": [], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [
-            "Inspiriert vom gewachsenen Konzept von Sec und Ray haben wir unsere eigene Hard- und Software gebaut. Wir k\u00f6nnen zwar keine teuren Preise bereitstellen, haben uns aber einige neue Kategorien \u00fcberlegt, damit euch nicht langweilig wird."
+            "In der Assembly von Jugend hackt werden wir \u201eCoolTourHats\u201c bauen. Die Idee entstand bei Jugend hackt S\u00fcdkorea: um Menschen aus anderen Kulturen in der eigenen Stadt kennenzulernen hilft mit ein Hut mit Arduino drin. Befinden sich interessante Menschen in der direkten Umgebung, leuchten ihre H\u00fcte bunt (oder tun andere Dinge). So erkennen sie sich gegenseitig und haben die Chance sich kennenzulernen."
         ], 
         "Has session type": [
-            "Game"
+            "Workshop"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall B", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_B", 
-                "namespace": 516, 
+                "fulltext": "Assembly:Jugend hackt", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Jugend_hackt", 
+                "namespace": 504, 
                 "exists": true
             }
         ], 
         "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Hertle", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Hertle", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:Mate", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Mate", 
+                "fulltext": "User:Juka", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Juka", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Hackerjeopardy - A New Approach"
+            "CooTourHat bei Jugend hackt"
         ], 
         "Has duration": [
-            135
+            90
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Hackerjeopardy_-_A_New_Approach", 
-        "Has end time": [
-            "1482878700"
-        ]
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:CooTourHat_bei_Jugend_hackt", 
+        "Has end time": []
     }, 
     "Session:BBS Enthusiasts# 0dd02b249944c72be6a09badd1f94454": {
         "Held in language": [
@@ -3414,52 +3445,58 @@
             "1483020000"
         ]
     }, 
-    "Session:Translation meetings# 415473cd68f9363bb56f229dfd94bb7b": {
+    "Session:Hackerjeopardy - A New Approach# 451aa48d7756b2ddf9738f6379f946b8": {
         "Held in language": [
-            "en - English"
+            "de - German"
         ], 
         "Has start time": [
-            "1482937800"
+            "1482870600"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [
-            "The translation angels (interpreters) meet twice per day to self-organise (day 0, evening to day 4, afternoon)"
+            "Inspiriert vom gewachsenen Konzept von Sec und Ray haben wir unsere eigene Hard- und Software gebaut. Wir k\u00f6nnen zwar keine teuren Preise bereitstellen, haben uns aber einige neue Kategorien \u00fcberlegt, damit euch nicht langweilig wird."
         ], 
-        "Has session type": [], 
+        "Has session type": [
+            "Game"
+        ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall 13-14", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_13-14", 
+                "fulltext": "Room:Hall B", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_B", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [
-            "day 2, afternoon meeting"
-        ], 
+        "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Sebalis", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Sebalis", 
+                "fulltext": "User:Hertle", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Hertle", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Mate", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Mate", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Translation meetings"
+            "Hackerjeopardy - A New Approach"
         ], 
         "Has duration": [
-            50
+            135
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Translation_meetings", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Hackerjeopardy_-_A_New_Approach", 
         "Has end time": [
-            "1482940800"
+            "1482878700"
         ]
     }, 
     "Session:Obai Brause: caffeinated sherbet# 1e0fb8e2d4da98af2b872c1f1b3165a9": {
@@ -8042,66 +8079,54 @@
             "1482897600"
         ]
     }, 
-    "Session:Queer Feminist Geeks Gathering# 4a992d9add2bc71db38142ddb1e0d6c2": {
+    "Session:Freifunk und die VDS# 2e04b5c579a580421eb70139baa92fb3": {
         "Held in language": [
-            "en - English"
+            "de - German"
         ], 
         "Has start time": [
-            "1482856200"
+            "1483005600"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
+        "Has website": [
+            "https://freifunk-rheinland.net"
+        ], 
         "Has description": [
-            "A meetup for all the queer feminist geek folk.\n\nWe will talk a bit about our assembly and what we are doing there, exchange projects and ideas, and network with each other. This meetup is open to people of all genders, but please be mindful of how much space you are taking up. Especially if you are white, male, straight and cis, please try to actively listen instead of talking. \n\nThis is our Code of Conduct: https://events.ccc.de/congress/2015/wiki/Projects:Code_of_Conduct_of_the_Queer_Feminist_Geek_Assembly"
+            "Philip von Freifunk Rheinland gibt einen Ein- und \u00dcberblick \u00fcber die aktuellen Entwicklungen zur VDS, den aktuellen Status der Klage sowie Infos zu unserem Antrag auf Aussetzung und den Konsequenzen f\u00fcr unseren Backbone (AS201701)."
         ], 
         "Has session type": [
-            "Meeting"
+            "Talk"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall C.1", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.1", 
+                "fulltext": "Room:Hall C.2", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.2", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [
-            "Spare room in case we split up groups"
-        ], 
+        "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Obaz", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Obaz", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:UMT", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:UMT", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:CoopDot", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:CoopDot", 
+                "fulltext": "User:Pberndro", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Pberndro", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Queer Feminist Geeks Gathering"
+            "Freifunk und die VDS"
         ], 
         "Has duration": [
-            90
+            60
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Queer_Feminist_Geeks_Gathering", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Freifunk_und_die_VDS", 
         "Has end time": [
-            "1482861600"
+            "1483009200"
         ]
     }, 
     "Session:How to Make Humanoid Robots# 539cdd3e3d798ac3c3fe23c8b7003ee8": {
@@ -9271,78 +9296,56 @@
             "1482948000"
         ]
     }, 
-    "Session:L\u00f6tworkshop von Chaos macht Schule# eb6a6a9ada1541991197ad15d61ffaed": {
+    "Session:Stage Manager Angel Introduction# 000a0488f2404d1ea417ad9f2f124e43": {
         "Held in language": [
-            "de - German"
+            "en - English"
         ], 
         "Has start time": [
-            "1482886800"
+            "1482786000"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
+        "Has website": [
+            "https://events.ccc.de/congress/2016/wiki/Static:Stage_manager"
+        ], 
         "Has description": [
-            "L\u00f6tworkshop von Chaos Macht Schule f\u00fcr Junghacker"
+            "Stage Managers are responsible for a specific lecture hall (Saal) and all the talks within a 4 hour time slot. In short, stage managers make sure the talks go as smoothly as possible, including technical issues and crowd management.\n\nDuring this Session we will introduce you to your dutys as a stage manager and teach you all that you need to know to make the Talks during 33c3 run as smoothly as possible."
         ], 
         "Has session type": [
             "Workshop"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall F", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_F", 
+                "fulltext": "Room:Hall A.1", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [
-            "L\u00f6tworkshop von Chaos Macht Schule"
+            "Day0 Introduction Stagemanager and Heralds"
         ], 
         "Is organized by": [
             {
-                "fulltext": "User:Djim", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Djim", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:Duisburch", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Duisburch", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:Benni", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Benni", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:Cbass", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Cbass", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:Stean", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Stean", 
+                "fulltext": "User:Ijon", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Ijon", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "L\u00f6tworkshop von Chaos macht Schule"
+            "Stage Manager Angel Introduction"
         ], 
         "Has duration": [
-            1380
+            90
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:L%C3%B6tworkshop_von_Chaos_macht_Schule", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Stage_Manager_Angel_Introduction", 
         "Has end time": [
-            "1482969600"
+            "1482791400"
         ]
     }, 
     "Session:The Federation# f24b55410756c33da18d71ec5d5a8520": {
@@ -9690,147 +9693,78 @@
             "1482954600"
         ]
     }, 
-    "Session:Discussing Postcolonial Computing# 14deb55d5ac3b3986de7c00f3709f05a": {
+    "Session:L\u00f6tworkshop von Chaos macht Schule# eb6a6a9ada1541991197ad15d61ffaed": {
         "Held in language": [
-            "ab - Abkhazian", 
-            "af - Afrikaans", 
-            "an - Aragonese", 
-            "ar - Arabic", 
-            "as - Assamese", 
-            "az - Azerbaijani", 
-            "be - Belarusian", 
-            "bg - Bulgarian", 
-            "bn - Bengali", 
-            "bo - Tibetan", 
-            "br - Breton", 
-            "bs - Bosnian", 
-            "ca - Catalan / Valencian", 
-            "ce - Chechen", 
-            "co - Corsican", 
-            "cs - Czech", 
-            "cu - Church Slavic", 
-            "cy - Welsh", 
-            "da - Danish", 
-            "de - German", 
-            "el - Greek", 
-            "en - English", 
-            "eo - Esperanto", 
-            "es - Spanish / Castilian", 
-            "et - Estonian", 
-            "eu - Basque", 
-            "fa - Persian", 
-            "fi - Finnish", 
-            "fj - Fijian", 
-            "fo - Faroese", 
-            "fr - French", 
-            "fy - Western Frisian", 
-            "ga - Irish", 
-            "gd - Gaelic / Scottish Gaelic", 
-            "gl - Galician", 
-            "gv - Manx", 
-            "he - Hebrew", 
-            "hi - Hindi", 
-            "hr - Croatian", 
-            "ht - Haitian; Haitian Creole", 
-            "hu - Hungarian", 
-            "hy - Armenian", 
-            "id - Indonesian", 
-            "is - Icelandic", 
-            "it - Italian", 
-            "ja - Japanese", 
-            "jv - Javanese", 
-            "ka - Georgian", 
-            "kg - Kongo", 
-            "ko - Korean", 
-            "ku - Kurdish", 
-            "kw - Cornish", 
-            "ky - Kirghiz", 
-            "la - Latin", 
-            "lb - Luxembourgish; Letzeburgesch", 
-            "li - Limburgan; Limburger; Limburgish", 
-            "ln - Lingala", 
-            "lt - Lithuanian", 
-            "lv - Latvian", 
-            "mg - Malagasy", 
-            "mk - Macedonian", 
-            "mn - Mongolian", 
-            "mo - Moldavian", 
-            "ms - Malay", 
-            "mt - Maltese", 
-            "my - Burmese", 
-            "nb - Norwegian (Bokm\u00e5l)", 
-            "ne - Nepali", 
-            "nl - Dutch", 
-            "nn - Norwegian (Nynorsk)", 
-            "no - Norwegian", 
-            "oc - Occitan (post 1500); Proven\u00e7al", 
-            "pl - Polish", 
-            "pt - Portuguese", 
-            "rm - Raeto-Romance", 
-            "ro - Romanian", 
-            "ru - Russian", 
-            "sc - Sardinian", 
-            "se - Northern Sami", 
-            "sk - Slovak", 
-            "sl - Slovenian", 
-            "so - Somali", 
-            "sq - Albanian", 
-            "sr - Serbian", 
-            "sv - Swedish", 
-            "sw - Swahili", 
-            "tk - Turkmen", 
-            "tr - Turkish", 
-            "ty - Tahitian", 
-            "uk - Ukrainian", 
-            "ur - Urdu", 
-            "uz - Uzbek", 
-            "vi - Vietnamese", 
-            "vo - Volap\u00fck", 
-            "yi - Yiddish", 
-            "zh - Chinese"
+            "de - German"
         ], 
         "Has start time": [
-            "1482944400"
+            "1482886800"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [
-            "Introduction input and discussion placeholder"
+            "L\u00f6tworkshop von Chaos Macht Schule f\u00fcr Junghacker"
         ], 
         "Has session type": [
-            "Discussion"
+            "Workshop"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall C.3", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.3", 
+                "fulltext": "Room:Hall F", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_F", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [], 
+        "Has subtitle": [
+            "L\u00f6tworkshop von Chaos Macht Schule"
+        ], 
         "Is organized by": [
             {
-                "fulltext": "User:Al-Badri Nelles", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Al-Badri_Nelles", 
+                "fulltext": "User:Djim", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Djim", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Duisburch", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Duisburch", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Benni", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Benni", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Cbass", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Cbass", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Stean", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Stean", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Discussing Postcolonial Computing"
+            "L\u00f6tworkshop von Chaos macht Schule"
         ], 
         "Has duration": [
-            60
+            1380
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Discussing_Postcolonial_Computing", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:L%C3%B6tworkshop_von_Chaos_macht_Schule", 
         "Has end time": [
-            "1482948000"
+            "1482969600"
         ]
     }, 
     "Session:Netzpolitik in der Schweiz 2017# 5f82deed17bcbda99f3adf3343ea86db": {
@@ -11629,6 +11563,68 @@
             "1482954300"
         ]
     }, 
+    "Session:Queer Feminist Geeks Gathering# 4a992d9add2bc71db38142ddb1e0d6c2": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482856200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "A meetup for all the queer feminist geek folk.\n\nWe will talk a bit about our assembly and what we are doing there, exchange projects and ideas, and network with each other. This meetup is open to people of all genders, but please be mindful of how much space you are taking up. Especially if you are white, male, straight and cis, please try to actively listen instead of talking. \n\nThis is our Code of Conduct: https://events.ccc.de/congress/2015/wiki/Projects:Code_of_Conduct_of_the_Queer_Feminist_Geek_Assembly"
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall C.1", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.1", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Spare room in case we split up groups"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Obaz", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Obaz", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:UMT", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:UMT", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:CoopDot", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:CoopDot", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Queer Feminist Geeks Gathering"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Queer_Feminist_Geeks_Gathering", 
+        "Has end time": [
+            "1482861600"
+        ]
+    }, 
     "Session:Introduction to Soy Bean Fermentation - Tempeh Making# 888bd7ac6bac7fad362323cf6d81eae6": {
         "Held in language": [
             "en - English"
@@ -11805,6 +11801,54 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Film-Abend", 
         "Has end time": [
             "1483056000"
+        ]
+    }, 
+    "Session:Translation meetings# 415473cd68f9363bb56f229dfd94bb7b": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482937800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "The translation angels (interpreters) meet twice per day to self-organise (day 0, evening to day 4, afternoon)"
+        ], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall 13-14", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_13-14", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "day 2, afternoon meeting"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Sebalis", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Sebalis", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Translation meetings"
+        ], 
+        "Has duration": [
+            50
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Translation_meetings", 
+        "Has end time": [
+            "1482940800"
         ]
     }, 
     "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
