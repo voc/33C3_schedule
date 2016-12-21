@@ -3953,12 +3953,12 @@
             "1482962400"
         ]
     }, 
-    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
+    "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482764400"
+            "1483102800"
         ], 
         "Has event track": [
             "Session"
@@ -3977,7 +3977,7 @@
             }
         ], 
         "Has subtitle": [
-            "Introduction Meeting for new angels"
+            "Abbaumeeting"
         ], 
         "Is organized by": [
             {
@@ -3998,7 +3998,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
-            "1482768000"
+            "1483106400"
         ]
     }, 
     "Session:Cyberthingy# ac3e137e198cda248c6f4d44bd664362": {
@@ -4644,6 +4644,56 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:SuSi-Angelmeetings", 
         "Has end time": [
             "1482868200"
+        ]
+    }, 
+    "Session:Full schedule test session# ff7dcd7dc8cfe3b1b1b5f9ef95ae4af2": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482904800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://google.com"
+        ], 
+        "Has description": [
+            "just for testing, ignore me"
+        ], 
+        "Has session type": [
+            "Other"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:TEST ASSEMBLY PLEASE IGNORE", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:TEST_ASSEMBLY_PLEASE_IGNORE", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Andi-", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Andi-", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Full schedule test session"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Full_schedule_test_session", 
+        "Has end time": [
+            "1482908400"
         ]
     }, 
     "Session:Skillconvention c# a1496422476dce53d2f614263adbeeca": {
@@ -8000,54 +8050,56 @@
             "1482861600"
         ]
     }, 
-    "Session:Full schedule test session# bbdbe82e5a139031c9a7e7315a6c6a62": {
+    "Session:How to Make Humanoid Robots# 539cdd3e3d798ac3c3fe23c8b7003ee8": {
         "Held in language": [
-            "en - English"
+            "de - German", 
+            "en - English", 
+            "fr - French"
         ], 
         "Has start time": [
-            "1482890400"
+            "1483023600"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [
-            "https://google.com"
+            "http://bit-bots.de"
         ], 
         "Has description": [
-            "just for testing, ignore me"
+            "We will share our knowledge in making humanoid robots with you.\nThe workshop will cover mostly hardware but also software.\nWe will bring some of our robots with us for a hands on.\nIf you want you can also just stop by to ask questions.\nWe will speak mainly in English, but we speak also German and French."
         ], 
         "Has session type": [
-            "Other"
+            "Workshop"
         ], 
         "Has session location": [
             {
-                "fulltext": "Assembly:TEST ASSEMBLY PLEASE IGNORE", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:TEST_ASSEMBLY_PLEASE_IGNORE", 
-                "namespace": 504, 
+                "fulltext": "Room:Hall C.1", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.1", 
+                "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Andi-", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Andi-", 
+                "fulltext": "User:SammyRamone", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:SammyRamone", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Full schedule test session"
+            "How to Make Humanoid Robots"
         ], 
         "Has duration": [
-            60
+            30
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Full_schedule_test_session", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:How_to_Make_Humanoid_Robots", 
         "Has end time": [
-            "1482894000"
+            "1483025400"
         ]
     }, 
     "Session:Social Engineering Poetry Slam# 3b37eebbde0ae5877170aef80a7a1a7d": {
@@ -9433,58 +9485,6 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Skillconvention_c", 
         "Has end time": [
             "1483061400"
-        ]
-    }, 
-    "Session:How to Make Humanoid Robots# 539cdd3e3d798ac3c3fe23c8b7003ee8": {
-        "Held in language": [
-            "de - German", 
-            "en - English", 
-            "fr - French"
-        ], 
-        "Has start time": [
-            "1483023600"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "http://bit-bots.de"
-        ], 
-        "Has description": [
-            "We will share our knowledge in making humanoid robots with you.\nThe workshop will cover mostly hardware but also software.\nWe will bring some of our robots with us for a hands on.\nIf you want you can also just stop by to ask questions.\nWe will speak mainly in English, but we speak also German and French."
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall C.1", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.1", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:SammyRamone", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:SammyRamone", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "How to Make Humanoid Robots"
-        ], 
-        "Has duration": [
-            30
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:How_to_Make_Humanoid_Robots", 
-        "Has end time": [
-            "1483025400"
         ]
     }, 
     "Session:Wikidata, the encyclopedia by bots, for bots# eb38492af6c27a43e14bfbed50abf298": {
@@ -11703,12 +11703,12 @@
             "1483056000"
         ]
     }, 
-    "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
+    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1483102800"
+            "1482764400"
         ], 
         "Has event track": [
             "Session"
@@ -11727,7 +11727,7 @@
             }
         ], 
         "Has subtitle": [
-            "Abbaumeeting"
+            "Introduction Meeting for new angels"
         ], 
         "Is organized by": [
             {
@@ -11748,7 +11748,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
-            "1483106400"
+            "1482768000"
         ]
     }, 
     "Session:Line-of-sight visualizer# 24d9aabcf7d4df6b349a03dbf75a5641": {
