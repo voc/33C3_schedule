@@ -3957,12 +3957,12 @@
             "1482940800"
         ]
     }, 
-    "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
+    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1483102800"
+            "1482764400"
         ], 
         "Has event track": [
             "Session"
@@ -3981,7 +3981,7 @@
             }
         ], 
         "Has subtitle": [
-            "Abbaumeeting"
+            "Introduction Meeting for new angels"
         ], 
         "Is organized by": [
             {
@@ -4002,7 +4002,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
-            "1483106400"
+            "1482768000"
         ]
     }, 
     "Session:Cyberthingy# ac3e137e198cda248c6f4d44bd664362": {
@@ -6804,54 +6804,54 @@
             "1483056000"
         ]
     }, 
-    "Session:Off flavours in homebrewed beer# 06a0553985d2992394fd660075bbde7a": {
+    "Session:Freifunk Hamburg Jahresr\u00fcckblick# fe896d35259c69eb785aa7201a005bf9": {
         "Held in language": [
-            "en - English"
+            "de - German"
         ], 
         "Has start time": [
-            "1482868800"
+            "1483029900"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [
-            "https://foodhackingbase.org/wiki/Off_flavours_33c3"
+            "https://hamburg.freifunk.net/"
         ], 
         "Has description": [
-            "We'll have a Siebel off flavour kit for beer with us. You'll learn which off flavours you can perceive, what causes them, and how to remedy them."
+            "Freifunk Hamburg berichtet \u00fcber Fortschritte beim Ausbau des Richtfunknetzes, Herausforderungen bei der Versorgung Gefl\u00fcchteter mit freiem WLAN, die Zusammenarbeit mit der Stadt und Peering in Hamburg."
         ], 
         "Has session type": [
-            "Hands-On"
+            "Talk"
         ], 
         "Has session location": [
             {
-                "fulltext": "Assembly:Foodhackingbase", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Foodhackingbase", 
-                "namespace": 504, 
+                "fulltext": "Room:Hall C.2", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.2", 
+                "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Ofosos", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Ofosos", 
+                "fulltext": "User:Kantorkel", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Kantorkel", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Off flavours in homebrewed beer"
+            "Freifunk Hamburg Jahresr\u00fcckblick"
         ], 
         "Has duration": [
-            120
+            45
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Off_flavours_in_homebrewed_beer", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Freifunk_Hamburg_Jahresr%C3%BCckblick", 
         "Has end time": [
-            "1482876000"
+            "1483032600"
         ]
     }, 
     "Session:VOC Engelmeeting# 6fb34c92d05b83c60d241c1e8caeeeb0": {
@@ -8889,52 +8889,6 @@
             "1483051500"
         ]
     }, 
-    "Session:Freifunk Hamburg Jahresr\u00fcckblick# e224e7bd68982cbca73ce429cabf5962": {
-        "Held in language": [
-            "de - German"
-        ], 
-        "Has start time": [], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://hamburg.freifunk.net/"
-        ], 
-        "Has description": [
-            "Freifunk Hamburg berichtet \u00fcber Fortschritte beim Ausbau des Richtfunknetzes, Herausforderungen bei der Versorgung Gefl\u00fcchteter mit freiem WLAN, die Zusammenarbeit mit der Stadt und Peering in Hamburg."
-        ], 
-        "Has session type": [
-            "Talk"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall C.2", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.2", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Kantorkel", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Kantorkel", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Freifunk Hamburg Jahresr\u00fcckblick"
-        ], 
-        "Has duration": [
-            45
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Freifunk_Hamburg_Jahresr%C3%BCckblick", 
-        "Has end time": []
-    }, 
     "Session:Pixelated hands-on# 409f460d73b5c1d5a6e2efb9b593635a": {
         "Held in language": [
             "en - English"
@@ -10708,6 +10662,56 @@
             "1482894000"
         ]
     }, 
+    "Session:Off flavours in homebrewed beer# 06a0553985d2992394fd660075bbde7a": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482868800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://foodhackingbase.org/wiki/Off_flavours_33c3"
+        ], 
+        "Has description": [
+            "We'll have a Siebel off flavour kit for beer with us. You'll learn which off flavours you can perceive, what causes them, and how to remedy them."
+        ], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Foodhackingbase", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Foodhackingbase", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Ofosos", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Ofosos", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Off flavours in homebrewed beer"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Off_flavours_in_homebrewed_beer", 
+        "Has end time": [
+            "1482876000"
+        ]
+    }, 
     "Session:An UnCivilization Commune ReWilded Life Shared with Squirrels# dd95e8a0bc6dcebefc291461f0a81cfe": {
         "Held in language": [
             "en - English"
@@ -12001,12 +12005,12 @@
             "1482940800"
         ]
     }, 
-    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
+    "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482764400"
+            "1483102800"
         ], 
         "Has event track": [
             "Session"
@@ -12025,7 +12029,7 @@
             }
         ], 
         "Has subtitle": [
-            "Introduction Meeting for new angels"
+            "Abbaumeeting"
         ], 
         "Is organized by": [
             {
@@ -12046,7 +12050,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
-            "1482768000"
+            "1483106400"
         ]
     }, 
     "Session:Line-of-sight visualizer# 24d9aabcf7d4df6b349a03dbf75a5641": {
