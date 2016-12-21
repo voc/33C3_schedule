@@ -878,12 +878,12 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Freifunk@GSoC2016", 
         "Has end time": []
     }, 
-    "Session:Subtitles-Angelmeetings# f48797b83b3006b88510ce3136aec9e2": {
+    "Session:Subtitles-Angelmeetings# 33d15813452eabff67587b00e4525369": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1483024500"
+            "1482851700"
         ], 
         "Has event track": [
             "Session"
@@ -899,8 +899,8 @@
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall F", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_F", 
+                "fulltext": "Room:Hall A.1", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
                 "namespace": 516, 
                 "exists": true
             }
@@ -925,7 +925,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Subtitles-Angelmeetings", 
         "Has end time": [
-            "1483026300"
+            "1482853500"
         ]
     }, 
     "Session:LearnToSolder# 0ea6a4d4288ec847b8b7da9a8e7cf319": {
@@ -1569,52 +1569,54 @@
             "1482951600"
         ]
     }, 
-    "Session:Translation meetings# 660e4d0d3a22279ed18e88982d5006fa": {
+    "Session:42birds: Creative Coding with Processing# 782b15880c93d3ab4526191d27fddd12": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1483110600"
+            "1482919200"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
-        "Has description": [
-            "The translation angels (interpreters) meet twice per day to self-organise (day 0, evening to day 4, afternoon)"
+        "Has website": [
+            "https://github.com/birdy1976/creative-coding"
         ], 
-        "Has session type": [], 
+        "Has description": [
+            "Processing is a flexible software sketchbook and a language for learning how to code within the context of the visual arts. In this workshop you'll make your first steps!"
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall 13-14", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_13-14", 
+                "fulltext": "Room:Hall A.1", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [
-            "day 4, afternoon meeting"
-        ], 
+        "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Sebalis", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Sebalis", 
+                "fulltext": "User:Birdy1976", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Birdy1976", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Translation meetings"
+            "42birds"
         ], 
         "Has duration": [
-            50
+            45
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Translation_meetings", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:42birds:_Creative_Coding_with_Processing", 
         "Has end time": [
-            "1483113600"
+            "1482921900"
         ]
     }, 
     "Session:LearnToSolder# 54a32b454efb9018a9f51249d16423e5": {
@@ -1715,6 +1717,54 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Beer_Tasting", 
         "Has end time": [
             "1482966000"
+        ]
+    }, 
+    "Session:Translation meetings# 660e4d0d3a22279ed18e88982d5006fa": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1483110600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "The translation angels (interpreters) meet twice per day to self-organise (day 0, evening to day 4, afternoon)"
+        ], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall 13-14", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_13-14", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "day 4, afternoon meeting"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Sebalis", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Sebalis", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Translation meetings"
+        ], 
+        "Has duration": [
+            50
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Translation_meetings", 
+        "Has end time": [
+            "1483113600"
         ]
     }, 
     "Session:Engelmeeting# 8dfd36020c289da34158859546960fe4": {
@@ -5726,12 +5776,12 @@
             "1483030800"
         ]
     }, 
-    "Session:Subtitles-Angelmeetings# 33d15813452eabff67587b00e4525369": {
+    "Session:Subtitles-Angelmeetings# f48797b83b3006b88510ce3136aec9e2": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482851700"
+            "1483024500"
         ], 
         "Has event track": [
             "Session"
@@ -5747,8 +5797,8 @@
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall A.1", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
+                "fulltext": "Room:Hall F", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_F", 
                 "namespace": 516, 
                 "exists": true
             }
@@ -5773,7 +5823,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Subtitles-Angelmeetings", 
         "Has end time": [
-            "1482853500"
+            "1483026300"
         ]
     }, 
     "Session:Off Grid: a videogame about hacking, data privacy, and surveillance# c5626b218dcaf7fe2c0ab1eff5125d93": {
@@ -9656,6 +9706,58 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Skillconvention_c", 
         "Has end time": [
             "1483061400"
+        ]
+    }, 
+    "Session:Shitty Robot /Hebocon Battle# 100896de3dcb2a73c78c016a7e6dd2f2": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1483022700"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [], 
+        "Has session type": [
+            "Game"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall F", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_F", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Fluktusdukt", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Fluktusdukt", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Konfusius", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Konfusius", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Shitty Robot /Hebocon Battle"
+        ], 
+        "Has duration": [
+            135
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Shitty_Robot_/Hebocon_Battle", 
+        "Has end time": [
+            "1483030800"
         ]
     }, 
     "Session:Wikidata, the encyclopedia by bots, for bots# eb38492af6c27a43e14bfbed50abf298": {
