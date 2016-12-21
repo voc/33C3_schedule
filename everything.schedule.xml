@@ -1974,7 +1974,7 @@ During this Session we will introduce you to your dutys as a stage manager and t
           <link>https://events.ccc.de/congress/2016/wiki/Session:Stage_Manager_Angel_Introduction</link>
         </links>
       </event>
-      <event id="1175" guid="33d15813452eabff67587b00e4525369">
+      <event id="1174" guid="33d15813452eabff67587b00e4525369">
         <logo/>
         <date>2016-12-27T15:15:00+01:00</date>
         <start>15:15</start>
@@ -6544,7 +6544,7 @@ $ cat motto
       </event>
     </room>
     <room name="">
-      <event id="1186" guid="423151d2bd90d5fe5bc5e9ffd2d9e687">
+      <event id="1187" guid="423151d2bd90d5fe5bc5e9ffd2d9e687">
         <logo/>
         <date>2016-12-28T14:00:00+01:00</date>
         <start>14:00</start>
@@ -9726,7 +9726,7 @@ This workshop will be given twice&lt;br /&gt;(both identical):&lt;br /&gt;
           <link>https://events.ccc.de/congress/2016/wiki/Session:Surface_Mount_Electronics_Assembly_for_Terrified_Beginners</link>
         </links>
       </event>
-      <event id="1187" guid="61a5509d9d46ea6fccc963286ccc18e8">
+      <event id="1186" guid="61a5509d9d46ea6fccc963286ccc18e8">
         <logo/>
         <date>2016-12-29T18:30:00+01:00</date>
         <start>18:30</start>
