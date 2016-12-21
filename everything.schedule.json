@@ -1547,7 +1547,7 @@
                                 "attachments": []
                             }, 
                             {
-                                "id": 1203, 
+                                "id": 1206, 
                                 "guid": "6312ac8705d66d48286a983da9f23d29", 
                                 "logo": null, 
                                 "date": "2016-12-27T15:00:00+01:00", 
@@ -2089,7 +2089,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1163, 
+                                "id": 1162, 
                                 "guid": "8249220c059be1a4fd95a7ee3e357697", 
                                 "logo": null, 
                                 "date": "2016-12-27T20:00:00+01:00", 
@@ -2469,7 +2469,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1172, 
+                                "id": 1171, 
                                 "guid": "82bab9758cf59aa2590ae41b3e81cd3f", 
                                 "logo": null, 
                                 "date": "2016-12-27T19:30:00+01:00", 
@@ -3172,7 +3172,7 @@
                         ], 
                         "Assembly:Chaos West": [
                             {
-                                "id": 1102, 
+                                "id": 1106, 
                                 "guid": "43636d9b169a5b4efd4a2ac28a2f0933", 
                                 "logo": null, 
                                 "date": "2016-12-27T20:00:00+01:00", 
@@ -4739,7 +4739,7 @@
                                 "attachments": []
                             }, 
                             {
-                                "id": 1204, 
+                                "id": 1203, 
                                 "guid": "da904f0f6639dd430983667df8b38a91", 
                                 "logo": null, 
                                 "date": "2016-12-28T15:00:00+01:00", 
@@ -5392,7 +5392,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1164, 
+                                "id": 1163, 
                                 "guid": "24d51cd703f53fb90adff0184890fcf9", 
                                 "logo": null, 
                                 "date": "2016-12-28T21:00:00+01:00", 
@@ -5420,7 +5420,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1174, 
+                                "id": 1173, 
                                 "guid": "3f394b79cf5c8d868ddc732d38346a06", 
                                 "logo": null, 
                                 "date": "2016-12-28T15:15:00+01:00", 
@@ -5592,7 +5592,7 @@
                         ], 
                         "Hall C.1": [
                             {
-                                "id": 1037, 
+                                "id": 1035, 
                                 "guid": "20196cb4a0fcac3e8a926eb6752e785d", 
                                 "logo": null, 
                                 "date": "2016-12-28T10:00:00+01:00", 
@@ -5731,7 +5731,7 @@
                         ], 
                         "Hall C.2": [
                             {
-                                "id": 1029, 
+                                "id": 1037, 
                                 "guid": "ca9c35c335c11d72074a1e9e6046cb6e", 
                                 "logo": null, 
                                 "date": "2016-12-28T10:00:00+01:00", 
@@ -5978,16 +5978,16 @@
                                 ]
                             }, 
                             {
-                                "id": 1031, 
-                                "guid": "fdd8a9c86e797d9c002a514c55992e1d", 
+                                "id": 1030, 
+                                "guid": "a2d3c9df94b90cd7240898885d1eb3ec", 
                                 "logo": null, 
-                                "date": "2016-12-28T15:00:00+01:00", 
-                                "start": "15:00", 
+                                "date": "2016-12-28T10:00:00+01:00", 
+                                "start": "10:00", 
                                 "duration": "1:00", 
                                 "room": "Hall C.3", 
                                 "slug": "", 
                                 "title": "Coder Dojo", 
-                                "subtitle": "Slot 3 Room 1", 
+                                "subtitle": "Slot 0 Room 1", 
                                 "track": "self organized sessions", 
                                 "type": "workshop", 
                                 "language": "de", 
@@ -6005,16 +6005,16 @@
                                 ]
                             }, 
                             {
-                                "id": 1032, 
-                                "guid": "a2d3c9df94b90cd7240898885d1eb3ec", 
+                                "id": 1031, 
+                                "guid": "fdd8a9c86e797d9c002a514c55992e1d", 
                                 "logo": null, 
-                                "date": "2016-12-28T10:00:00+01:00", 
-                                "start": "10:00", 
+                                "date": "2016-12-28T15:00:00+01:00", 
+                                "start": "15:00", 
                                 "duration": "1:00", 
                                 "room": "Hall C.3", 
                                 "slug": "", 
                                 "title": "Coder Dojo", 
-                                "subtitle": "Slot 0 Room 1", 
+                                "subtitle": "Slot 3 Room 1", 
                                 "track": "self organized sessions", 
                                 "type": "workshop", 
                                 "language": "de", 
@@ -6174,7 +6174,7 @@
                         ], 
                         "Hall C.4": [
                             {
-                                "id": 1030, 
+                                "id": 1029, 
                                 "guid": "114bbdf055b462c90916308a51310575", 
                                 "logo": null, 
                                 "date": "2016-12-28T12:00:00+01:00", 
@@ -6184,6 +6184,33 @@
                                 "slug": "", 
                                 "title": "Coder Dojo", 
                                 "subtitle": "Slot 2 Room 2", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Nana_berlin", 
+                                        "public_name": "Nana berlin"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2016/wiki/Session:Coder_Dojo"
+                                ]
+                            }, 
+                            {
+                                "id": 1032, 
+                                "guid": "ce369fbaa66a09e01586ffcab4b39c4a", 
+                                "logo": null, 
+                                "date": "2016-12-28T10:00:00+01:00", 
+                                "start": "10:00", 
+                                "duration": "1:00", 
+                                "room": "Hall C.4", 
+                                "slug": "", 
+                                "title": "Coder Dojo", 
+                                "subtitle": "Slot 0 Room 2", 
                                 "track": "self organized sessions", 
                                 "type": "workshop", 
                                 "language": "de", 
@@ -6211,33 +6238,6 @@
                                 "slug": "", 
                                 "title": "Coder Dojo", 
                                 "subtitle": "Slot 3 Room 2", 
-                                "track": "self organized sessions", 
-                                "type": "workshop", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Nana_berlin", 
-                                        "public_name": "Nana berlin"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2016/wiki/Session:Coder_Dojo"
-                                ]
-                            }, 
-                            {
-                                "id": 1035, 
-                                "guid": "ce369fbaa66a09e01586ffcab4b39c4a", 
-                                "logo": null, 
-                                "date": "2016-12-28T10:00:00+01:00", 
-                                "start": "10:00", 
-                                "duration": "1:00", 
-                                "room": "Hall C.4", 
-                                "slug": "", 
-                                "title": "Coder Dojo", 
-                                "subtitle": "Slot 0 Room 2", 
                                 "track": "self organized sessions", 
                                 "type": "workshop", 
                                 "language": "de", 
@@ -6404,7 +6404,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1168, 
+                                "id": 1172, 
                                 "guid": "fff2b58474de3ff81ee3c628a4b4a53a", 
                                 "logo": null, 
                                 "date": "2016-12-28T19:30:00+01:00", 
@@ -7045,7 +7045,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1179, 
+                                "id": 1186, 
                                 "guid": "2c66a4829556ad08c8f7b6d8fd68e204", 
                                 "logo": null, 
                                 "date": "2016-12-28T18:30:00+01:00", 
@@ -7395,7 +7395,7 @@
                         ], 
                         "Assembly:Chaos West": [
                             {
-                                "id": 1104, 
+                                "id": 1103, 
                                 "guid": "1d417fdc38d9002139dfa87a15a17e0e", 
                                 "logo": null, 
                                 "date": "2016-12-28T21:00:00+01:00", 
@@ -8898,7 +8898,7 @@
                                 "attachments": []
                             }, 
                             {
-                                "id": 1205, 
+                                "id": 1204, 
                                 "guid": "6c7712cd8c07af6fc45588ac8e3f3c56", 
                                 "logo": null, 
                                 "date": "2016-12-29T15:00:00+01:00", 
@@ -9587,7 +9587,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1165, 
+                                "id": 1164, 
                                 "guid": "391e226a6dc0aa72ad5b79b718ed0cfa", 
                                 "logo": null, 
                                 "date": "2016-12-29T19:00:00+01:00", 
@@ -10382,7 +10382,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1169, 
+                                "id": 1168, 
                                 "guid": "17690ddc3bfc68317a896a2d08e43f24", 
                                 "logo": null, 
                                 "date": "2016-12-29T19:30:00+01:00", 
@@ -10413,11 +10413,11 @@
                         "Hall F": [
                             {
                                 "id": 1073, 
-                                "guid": "dc97ce7587e6de93f68f0bb1fbfdbd9c", 
+                                "guid": "fbc9e7ed36a705cf72c554aa7c10ff35", 
                                 "logo": null, 
-                                "date": "2016-12-29T18:00:00+01:00", 
-                                "start": "18:00", 
-                                "duration": "2:15", 
+                                "date": "2016-12-29T21:00:00+01:00", 
+                                "start": "21:00", 
+                                "duration": "3:00", 
                                 "room": "Hall F", 
                                 "slug": "", 
                                 "title": "Film-Abend", 
@@ -10434,11 +10434,11 @@
                             }, 
                             {
                                 "id": 1074, 
-                                "guid": "fbc9e7ed36a705cf72c554aa7c10ff35", 
+                                "guid": "dc97ce7587e6de93f68f0bb1fbfdbd9c", 
                                 "logo": null, 
-                                "date": "2016-12-29T21:00:00+01:00", 
-                                "start": "21:00", 
-                                "duration": "3:00", 
+                                "date": "2016-12-29T18:00:00+01:00", 
+                                "start": "18:00", 
+                                "duration": "2:15", 
                                 "room": "Hall F", 
                                 "slug": "", 
                                 "title": "Film-Abend", 
@@ -10566,7 +10566,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1173, 
+                                "id": 1177, 
                                 "guid": "f48797b83b3006b88510ce3136aec9e2", 
                                 "logo": null, 
                                 "date": "2016-12-29T15:15:00+01:00", 
@@ -10984,7 +10984,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1181, 
+                                "id": 1179, 
                                 "guid": "e8d4aeb2d2ef0415687e34e714ed7c92", 
                                 "logo": null, 
                                 "date": "2016-12-29T16:30:00+01:00", 
@@ -11011,7 +11011,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1183, 
+                                "id": 1181, 
                                 "guid": "61a5509d9d46ea6fccc963286ccc18e8", 
                                 "logo": null, 
                                 "date": "2016-12-29T18:30:00+01:00", 
@@ -11226,7 +11226,7 @@
                         ], 
                         "Assembly:Chaos West": [
                             {
-                                "id": 1103, 
+                                "id": 1102, 
                                 "guid": "8f2144006158cc65262cd392541cf8c7", 
                                 "logo": null, 
                                 "date": "2016-12-29T20:00:00+01:00", 
@@ -11258,7 +11258,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1105, 
+                                "id": 1104, 
                                 "guid": "e7efaa00f19b51ad38201d9ba027d3b6", 
                                 "logo": null, 
                                 "date": "2016-12-29T23:00:00+01:00", 
@@ -11914,7 +11914,7 @@
                                 "attachments": []
                             }, 
                             {
-                                "id": 1206, 
+                                "id": 1205, 
                                 "guid": "6fb34c92d05b83c60d241c1e8caeeeb0", 
                                 "logo": null, 
                                 "date": "2016-12-30T15:00:00+01:00", 
@@ -12052,7 +12052,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1175, 
+                                "id": 1174, 
                                 "guid": "17595f694e88dd271208bb120d2ded5d", 
                                 "logo": null, 
                                 "date": "2016-12-30T15:15:00+01:00", 
@@ -12112,7 +12112,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1170, 
+                                "id": 1169, 
                                 "guid": "a093ff0372ec57b12bdb99922e2b06d0", 
                                 "logo": null, 
                                 "date": "2016-12-30T11:00:00+01:00", 
@@ -12257,7 +12257,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1184, 
+                                "id": 1183, 
                                 "guid": "0029ffd6b50d454bfba86f9d8de24d35", 
                                 "logo": null, 
                                 "date": "2016-12-30T13:00:00+01:00", 
@@ -12284,7 +12284,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1186, 
+                                "id": 1184, 
                                 "guid": "458f6f7faeda7724ed8eb3f48713d4b9", 
                                 "logo": null, 
                                 "date": "2016-12-30T15:00:00+01:00", 
