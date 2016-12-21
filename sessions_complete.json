@@ -2863,6 +2863,58 @@
             "1482850800"
         ]
     }, 
+    "Session:Off Grid: a videogame about hacking, data privacy, and surveillance# 55620133ab3c2944fdc7d1b7f8f239c0": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482865200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://www.offgridthegame.com"
+        ], 
+        "Has description": [
+            "'Off Grid' is a videogame where you have to hack into networks and exfiltrate data by manipulating vulnerable IoT devices and socially engineering other characters. Come to Milliways and play an early build of the game!"
+        ], 
+        "Has session type": [
+            "Game"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Milliways", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Milliways", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Game demo"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:ATNMY", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:ATNMY", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Off Grid"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Off_Grid:_a_videogame_about_hacking,_data_privacy,_and_surveillance", 
+        "Has end time": [
+            "1482872400"
+        ]
+    }, 
     "Session:3D printing for beginners# ddb26e60e003b634d86f8aa4523445d7": {
         "Held in language": [
             "en - English"
@@ -3219,54 +3271,6 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:News_vom_F%C3%B6rderverein_freie_Netzwerke_e.V.", 
         "Has end time": []
     }, 
-    "Session:Tor# 170d8e59dcc6611dfbc1142b7dc30c25": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1482958800"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Session should be used to connect with all the people who work for the various projects within or related with tor."
-        ], 
-        "Has session type": [
-            "Meeting"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall B", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_B", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Julius", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Julius", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Tor"
-        ], 
-        "Has duration": [
-            120
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Tor", 
-        "Has end time": [
-            "1482966000"
-        ]
-    }, 
     "Session:Congress Everywhere Greet & Meet# 2e3f2fb0d4424c378f1bf5ffa0eab463": {
         "Held in language": [
             "de - German"
@@ -3460,54 +3464,54 @@
             "1482878700"
         ]
     }, 
-    "Session:Obai Brause: caffeinated sherbet# 1e0fb8e2d4da98af2b872c1f1b3165a9": {
+    "Session:Prototype Fund - 1.2 Million Euros for Free Software Projects# e4648cc036bc044ba52e220226e31772": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482262200"
+            "1482960600"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [
-            "https://foodhackingbase.org/wiki/Caffeinated_Sherbet"
+            "https://prototypefund.de"
         ], 
         "Has description": [
-            "During this workshop you have the ability to mix your own caffeinated sherbet powder. Just come over during the workshop time, mixing usually takes only 20-30min."
+            "The Prototype Fund supports the implementation of ideas in civic tech, data literacy, data security and software infrastructure. With a grant of up to \u20ac30,000, software developers, hackers and creatives can write code and develop open source prototypes over a period of six months.\n\nApplying is as easy as possible and the next deadline at the begin of February. Come, hear and ask us everything about the Prototype Fund."
         ], 
         "Has session type": [
-            "Workshop"
+            "Discussion"
         ], 
         "Has session location": [
             {
-                "fulltext": "Assembly:Foodhackingbase", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Foodhackingbase", 
-                "namespace": 504, 
+                "fulltext": "Room:Hall 13-14", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_13-14", 
+                "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Schmittlauch", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Schmittlauch", 
+                "fulltext": "User:Eal", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Eal", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Obai Brause"
+            "Prototype Fund - 1.2 Million Euros for Free Software Projects"
         ], 
         "Has duration": [
-            120
+            30
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Obai_Brause:_caffeinated_sherbet", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Prototype_Fund_-_1.2_Million_Euros_for_Free_Software_Projects", 
         "Has end time": [
-            "1482269400"
+            "1482962400"
         ]
     }, 
     "Session:Skillconvention b# b06e4dfefe4629fdaf4c0ae1e5116d41": {
@@ -3802,46 +3806,44 @@
             "1483034400"
         ]
     }, 
-    "Session:Off Grid: a videogame about hacking, data privacy, and surveillance# 55620133ab3c2944fdc7d1b7f8f239c0": {
+    "Session:Obai Brause: caffeinated sherbet# 198adfadfbb3d9e4f8c1d7335750f7ae": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482865200"
+            "1482867000"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [
-            "http://www.offgridthegame.com"
+            "https://foodhackingbase.org/wiki/Caffeinated_Sherbet"
         ], 
         "Has description": [
-            "'Off Grid' is a videogame where you have to hack into networks and exfiltrate data by manipulating vulnerable IoT devices and socially engineering other characters. Come to Milliways and play an early build of the game!"
+            "During this workshop you have the ability to mix your own caffeinated sherbet powder. Just come over during the workshop time, mixing usually takes only 20-30min."
         ], 
         "Has session type": [
-            "Game"
+            "Workshop"
         ], 
         "Has session location": [
             {
-                "fulltext": "Assembly:Milliways", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Milliways", 
+                "fulltext": "Assembly:Foodhackingbase", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Foodhackingbase", 
                 "namespace": 504, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [
-            "Game demo"
-        ], 
+        "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:ATNMY", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:ATNMY", 
+                "fulltext": "User:Schmittlauch", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Schmittlauch", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Off Grid"
+            "Obai Brause"
         ], 
         "Has duration": [
             120
@@ -3849,9 +3851,9 @@
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Off_Grid:_a_videogame_about_hacking,_data_privacy,_and_surveillance", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Obai_Brause:_caffeinated_sherbet", 
         "Has end time": [
-            "1482872400"
+            "1482874200"
         ]
     }, 
     "Session:How to Survive 33C3 CryptoParty# d98726a333e13e17bc39011beaa3f6dc": {
@@ -3955,62 +3957,12 @@
             "1482940800"
         ]
     }, 
-    "Session:Prototype Fund - 1.2 Million Euros for Free Software Projects# e4648cc036bc044ba52e220226e31772": {
+    "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482960600"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://prototypefund.de"
-        ], 
-        "Has description": [
-            "The Prototype Fund supports the implementation of ideas in civic tech, data literacy, data security and software infrastructure. With a grant of up to \u20ac30,000, software developers, hackers and creatives can write code and develop open source prototypes over a period of six months.\n\nApplying is as easy as possible and the next deadline at the begin of February. Come, hear and ask us everything about the Prototype Fund."
-        ], 
-        "Has session type": [
-            "Discussion"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall 13-14", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_13-14", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Eal", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Eal", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Prototype Fund - 1.2 Million Euros for Free Software Projects"
-        ], 
-        "Has duration": [
-            30
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Prototype_Fund_-_1.2_Million_Euros_for_Free_Software_Projects", 
-        "Has end time": [
-            "1482962400"
-        ]
-    }, 
-    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1482764400"
+            "1483102800"
         ], 
         "Has event track": [
             "Session"
@@ -4029,7 +3981,7 @@
             }
         ], 
         "Has subtitle": [
-            "Introduction Meeting for new angels"
+            "Abbaumeeting"
         ], 
         "Is organized by": [
             {
@@ -4050,7 +4002,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
-            "1482768000"
+            "1483106400"
         ]
     }, 
     "Session:Cyberthingy# ac3e137e198cda248c6f4d44bd664362": {
@@ -8389,6 +8341,54 @@
             "1482978600"
         ]
     }, 
+    "Session:Tor# 36660adcf8dfee81c6941287bdc51382": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482960600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Session should be used to connect with all the people who work for the various projects within or related with tor."
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall B", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_B", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Julius", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Julius", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Tor"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Tor", 
+        "Has end time": [
+            "1482966000"
+        ]
+    }, 
     "Session:Surface Mount Electronics Assembly for Terrified Beginners# e8d4aeb2d2ef0415687e34e714ed7c92": {
         "Held in language": [
             "en - English"
@@ -12001,12 +12001,12 @@
             "1482940800"
         ]
     }, 
-    "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
+    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1483102800"
+            "1482764400"
         ], 
         "Has event track": [
             "Session"
@@ -12025,7 +12025,7 @@
             }
         ], 
         "Has subtitle": [
-            "Abbaumeeting"
+            "Introduction Meeting for new angels"
         ], 
         "Is organized by": [
             {
@@ -12046,7 +12046,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
-            "1483106400"
+            "1482768000"
         ]
     }, 
     "Session:Line-of-sight visualizer# 24d9aabcf7d4df6b349a03dbf75a5641": {
