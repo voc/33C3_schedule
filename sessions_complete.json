@@ -624,53 +624,60 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:%22My%22_software,_like_%22my%22_hand_or_like_%22my_car%22%3F", 
         "Has end time": []
     }, 
-    "Session:Whisky# 331c340e99b3f4677e2ca0fd5fd25c60": {
+    "Session:Klangteppich# 8f2144006158cc65262cd392541cf8c7": {
         "Held in language": [
-            "de - German", 
             "en - English"
         ], 
         "Has start time": [
-            "1483048800"
+            "1483041600"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [
-            "This is the sixth incarnation of the popular whisky evening. It's fairly simple: If you enjoy good whisky with nice people, or are planing to do so, join us. We'll have the virtual chimney fire going."
+            "Come over and meet us at our cozy music lounge in hall 4! Proudly presented by Chaos West, c-base & friends"
         ], 
         "Has session type": [
-            "Hands-On"
+            "Other"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall A.1", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
-                "namespace": 516, 
+                "fulltext": "Assembly:Chaos West", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Chaos_West", 
+                "namespace": 504, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [], 
+        "Has subtitle": [
+            "[[User:Tuxinaut|Tuxinaut]] DJ set: Techno"
+        ], 
         "Is organized by": [
             {
-                "fulltext": "User:Blackspear", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Blackspear", 
+                "fulltext": "User:Bam", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Bam", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:JayDee2202", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:JayDee2202", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Whisky"
+            "Klangteppich"
         ], 
         "Has duration": [
-            90
+            180
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Whisky", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Klangteppich", 
         "Has end time": [
-            "1483054200"
+            "1483052400"
         ]
     }, 
     "Session:Welcome & Icebreaker# 922bd001e8c83eae61feb66f52004d3b": {
@@ -3410,6 +3417,55 @@
             "1483020000"
         ]
     }, 
+    "Session:Whisky# 331c340e99b3f4677e2ca0fd5fd25c60": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            "1483048800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "This is the sixth incarnation of the popular whisky evening. It's fairly simple: If you enjoy good whisky with nice people, or are planing to do so, join us. We'll have the virtual chimney fire going."
+        ], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall A.1", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Blackspear", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Blackspear", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Whisky"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Whisky", 
+        "Has end time": [
+            "1483054200"
+        ]
+    }, 
     "Session:Hackerjeopardy - A New Approach# 451aa48d7756b2ddf9738f6379f946b8": {
         "Held in language": [
             "de - German"
@@ -4151,6 +4207,62 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Linux_Kernel_Ninja_Comment_Karaoke", 
         "Has end time": []
+    }, 
+    "Session:Klangteppich# 43636d9b169a5b4efd4a2ac28a2f0933": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482868800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Come over and meet us at our cozy music lounge in hall 4! Proudly presented by Chaos West, c-base & friends"
+        ], 
+        "Has session type": [
+            "Other"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Chaos West", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Chaos_West", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "[[User:Bam|bam]] DJ set: Techno/Tech House/Deep Techno"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Bam", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Bam", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:JayDee2202", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:JayDee2202", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Klangteppich"
+        ], 
+        "Has duration": [
+            180
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Klangteppich", 
+        "Has end time": [
+            "1482879600"
+        ]
     }, 
     "Session:DIY Duct-Tape Wallets# 9abeec38dfb772ad0f95b77ce9a7817f": {
         "Held in language": [
@@ -9548,56 +9660,6 @@
             "1483061400"
         ]
     }, 
-    "Session:Neuropil# daa19eb9f450d649e67c6a5413c97265": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1483108200"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "http://www.neuropil.org"
-        ], 
-        "Has description": [
-            "making and breaking of neuropil :-)\nwe would like to set up an neuropil network together with the participants and try to identify vulnerabilities ..."
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall C.4", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.4", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Stephan.schwichtenberg", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Stephan.schwichtenberg", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Neuropil"
-        ], 
-        "Has duration": [
-            180
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Neuropil", 
-        "Has end time": [
-            "1483119000"
-        ]
-    }, 
     "Session:Wikidata, the encyclopedia by bots, for bots# eb38492af6c27a43e14bfbed50abf298": {
         "Held in language": [
             "en - English"
@@ -10159,62 +10221,6 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:What_makes_a_secure_mobile_messenger%3F_--_A_comparison_of_WhatsApp_competitors", 
         "Has end time": [
             "1482948000"
-        ]
-    }, 
-    "Session:Klangteppich# f4c6067d7f0eb9f9ba91ccff12d54ad8": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1482872400"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Come over and meet us at our cozy music lounge in hall 4! Proudly presented by Chaos West, c-base & friends"
-        ], 
-        "Has session type": [
-            "Other"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:Chaos West", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Chaos_West", 
-                "namespace": 504, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "[[User:Bam|bam]] DJ set: Techno/Tech House/Deep Techno"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Bam", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Bam", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:JayDee2202", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:JayDee2202", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Klangteppich"
-        ], 
-        "Has duration": [
-            120
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Klangteppich", 
-        "Has end time": [
-            "1482879600"
         ]
     }, 
     "Session:GNUNet e.V. meeting# 14d34c4d8756c90cbe36726605ba4cbf": {
@@ -11523,60 +11529,54 @@
             "1482940800"
         ]
     }, 
-    "Session:Klangteppich# 0a8934d5eb4b97daac361fc42865fb7d": {
+    "Session:Neuropil# daa19eb9f450d649e67c6a5413c97265": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1483045200"
+            "1483108200"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
+        "Has website": [
+            "http://www.neuropil.org"
+        ], 
         "Has description": [
-            "Come over and meet us at our cozy music lounge in hall 4! Proudly presented by Chaos West, c-base & friends"
+            "making and breaking of neuropil :-)\nwe would like to set up an neuropil network together with the participants and try to identify vulnerabilities ..."
         ], 
         "Has session type": [
-            "Other"
+            "Workshop"
         ], 
         "Has session location": [
             {
-                "fulltext": "Assembly:Chaos West", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Chaos_West", 
-                "namespace": 504, 
+                "fulltext": "Room:Hall C.4", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.4", 
+                "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [
-            "[[User:Tuxinaut|Tuxinaut]] DJ set: Techno"
-        ], 
+        "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Bam", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Bam", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:JayDee2202", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:JayDee2202", 
+                "fulltext": "User:Stephan.schwichtenberg", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Stephan.schwichtenberg", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Klangteppich"
+            "Neuropil"
         ], 
         "Has duration": [
-            120
+            180
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Klangteppich", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Neuropil", 
         "Has end time": [
-            "1483052400"
+            "1483119000"
         ]
     }, 
     "Session:Strategien, \u00dcberwachungsskepsis in die Mitte der Gesellschaft zu tragen / Anti Surveillance Campaigning Targeted at the Masses# 5ebc6a7272a467641276dbc4679922c6": {
