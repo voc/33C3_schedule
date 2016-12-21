@@ -5524,6 +5524,56 @@
             "1482978600"
         ]
     }, 
+    "Session:Skull Radio Workshop# 18442f55633408558a0573f123c024fb": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482946200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://events.ccc.de/congress/2016/wiki/User:Tdr112/Skull_Radio_Workshop/"
+        ], 
+        "Has description": [
+            "A soldering workshop where people make a bone conduction kit. It allows the user to bite a medal rod, that sends vibrations via their teeth, jawbone into their inner ear. It allows people to listen to music without the sound travelling via the air. Its a through hole soldering kit.\n\nThis Kit will cost \u20ac12 + \u20ac1 for a battery"
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:HardwareHackingArea", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:HardwareHackingArea", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Tdr112", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Tdr112", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Skull Radio Workshop"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Skull_Radio_Workshop", 
+        "Has end time": [
+            "1482949800"
+        ]
+    }, 
     "Session:DNS und ICVPN: .freifunk und .ff# a67ef735384792f20a7aeb282d62353e": {
         "Held in language": [
             "de - German"
