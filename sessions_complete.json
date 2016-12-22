@@ -676,6 +676,58 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:%22My%22_software,_like_%22my%22_hand_or_like_%22my_car%22%3F", 
         "Has end time": []
     }, 
+    "Session:Browsing JS on Embedded# 468fd369ff728118f9a0584e0d3e691d": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1483092000"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://edu-europalab.rhcloud.com/"
+        ], 
+        "Has description": [
+            "In this hour, we introduce and explore JavaScript and Rust programming on low power embedded computers. Turning our attention to telemetry (sensors), and telecommand (actuators), we create a minimal but realistic IoT system using building blocks on loan for the duration of the workshop."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Mozilla", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Mozilla", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "JavaScript component of programming 'the Embedded Tessel Platform'"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Michaesc", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Michaesc", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Browsing JS on Embedded"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Browsing_JS_on_Embedded", 
+        "Has end time": [
+            "1483099200"
+        ]
+    }, 
     "Session:Klangteppich# 8f2144006158cc65262cd392541cf8c7": {
         "Held in language": [
             "en - English"
@@ -1331,102 +1383,7 @@
     }, 
     "Session:Discussing Postcolonial Computing# 14deb55d5ac3b3986de7c00f3709f05a": {
         "Held in language": [
-            "ab - Abkhazian", 
-            "af - Afrikaans", 
-            "an - Aragonese", 
-            "ar - Arabic", 
-            "as - Assamese", 
-            "az - Azerbaijani", 
-            "be - Belarusian", 
-            "bg - Bulgarian", 
-            "bn - Bengali", 
-            "bo - Tibetan", 
-            "br - Breton", 
-            "bs - Bosnian", 
-            "ca - Catalan / Valencian", 
-            "ce - Chechen", 
-            "co - Corsican", 
-            "cs - Czech", 
-            "cu - Church Slavic", 
-            "cy - Welsh", 
-            "da - Danish", 
-            "de - German", 
-            "el - Greek", 
-            "en - English", 
-            "eo - Esperanto", 
-            "es - Spanish / Castilian", 
-            "et - Estonian", 
-            "eu - Basque", 
-            "fa - Persian", 
-            "fi - Finnish", 
-            "fj - Fijian", 
-            "fo - Faroese", 
-            "fr - French", 
-            "fy - Western Frisian", 
-            "ga - Irish", 
-            "gd - Gaelic / Scottish Gaelic", 
-            "gl - Galician", 
-            "gv - Manx", 
-            "he - Hebrew", 
-            "hi - Hindi", 
-            "hr - Croatian", 
-            "ht - Haitian; Haitian Creole", 
-            "hu - Hungarian", 
-            "hy - Armenian", 
-            "id - Indonesian", 
-            "is - Icelandic", 
-            "it - Italian", 
-            "ja - Japanese", 
-            "jv - Javanese", 
-            "ka - Georgian", 
-            "kg - Kongo", 
-            "ko - Korean", 
-            "ku - Kurdish", 
-            "kw - Cornish", 
-            "ky - Kirghiz", 
-            "la - Latin", 
-            "lb - Luxembourgish; Letzeburgesch", 
-            "li - Limburgan; Limburger; Limburgish", 
-            "ln - Lingala", 
-            "lt - Lithuanian", 
-            "lv - Latvian", 
-            "mg - Malagasy", 
-            "mk - Macedonian", 
-            "mn - Mongolian", 
-            "mo - Moldavian", 
-            "ms - Malay", 
-            "mt - Maltese", 
-            "my - Burmese", 
-            "nb - Norwegian (Bokm\u00e5l)", 
-            "ne - Nepali", 
-            "nl - Dutch", 
-            "nn - Norwegian (Nynorsk)", 
-            "no - Norwegian", 
-            "oc - Occitan (post 1500); Proven\u00e7al", 
-            "pl - Polish", 
-            "pt - Portuguese", 
-            "rm - Raeto-Romance", 
-            "ro - Romanian", 
-            "ru - Russian", 
-            "sc - Sardinian", 
-            "se - Northern Sami", 
-            "sk - Slovak", 
-            "sl - Slovenian", 
-            "so - Somali", 
-            "sq - Albanian", 
-            "sr - Serbian", 
-            "sv - Swedish", 
-            "sw - Swahili", 
-            "tk - Turkmen", 
-            "tr - Turkish", 
-            "ty - Tahitian", 
-            "uk - Ukrainian", 
-            "ur - Urdu", 
-            "uz - Uzbek", 
-            "vi - Vietnamese", 
-            "vo - Volap\u00fck", 
-            "yi - Yiddish", 
-            "zh - Chinese"
+            "en - English"
         ], 
         "Has start time": [
             "1482944400"
@@ -1436,7 +1393,7 @@
         ], 
         "Has website": [], 
         "Has description": [
-            "Introduction input and discussion placeholder"
+            "From artificial intolerance to decolonizing our programming: We want to discuss who is speaking? who is writing the code and what do we have to do about it? \nEver heard of \u201eMy friend's not a gorilla\u201c and google photos? we gonna provide some twisted examples\u2026"
         ], 
         "Has session type": [
             "Discussion"
@@ -3025,50 +2982,6 @@
             "1482937200"
         ]
     }, 
-    "Session:Post Colonial Computing# 6c9664a498ee4f863078bf3f9b36eb28": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "upcoming"
-        ], 
-        "Has session type": [
-            "Discussion"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall C.3", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.3", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Al-Badri Nelles", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Al-Badri_Nelles", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Post Colonial Computing"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Post_Colonial_Computing", 
-        "Has end time": []
-    }, 
     "Session:Subtitles-Angelmeetings# 3f394b79cf5c8d868ddc732d38346a06": {
         "Held in language": [
             "en - English"
@@ -3828,6 +3741,54 @@
             "1482930000"
         ]
     }, 
+    "Session:Post Colonial Computing# 65d2abbdfd3230700d6ac93966d0e0ac": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482944400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "From artificial intolerance to decolonizing our programming: We want to discuss who is speaking? who is writing the code and what do we have to do about it? \nEver heard of \u201eMy friend's not a gorilla\u201c and google photos? we gonna provide some twisted examples\u2026"
+        ], 
+        "Has session type": [
+            "Discussion"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall C.3", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.3", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Al-Badri Nelles", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Al-Badri_Nelles", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Post Colonial Computing"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Post_Colonial_Computing", 
+        "Has end time": [
+            "1482948000"
+        ]
+    }, 
     "Session:How To Run A Bitcoin Node# 604c461088a5dddfa6c031af4cd054e4": {
         "Held in language": [
             "en - English"
@@ -4082,12 +4043,12 @@
             "1482940800"
         ]
     }, 
-    "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
+    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1483102800"
+            "1482764400"
         ], 
         "Has event track": [
             "Session"
@@ -4106,7 +4067,7 @@
             }
         ], 
         "Has subtitle": [
-            "Abbaumeeting"
+            "Introduction Meeting for new angels"
         ], 
         "Is organized by": [
             {
@@ -4127,7 +4088,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
-            "1483106400"
+            "1482768000"
         ]
     }, 
     "Session:Cyberthingy# ac3e137e198cda248c6f4d44bd664362": {
@@ -6151,52 +6112,6 @@
             "1482940800"
         ]
     }, 
-    "Session:Browsing JS on Embedded# ade8c2f8995cd462cc0805567a03434f": {
-        "Held in language": [
-            "de - German"
-        ], 
-        "Has start time": [], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://edu-europalab.rhcloud.com/"
-        ], 
-        "Has description": [
-            "In this hour, we explore JavaScript programming on low power embedded computers. Turning our attention to telemetry (sensors), and telecommand (actuators), we create a minimal but realistic IoT system using building blocks on loan for the duration of the workshop."
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:Mozilla", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Mozilla", 
-                "namespace": 504, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Michaesc", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Michaesc", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Browsing JS on Embedded"
-        ], 
-        "Has duration": [
-            120
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Browsing_JS_on_Embedded", 
-        "Has end time": []
-    }, 
     "Session:Translation meetings# 415473cd68f9363bb56f229dfd94bb7b": {
         "Held in language": [
             "en - English"
@@ -7894,6 +7809,58 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Freifunk_Webteam_Meetup", 
         "Has end time": []
+    }, 
+    "Session:Browsing JS on Embedded# ff77efb5638897d045fd3f038491930b": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1483005600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://edu-europalab.rhcloud.com/"
+        ], 
+        "Has description": [
+            "In this hour, we introduce and explore JavaScript and Rust programming on low power embedded computers. Turning our attention to telemetry (sensors), and telecommand (actuators), we create a minimal but realistic IoT system using building blocks on loan for the duration of the workshop."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Mozilla", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Mozilla", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Introductory component of programming 'the Embedded Tessel Platform'"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Michaesc", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Michaesc", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Browsing JS on Embedded"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Browsing_JS_on_Embedded", 
+        "Has end time": [
+            "1483009200"
+        ]
     }, 
     "Session:Surface Mount Electronics Assembly for Terrified Beginners# 61a5509d9d46ea6fccc963286ccc18e8": {
         "Held in language": [
@@ -12750,12 +12717,12 @@
             "1483056000"
         ]
     }, 
-    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
+    "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482764400"
+            "1483102800"
         ], 
         "Has event track": [
             "Session"
@@ -12774,7 +12741,7 @@
             }
         ], 
         "Has subtitle": [
-            "Introduction Meeting for new angels"
+            "Abbaumeeting"
         ], 
         "Is organized by": [
             {
@@ -12795,7 +12762,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
-            "1482768000"
+            "1483106400"
         ]
     }, 
     "Session:42birds: Missing RSS Feed? Create Your Own!# b86c3c8fc3a77d7f1486ceeaf014d506": {
