@@ -1874,6 +1874,10 @@ Es sind weitere Podcastpat_innen vor Ort: Sprich uns an!</description>
         </recording>
         <persons>
           <person id="85">MacSnider</person>
+          <person id="102">Mr. Eric S.</person>
+          <person id="263">@Genderbeitrag</person>
+          <person id="264">Sven Schmidt</person>
+          <person id="70">VanillaChief</person>
         </persons>
         <links>
           <link href="http://theinsnider.de/">Website</link>
@@ -4720,6 +4724,10 @@ Anl&#228;&#223;lich des 33c3 Gastspiels 2016 in Hamburch besuchen die Box-Champi
         </recording>
         <persons>
           <person id="46">Daniel Me&#223;ner</person>
+          <person id="144">Nicolas W&#246;hrl</person>
+          <person id="39">Ulrike Kretzmer</person>
+          <person id="191">Markus V&#246;lter</person>
+          <person id="208">Martin R&#252;tzler</person>
         </persons>
         <links>
           <link href="http://wissenschaftspodcasts.de/">Wisspod</link>
