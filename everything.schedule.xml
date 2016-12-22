@@ -10878,7 +10878,7 @@ Making secure boot actually secure was a bigger effort than we initially expecte
         <logo>/system/events/logos/000/000/380/large/cropped-CD-Cover-Web-1400x1400.jpg?1478881923</logo>
         <date>2016-12-30T12:00:00+01:00</date>
         <start>12:00</start>
-        <duration>01:30</duration>
+        <duration>01:00</duration>
         <room>Podcastingtisch</room>
         <slug>33c3-380-countdown_podcast</slug>
         <title>Countdown Podcast</title>
@@ -10894,6 +10894,7 @@ Making secure boot actually secure was a bigger effort than we initially expecte
         </recording>
         <persons>
           <person id="70">VanillaChief</person>
+          <person id="269">Frank Wunderlich-Pfeiffer</person>
         </persons>
         <links>
           <link href="http://countdown-podcast.de">Countdown Podcast Website</link>
@@ -10920,6 +10921,8 @@ Making secure boot actually secure was a bigger effort than we initially expecte
         </recording>
         <persons>
           <person id="85">MacSnider</person>
+          <person id="200">Malik</person>
+          <person id="230">teenagersexjohnny</person>
         </persons>
         <links>
           <link href="http://theinsnider.de/tis034-mein-erstes-mal-congress-32c3/">Mein erstes Mal Congress #32c3</link>

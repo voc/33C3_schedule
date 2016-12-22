@@ -12347,7 +12347,7 @@
                                 "logo": "/system/events/logos/000/000/380/large/cropped-CD-Cover-Web-1400x1400.jpg?1478881923", 
                                 "date": "2016-12-30T12:00:00+01:00", 
                                 "start": "12:00", 
-                                "duration": "01:30", 
+                                "duration": "01:00", 
                                 "room": "Podcastingtisch", 
                                 "slug": "33c3-380-countdown_podcast", 
                                 "title": "Countdown Podcast", 
@@ -12363,6 +12363,10 @@
                                     {
                                         "id": 70, 
                                         "public_name": "VanillaChief"
+                                    }, 
+                                    {
+                                        "id": 269, 
+                                        "public_name": "Frank Wunderlich-Pfeiffer"
                                     }
                                 ], 
                                 "links": [
@@ -12395,6 +12399,14 @@
                                     {
                                         "id": 85, 
                                         "public_name": "MacSnider"
+                                    }, 
+                                    {
+                                        "id": 200, 
+                                        "public_name": "Malik"
+                                    }, 
+                                    {
+                                        "id": 230, 
+                                        "public_name": "teenagersexjohnny"
                                     }
                                 ], 
                                 "links": [
