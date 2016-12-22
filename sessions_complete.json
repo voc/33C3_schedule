@@ -8436,6 +8436,57 @@
             "1483025400"
         ]
     }, 
+    "Session:AI: He will be amazed if he stays dead! - Der wird sich wundern, wenn er tot bleibt!# 2142628c7330eb91fe6622dcc5c9c1a3": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482955200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://capulcu.blackblogs.org"
+        ], 
+        "Has description": [], 
+        "Has session type": [
+            "Discussion"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Anarchist Village", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Anarchist_Village", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Some fundamental thoughts on artificial intelligence"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Capulcu", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Capulcu", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "AI"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:AI:_He_will_be_amazed_if_he_stays_dead!_-_Der_wird_sich_wundern,_wenn_er_tot_bleibt!", 
+        "Has end time": [
+            "1482960600"
+        ]
+    }, 
     "Session:Social Engineering Poetry Slam# 3b37eebbde0ae5877170aef80a7a1a7d": {
         "Held in language": [
             "en - English"
