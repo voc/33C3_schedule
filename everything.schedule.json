@@ -88,8 +88,8 @@
                                 "track": "Ethics, Society & Politics", 
                                 "type": "lecture", 
                                 "language": "en", 
-                                "abstract": "Both strong end-to-end communications encryption and device encryption are legal in most jurisdictions today, and remain widely available. Yet software programers and hardware producers are increasingly under pressure from law enforcement and policy makers around the world to include so-called backdoors in encryption products. In this lecture, I will provide the state of the law as we moving into 2017, detailing what happened in the fight between Apple and the FBI in San Bernardino and the current proposals to weaken or ban encryption, covering proposed and recently enacted laws. I will also discuss the extra-legal pressures placed upon companies, and the rise of government hacking and state-sponsored malware as an alternative or addition to weakening software. Finally, the presentation will discuss possible realistic outcomes, and give my predictions on what the state of the law will be as we head into 2017, and discuss how we can fight for a future that will allow for secure communications for everyone.\r\n", 
-                                "description": "The discussion will include:\r\n- The law and policy issues in the FBI v. Apple iPhone case\r\n- The FBI\u2019s purchase of 0day access to the iPhone 5c, and Apple\u2019s technical response\r\n- The rise in use of government malware to access encrypted device\r\n-  Proposed and enacted crypto laws in the United States, Australia, India, Russia, and the UK.\r\n- Legal pressures on companies, like Brazil\u2019s arrest of Facebook executives to pressure WhatsApp\r\n- Q&A with the audience", 
+                                "abstract": "Both strong end-to-end communications encryption and device encryption are legal in most jurisdictions today, and remain widely available. Yet software programmers and hardware producers are increasingly under pressure from law enforcement and policy makers around the world to include so-called backdoors in encryption products.", 
+                                "description": "In this lecture, I will provide the state of the law as we moving into 2017, detailing what happened in the fight between Apple and the FBI in San Bernardino and the current proposals to weaken or ban encryption, covering proposed and recently enacted laws. I will also discuss the extra-legal pressures placed upon companies, and the rise of government hacking and state-sponsored malware as an alternative or addition to weakening software. Finally, the presentation will discuss possible realistic outcomes, and give my predictions on what the state of the law will be as we head into 2017, and discuss how we can fight for a future that will allow for secure communications for everyone.\r\n\r\nThe discussion will include:\r\n- The law and policy issues in the FBI v. Apple iPhone case,\r\n- The FBI\u2019s purchase of 0day access to the iPhone 5c, and Apple\u2019s technical response,\r\n- The rise in use of government malware to access encrypted device\r\n-  Proposed and enacted crypto laws in the United States, Australia, India, Russia, and the UK,\r\n- Legal pressures on companies, like Brazil\u2019s arrest of Facebook executives to pressure WhatsApp,\r\n- Q&A with the audience.", 
                                 "recording_license": "CC BY 4.0", 
                                 "do_not_record": false, 
                                 "persons": [
@@ -147,8 +147,8 @@
                                 "track": "Ethics, Society & Politics", 
                                 "type": "lecture", 
                                 "language": "en", 
-                                "abstract": "In early 2015, the Federal Bureau of Investigation hacked computers in Austria, Denmark, Chile, Colombia, Greece, and likely the United Kingdom and Turkey too. In all, the agency used a Tor Browser exploit to target over 4000 computers spread across the world based on a single, arguably illegal warrant. But this is only one case in the growing trend of law enforcement agencies reaching outside of their own country and hacking criminals suspects abroad, bringing up urgent questions of legality, jurisdiction, and proportionately in the digital age.\r\n", 
-                                "description": "In early 2015, the Federal Bureau of Investigation hacked computers in Austria, Denmark, Chile, Colombia, Greece, and likely the United Kingdom and Turkey too. In all, the agency used a Tor Browser exploit to target over 4000 computers spread across the world based on a single, arguably illegal warrant, without knowing which country their malware would end up in.  But this is only one case in the growing trend of law enforcement agencies reaching outside of their own country and hacking criminals suspects abroad, bringing up urgent questions of legality, jurisdiction, and oversight around policing in the digital age.\r\n\r\nFor the past year, I have investigated law enforcement's international use of hacking tools. As well as finding which countries the FBI remotely searched computers in, I uncovered another operation led by a local Australian police department, which targeted individuals in the United States\u2014clearly outside of the agency's jurisdiction.\r\n\r\nBecause many criminals suspects have moved onto the so-called dark web, law enforcement have no idea where the computers they are hacking are actually located. This worrying shoot-malware-ask-questions later approach has seen only minimal attention from policy makers and legal experts, and is likely to become more widespread.", 
+                                "abstract": "In early 2015, the Federal Bureau of Investigation hacked computers in Austria, Denmark, Chile, Colombia, Greece, and likely the United Kingdom and Turkey too. In all, the agency used a Tor Browser exploit to target over 4000 computers spread across the world based on a single, arguably illegal warrant.", 
+                                "description": "But this is only one case in the growing trend of law enforcement agencies reaching outside of their own country and hacking criminals suspects abroad, bringing up urgent questions of legality, jurisdiction, and proportionately in the digital age.\r\n\r\nFor the past year, I have investigated law enforcement\u2019s international use of hacking tools. As well as finding which countries the FBI remotely searched computers in, I uncovered another operation led by a local Australian police department, which targeted individuals in the United States \u2013 clearly outside of the agency\u2019s jurisdiction.\r\n\r\nBecause many criminals suspects have moved onto the so-called dark web, law enforcement have no idea where the computers they are hacking are actually located. This worrying shoot-malware-ask-questions later approach has seen only minimal attention from policy makers and legal experts, and is likely to become more widespread.", 
                                 "recording_license": "CC BY 4.0", 
                                 "do_not_record": false, 
                                 "persons": [
@@ -157,7 +157,28 @@
                                         "public_name": "Joseph Cox"
                                     }
                                 ], 
-                                "links": [], 
+                                "links": [
+                                    {
+                                        "url": "http://motherboard.vice.com/read/the-fbis-unprecedented-hacking-campaign-targeted-over-a-thousand-computers", 
+                                        "title": "The FBI\u2019s \u201aUnprecedented\u2018 Hacking Campaign Targeted Over a Thousand Computers, Motherboard, Jan. 5. 2016"
+                                    }, 
+                                    {
+                                        "url": "https://motherboard.vice.com/read/child-porn-sting-goes-global-fbi-hacked-computers-in-denmark-greece-chile", 
+                                        "title": "Child Porn Sting Goes Global: FBI Hacked Computers in Denmark, Greece, Chile, Motherboard, Jan. 22. 2016"
+                                    }, 
+                                    {
+                                        "url": "https://motherboard.vice.com/read/fbis-mass-hack-playpen-operation-pacifier-hit-50-computers-in-austria", 
+                                        "title": "FBI\u2019s Mass Hack Hit 50 Computers in Austria, Motherboard, July 28. 2016"
+                                    }, 
+                                    {
+                                        "url": "https://motherboard.vice.com/read/australian-authorities-hacked-computers-in-the-us", 
+                                        "title": "Australian Authorities Hacked Computers in the US, Motherboard, Aug. 15. 2016"
+                                    }, 
+                                    {
+                                        "url": "http://www.newsweek.com/supreme-court-allows-fbi-hack-any-computer-anywhere-if-warrant-454278", 
+                                        "title": "Seung Lee: Supreme Court Allows FBI to Hack Any Computer Anywhere with a Warrant, Newsweek, May 1. 2015"
+                                    }
+                                ], 
                                 "attachments": []
                             }, 
                             {
@@ -1449,8 +1470,8 @@
                                 "track": "CCC", 
                                 "type": "lecture", 
                                 "language": "de", 
-                                "abstract": "Ein \u00dcberblick zur netzpolitischen Situation in der Schweiz. Wir geben einen umfassenden R\u00fcckblick auf das ereignissreiche Jahr 2016, in dem die Schweizer Bev\u00f6lkerung \u00fcber gleich zwei Massen\u00fcberwachungsgesetze entschieden hat. Die netzpolitischen Gruppierungen haben mit viel Einsatz gegen die Gesetze gek\u00e4mpft . Wir berichten dar\u00fcber, wie wir das angengangen sind, wie es ausgegangen ist und was wir dabei gelernt haben.", 
-                                "description": "In Sachen Netzpolitik hat sich im Jahr 2016, seit unserem letzten Vortrag zu dem Thema, viel getan.\r\n\r\nGleich zu Beginn 2016 kam die Nachricht, dass das Referendum zum NDG erfolgreich war. Damit hat das Schweizer Stimmvolk die Chance erhalten, \u00fcber das Geheimdienstgesetz (NDG) abzustimmen. Mit dem Zustandekommen des Referendums war aber erst die halbe Arbeit getan. \r\n\r\nEs galt nun der in Gang gesetzten staatlichen Propagandamaschinerie sowie einigen, insbesondere b\u00fcrgerlichen, Parteien entgegenzuwirken. Die netzpolitischen Gruppierungen waren also gefragt, sich aktiv, parteipolitisch unabh\u00e4ngig und mit technischen Fakten in den Abstimmungskampf einzubringen. Am 25. September 2016 hat dann das Schweizer Stimmvolk \u00fcber das neue Nachrichtendienstgesetz entschieden: 65% der Bev\u00f6lkerung hat das gesetz angenommen, nur gerade 35 % teilten unsere Meinung.\r\n\r\nIm Fr\u00fchling hat das Parlament gleich das n\u00e4chste fragw\u00fcrdige Gesetz verabschiedet - das revidierte Bundesgesetz betreffend die \u00dcberwachung des Post- und Fernmeldeverkehrs (B\u00dcPF). Auch gegen dieses Gesetz hat die Schweizer Netzgemeinde, unterst\u00fctzt von einer ganzen Reihe Jungparteien, umgehend das Referendum ergriffen. Ohne die Unterst\u00fctzung der grossen politischen Parteien mussten wir uns diesmal deutlich st\u00e4rker in den Prozess einbringen. So wurde etwa das Sammeln der Unterschriften aus den R\u00e4umen des CCC Z\u00fcrich (CCCZH) koordiniert. Auch wenn das Referendum gegen das B\u00dcPF leider nicht erfolgreich war, so haben wir bei der Zusammenarbeit mit einem gross gestreuten Kommittee, beim Sammeln auf der Strasse und dem Ausz\u00e4hlen und bescheinigen der Unterschriften viel gelernt.\r\n\r\nAuch wenn mit 2016 ein - mit Bezug auf die Schweizer Netzpolitik - besonders d\u00fcsters Jahr zu Ende geht, so ist f\u00fcr die Zukunft noch einiges ausstehend. Zum Schluss wollen wir einen kurzen \u00dcberblick geben \u00fcber das was kommt.\r\n\r\nDetaillierte Erkl\u00e4rungen zum politischen System in der Schweiz und der (damals) aktuellen Lage haben wir im Vortrag am 32c3 gegeben: https://media.ccc.de/v/32c3-7205-netzpolitik_in_der_schweiz\r\n\r\n", 
+                                "abstract": "Ein \u00dcberblick zur netzpolitischen Situation in der Schweiz. Wir geben einen umfassenden R\u00fcckblick auf das ereignissreiche Jahr 2016, in dem die Schweizer Bev\u00f6lkerung \u00fcber gleich zwei Massen\u00fcberwachungsgesetze entschieden hat. Die netzpolitischen Gruppierungen haben mit viel Einsatz gegen die Gesetze gek\u00e4mpft . Wir berichten dar\u00fcber, wie wir das angengangen sind, wie es ausgegangen ist und was wir dabei gelernt haben.\r\nZudem machen wir einen Ausblick auf kommende netzpolitische Herausforderungen.", 
+                                "description": "In Sachen Netzpolitik hat sich im Jahr 2016, seit unserem letzten Vortrag zu dem Thema, viel getan.\r\n\r\nGleich zu Beginn 2016 kam die Nachricht, dass das Referendum zum NDG erfolgreich war. Damit hat das Schweizer Stimmvolk die Chance erhalten, \u00fcber das Geheimdienstgesetz (NDG) abzustimmen. Mit dem Zustandekommen des Referendums war aber erst die halbe Arbeit getan. \r\n\r\nEs galt nun der in Gang gesetzten staatlichen Propagandamaschinerie sowie einigen, insbesondere b\u00fcrgerlichen, Parteien entgegenzuwirken. Die netzpolitischen Gruppierungen waren also gefragt, sich aktiv, parteipolitisch unabh\u00e4ngig und mit technischen Fakten in den Abstimmungskampf einzubringen. Am 25. September 2016 hat dann das Schweizer Stimmvolk \u00fcber das neue Nachrichtendienstgesetz entschieden: 65% der Bev\u00f6lkerung hat das gesetz angenommen, nur gerade 35 % teilten unsere Meinung.\r\n\r\nIm Fr\u00fchling hat das Parlament gleich das n\u00e4chste fragw\u00fcrdige Gesetz verabschiedet - das revidierte Bundesgesetz betreffend die \u00dcberwachung des Post- und Fernmeldeverkehrs (B\u00dcPF). Auch gegen dieses Gesetz hat die Schweizer Netzgemeinde, unterst\u00fctzt von einer ganzen Reihe Jungparteien, umgehend das Referendum ergriffen. Das Sammeln der Unterschriften wurde diesmal aus den R\u00e4umen des CCC Z\u00fcrich (CCCZH) koordiniert, da es sich abgesehen von der stark netzpolitisch verankerten Pirtatenpartei, nicht um eine parteipolitische Initiative handelte. Auch wenn das Referendum gegen das B\u00dcPF leider nicht erfolgreich war, so haben wir bei der Zusammenarbeit mit einem gross gestreuten Kommittee, beim Sammeln auf der Strasse und dem Ausz\u00e4hlen und bescheinigen der Unterschriften viel gelernt und somit nicht Gold, aber immerhin Silber und Bronze abger\u00e4umt.\r\n\r\nAuch wenn mit 2016 ein - mit Bezug auf die Schweizer Netzpolitik - besonders d\u00fcsters Jahr zu Ende geht, so ist f\u00fcr die Zukunft noch einiges ausstehend. Zum Schluss wollen wir einen kurzen \u00dcberblick geben \u00fcber das was kommt.\r\n\r\nDetaillierte Erkl\u00e4rungen zum politischen System in der Schweiz und der (damals) aktuellen Lage haben wir im Vortrag am 32c3 gegeben: https://media.ccc.de/v/32c3-7205-netzpolitik_in_der_schweiz\r\n\r\nIm Anschluss an den Talk gibt es eine ausgedehnte Diskussions- und Fragesession zu den behandelten Themen im Raum A.1: Siehe hier: https://events.ccc.de/congress/2016/wiki/Session:Netzpolitik_in_der_Schweiz_2017", 
                                 "recording_license": "CC BY 4.0", 
                                 "do_not_record": false, 
                                 "persons": [
@@ -3786,14 +3807,14 @@
                                 "start": "17:15", 
                                 "duration": "01:00", 
                                 "room": "Saal 1", 
-                                "slug": "33c3-8117-germany_after_snowden_is_data-protection-friendly_germany_fighting_state_surveillance", 
-                                "title": "Germany after Snowden: Is Data-Protection-Friendly Germany fighting State Surveillance?", 
+                                "slug": "33c3-8117-3_years_after_snowden_is_germany_fighting_state_surveillance", 
+                                "title": "3 Years After Snowden: Is Germany fighting State Surveillance?", 
                                 "subtitle": "A Closer Look at the Political Reactions to Mass Surveillance in Germany", 
                                 "track": "Ethics, Society & Politics", 
                                 "type": "lecture", 
                                 "language": "en", 
-                                "abstract": "Germany boasts an international reputation for having strong data protection in popular demand and enshrined in law. In this line, it features the only parliamentary inquiry committee investigating the Snowden revelations on ubiquitous mass surveillance in the world. But what are actual results of parliamentary, journalistic and public engagement?", 
-                                "description": "Is Germany really a desirable role model in the anti-surveillance movement? Or at least efficiently controlling its own secret services? We\u2019ll provide answers \u2013 they might change your perception of how Germany deals with the fundamental right to privacy.\r\n\r\nThe speakers work for netzpolitik.org, the leading news outlet on digital rights in Germany. They have published many classified documents on surveillance, dodged treason-charges, and live-transcribe every hearing of the parliamentary inquiry committee on mass surveillance, totaling over 3.000 pages of text.", 
+                                "abstract": "Germany has a good reputation for strong data protection. It also features the only parliamentary inquiry committee investigating the Snowden revelations. But what are actual results of parliamentary, journalistic and public engagement?", 
+                                "description": "What did we learn from 3 years of debate on secret service surveillance? What did the the inquiry committee find out? What are political consequences?\r\n\r\nIs Germany really a desirable role model in the anti-surveillance movement? Or at least efficiently controlling its own secret services?\r\n\r\nWe\u2019ll provide answers. They might change your perception of how Germany deals with the fundamental right to privacy.\r\n\r\nThe speakers work for netzpolitik.org, the leading news outlet on digital rights in Germany. They have published many classified documents on surveillance, dodged treason-charges, and live-transcribe every hearing of the parliamentary inquiry committee on mass surveillance, totaling over 3.000 pages of text.", 
                                 "recording_license": "CC BY 4.0", 
                                 "do_not_record": false, 
                                 "persons": [
@@ -3806,7 +3827,12 @@
                                         "public_name": "Andre Meister"
                                     }
                                 ], 
-                                "links": [], 
+                                "links": [
+                                    {
+                                        "url": "https://netzpolitik.org/tag/nsaua-liveblog/", 
+                                        "title": "live-blogs from the Bundestag inquiry committee"
+                                    }
+                                ], 
                                 "attachments": []
                             }, 
                             {
@@ -3844,20 +3870,60 @@
                                 "start": "20:30", 
                                 "duration": "02:15", 
                                 "room": "Saal 1", 
-                                "slug": "33c3-8440-nsu_monologe", 
-                                "title": "NSU Monologe", 
-                                "subtitle": "", 
+                                "slug": "33c3-8440-die_nsu-monologe_nsu-monologlari", 
+                                "title": "DIE NSU-MONOLOGE / NSU-MONOLOGLARI", 
+                                "subtitle": "Dokumentarisches Theater", 
                                 "track": "Art & Culture", 
                                 "type": "performance", 
                                 "language": "de", 
-                                "abstract": "with English and  Turkish Overtitels", 
-                                "description": "", 
+                                "abstract": "Der Kampf der Hinterbliebenen um die Wahrheit\r\n---\r\nGeride kalanlar\u0131n ger\u00e7ekler i\u00e7in sava\u015f\u0131\r\n", 
+                                "description": "F\u00fcnf Jahre nach Bekanntwerden des \"Nationalsozialistischen Untergrunds\" erz\u00e4hlen die NSU-Monologe von den jahrelangen K\u00e4mpfen dreier Familien der Opfer des NSU - von Elif Kuba\u015f\u0131k, Adile \u015eim\u015fek und \u0130smail Yozgat: von ihrem Mut, in der 1. Reihe eines Trauermarschs zu stehen, von der Willensst\u00e4rke, die Umbenennung einer Stra\u00dfe einzufordern und vom Versuch, die eigene Erinnerung an den geliebten Menschen gegen die vermeintliche Wahrheit der Beh\u00f6rden zu verteidigen.\r\n---\r\n\u201cNasyonal sosyalist yeralt\u0131\u201d olu\u015fumundan tam be\u015f y\u0131l sonra NSU-monologlar\u0131 NSU kurbanlar\u0131 olan \u00fc\u00e7 ailenin sava\u015f\u0131n\u0131 anlat\u0131yor - Elif Kuba\u015f\u0131k, Adile \u015eim\u015fek ve \u0130smail Yozgat: onlar\u0131n cesaretini, cenaze t\u00f6reninde ilk s\u0131rada durmay\u0131, irade g\u00fcc\u00fcn\u00fc, bir soka\u011f\u0131n tekrar isim de\u011fi\u015ftirme talebini ve son olmayacak \u015fekile, sevdi\u011fi ki\u015finin hat\u0131ralar\u0131n\u0131 s\u00f6zde do\u011frular\u0131 konu\u015fan ara\u015ft\u0131rmac\u0131 kar\u015f\u0131s\u0131nda savunma yapmalar\u0131n\u0131 anlat\u0131yor.\r\n---\r\nVeranstaltung auf Deutsch mit T\u00fcrkischen und Englischen \u00dcbertiteln\r\n---\r\nPublikumsgespr\u00e4ch im Anschluss mit: \r\n\r\nNissar Gardi, \r\nReferentin des Projekts \"Empower. Beratungsstelle f\u00fcr Betroffene rechter, antisemitischer und rassistischer Gewalt\" \r\n& \r\nAndreas Kienzle, \r\nNebenklageanwalt der Familie Yozgat", 
                                 "recording_license": "", 
                                 "do_not_record": true, 
                                 "persons": [
                                     {
                                         "id": 6400, 
                                         "public_name": "B\u00fchne f\u00fcr Menschenrechte"
+                                    }, 
+                                    {
+                                        "id": 7269, 
+                                        "public_name": "Elisabeth Ple\u00df"
+                                    }, 
+                                    {
+                                        "id": 7272, 
+                                        "public_name": "Idil \u00dcner"
+                                    }, 
+                                    {
+                                        "id": 7273, 
+                                        "public_name": "Mehmet Kurtulus"
+                                    }, 
+                                    {
+                                        "id": 7274, 
+                                        "public_name": "Vanida Karun"
+                                    }, 
+                                    {
+                                        "id": 7266, 
+                                        "public_name": "Michael Ruf"
+                                    }, 
+                                    {
+                                        "id": 7270, 
+                                        "public_name": "Nissar Gardi"
+                                    }, 
+                                    {
+                                        "id": 7271, 
+                                        "public_name": "Andreas Kienzle"
+                                    }, 
+                                    {
+                                        "id": 7267, 
+                                        "public_name": "Florentine Seuffert"
+                                    }, 
+                                    {
+                                        "id": 7268, 
+                                        "public_name": "Barnie Ecke"
+                                    }, 
+                                    {
+                                        "id": 7275, 
+                                        "public_name": "Musiker_in"
                                     }
                                 ], 
                                 "links": [], 
@@ -4339,12 +4405,12 @@
                                 "room": "Saal G", 
                                 "slug": "33c3-8062-a_look_into_the_mobile_messaging_black_box", 
                                 "title": "A look into the Mobile Messaging Black Box", 
-                                "subtitle": "", 
+                                "subtitle": "A gentle introduction to mobile messaging and subsequent analysis of the Threema protocol.", 
                                 "track": "Security", 
                                 "type": "lecture", 
                                 "language": "en", 
-                                "abstract": "Most of us use mobile messaging every day. We use certain apps that we chose for a number of factors, like our friends using it, good press, privacy promises, or simply their feature sets. This talk aims to enable more of us to reason about the privacy and security of messaging apps. We will try to present simple analogies translating abstract security and privacy expectations into concrete feature sets. We will illustrate these features using the two well-known messaging apps Signal and Threema. Our analysis of both protocols is based on the open-source code-base of Signal and our own reverse-engineered re-implementation of the Threema protocol that we will release during the talk.", 
-                                "description": "Despite its ubiquitous application and widespread acceptance, mobile instant messaging remains a complex matter and is often not understood by its users. Easy-to-use apps and security assurances by their developers suggest users a safe and private environment for conversation. At the same time, more and more apps flood the market and it is becoming increasingly difficult, even for technically-educated users, to keep track of both technological development and their own security and privacy requirements. We want to present a talk that sheds some light into technical aspects of mobile instant messaging and presents an overview of techniques and design decisions by different mobile instant messaging app developers. We aim at both technically-educated and casual users alike, trying to present simple analogies and break down complex details into understandable components. After an introduction to the mobile instant messaging world, we will dissect two of the most popular mobile instant messaging apps in Germany: Signal and Threema. As Signal is both open-source and well documented, we will use it as a brief example to convey its protocol and architecture in understandable terms, not least as the same protocol is now used in market leader WhatsApp. Threema on the other hand is closed-source and only superficially documented, yet widely used. We picked it for a particular design decision in its protocol, the lack of which we consider the most important flaw in the Signal protocol: the use of discardable IDs in favor of phone numbers. Another interesting aspect about Threema\u2019s protocol is its use of the NaCl library 3 for end-to-end encryption. We have fully reverse-engineered the Threema app and can therefore analyze and present its protocol and our analysis of it in detail.", 
+                                "abstract": "Most of us use mobile messaging every day. We use certain apps that we chose for a number of factors, like our friends using it, good press, privacy promises, or simply their feature sets. This talk aims to enable more of us to reason about the privacy and security of messaging apps. We will try to present simple analogies translating abstract security and privacy expectations into concrete feature sets. We will illustrate these features using the the popular messaging app Threema. Our analysis of its protocol is based on our own reverse-engineering efforts and a re-implementation of the Threema protocol that we will release during the talk.", 
+                                "description": "Despite its ubiquitous application and widespread acceptance, mobile instant messaging remains a complex matter and is often not understood by its users. Easy-to-use apps and security assurances by their developers suggest users a safe and private environment for conversation. At the same time, more and more apps flood the market and it is becoming increasingly difficult, even for technically-educated users, to keep track of both technological development and their own security and privacy requirements. We want to present a talk that sheds some light into technical aspects of mobile instant messaging and presents an overview of techniques and design decisions by different mobile instant messaging app developers. We aim at both technically-educated and casual users alike, trying to present simple analogies and break down complex details into understandable components. After an introduction to the mobile instant messaging world, we will dissect one of the most popular mobile instant messaging apps in Germany: Threema. It is closed-source and only superficially documented, yet widely used. We picked it for a particular design decision in its protocol, the lack of which we consider the most important flaw in competitor protocols like Signal: the use of discardable IDs in favor of phone numbers. Another interesting aspect about Threema\u2019s protocol is its use of the NaCl library for end-to-end encryption. We have fully reverse-engineered the Threema app and can therefore analyze and present its protocol and our analysis of it in detail.", 
                                 "recording_license": "CC BY 4.0", 
                                 "do_not_record": false, 
                                 "persons": [
@@ -4382,6 +4448,10 @@
                                     {
                                         "id": 5263, 
                                         "public_name": "gedsic"
+                                    }, 
+                                    {
+                                        "id": 4601, 
+                                        "public_name": "bigalex"
                                     }
                                 ], 
                                 "links": [], 
@@ -8680,6 +8750,10 @@
                                     {
                                         "id": 5263, 
                                         "public_name": "gedsic"
+                                    }, 
+                                    {
+                                        "id": 4601, 
+                                        "public_name": "bigalex"
                                     }
                                 ], 
                                 "links": [], 
@@ -8688,7 +8762,7 @@
                             {
                                 "id": 8012, 
                                 "guid": "70269173-72a8-4eab-b356-f22faea6cdca", 
-                                "logo": null, 
+                                "logo": "/system/events/logos/000/008/012/large/4412754.png?1482415556", 
                                 "date": "2016-12-29T16:00:00+01:00", 
                                 "start": "16:00", 
                                 "duration": "01:00", 
@@ -8897,8 +8971,8 @@
                                 "track": "Hardware & Making", 
                                 "type": "lecture", 
                                 "language": "en", 
-                                "abstract": "As a soft roboticist I am constantly searching for inspiration for novel soft actuators, and as a home cook and artist I consider eating an object to be a high-level form of interactivity. Having noted the similarities between cast silicone and gummi candies it was natural to combine these interests. I will share my experiments in assessing different candies for their engineering potential, and show my work-in-progress for sweet pneumatic soft robots.", 
-                                "description": "As a soft roboticist I am constantly searching for inspiration for novel soft actuators, and as a home cook and artist I consider eating an object to be a high-level form of interactivity. Having noted the similarities between cast silicone and gummi candies it was natural to combine these interests.\r\n\r\nPart of this analysis is developing testing metrics for candy recipes for performance characteristics, and looking to an ever-increasing set of candy-making techniques to potentially use to design and iterate/innovate.\r\n\r\nI will share my experiments in assessing different candies for their engineering potential, and show my work-in-progress for sweet pneumatic soft robots. I will also share a few sketches for future design plans.", 
+                                "abstract": "As a soft roboticist I am constantly searching for inspiration for novel soft actuators, and as a home cook and artist I consider eating an object to be a high-level form of interactivity. Having noted the similarities between cast silicone and gummi candies it was natural to combine these interests. I will share my experiments in assessing different candies for their engineering potential, and show my work-in-progress for sweet soft robots.", 
+                                "description": "As a soft roboticist I am constantly searching for inspiration for novel soft actuators, and as a home cook and artist I consider eating an object to be a high-level form of interactivity. Having noted the similarities between cast silicone and gummi candies it was natural to combine these interests.\r\n\r\nPart of this analysis is developing testing metrics for candy recipes for performance characteristics, and looking to an ever-increasing set of candy-making techniques to potentially use to design and iterate/innovate.\r\n\r\nI will share my experiments in assessing different candies for their engineering potential, and show my work-in-progress for sweet soft robots. I will also share a few ideas for future design plans.", 
                                 "recording_license": "CC BY 4.0", 
                                 "do_not_record": false, 
                                 "persons": [
@@ -8916,7 +8990,7 @@
                                 "logo": "/system/events/logos/000/008/270/large/hebocon_logo.png?1475265089", 
                                 "date": "2016-12-29T23:30:00+01:00", 
                                 "start": "23:30", 
-                                "duration": "01:00", 
+                                "duration": "00:30", 
                                 "room": "Saal G", 
                                 "slug": "33c3-8270-hebocon", 
                                 "title": "Hebocon", 
@@ -8958,8 +9032,8 @@
                                 "id": 8020, 
                                 "guid": "d51d9e44-947b-4a09-94ad-c31c5cf5e5e1", 
                                 "logo": "/system/events/logos/000/008/020/large/logopodcast.jpg?1474982648", 
-                                "date": "2016-12-30T00:30:00+01:00", 
-                                "start": "00:30", 
+                                "date": "2016-12-30T00:15:00+01:00", 
+                                "start": "00:15", 
                                 "duration": "01:00", 
                                 "room": "Saal G", 
                                 "slug": "33c3-8020-methodisch_inkorrekt", 
@@ -12427,20 +12501,20 @@
                                 "start": "11:30", 
                                 "duration": "01:00", 
                                 "room": "Saal G", 
-                                "slug": "33c3-8404-prediction_fail", 
-                                "title": "Prediction Fail", 
-                                "subtitle": "Post-trump open brainstorm by IFS - Institute for Social Role Play and associates    ", 
+                                "slug": "33c3-8404-patterns", 
+                                "title": "Patterns", 
+                                "subtitle": "Relevant patterns, subset of patterns, patterns and anti patterns", 
                                 "track": "Art & Culture", 
                                 "type": "lecture", 
                                 "language": "en", 
-                                "abstract": "Live action role play as method of fast social prototyping and political brainstorming post-Trump. ", 
-                                "description": "We will work in several modules including International Dirty Left and Future Infrastructures. This event requires active participation in small groups. It is not meant to entertain, inform or educate, it is not a performance, this is not a drill. It has clear rules that can be changed by consent. It is a game, but all games are real these days. We dont ask your approval but require your enthusiasm.\r\n", 
+                                "abstract": "", 
+                                "description": "", 
                                 "recording_license": "", 
                                 "do_not_record": false, 
                                 "persons": [
                                     {
-                                        "id": 7161, 
-                                        "public_name": "ISR - Institute for Social Role Play"
+                                        "id": 1395, 
+                                        "public_name": "Mitch"
                                     }
                                 ], 
                                 "links": [], 
@@ -12468,6 +12542,10 @@
                                     {
                                         "id": 5263, 
                                         "public_name": "gedsic"
+                                    }, 
+                                    {
+                                        "id": 4601, 
+                                        "public_name": "bigalex"
                                     }
                                 ], 
                                 "links": [], 
