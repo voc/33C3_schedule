@@ -180,7 +180,7 @@
         "speakers": "Reisende"
     }, 
     {
-        "event_id": 1171, 
+        "event_id": 1170, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -192,7 +192,7 @@
         "speakers": "Ijon"
     }, 
     {
-        "event_id": 1181, 
+        "event_id": 1183, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -324,7 +324,7 @@
         "speakers": "Obaz, UMT, CoopDot"
     }, 
     {
-        "event_id": 1175, 
+        "event_id": 1178, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1131, 
@@ -420,7 +420,7 @@
         "speakers": "Djim, Duisburch, Benni, Cbass, Stean"
     }, 
     {
-        "event_id": 1042, 
+        "event_id": 1044, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -708,7 +708,7 @@
         "speakers": "Envy"
     }, 
     {
-        "event_id": 1044, 
+        "event_id": 1043, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -768,7 +768,7 @@
         "speakers": "Reisende"
     }, 
     {
-        "event_id": 1172, 
+        "event_id": 1171, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -780,7 +780,7 @@
         "speakers": "Ijon"
     }, 
     {
-        "event_id": 1183, 
+        "event_id": 1181, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -876,7 +876,7 @@
         "speakers": "Exul"
     }, 
     {
-        "event_id": 1034, 
+        "event_id": 1032, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1131, 
@@ -936,7 +936,7 @@
         "speakers": "Janosch"
     }, 
     {
-        "event_id": 1036, 
+        "event_id": 1034, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1132, 
@@ -1044,6 +1044,18 @@
         "speakers": "Nana berlin"
     }, 
     {
+        "event_id": 1037, 
+        "track_id": 10, 
+        "track_name": "Session", 
+        "room_id": 1133, 
+        "room_name": "Hall C.3", 
+        "start_time": "2016-12-28T10:00:00+01:00", 
+        "duration": 3600, 
+        "title": "Coder Dojo", 
+        "abstract": "Slot 0 Room 1 \n", 
+        "speakers": "Nana berlin"
+    }, 
+    {
         "event_id": 1038, 
         "track_id": 10, 
         "track_name": "Session", 
@@ -1053,18 +1065,6 @@
         "duration": 3600, 
         "title": "Coder Dojo", 
         "abstract": "Slot 3 Room 1 \n", 
-        "speakers": "Nana berlin"
-    }, 
-    {
-        "event_id": 1040, 
-        "track_id": 10, 
-        "track_name": "Session", 
-        "room_id": 1133, 
-        "room_name": "Hall C.3", 
-        "start_time": "2016-12-28T10:00:00+01:00", 
-        "duration": 3600, 
-        "title": "Coder Dojo", 
-        "abstract": "Slot 0 Room 1 \n", 
         "speakers": "Nana berlin"
     }, 
     {
@@ -1128,18 +1128,6 @@
         "speakers": "A.Vibrio.F."
     }, 
     {
-        "event_id": 1032, 
-        "track_id": 10, 
-        "track_name": "Session", 
-        "room_id": 1134, 
-        "room_name": "Hall C.4", 
-        "start_time": "2016-12-28T10:00:00+01:00", 
-        "duration": 3600, 
-        "title": "Coder Dojo", 
-        "abstract": "Slot 0 Room 2 \n", 
-        "speakers": "Nana berlin"
-    }, 
-    {
         "event_id": 1033, 
         "track_id": 10, 
         "track_name": "Session", 
@@ -1152,7 +1140,7 @@
         "speakers": "Nana berlin"
     }, 
     {
-        "event_id": 1037, 
+        "event_id": 1036, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1134, 
@@ -1165,6 +1153,18 @@
     }, 
     {
         "event_id": 1039, 
+        "track_id": 10, 
+        "track_name": "Session", 
+        "room_id": 1134, 
+        "room_name": "Hall C.4", 
+        "start_time": "2016-12-28T10:00:00+01:00", 
+        "duration": 3600, 
+        "title": "Coder Dojo", 
+        "abstract": "Slot 0 Room 2 \n", 
+        "speakers": "Nana berlin"
+    }, 
+    {
+        "event_id": 1040, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1134, 
@@ -1224,7 +1224,7 @@
         "speakers": "KaerF"
     }, 
     {
-        "event_id": 1176, 
+        "event_id": 1179, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1134, 
@@ -1644,7 +1644,7 @@
         "speakers": "Reisende"
     }, 
     {
-        "event_id": 1169, 
+        "event_id": 1172, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -1980,7 +1980,7 @@
         "speakers": "Tecer"
     }, 
     {
-        "event_id": 1177, 
+        "event_id": 1175, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1134, 
@@ -2057,8 +2057,8 @@
         "track_name": "Session", 
         "room_id": 1230, 
         "room_name": "Hall F", 
-        "start_time": "2016-12-29T21:00:00+01:00", 
-        "duration": 10800, 
+        "start_time": "2016-12-29T18:00:00+01:00", 
+        "duration": 8100, 
         "title": "Movie Night", 
         "abstract": " \nBlocked for Film Screenings by Content Team", 
         "speakers": ""
@@ -2069,8 +2069,8 @@
         "track_name": "Session", 
         "room_id": 1230, 
         "room_name": "Hall F", 
-        "start_time": "2016-12-29T18:00:00+01:00", 
-        "duration": 8100, 
+        "start_time": "2016-12-29T21:00:00+01:00", 
+        "duration": 10800, 
         "title": "Movie Night", 
         "abstract": " \nBlocked for Film Screenings by Content Team", 
         "speakers": ""
@@ -2088,7 +2088,7 @@
         "speakers": "Fluktusdukt, Konfusius"
     }, 
     {
-        "event_id": 1182, 
+        "event_id": 1180, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1230, 
@@ -2112,7 +2112,7 @@
         "speakers": "Eal"
     }, 
     {
-        "event_id": 1043, 
+        "event_id": 1042, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -2244,7 +2244,7 @@
         "speakers": "Becha"
     }, 
     {
-        "event_id": 1184, 
+        "event_id": 1182, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1131, 
@@ -2268,7 +2268,7 @@
         "speakers": "Stephan.schwichtenberg"
     }, 
     {
-        "event_id": 1178, 
+        "event_id": 1176, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1134, 
