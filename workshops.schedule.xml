@@ -1340,15 +1340,15 @@ Presented by Nik, a 26 year-old software developer and network admin from Bonn, 
           <link>https://events.ccc.de/congress/2016/wiki/Session:Coder_Dojo</link>
         </links>
       </event>
-      <event id="1042" guid="a2d3c9df94b90cd7240898885d1eb3ec">
+      <event id="1042" guid="fdd8a9c86e797d9c002a514c55992e1d">
         <logo/>
-        <date>2016-12-28T10:00:00+01:00</date>
-        <start>10:00</start>
+        <date>2016-12-28T15:00:00+01:00</date>
+        <start>15:00</start>
         <duration>1:00</duration>
         <room>Hall C.3</room>
         <slug/>
         <title>Coder Dojo</title>
-        <subtitle>Slot 0 Room 1</subtitle>
+        <subtitle>Slot 3 Room 1</subtitle>
         <track>self organized sessions</track>
         <type>workshop</type>
         <language>de</language>
@@ -1361,15 +1361,15 @@ Presented by Nik, a 26 year-old software developer and network admin from Bonn, 
           <link>https://events.ccc.de/congress/2016/wiki/Session:Coder_Dojo</link>
         </links>
       </event>
-      <event id="1043" guid="fdd8a9c86e797d9c002a514c55992e1d">
+      <event id="1043" guid="a2d3c9df94b90cd7240898885d1eb3ec">
         <logo/>
-        <date>2016-12-28T15:00:00+01:00</date>
-        <start>15:00</start>
+        <date>2016-12-28T10:00:00+01:00</date>
+        <start>10:00</start>
         <duration>1:00</duration>
         <room>Hall C.3</room>
         <slug/>
         <title>Coder Dojo</title>
-        <subtitle>Slot 3 Room 1</subtitle>
+        <subtitle>Slot 0 Room 1</subtitle>
         <track>self organized sessions</track>
         <type>workshop</type>
         <language>de</language>
@@ -1470,15 +1470,15 @@ You can bring own bottles by yourself, too. It is possible that we will not have
       </event>
     </room>
     <room name="Hall C.4">
-      <event id="1034" guid="ce369fbaa66a09e01586ffcab4b39c4a">
+      <event id="1034" guid="f7580cf27bd0d4bb0bd704612ab55f0e">
         <logo/>
-        <date>2016-12-28T10:00:00+01:00</date>
-        <start>10:00</start>
+        <date>2016-12-28T15:00:00+01:00</date>
+        <start>15:00</start>
         <duration>1:00</duration>
         <room>Hall C.4</room>
         <slug/>
         <title>Coder Dojo</title>
-        <subtitle>Slot 0 Room 2</subtitle>
+        <subtitle>Slot 3 Room 2</subtitle>
         <track>self organized sessions</track>
         <type>workshop</type>
         <language>de</language>
@@ -1491,15 +1491,15 @@ You can bring own bottles by yourself, too. It is possible that we will not have
           <link>https://events.ccc.de/congress/2016/wiki/Session:Coder_Dojo</link>
         </links>
       </event>
-      <event id="1035" guid="f7580cf27bd0d4bb0bd704612ab55f0e">
+      <event id="1035" guid="ce369fbaa66a09e01586ffcab4b39c4a">
         <logo/>
-        <date>2016-12-28T15:00:00+01:00</date>
-        <start>15:00</start>
+        <date>2016-12-28T10:00:00+01:00</date>
+        <start>10:00</start>
         <duration>1:00</duration>
         <room>Hall C.4</room>
         <slug/>
         <title>Coder Dojo</title>
-        <subtitle>Slot 3 Room 2</subtitle>
+        <subtitle>Slot 0 Room 2</subtitle>
         <track>self organized sessions</track>
         <type>workshop</type>
         <language>de</language>
