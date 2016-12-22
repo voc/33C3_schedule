@@ -1906,7 +1906,7 @@ Es sind weitere Podcastpat_innen vor Ort: Sprich uns an!</description>
           <link>https://events.ccc.de/congress/2016/wiki/Session:Netzpolitik_in_der_Schweiz_2017</link>
         </links>
       </event>
-      <event id="1153" guid="06de81ba9b71b450d9cbf61661471ee5">
+      <event id="1154" guid="06de81ba9b71b450d9cbf61661471ee5">
         <logo/>
         <date>2016-12-28T01:00:00+01:00</date>
         <start>01:00</start>
@@ -1928,7 +1928,7 @@ Es sind weitere Podcastpat_innen vor Ort: Sprich uns an!</description>
           <link>https://events.ccc.de/congress/2016/wiki/Session:Skillconvention_a</link>
         </links>
       </event>
-      <event id="1154" guid="27b5025dd294b5fa15d8915eac1b6f73">
+      <event id="1155" guid="27b5025dd294b5fa15d8915eac1b6f73">
         <logo/>
         <date>2016-12-28T02:00:00+01:00</date>
         <start>02:00</start>
@@ -1974,7 +1974,7 @@ During this Session we will introduce you to your dutys as a stage manager and t
           <link>https://events.ccc.de/congress/2016/wiki/Session:Stage_Manager_Angel_Introduction</link>
         </links>
       </event>
-      <event id="1183" guid="33d15813452eabff67587b00e4525369">
+      <event id="1182" guid="33d15813452eabff67587b00e4525369">
         <logo/>
         <date>2016-12-27T15:15:00+01:00</date>
         <start>15:15</start>
@@ -2002,7 +2002,7 @@ Welcome to the Subtitles Angelmeeting!</description>
     </room>
     <room name="Hall A.2"/>
     <room name="Hall B">
-      <event id="1062" guid="00888f6062ff7c2f3f8fa508c3fd5ae4">
+      <event id="1065" guid="00888f6062ff7c2f3f8fa508c3fd5ae4">
         <logo/>
         <date>2016-12-27T13:00:00+01:00</date>
         <start>13:00</start>
@@ -2023,7 +2023,7 @@ Welcome to the Subtitles Angelmeeting!</description>
           <link>https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting</link>
         </links>
       </event>
-      <event id="1064" guid="dfad004af29a4928e21fc593833ccad8">
+      <event id="1067" guid="dfad004af29a4928e21fc593833ccad8">
         <logo/>
         <date>2016-12-27T19:45:00+01:00</date>
         <start>19:45</start>
@@ -2044,7 +2044,7 @@ Welcome to the Subtitles Angelmeeting!</description>
           <link>https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting</link>
         </links>
       </event>
-      <event id="1066" guid="36dbc1feca09488704db9acac8b61603">
+      <event id="1069" guid="36dbc1feca09488704db9acac8b61603">
         <logo/>
         <date>2016-12-27T15:00:00+01:00</date>
         <start>15:00</start>
@@ -2109,7 +2109,7 @@ Welcome to the Subtitles Angelmeeting!</description>
           <link>https://events.ccc.de/congress/2016/wiki/Session:Privacy_by_default_with_pretty_Easy_privacy_(p%E2%89%A1p)</link>
         </links>
       </event>
-      <event id="1147" guid="ab74b1ddd8dddae3bd8d62de3de60a88">
+      <event id="1146" guid="ab74b1ddd8dddae3bd8d62de3de60a88">
         <logo/>
         <date>2016-12-27T16:00:00+01:00</date>
         <start>16:00</start>
@@ -2212,7 +2212,7 @@ Goal of this meetup is to catch-up, give each other hugs &amp; support, and plan
           <link>https://events.ccc.de/congress/2016/wiki/Session:Introduction_to_LEAP_encryption_access_project_and_Pixelated</link>
         </links>
       </event>
-      <event id="1146" guid="4a992d9add2bc71db38142ddb1e0d6c2">
+      <event id="1147" guid="4a992d9add2bc71db38142ddb1e0d6c2">
         <logo/>
         <date>2016-12-27T16:30:00+01:00</date>
         <start>16:30</start>
@@ -2532,29 +2532,7 @@ To learn all that you need to learn the basic networking concepts. You're in luc
           <link>https://events.ccc.de/congress/2016/wiki/Session:Network_concepts_introduction_%26_wireshark_workshop</link>
         </links>
       </event>
-      <event id="1155" guid="42fc3badce6e91ea0ecfb85cb8434a1f">
-        <logo/>
-        <date>2016-12-28T03:00:00+01:00</date>
-        <start>03:00</start>
-        <duration>1:00</duration>
-        <room>Hall 13-14</room>
-        <slug/>
-        <title>Skillconvention a</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>meeting</type>
-        <language>en</language>
-        <abstract/>
-        <description>all travelers with a certain skill will be invited to these sessions.</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2016/wiki/User:Reisende">Reisende</person>
-        </persons>
-        <links>
-          <link>http://thereisnogame.de</link>
-          <link>https://events.ccc.de/congress/2016/wiki/Session:Skillconvention_a</link>
-        </links>
-      </event>
-      <event id="1156" guid="c34d388fc65ca7945372d2f3c603589c">
+      <event id="1153" guid="c34d388fc65ca7945372d2f3c603589c">
         <logo/>
         <date>2016-12-28T02:00:00+01:00</date>
         <start>02:00</start>
@@ -2576,7 +2554,29 @@ To learn all that you need to learn the basic networking concepts. You're in luc
           <link>https://events.ccc.de/congress/2016/wiki/Session:Skillconvention_a</link>
         </links>
       </event>
-      <event id="1203" guid="d6363e66156d0473f5f996f9726e7805">
+      <event id="1156" guid="42fc3badce6e91ea0ecfb85cb8434a1f">
+        <logo/>
+        <date>2016-12-28T03:00:00+01:00</date>
+        <start>03:00</start>
+        <duration>1:00</duration>
+        <room>Hall 13-14</room>
+        <slug/>
+        <title>Skillconvention a</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description>all travelers with a certain skill will be invited to these sessions.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2016/wiki/User:Reisende">Reisende</person>
+        </persons>
+        <links>
+          <link>http://thereisnogame.de</link>
+          <link>https://events.ccc.de/congress/2016/wiki/Session:Skillconvention_a</link>
+        </links>
+      </event>
+      <event id="1204" guid="d6363e66156d0473f5f996f9726e7805">
         <logo/>
         <date>2016-12-27T15:10:00+01:00</date>
         <start>15:10</start>
@@ -2597,7 +2597,7 @@ To learn all that you need to learn the basic networking concepts. You're in luc
           <link>https://events.ccc.de/congress/2016/wiki/Session:Translation_meetings</link>
         </links>
       </event>
-      <event id="1207" guid="0a4fe5181783d435230396b59ecd3fe6">
+      <event id="1208" guid="0a4fe5181783d435230396b59ecd3fe6">
         <logo/>
         <date>2016-12-27T19:40:00+01:00</date>
         <start>19:40</start>
@@ -2621,7 +2621,7 @@ To learn all that you need to learn the basic networking concepts. You're in luc
     </room>
     <room name="Lounge DisKo"/>
     <room name="Assembly:3D Printing">
-      <event id="1003" guid="a326479729629b0a0cfd1125de7285e1">
+      <event id="1004" guid="a326479729629b0a0cfd1125de7285e1">
         <logo/>
         <date>2016-12-27T14:00:00+01:00</date>
         <start>14:00</start>
@@ -2642,7 +2642,7 @@ To learn all that you need to learn the basic networking concepts. You're in luc
           <link>https://events.ccc.de/congress/2016/wiki/Session:3D_printing_for_beginners</link>
         </links>
       </event>
-      <event id="1008" guid="419977ca84111491ee44c770a82bc1f8">
+      <event id="1006" guid="419977ca84111491ee44c770a82bc1f8">
         <logo/>
         <date>2016-12-27T18:00:00+01:00</date>
         <start>18:00</start>
@@ -2663,7 +2663,7 @@ To learn all that you need to learn the basic networking concepts. You're in luc
           <link>https://events.ccc.de/congress/2016/wiki/Session:3D_scan_yourself</link>
         </links>
       </event>
-      <event id="1009" guid="5776bd71fae769a361f6a5ee7222cfb5">
+      <event id="1010" guid="5776bd71fae769a361f6a5ee7222cfb5">
         <logo/>
         <date>2016-12-27T22:00:00+01:00</date>
         <start>22:00</start>
@@ -2686,7 +2686,7 @@ To learn all that you need to learn the basic networking concepts. You're in luc
       </event>
     </room>
     <room name="Assembly:Freiwurst">
-      <event id="1046" guid="ac3e137e198cda248c6f4d44bd664362">
+      <event id="1047" guid="ac3e137e198cda248c6f4d44bd664362">
         <logo/>
         <date>2016-12-27T17:00:00+01:00</date>
         <start>17:00</start>
@@ -2827,7 +2827,7 @@ Expect a presentation, demonstration and then discussion to share ideas.</descri
       </event>
     </room>
     <room name="Assembly:Chaos West">
-      <event id="1111" guid="43636d9b169a5b4efd4a2ac28a2f0933">
+      <event id="1110" guid="43636d9b169a5b4efd4a2ac28a2f0933">
         <logo/>
         <date>2016-12-27T20:00:00+01:00</date>
         <start>20:00</start>
@@ -2851,7 +2851,7 @@ Expect a presentation, demonstration and then discussion to share ideas.</descri
       </event>
     </room>
     <room name="Assembly:HardwareHackingArea">
-      <event id="1117" guid="20f5117729a9edfafeab9750503b79a2">
+      <event id="1118" guid="20f5117729a9edfafeab9750503b79a2">
         <logo/>
         <date>2016-12-27T17:00:00+01:00</date>
         <start>17:00</start>
@@ -2874,49 +2874,7 @@ Expect a presentation, demonstration and then discussion to share ideas.</descri
           <link>https://events.ccc.de/congress/2016/wiki/Session:LearnToSolder</link>
         </links>
       </event>
-      <event id="1189" guid="820ef8c10ff8c89f2562b4268804af07">
-        <logo/>
-        <date>2016-12-27T13:00:00+01:00</date>
-        <start>13:00</start>
-        <duration>1:30</duration>
-        <room>Assembly:HardwareHackingArea</room>
-        <slug/>
-        <title>Surface Mount Electronics Assembly for Terrified Beginners</title>
-        <subtitle>Day 1 - Session 1</subtitle>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>en</language>
-        <abstract/>
-        <description>Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90mins, 20&#8364;/kit, avoid caffeine immediately before.</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2016/wiki/User:Kliment">Kliment</person>
-        </persons>
-        <links>
-          <link>https://events.ccc.de/congress/2016/wiki/Session:Surface_Mount_Electronics_Assembly_for_Terrified_Beginners</link>
-        </links>
-      </event>
-      <event id="1192" guid="a01901e1604e2bda7e4405917a4e766b">
-        <logo/>
-        <date>2016-12-27T15:00:00+01:00</date>
-        <start>15:00</start>
-        <duration>1:30</duration>
-        <room>Assembly:HardwareHackingArea</room>
-        <slug/>
-        <title>Surface Mount Electronics Assembly for Terrified Beginners</title>
-        <subtitle>Day 1 - Session 2</subtitle>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>en</language>
-        <abstract/>
-        <description>Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90mins, 20&#8364;/kit, avoid caffeine immediately before.</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2016/wiki/User:Kliment">Kliment</person>
-        </persons>
-        <links>
-          <link>https://events.ccc.de/congress/2016/wiki/Session:Surface_Mount_Electronics_Assembly_for_Terrified_Beginners</link>
-        </links>
-      </event>
-      <event id="1193" guid="bf43d8b5a156882133d1c4114e23f55c">
+      <event id="1185" guid="bf43d8b5a156882133d1c4114e23f55c">
         <logo/>
         <date>2016-12-27T17:00:00+01:00</date>
         <start>17:00</start>
@@ -2937,12 +2895,54 @@ Expect a presentation, demonstration and then discussion to share ideas.</descri
           <link>https://events.ccc.de/congress/2016/wiki/Session:Surface_Mount_Electronics_Assembly_for_Terrified_Beginners</link>
         </links>
       </event>
+      <event id="1191" guid="820ef8c10ff8c89f2562b4268804af07">
+        <logo/>
+        <date>2016-12-27T13:00:00+01:00</date>
+        <start>13:00</start>
+        <duration>1:30</duration>
+        <room>Assembly:HardwareHackingArea</room>
+        <slug/>
+        <title>Surface Mount Electronics Assembly for Terrified Beginners</title>
+        <subtitle>Day 1 - Session 1</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90mins, 20&#8364;/kit, avoid caffeine immediately before.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2016/wiki/User:Kliment">Kliment</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2016/wiki/Session:Surface_Mount_Electronics_Assembly_for_Terrified_Beginners</link>
+        </links>
+      </event>
+      <event id="1193" guid="a01901e1604e2bda7e4405917a4e766b">
+        <logo/>
+        <date>2016-12-27T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>1:30</duration>
+        <room>Assembly:HardwareHackingArea</room>
+        <slug/>
+        <title>Surface Mount Electronics Assembly for Terrified Beginners</title>
+        <subtitle>Day 1 - Session 2</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90mins, 20&#8364;/kit, avoid caffeine immediately before.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2016/wiki/User:Kliment">Kliment</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2016/wiki/Session:Surface_Mount_Electronics_Assembly_for_Terrified_Beginners</link>
+        </links>
+      </event>
     </room>
     <room name="Assembly:Milliways">
-      <event id="1134" guid="55620133ab3c2944fdc7d1b7f8f239c0">
+      <event id="1134" guid="c5626b218dcaf7fe2c0ab1eff5125d93">
         <logo/>
-        <date>2016-12-27T19:00:00+01:00</date>
-        <start>19:00</start>
+        <date>2016-12-27T21:00:00+01:00</date>
+        <start>21:00</start>
         <duration>2:00</duration>
         <room>Assembly:Milliways</room>
         <slug/>
@@ -2961,10 +2961,10 @@ Expect a presentation, demonstration and then discussion to share ideas.</descri
           <link>https://events.ccc.de/congress/2016/wiki/Session:Off_Grid:_a_videogame_about_hacking,_data_privacy,_and_surveillance</link>
         </links>
       </event>
-      <event id="1135" guid="c5626b218dcaf7fe2c0ab1eff5125d93">
+      <event id="1135" guid="55620133ab3c2944fdc7d1b7f8f239c0">
         <logo/>
-        <date>2016-12-27T21:00:00+01:00</date>
-        <start>21:00</start>
+        <date>2016-12-27T19:00:00+01:00</date>
+        <start>19:00</start>
         <duration>2:00</duration>
         <room>Assembly:Milliways</room>
         <slug/>
@@ -4906,7 +4906,7 @@ The proper relationship of technology and politics and thereby the percentage ea
           <link>https://events.ccc.de/congress/2016/wiki/Session:GNUNet_e.V._meeting</link>
         </links>
       </event>
-      <event id="1157" guid="70c8429502d619a4df08c3b41d47c88c">
+      <event id="1158" guid="70c8429502d619a4df08c3b41d47c88c">
         <logo/>
         <date>2016-12-29T00:30:00+01:00</date>
         <start>00:30</start>
@@ -4928,7 +4928,7 @@ The proper relationship of technology and politics and thereby the percentage ea
           <link>https://events.ccc.de/congress/2016/wiki/Session:Skillconvention_b</link>
         </links>
       </event>
-      <event id="1159" guid="58e0cb7cce31f817c96521e059bf40e1">
+      <event id="1160" guid="58e0cb7cce31f817c96521e059bf40e1">
         <logo/>
         <date>2016-12-29T01:30:00+01:00</date>
         <start>01:30</start>
@@ -5025,7 +5025,7 @@ Welcome to the Subtitles Angelmeeting!</description>
           <link>https://events.ccc.de/congress/2016/wiki/Session:A_walk_through_the_inner_core_of_pEp</link>
         </links>
       </event>
-      <event id="1068" guid="8e5b07a7ad7ea771c8b3f9d10ca70ad5">
+      <event id="1060" guid="8e5b07a7ad7ea771c8b3f9d10ca70ad5">
         <logo/>
         <date>2016-12-28T13:00:00+01:00</date>
         <start>13:00</start>
@@ -5046,7 +5046,7 @@ Welcome to the Subtitles Angelmeeting!</description>
           <link>https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting</link>
         </links>
       </event>
-      <event id="1070" guid="80dd81cc8c3b304d9b1707f131c929b7">
+      <event id="1062" guid="80dd81cc8c3b304d9b1707f131c929b7">
         <logo/>
         <date>2016-12-28T19:45:00+01:00</date>
         <start>19:45</start>
@@ -5162,7 +5162,7 @@ Note that I'm not a Matrix.org team member.</description>
           <link>https://events.ccc.de/congress/2016/wiki/Session:An_introduction_to_Matrix.org_-_An_open_network_for_secure,_decentralized_communication</link>
         </links>
       </event>
-      <event id="1036" guid="20196cb4a0fcac3e8a926eb6752e785d">
+      <event id="1037" guid="20196cb4a0fcac3e8a926eb6752e785d">
         <logo/>
         <date>2016-12-28T10:00:00+01:00</date>
         <start>10:00</start>
@@ -5279,7 +5279,7 @@ I would like to present research findings of the ongoing project (2016-2017) and
       </event>
     </room>
     <room name="Hall C.2">
-      <event id="1038" guid="ca9c35c335c11d72074a1e9e6046cb6e">
+      <event id="1039" guid="ca9c35c335c11d72074a1e9e6046cb6e">
         <logo/>
         <date>2016-12-28T10:00:00+01:00</date>
         <start>10:00</start>
@@ -5475,7 +5475,28 @@ Presented by Nik, a 26 year-old software developer and network admin from Bonn, 
           <link>https://events.ccc.de/congress/2016/wiki/Session:Coder_Dojo</link>
         </links>
       </event>
-      <event id="1035" guid="8ba93735bba7d3bfbd659432e4e1a209">
+      <event id="1034" guid="82b6f15ab0e1d33b37e9817f997864d8">
+        <logo/>
+        <date>2016-12-28T11:00:00+01:00</date>
+        <start>11:00</start>
+        <duration>1:00</duration>
+        <room>Hall C.3</room>
+        <slug/>
+        <title>Coder Dojo</title>
+        <subtitle>Slot 1 Room 1</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2016/wiki/User:Nana_berlin">Nana berlin</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2016/wiki/Session:Coder_Dojo</link>
+        </links>
+      </event>
+      <event id="1038" guid="8ba93735bba7d3bfbd659432e4e1a209">
         <logo/>
         <date>2016-12-28T12:00:00+01:00</date>
         <start>12:00</start>
@@ -5496,7 +5517,7 @@ Presented by Nik, a 26 year-old software developer and network admin from Bonn, 
           <link>https://events.ccc.de/congress/2016/wiki/Session:Coder_Dojo</link>
         </links>
       </event>
-      <event id="1039" guid="fdd8a9c86e797d9c002a514c55992e1d">
+      <event id="1041" guid="fdd8a9c86e797d9c002a514c55992e1d">
         <logo/>
         <date>2016-12-28T15:00:00+01:00</date>
         <start>15:00</start>
@@ -5505,27 +5526,6 @@ Presented by Nik, a 26 year-old software developer and network admin from Bonn, 
         <slug/>
         <title>Coder Dojo</title>
         <subtitle>Slot 3 Room 1</subtitle>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>de</language>
-        <abstract/>
-        <description/>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2016/wiki/User:Nana_berlin">Nana berlin</person>
-        </persons>
-        <links>
-          <link>https://events.ccc.de/congress/2016/wiki/Session:Coder_Dojo</link>
-        </links>
-      </event>
-      <event id="1041" guid="82b6f15ab0e1d33b37e9817f997864d8">
-        <logo/>
-        <date>2016-12-28T11:00:00+01:00</date>
-        <start>11:00</start>
-        <duration>1:00</duration>
-        <room>Hall C.3</room>
-        <slug/>
-        <title>Coder Dojo</title>
-        <subtitle>Slot 1 Room 1</subtitle>
         <track>self organized sessions</track>
         <type>workshop</type>
         <language>de</language>
@@ -5626,15 +5626,15 @@ You can bring own bottles by yourself, too. It is possible that we will not have
       </event>
     </room>
     <room name="Hall C.4">
-      <event id="1033" guid="3e5566423bb7179b1698b34b8fba2524">
+      <event id="1033" guid="f7580cf27bd0d4bb0bd704612ab55f0e">
         <logo/>
-        <date>2016-12-28T11:00:00+01:00</date>
-        <start>11:00</start>
+        <date>2016-12-28T15:00:00+01:00</date>
+        <start>15:00</start>
         <duration>1:00</duration>
         <room>Hall C.4</room>
         <slug/>
         <title>Coder Dojo</title>
-        <subtitle>Slot 1 Room 2</subtitle>
+        <subtitle>Slot 3 Room 2</subtitle>
         <track>self organized sessions</track>
         <type>workshop</type>
         <language>de</language>
@@ -5647,7 +5647,7 @@ You can bring own bottles by yourself, too. It is possible that we will not have
           <link>https://events.ccc.de/congress/2016/wiki/Session:Coder_Dojo</link>
         </links>
       </event>
-      <event id="1034" guid="ce369fbaa66a09e01586ffcab4b39c4a">
+      <event id="1035" guid="ce369fbaa66a09e01586ffcab4b39c4a">
         <logo/>
         <date>2016-12-28T10:00:00+01:00</date>
         <start>10:00</start>
@@ -5668,15 +5668,15 @@ You can bring own bottles by yourself, too. It is possible that we will not have
           <link>https://events.ccc.de/congress/2016/wiki/Session:Coder_Dojo</link>
         </links>
       </event>
-      <event id="1037" guid="114bbdf055b462c90916308a51310575">
+      <event id="1036" guid="3e5566423bb7179b1698b34b8fba2524">
         <logo/>
-        <date>2016-12-28T12:00:00+01:00</date>
-        <start>12:00</start>
+        <date>2016-12-28T11:00:00+01:00</date>
+        <start>11:00</start>
         <duration>1:00</duration>
         <room>Hall C.4</room>
         <slug/>
         <title>Coder Dojo</title>
-        <subtitle>Slot 2 Room 2</subtitle>
+        <subtitle>Slot 1 Room 2</subtitle>
         <track>self organized sessions</track>
         <type>workshop</type>
         <language>de</language>
@@ -5689,15 +5689,15 @@ You can bring own bottles by yourself, too. It is possible that we will not have
           <link>https://events.ccc.de/congress/2016/wiki/Session:Coder_Dojo</link>
         </links>
       </event>
-      <event id="1040" guid="f7580cf27bd0d4bb0bd704612ab55f0e">
+      <event id="1040" guid="114bbdf055b462c90916308a51310575">
         <logo/>
-        <date>2016-12-28T15:00:00+01:00</date>
-        <start>15:00</start>
+        <date>2016-12-28T12:00:00+01:00</date>
+        <start>12:00</start>
         <duration>1:00</duration>
         <room>Hall C.4</room>
         <slug/>
         <title>Coder Dojo</title>
-        <subtitle>Slot 3 Room 2</subtitle>
+        <subtitle>Slot 2 Room 2</subtitle>
         <track>self organized sessions</track>
         <type>workshop</type>
         <language>de</language>
@@ -5954,7 +5954,7 @@ Wikidata is the world's largest free general purpose knowledge base. As a Wikime
           <link>https://events.ccc.de/congress/2016/wiki/Session:How_To_Run_A_Bitcoin_Node</link>
         </links>
       </event>
-      <event id="1098" guid="20371a76b601f1e4bea5b1c0244d0cc9">
+      <event id="1099" guid="20371a76b601f1e4bea5b1c0244d0cc9">
         <logo/>
         <date>2016-12-28T13:00:00+01:00</date>
         <start>13:00</start>
@@ -6024,7 +6024,29 @@ Applying is as easy as possible and the next deadline at the begin of February. 
           <link>https://events.ccc.de/congress/2016/wiki/Session:Prototype_Fund_-_1.2_Million_Euros_for_Free_Software_Projects</link>
         </links>
       </event>
-      <event id="1158" guid="390998a1ab9f42dbefdc4f9bf1f69e29">
+      <event id="1157" guid="b06e4dfefe4629fdaf4c0ae1e5116d41">
+        <logo/>
+        <date>2016-12-29T02:30:00+01:00</date>
+        <start>02:30</start>
+        <duration>1:00</duration>
+        <room>Hall 13-14</room>
+        <slug/>
+        <title>Skillconvention b</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description>all travelers of a certain skill will be invented to join their respective session</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2016/wiki/User:Reisende">Reisende</person>
+        </persons>
+        <links>
+          <link>http://thereisnogame.de</link>
+          <link>https://events.ccc.de/congress/2016/wiki/Session:Skillconvention_b</link>
+        </links>
+      </event>
+      <event id="1159" guid="390998a1ab9f42dbefdc4f9bf1f69e29">
         <logo/>
         <date>2016-12-29T00:30:00+01:00</date>
         <start>00:30</start>
@@ -6046,32 +6068,10 @@ Applying is as easy as possible and the next deadline at the begin of February. 
           <link>https://events.ccc.de/congress/2016/wiki/Session:Skillconvention_b</link>
         </links>
       </event>
-      <event id="1160" guid="b71ce3ffa02dca5f83180aaf66581567">
+      <event id="1161" guid="b71ce3ffa02dca5f83180aaf66581567">
         <logo/>
         <date>2016-12-29T01:30:00+01:00</date>
         <start>01:30</start>
-        <duration>1:00</duration>
-        <room>Hall 13-14</room>
-        <slug/>
-        <title>Skillconvention b</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>meeting</type>
-        <language>en</language>
-        <abstract/>
-        <description>all travelers of a certain skill will be invented to join their respective session</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2016/wiki/User:Reisende">Reisende</person>
-        </persons>
-        <links>
-          <link>http://thereisnogame.de</link>
-          <link>https://events.ccc.de/congress/2016/wiki/Session:Skillconvention_b</link>
-        </links>
-      </event>
-      <event id="1161" guid="b06e4dfefe4629fdaf4c0ae1e5116d41">
-        <logo/>
-        <date>2016-12-29T02:30:00+01:00</date>
-        <start>02:30</start>
         <duration>1:00</duration>
         <room>Hall 13-14</room>
         <slug/>
@@ -6116,15 +6116,15 @@ Self-empowerment never was so easy!</description>
           <link>https://events.ccc.de/congress/2016/wiki/Session:The_user-friendly_guide_to_mobile_freedom</link>
         </links>
       </event>
-      <event id="1204" guid="d18b6c2f9bccb7fcaae47ed524788ae1">
+      <event id="1201" guid="415473cd68f9363bb56f229dfd94bb7b">
         <logo/>
-        <date>2016-12-28T19:40:00+01:00</date>
-        <start>19:40</start>
+        <date>2016-12-28T15:10:00+01:00</date>
+        <start>15:10</start>
         <duration>0:50</duration>
         <room>Hall 13-14</room>
         <slug/>
         <title>Translation meetings</title>
-        <subtitle>day 2, evening meeting</subtitle>
+        <subtitle>day 2, afternoon meeting</subtitle>
         <track>self organized sessions</track>
         <type/>
         <language>en</language>
@@ -6137,15 +6137,15 @@ Self-empowerment never was so easy!</description>
           <link>https://events.ccc.de/congress/2016/wiki/Session:Translation_meetings</link>
         </links>
       </event>
-      <event id="1208" guid="415473cd68f9363bb56f229dfd94bb7b">
+      <event id="1205" guid="d18b6c2f9bccb7fcaae47ed524788ae1">
         <logo/>
-        <date>2016-12-28T15:10:00+01:00</date>
-        <start>15:10</start>
+        <date>2016-12-28T19:40:00+01:00</date>
+        <start>19:40</start>
         <duration>0:50</duration>
         <room>Hall 13-14</room>
         <slug/>
         <title>Translation meetings</title>
-        <subtitle>day 2, afternoon meeting</subtitle>
+        <subtitle>day 2, evening meeting</subtitle>
         <track>self organized sessions</track>
         <type/>
         <language>en</language>
@@ -6184,7 +6184,7 @@ Note that this talk is not about the details of crypto protocols or implementati
     </room>
     <room name="Lounge DisKo"/>
     <room name="Assembly:3D Printing">
-      <event id="1004" guid="ddb26e60e003b634d86f8aa4523445d7">
+      <event id="1001" guid="ddb26e60e003b634d86f8aa4523445d7">
         <logo/>
         <date>2016-12-28T14:00:00+01:00</date>
         <start>14:00</start>
@@ -6226,7 +6226,7 @@ Note that this talk is not about the details of crypto protocols or implementati
           <link>https://events.ccc.de/congress/2016/wiki/Session:3D_printing_for_kids</link>
         </links>
       </event>
-      <event id="1006" guid="efc769e4b039c628a6e600227bb0eed7">
+      <event id="1007" guid="efc769e4b039c628a6e600227bb0eed7">
         <logo/>
         <date>2016-12-28T18:00:00+01:00</date>
         <start>18:00</start>
@@ -6247,7 +6247,7 @@ Note that this talk is not about the details of crypto protocols or implementati
           <link>https://events.ccc.de/congress/2016/wiki/Session:3D_scan_yourself</link>
         </links>
       </event>
-      <event id="1010" guid="c9cbb15eaf341d2391c5e6ed0fe41fa9">
+      <event id="1011" guid="c9cbb15eaf341d2391c5e6ed0fe41fa9">
         <logo/>
         <date>2016-12-28T22:00:00+01:00</date>
         <start>22:00</start>
@@ -6300,7 +6300,7 @@ This workshop will be given twice&lt;br /&gt;(both identical):&lt;br /&gt;
           <link>https://events.ccc.de/congress/2016/wiki/Session:ArduinoForTotalNewbies</link>
         </links>
       </event>
-      <event id="1118" guid="54a32b454efb9018a9f51249d16423e5">
+      <event id="1119" guid="54a32b454efb9018a9f51249d16423e5">
         <logo/>
         <date>2016-12-28T11:00:00+01:00</date>
         <start>11:00</start>
@@ -6348,7 +6348,7 @@ This Kit will cost &#8364;12 + &#8364;1 for a battery
           <link>https://events.ccc.de/congress/2016/wiki/Session:Skull_Radio_Workshop</link>
         </links>
       </event>
-      <event id="1187" guid="355c17455570d5dcd171a0a3ffdb2c05">
+      <event id="1190" guid="355c17455570d5dcd171a0a3ffdb2c05">
         <logo/>
         <date>2016-12-28T16:30:00+01:00</date>
         <start>16:30</start>
@@ -6369,7 +6369,7 @@ This Kit will cost &#8364;12 + &#8364;1 for a battery
           <link>https://events.ccc.de/congress/2016/wiki/Session:Surface_Mount_Electronics_Assembly_for_Terrified_Beginners</link>
         </links>
       </event>
-      <event id="1190" guid="2c66a4829556ad08c8f7b6d8fd68e204">
+      <event id="1192" guid="2c66a4829556ad08c8f7b6d8fd68e204">
         <logo/>
         <date>2016-12-28T18:30:00+01:00</date>
         <start>18:30</start>
@@ -6485,7 +6485,7 @@ Get together for those who are interested in BBSes. There will be a short intro 
       </event>
     </room>
     <room name="Assembly:Freiwurst">
-      <event id="1048" guid="9a2fa42323647e5d4218ad0a23599c58">
+      <event id="1046" guid="9a2fa42323647e5d4218ad0a23599c58">
         <logo/>
         <date>2016-12-28T17:00:00+01:00</date>
         <start>17:00</start>
@@ -6661,7 +6661,7 @@ $ cat motto
       </event>
     </room>
     <room name="">
-      <event id="1185" guid="423151d2bd90d5fe5bc5e9ffd2d9e687">
+      <event id="1188" guid="423151d2bd90d5fe5bc5e9ffd2d9e687">
         <logo/>
         <date>2016-12-28T14:00:00+01:00</date>
         <start>14:00</start>
@@ -8670,7 +8670,7 @@ Es sind weitere Podcastpat_innen vor Ort: Sprich uns an!</description>
           <link>https://events.ccc.de/congress/2016/wiki/Session:PoParty</link>
         </links>
       </event>
-      <event id="1162" guid="15f21480446aabdd28aa3fe571253266">
+      <event id="1163" guid="15f21480446aabdd28aa3fe571253266">
         <logo/>
         <date>2016-12-30T00:30:00+01:00</date>
         <start>00:30</start>
@@ -8784,7 +8784,7 @@ We're happy to advise visitors interested in setting up GNU Taler exchanges as w
           <link>https://events.ccc.de/congress/2016/wiki/Session:Bin%C3%A4rgewitter_H%C3%B6rertreffen</link>
         </links>
       </event>
-      <event id="1061" guid="b667c273cc0ea6bfc41077c37c7daca4">
+      <event id="1064" guid="b667c273cc0ea6bfc41077c37c7daca4">
         <logo/>
         <date>2016-12-29T13:00:00+01:00</date>
         <start>13:00</start>
@@ -8805,7 +8805,7 @@ We're happy to advise visitors interested in setting up GNU Taler exchanges as w
           <link>https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting</link>
         </links>
       </event>
-      <event id="1063" guid="7b2a2ebb53b4e58845bc13580d788dad">
+      <event id="1066" guid="7b2a2ebb53b4e58845bc13580d788dad">
         <logo/>
         <date>2016-12-29T19:45:00+01:00</date>
         <start>19:45</start>
@@ -9630,10 +9630,10 @@ Greta Do&#231;i is an ICT engineer, active in Wikimedia and the Albanian open so
           <link>https://events.ccc.de/congress/2016/wiki/Session:Meine_erste_IFG-Anfrage</link>
         </links>
       </event>
-      <event id="1163" guid="a1496422476dce53d2f614263adbeeca">
+      <event id="1162" guid="e359d1f9d3b1ca042ad6170cb80f550f">
         <logo/>
-        <date>2016-12-30T01:30:00+01:00</date>
-        <start>01:30</start>
+        <date>2016-12-30T00:30:00+01:00</date>
+        <start>00:30</start>
         <duration>1:00</duration>
         <room>Hall 13-14</room>
         <slug/>
@@ -9652,10 +9652,10 @@ Greta Do&#231;i is an ICT engineer, active in Wikimedia and the Albanian open so
           <link>https://events.ccc.de/congress/2016/wiki/Session:Skillconvention_c</link>
         </links>
       </event>
-      <event id="1164" guid="e359d1f9d3b1ca042ad6170cb80f550f">
+      <event id="1164" guid="a1496422476dce53d2f614263adbeeca">
         <logo/>
-        <date>2016-12-30T00:30:00+01:00</date>
-        <start>00:30</start>
+        <date>2016-12-30T01:30:00+01:00</date>
+        <start>01:30</start>
         <duration>1:00</duration>
         <room>Hall 13-14</room>
         <slug/>
@@ -9702,7 +9702,7 @@ How might the future be looking with the recent work by W3C Social WG.</descript
           <link>https://events.ccc.de/congress/2016/wiki/Session:The_Federation</link>
         </links>
       </event>
-      <event id="1201" guid="7ced348984f17dd88a5c96ea1e3435ec">
+      <event id="1202" guid="7ced348984f17dd88a5c96ea1e3435ec">
         <logo/>
         <date>2016-12-29T15:10:00+01:00</date>
         <start>15:10</start>
@@ -9723,7 +9723,7 @@ How might the future be looking with the recent work by W3C Social WG.</descript
           <link>https://events.ccc.de/congress/2016/wiki/Session:Translation_meetings</link>
         </links>
       </event>
-      <event id="1206" guid="36252d5cc335293f00e927b0b6eba7fb">
+      <event id="1207" guid="36252d5cc335293f00e927b0b6eba7fb">
         <logo/>
         <date>2016-12-29T19:40:00+01:00</date>
         <start>19:40</start>
@@ -9747,7 +9747,7 @@ How might the future be looking with the recent work by W3C Social WG.</descript
     </room>
     <room name="Lounge DisKo"/>
     <room name="Assembly:3D Printing">
-      <event id="1001" guid="53ee8d12c7bca172edf73bebc064b3ea">
+      <event id="1002" guid="53ee8d12c7bca172edf73bebc064b3ea">
         <logo/>
         <date>2016-12-29T14:00:00+01:00</date>
         <start>14:00</start>
@@ -9768,7 +9768,7 @@ How might the future be looking with the recent work by W3C Social WG.</descript
           <link>https://events.ccc.de/congress/2016/wiki/Session:3D_printing_for_beginners</link>
         </links>
       </event>
-      <event id="1007" guid="07fd3c770a47140f5c5c4fe19a8c3787">
+      <event id="1008" guid="07fd3c770a47140f5c5c4fe19a8c3787">
         <logo/>
         <date>2016-12-29T18:00:00+01:00</date>
         <start>18:00</start>
@@ -9789,7 +9789,7 @@ How might the future be looking with the recent work by W3C Social WG.</descript
           <link>https://events.ccc.de/congress/2016/wiki/Session:3D_scan_yourself</link>
         </links>
       </event>
-      <event id="1011" guid="1fc6307febfa515db3061b3bd0b9d40f">
+      <event id="1009" guid="1fc6307febfa515db3061b3bd0b9d40f">
         <logo/>
         <date>2016-12-29T22:00:00+01:00</date>
         <start>22:00</start>
@@ -9842,7 +9842,7 @@ This workshop will be given twice&lt;br /&gt;(both identical):&lt;br /&gt;
           <link>https://events.ccc.de/congress/2016/wiki/Session:ArduinoForTotalNewbies</link>
         </links>
       </event>
-      <event id="1119" guid="1708e12825a580ad6d6e1505a4f06a8a">
+      <event id="1120" guid="1708e12825a580ad6d6e1505a4f06a8a">
         <logo/>
         <date>2016-12-29T11:00:00+01:00</date>
         <start>11:00</start>
@@ -9909,7 +9909,7 @@ This workshop will be given twice&lt;br /&gt;(both identical):&lt;br /&gt;
       </event>
     </room>
     <room name="Assembly:Freiwurst">
-      <event id="1047" guid="14ec99a1dab184da63411875173a1978">
+      <event id="1048" guid="14ec99a1dab184da63411875173a1978">
         <logo/>
         <date>2016-12-29T17:00:00+01:00</date>
         <start>17:00</start>
@@ -10788,7 +10788,7 @@ Making secure boot actually secure was a bigger effort than we initially expecte
     <room name="Hall A.1"/>
     <room name="Hall A.2"/>
     <room name="Hall B">
-      <event id="1065" guid="a9980c368a3480f25ab2bd4588283ecf">
+      <event id="1068" guid="a9980c368a3480f25ab2bd4588283ecf">
         <logo/>
         <date>2016-12-30T13:00:00+01:00</date>
         <start>13:00</start>
@@ -10914,7 +10914,7 @@ we would like to set up an neuropil network together with the participants and t
     </room>
     <room name="Hall F"/>
     <room name="Hall 13-14">
-      <event id="1099" guid="d0de2359f3ecb1e992fa8619e53950d6">
+      <event id="1098" guid="d0de2359f3ecb1e992fa8619e53950d6">
         <logo/>
         <date>2016-12-30T16:15:00+01:00</date>
         <start>16:15</start>
@@ -10939,7 +10939,7 @@ CADUS e.V. arbeitet seit &#252;ber 2 Jahren in verschiedenen Krisenregionen. In 
           <link>https://events.ccc.de/congress/2016/wiki/Session:IT-solutions_for_humanitarian_crisis_problems</link>
         </links>
       </event>
-      <event id="1202" guid="660e4d0d3a22279ed18e88982d5006fa">
+      <event id="1203" guid="660e4d0d3a22279ed18e88982d5006fa">
         <logo/>
         <date>2016-12-30T15:10:00+01:00</date>
         <start>15:10</start>
@@ -10963,7 +10963,7 @@ CADUS e.V. arbeitet seit &#252;ber 2 Jahren in verschiedenen Krisenregionen. In 
     </room>
     <room name="Lounge DisKo"/>
     <room name="Assembly:3D Printing">
-      <event id="1002" guid="3e34e23260a6991b946f86b764eb0767">
+      <event id="1003" guid="3e34e23260a6991b946f86b764eb0767">
         <logo/>
         <date>2016-12-30T14:00:00+01:00</date>
         <start>14:00</start>
@@ -11010,7 +11010,7 @@ CADUS e.V. arbeitet seit &#252;ber 2 Jahren in verschiedenen Krisenregionen. In 
       </event>
     </room>
     <room name="Assembly:HardwareHackingArea">
-      <event id="1120" guid="0ea6a4d4288ec847b8b7da9a8e7cf319">
+      <event id="1117" guid="0ea6a4d4288ec847b8b7da9a8e7cf319">
         <logo/>
         <date>2016-12-30T11:00:00+01:00</date>
         <start>11:00</start>
@@ -11033,7 +11033,7 @@ CADUS e.V. arbeitet seit &#252;ber 2 Jahren in verschiedenen Krisenregionen. In 
           <link>https://events.ccc.de/congress/2016/wiki/Session:LearnToSolder</link>
         </links>
       </event>
-      <event id="1188" guid="0029ffd6b50d454bfba86f9d8de24d35">
+      <event id="1187" guid="0029ffd6b50d454bfba86f9d8de24d35">
         <logo/>
         <date>2016-12-30T13:00:00+01:00</date>
         <start>13:00</start>
@@ -11054,7 +11054,7 @@ CADUS e.V. arbeitet seit &#252;ber 2 Jahren in verschiedenen Krisenregionen. In 
           <link>https://events.ccc.de/congress/2016/wiki/Session:Surface_Mount_Electronics_Assembly_for_Terrified_Beginners</link>
         </links>
       </event>
-      <event id="1191" guid="458f6f7faeda7724ed8eb3f48713d4b9">
+      <event id="1189" guid="458f6f7faeda7724ed8eb3f48713d4b9">
         <logo/>
         <date>2016-12-30T15:00:00+01:00</date>
         <start>15:00</start>
