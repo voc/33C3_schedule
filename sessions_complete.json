@@ -4067,12 +4067,12 @@
             "1482940800"
         ]
     }, 
-    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
+    "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482764400"
+            "1483102800"
         ], 
         "Has event track": [
             "Session"
@@ -4091,7 +4091,7 @@
             }
         ], 
         "Has subtitle": [
-            "Introduction Meeting for new angels"
+            "Abbaumeeting"
         ], 
         "Is organized by": [
             {
@@ -4112,7 +4112,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
-            "1482768000"
+            "1483106400"
         ]
     }, 
     "Session:Cyberthingy# ac3e137e198cda248c6f4d44bd664362": {
@@ -7550,6 +7550,49 @@
             "1483039800"
         ]
     }, 
+    "Session:Shitty Robot - Workshop# 5a610ab63c3729347e2a39460a4295c3": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Workshop f\u00fcr die Shitty Robots/Vorbereitung auf Shitty Robot /Hebocon Battle.\n\nF\u00fcr das Sumo battle siehe: https://events.ccc.de/congress/2016/wiki/index.php?title=Session:Shitty_Robot_/Hebocon_Battle"
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Fluktusdukt", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Fluktusdukt", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Konfusius", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Konfusius", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Shitty Robot - Workshop"
+        ], 
+        "Has duration": [
+            360
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Shitty_Robot_-_Workshop", 
+        "Has end time": []
+    }, 
     "Session:Stage Manager Angel Introduction# 391e226a6dc0aa72ad5b79b718ed0cfa": {
         "Held in language": [
             "en - English"
@@ -8515,6 +8558,12 @@
                 "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Uebelhacker", 
                 "namespace": 2, 
                 "exists": true
+            }, 
+            {
+                "fulltext": "User:Anna Fuchs", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Anna_Fuchs", 
+                "namespace": 2, 
+                "exists": true
             }
         ], 
         "Has title": [
@@ -9208,6 +9257,12 @@
             {
                 "fulltext": "User:Uebelhacker", 
                 "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Uebelhacker", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Anna Fuchs", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Anna_Fuchs", 
                 "namespace": 2, 
                 "exists": true
             }
@@ -12445,12 +12500,12 @@
             "1483056000"
         ]
     }, 
-    "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
+    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1483102800"
+            "1482764400"
         ], 
         "Has event track": [
             "Session"
@@ -12469,7 +12524,7 @@
             }
         ], 
         "Has subtitle": [
-            "Abbaumeeting"
+            "Introduction Meeting for new angels"
         ], 
         "Is organized by": [
             {
@@ -12490,7 +12545,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
-            "1483106400"
+            "1482768000"
         ]
     }, 
     "Session:42birds: Missing RSS Feed? Create Your Own!# b86c3c8fc3a77d7f1486ceeaf014d506": {
