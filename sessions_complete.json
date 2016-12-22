@@ -385,8 +385,8 @@
         ], 
         "Has session location": [
             {
-                "fulltext": "Assembly:3D Printing", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:3D_Printing", 
+                "fulltext": "Assembly:3D Hackspace", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:3D_Hackspace", 
                 "namespace": 504, 
                 "exists": true
             }
@@ -1440,8 +1440,8 @@
         ], 
         "Has session location": [
             {
-                "fulltext": "Assembly:3D Printing", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:3D_Printing", 
+                "fulltext": "Assembly:3D Hackspace", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:3D_Hackspace", 
                 "namespace": 504, 
                 "exists": true
             }
@@ -1569,54 +1569,52 @@
             "1482951600"
         ]
     }, 
-    "Session:42birds: Creative Coding with Processing# 782b15880c93d3ab4526191d27fddd12": {
+    "Session:Translation meetings# 660e4d0d3a22279ed18e88982d5006fa": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482919200"
+            "1483110600"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "https://github.com/birdy1976/creative-coding"
-        ], 
+        "Has website": [], 
         "Has description": [
-            "Processing is a flexible software sketchbook and a language for learning how to code within the context of the visual arts. In this workshop you'll make your first steps!"
+            "The translation angels (interpreters) meet twice per day to self-organise (day 0, evening to day 4, afternoon)"
         ], 
-        "Has session type": [
-            "Workshop"
-        ], 
+        "Has session type": [], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall A.1", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
+                "fulltext": "Room:Hall 13-14", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_13-14", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [], 
+        "Has subtitle": [
+            "day 4, afternoon meeting"
+        ], 
         "Is organized by": [
             {
-                "fulltext": "User:Birdy1976", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Birdy1976", 
+                "fulltext": "User:Sebalis", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Sebalis", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "42birds"
+            "Translation meetings"
         ], 
         "Has duration": [
-            45
+            50
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:42birds:_Creative_Coding_with_Processing", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Translation_meetings", 
         "Has end time": [
-            "1482921900"
+            "1483113600"
         ]
     }, 
     "Session:LearnToSolder# 54a32b454efb9018a9f51249d16423e5": {
@@ -1717,54 +1715,6 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Beer_Tasting", 
         "Has end time": [
             "1482966000"
-        ]
-    }, 
-    "Session:Translation meetings# 660e4d0d3a22279ed18e88982d5006fa": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1483110600"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "The translation angels (interpreters) meet twice per day to self-organise (day 0, evening to day 4, afternoon)"
-        ], 
-        "Has session type": [], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall 13-14", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_13-14", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "day 4, afternoon meeting"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Sebalis", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Sebalis", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Translation meetings"
-        ], 
-        "Has duration": [
-            50
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Translation_meetings", 
-        "Has end time": [
-            "1483113600"
         ]
     }, 
     "Session:Engelmeeting# 8dfd36020c289da34158859546960fe4": {
@@ -2271,8 +2221,8 @@
         ], 
         "Has session location": [
             {
-                "fulltext": "Assembly:3D Printing", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:3D_Printing", 
+                "fulltext": "Assembly:3D Hackspace", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:3D_Hackspace", 
                 "namespace": 504, 
                 "exists": true
             }
@@ -2907,6 +2857,45 @@
             "1482850800"
         ]
     }, 
+    "Session:Film-Blocker# e8e7292727500d0072186d9f2d0d0add": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1483034400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Blocked for Film Screenings by Content Team"
+        ], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall F", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_F", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Film-Blocker"
+        ], 
+        "Has duration": [
+            135
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Film-Blocker", 
+        "Has end time": [
+            "1483042500"
+        ]
+    }, 
     "Session:Off Grid: a videogame about hacking, data privacy, and surveillance# 55620133ab3c2944fdc7d1b7f8f239c0": {
         "Held in language": [
             "en - English"
@@ -2978,8 +2967,8 @@
         ], 
         "Has session location": [
             {
-                "fulltext": "Assembly:3D Printing", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:3D_Printing", 
+                "fulltext": "Assembly:3D Hackspace", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:3D_Hackspace", 
                 "namespace": 504, 
                 "exists": true
             }
@@ -4676,8 +4665,8 @@
         ], 
         "Has session location": [
             {
-                "fulltext": "Assembly:3D Printing", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:3D_Printing", 
+                "fulltext": "Assembly:3D Hackspace", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:3D_Hackspace", 
                 "namespace": 504, 
                 "exists": true
             }
@@ -6226,43 +6215,56 @@
             "1482796800"
         ]
     }, 
-    "Session:Film-Blocker# e8e7292727500d0072186d9f2d0d0add": {
+    "Session:42birds: Creative Coding with Processing# b1a7e63f466042206827483f424c9af6": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1483034400"
+            "1482919200"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
-        "Has description": [
-            "Blocked for Film Screenings by Content Team"
+        "Has website": [
+            "https://github.com/birdy1976/creative-coding"
         ], 
-        "Has session type": [], 
+        "Has description": [
+            "Processing is a flexible software sketchbook and a language for learning how to code within the context of the visual arts. In this workshop you'll make your first steps!"
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall F", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_F", 
+                "fulltext": "Room:Hall A.1", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [], 
-        "Is organized by": [], 
+        "Has subtitle": [
+            "Timeslot 2 #42birds"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Birdy1976", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Birdy1976", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
         "Has title": [
-            "Film-Blocker"
+            "42birds"
         ], 
         "Has duration": [
-            135
+            45
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Film-Blocker", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:42birds:_Creative_Coding_with_Processing", 
         "Has end time": [
-            "1483042500"
+            "1482921900"
         ]
     }, 
     "Session:NewPipe# c61b9a40163f12ce5d0a42bc1defe320": {
@@ -6386,8 +6388,8 @@
         ], 
         "Has session location": [
             {
-                "fulltext": "Assembly:3D Printing", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:3D_Printing", 
+                "fulltext": "Assembly:3D Hackspace", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:3D_Hackspace", 
                 "namespace": 504, 
                 "exists": true
             }
@@ -6582,8 +6584,8 @@
         ], 
         "Has session location": [
             {
-                "fulltext": "Assembly:3D Printing", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:3D_Printing", 
+                "fulltext": "Assembly:3D Hackspace", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:3D_Hackspace", 
                 "namespace": 504, 
                 "exists": true
             }
@@ -8205,8 +8207,8 @@
         ], 
         "Has session location": [
             {
-                "fulltext": "Assembly:3D Printing", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:3D_Printing", 
+                "fulltext": "Assembly:3D Hackspace", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:3D_Hackspace", 
                 "namespace": 504, 
                 "exists": true
             }
@@ -8906,8 +8908,8 @@
         ], 
         "Has session location": [
             {
-                "fulltext": "Assembly:3D Printing", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:3D_Printing", 
+                "fulltext": "Assembly:3D Hackspace", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:3D_Hackspace", 
                 "namespace": 504, 
                 "exists": true
             }
@@ -9712,8 +9714,8 @@
         ], 
         "Has session location": [
             {
-                "fulltext": "Assembly:3D Printing", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:3D_Printing", 
+                "fulltext": "Assembly:3D Hackspace", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:3D_Hackspace", 
                 "namespace": 504, 
                 "exists": true
             }
@@ -10258,54 +10260,6 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:DVB-S:_Pirate_or_Amateur_Digital_TV_Stations", 
         "Has end time": [
             "1482858000"
-        ]
-    }, 
-    "Session:42birds: Missing RSS Feed? Create Your Own!# f1ea3115bbb7e12377cf7cd796e8a643": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1483005600"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "If your favoured website / podcast misses an RSS feed this discussion is for you! I'll show how-to extract the necessary data from the page and build your very own feed with it."
-        ], 
-        "Has session type": [
-            "Discussion"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall C.3", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.3", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Birdy1976", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Birdy1976", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "42birds"
-        ], 
-        "Has duration": [
-            45
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:42birds:_Missing_RSS_Feed%3F_Create_Your_Own!", 
-        "Has end time": [
-            "1483008300"
         ]
     }, 
     "Session:An introduction to Matrix.org - An open network for secure, decentralized communication# ffb6f4015f3cc4a6b0a52565e9d3da80": {
@@ -11050,6 +11004,56 @@
             "1482937200"
         ]
     }, 
+    "Session:42birds: Missing RSS Feed? Create Your Own!# ec7845871eaacd65dd6c2b5f3b407277": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1483005600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "If your favoured website / podcast misses an RSS feed this discussion is for you! I'll show how-to extract the necessary data from the page and build your very own feed with it."
+        ], 
+        "Has session type": [
+            "Discussion"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall C.3", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.3", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Timeslot 3 #42birds"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Birdy1976", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Birdy1976", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "42birds"
+        ], 
+        "Has duration": [
+            45
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:42birds:_Missing_RSS_Feed%3F_Create_Your_Own!", 
+        "Has end time": [
+            "1483008300"
+        ]
+    }, 
     "Session:Off flavours in homebrewed beer# 06a0553985d2992394fd660075bbde7a": {
         "Held in language": [
             "en - English"
@@ -11275,8 +11279,8 @@
         ], 
         "Has session location": [
             {
-                "fulltext": "Assembly:3D Printing", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:3D_Printing", 
+                "fulltext": "Assembly:3D Hackspace", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:3D_Hackspace", 
                 "namespace": 504, 
                 "exists": true
             }
