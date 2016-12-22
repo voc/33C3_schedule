@@ -4043,12 +4043,12 @@
             "1482940800"
         ]
     }, 
-    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
+    "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482764400"
+            "1483102800"
         ], 
         "Has event track": [
             "Session"
@@ -4067,7 +4067,7 @@
             }
         ], 
         "Has subtitle": [
-            "Introduction Meeting for new angels"
+            "Abbaumeeting"
         ], 
         "Is organized by": [
             {
@@ -4088,7 +4088,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
-            "1482768000"
+            "1483106400"
         ]
     }, 
     "Session:Cyberthingy# ac3e137e198cda248c6f4d44bd664362": {
@@ -10587,6 +10587,56 @@
             "1482894000"
         ]
     }, 
+    "Session:Werewolf Party Game# d9d1c711aa9bf545ac47f177ce27dffd": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482955200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://www.playwerewolf.co/"
+        ], 
+        "Has description": [
+            "If we attract at least six players, we'll sit down and play a round (or more) of the fun and easy to learn game commonly known as 'Werewolf.'"
+        ], 
+        "Has session type": [
+            "Game"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Mozilla", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:Mozilla", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Michaesc", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Michaesc", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Werewolf Party Game"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Werewolf_Party_Game", 
+        "Has end time": [
+            "1482960600"
+        ]
+    }, 
     "Session:What makes a secure mobile messenger? -- A comparison of WhatsApp competitors# 73db3246145a85eb6d6d6835c00e578e": {
         "Held in language": [
             "en - English"
@@ -11166,6 +11216,47 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Radio_Lockdown:_Community_WiFis_unite!", 
         "Has end time": [
             "1482955200"
+        ]
+    }, 
+    "Session:NerfgunBattle# 85435a592d38924922f9c488a75ad73d": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482883800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Tired of egoshooters? Feeling the need for better graphics, realistic physics and surround sound? Join the big Nerf-Gun Battle at 33c3!\n\nCome around - bring your own device - get shot!"
+        ], 
+        "Has session type": [
+            "Game"
+        ], 
+        "Has session location": [], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Troll", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Troll", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "NerfgunBattle"
+        ], 
+        "Has duration": [
+            45
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:NerfgunBattle", 
+        "Has end time": [
+            "1482886500"
         ]
     }, 
     "Session:Skillconvention a# 27b5025dd294b5fa15d8915eac1b6f73": {
@@ -12717,12 +12808,12 @@
             "1483056000"
         ]
     }, 
-    "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
+    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1483102800"
+            "1482764400"
         ], 
         "Has event track": [
             "Session"
@@ -12741,7 +12832,7 @@
             }
         ], 
         "Has subtitle": [
-            "Abbaumeeting"
+            "Introduction Meeting for new angels"
         ], 
         "Is organized by": [
             {
@@ -12762,7 +12853,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
-            "1483106400"
+            "1482768000"
         ]
     }, 
     "Session:42birds: Missing RSS Feed? Create Your Own!# b86c3c8fc3a77d7f1486ceeaf014d506": {
