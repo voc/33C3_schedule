@@ -1626,52 +1626,56 @@
             "1482951600"
         ]
     }, 
-    "Session:Translation meetings# 660e4d0d3a22279ed18e88982d5006fa": {
+    "Session:Hackers without borders# ab914ee182fc927d9ce061c3ed1e1228": {
         "Held in language": [
-            "en - English"
+            "de - German"
         ], 
         "Has start time": [
-            "1483110600"
+            "1483042500"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
-        "Has description": [
-            "The translation angels (interpreters) meet twice per day to self-organise (day 0, evening to day 4, afternoon)"
+        "Has website": [
+            "https://hillhacks.in/hwb"
         ], 
-        "Has session type": [], 
+        "Has description": [
+            "During 31C3 we founded Hackers Without Borders e.V. for a reason, but then we lost the main reason. This is the first MV since then, and we'll figure out how and if we go on. Please join us with your ideas!\n\nThe e.V. is about creating events (and HowTo create such events) in the C3 \"free and open source way\" all over the world. Examples are http://hillhacks.in/ and http://hackbeach.in/ and their \"kids\" anthillhacks (no website) and http://sciencehack.in/\n\nFind a 7-min-intro on what this is about on: https://media.ccc.de/v/DS2016-7782-lightning_talks#video&t=3915"
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall 13-14", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_13-14", 
+                "fulltext": "Room:Hall C.4", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.4", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [
-            "day 4, afternoon meeting"
+            "Creating C3-like events all over the world!"
         ], 
         "Is organized by": [
             {
-                "fulltext": "User:Sebalis", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Sebalis", 
+                "fulltext": "User:Sva", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Sva", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Translation meetings"
+            "Hackers without borders"
         ], 
         "Has duration": [
-            50
+            60
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Translation_meetings", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Hackers_without_borders", 
         "Has end time": [
-            "1483113600"
+            "1483046100"
         ]
     }, 
     "Session:LearnToSolder# 54a32b454efb9018a9f51249d16423e5": {
@@ -1772,6 +1776,54 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Beer_Tasting", 
         "Has end time": [
             "1482966000"
+        ]
+    }, 
+    "Session:Translation meetings# 660e4d0d3a22279ed18e88982d5006fa": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1483110600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "The translation angels (interpreters) meet twice per day to self-organise (day 0, evening to day 4, afternoon)"
+        ], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall 13-14", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_13-14", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "day 4, afternoon meeting"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Sebalis", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Sebalis", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Translation meetings"
+        ], 
+        "Has duration": [
+            50
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Translation_meetings", 
+        "Has end time": [
+            "1483113600"
         ]
     }, 
     "Session:Engelmeeting# 8dfd36020c289da34158859546960fe4": {
