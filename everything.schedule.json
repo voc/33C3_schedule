@@ -5257,11 +5257,51 @@
                                 "attachments": []
                             }, 
                             {
+                                "id": 401, 
+                                "guid": "efc694fc-349c-461b-9562-83ca4a8ee714", 
+                                "logo": "/system/events/logos/000/000/401/large/JungPodcaster_innenTisch.png?1480280927", 
+                                "date": "2016-12-28T14:00:00+01:00", 
+                                "start": "14:00", 
+                                "duration": "00:55", 
+                                "room": "Podcastingtisch", 
+                                "slug": "33c3-401-podcastpat_innen_talk_ii", 
+                                "title": "Podcastpat_innen Talk II", 
+                                "subtitle": "Jungpodcaster_innen Edition", 
+                                "track": "Podcastingtisch", 
+                                "type": "meeting", 
+                                "language": "de", 
+                                "abstract": "Egal wie alt - alle k\u00f6nnen Podcasts produzieren. Hast Du auch schon \u00fcberlegt, mit dem Podcasten anzufangen? Am Podcasttisch kann man das Podcasten gleich ausprobieren.", 
+                                "description": "Im Rahmen des Junghacker-Tags steht der Podcasttisch Kindern und Jugendlichen frei, gemeinsam mit den Podcastpat_innen einen Podcast aufzunehmen. Welche Fragen zum Podcasting gibt es? Wor\u00fcber w\u00fcrden die Jungpodcaster_innen selber gerne podcasten? Wie f\u00fchrt man Gespr\u00e4che? Ein gemeinsamer Podcast-Einstieg! Am Tisch begr\u00fcssen Euch heute Nele Heise und Simon D\u00fcckert...\r\n\r\nEs sind weitere Podcastpat_innen f\u00fcr Fragen vor Ort.", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 67, 
+                                        "public_name": "tinowa"
+                                    }, 
+                                    {
+                                        "id": 57, 
+                                        "public_name": "Simon D\u00fcckert"
+                                    }, 
+                                    {
+                                        "id": 140, 
+                                        "public_name": "Nele"
+                                    }
+                                ], 
+                                "links": [
+                                    {
+                                        "url": "http://das-sendezentrum.de/projekt/podcastpat_innen/", 
+                                        "title": "Infos zu den Podcastpat_innen"
+                                    }
+                                ], 
+                                "attachments": []
+                            }, 
+                            {
                                 "id": 405, 
                                 "guid": "770ba5a4-6d45-46c2-b953-af51dfa467a2", 
                                 "logo": "/system/events/logos/000/000/405/large/vushmu8z_400x400.jpg?1481045718", 
-                                "date": "2016-12-28T14:00:00+01:00", 
-                                "start": "14:00", 
+                                "date": "2016-12-28T15:00:00+01:00", 
+                                "start": "15:00", 
                                 "duration": "01:00", 
                                 "room": "Podcastingtisch", 
                                 "slug": "33c3-405-goldene_zehn_-_folge_28", 
@@ -5292,42 +5332,6 @@
                                     {
                                         "url": "http://g10.eu/", 
                                         "title": "Die goldene Zehn"
-                                    }
-                                ], 
-                                "attachments": []
-                            }, 
-                            {
-                                "id": 401, 
-                                "guid": "efc694fc-349c-461b-9562-83ca4a8ee714", 
-                                "logo": "/system/events/logos/000/000/401/large/JungPodcaster_innenTisch.png?1480280927", 
-                                "date": "2016-12-28T15:00:00+01:00", 
-                                "start": "15:00", 
-                                "duration": "00:55", 
-                                "room": "Podcastingtisch", 
-                                "slug": "33c3-401-podcastpat_innen_talk_ii", 
-                                "title": "Podcastpat_innen Talk II", 
-                                "subtitle": "Jungpodcaster_innen Edition", 
-                                "track": "Podcastingtisch", 
-                                "type": "meeting", 
-                                "language": "de", 
-                                "abstract": "Egal wie alt - alle k\u00f6nnen Podcasts produzieren. Hast Du auch schon \u00fcberlegt, mit dem Podcasten anzufangen? Am Podcasttisch kann man das Podcasten gleich ausprobieren.", 
-                                "description": "Im Rahmen des Junghacker-Tags steht der Podcasttisch Kindern und Jugendlichen frei, gemeinsam mit den Podcastpat_innen einen Podcast aufzunehmen. Welche Fragen zum Podcasting gibt es? Wor\u00fcber w\u00fcrden die Jungpodcaster_innen selber gerne podcasten? Wie f\u00fchrt man Gespr\u00e4che? Ein gemeinsamer Podcast-Einstieg! Am Tisch begr\u00fcssen Euch heute Nele Heise und Simon D\u00fcckert...\r\n\r\nEs sind weitere Podcastpat_innen f\u00fcr Fragen vor Ort.", 
-                                "recording_license": "", 
-                                "do_not_record": false, 
-                                "persons": [
-                                    {
-                                        "id": 67, 
-                                        "public_name": "tinowa"
-                                    }, 
-                                    {
-                                        "id": 57, 
-                                        "public_name": "Simon D\u00fcckert"
-                                    }
-                                ], 
-                                "links": [
-                                    {
-                                        "url": "http://das-sendezentrum.de/projekt/podcastpat_innen/", 
-                                        "title": "Infos zu den Podcastpat_innen"
                                     }
                                 ], 
                                 "attachments": []

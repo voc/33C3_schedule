@@ -660,28 +660,28 @@
         "speakers": "Daniel Me\u00dfner, Nicolas W\u00f6hrl, Ulrike Kretzmer, Markus V\u00f6lter, Martin R\u00fctzler"
     }, 
     {
-        "event_id": 405, 
-        "track_id": 10, 
-        "track_name": "Podcastingtisch", 
-        "room_id": 1051, 
-        "room_name": "Podcastingtisch", 
-        "start_time": "2016-12-28T14:00:00+01:00", 
-        "duration": 3600, 
-        "title": "Goldene Zehn - Folge 28", 
-        "abstract": "", 
-        "speakers": "Sebi, Schmalzstullenk\u00f6nig, Kai"
-    }, 
-    {
         "event_id": 401, 
         "track_id": 10, 
         "track_name": "Podcastingtisch", 
         "room_id": 1051, 
         "room_name": "Podcastingtisch", 
-        "start_time": "2016-12-28T15:00:00+01:00", 
+        "start_time": "2016-12-28T14:00:00+01:00", 
         "duration": 3300, 
         "title": "Podcastpat_innen Talk II", 
         "abstract": "", 
-        "speakers": "tinowa, Simon D\u00fcckert"
+        "speakers": "tinowa, Simon D\u00fcckert, Nele"
+    }, 
+    {
+        "event_id": 405, 
+        "track_id": 10, 
+        "track_name": "Podcastingtisch", 
+        "room_id": 1051, 
+        "room_name": "Podcastingtisch", 
+        "start_time": "2016-12-28T15:00:00+01:00", 
+        "duration": 3600, 
+        "title": "Goldene Zehn - Folge 28", 
+        "abstract": "", 
+        "speakers": "Sebi, Schmalzstullenk\u00f6nig, Kai"
     }, 
     {
         "event_id": 404, 

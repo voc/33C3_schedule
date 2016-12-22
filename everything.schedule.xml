@@ -4734,10 +4734,40 @@ Anl&#228;&#223;lich des 33c3 Gastspiels 2016 in Hamburch besuchen die Box-Champi
         </links>
         <attachments/>
       </event>
-      <event id="405" guid="770ba5a4-6d45-46c2-b953-af51dfa467a2">
-        <logo>/system/events/logos/000/000/405/large/vushmu8z_400x400.jpg?1481045718</logo>
+      <event id="401" guid="efc694fc-349c-461b-9562-83ca4a8ee714">
+        <logo>/system/events/logos/000/000/401/large/JungPodcaster_innenTisch.png?1480280927</logo>
         <date>2016-12-28T14:00:00+01:00</date>
         <start>14:00</start>
+        <duration>00:55</duration>
+        <room>Podcastingtisch</room>
+        <slug>33c3-401-podcastpat_innen_talk_ii</slug>
+        <title>Podcastpat_innen Talk II</title>
+        <subtitle>Jungpodcaster_innen Edition</subtitle>
+        <track>Podcastingtisch</track>
+        <type>meeting</type>
+        <language>de</language>
+        <abstract>Egal wie alt - alle k&#246;nnen Podcasts produzieren. Hast Du auch schon &#252;berlegt, mit dem Podcasten anzufangen? Am Podcasttisch kann man das Podcasten gleich ausprobieren.</abstract>
+        <description>Im Rahmen des Junghacker-Tags steht der Podcasttisch Kindern und Jugendlichen frei, gemeinsam mit den Podcastpat_innen einen Podcast aufzunehmen. Welche Fragen zum Podcasting gibt es? Wor&#252;ber w&#252;rden die Jungpodcaster_innen selber gerne podcasten? Wie f&#252;hrt man Gespr&#228;che? Ein gemeinsamer Podcast-Einstieg! Am Tisch begr&#252;ssen Euch heute Nele Heise und Simon D&#252;ckert...&#13;
+&#13;
+Es sind weitere Podcastpat_innen f&#252;r Fragen vor Ort.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="67">tinowa</person>
+          <person id="57">Simon D&#252;ckert</person>
+          <person id="140">Nele</person>
+        </persons>
+        <links>
+          <link href="http://das-sendezentrum.de/projekt/podcastpat_innen/">Infos zu den Podcastpat_innen</link>
+        </links>
+        <attachments/>
+      </event>
+      <event id="405" guid="770ba5a4-6d45-46c2-b953-af51dfa467a2">
+        <logo>/system/events/logos/000/000/405/large/vushmu8z_400x400.jpg?1481045718</logo>
+        <date>2016-12-28T15:00:00+01:00</date>
+        <start>15:00</start>
         <duration>01:00</duration>
         <room>Podcastingtisch</room>
         <slug>33c3-405-goldene_zehn_-_folge_28</slug>
@@ -4759,35 +4789,6 @@ Anl&#228;&#223;lich des 33c3 Gastspiels 2016 in Hamburch besuchen die Box-Champi
         </persons>
         <links>
           <link href="http://g10.eu/">Die goldene Zehn</link>
-        </links>
-        <attachments/>
-      </event>
-      <event id="401" guid="efc694fc-349c-461b-9562-83ca4a8ee714">
-        <logo>/system/events/logos/000/000/401/large/JungPodcaster_innenTisch.png?1480280927</logo>
-        <date>2016-12-28T15:00:00+01:00</date>
-        <start>15:00</start>
-        <duration>00:55</duration>
-        <room>Podcastingtisch</room>
-        <slug>33c3-401-podcastpat_innen_talk_ii</slug>
-        <title>Podcastpat_innen Talk II</title>
-        <subtitle>Jungpodcaster_innen Edition</subtitle>
-        <track>Podcastingtisch</track>
-        <type>meeting</type>
-        <language>de</language>
-        <abstract>Egal wie alt - alle k&#246;nnen Podcasts produzieren. Hast Du auch schon &#252;berlegt, mit dem Podcasten anzufangen? Am Podcasttisch kann man das Podcasten gleich ausprobieren.</abstract>
-        <description>Im Rahmen des Junghacker-Tags steht der Podcasttisch Kindern und Jugendlichen frei, gemeinsam mit den Podcastpat_innen einen Podcast aufzunehmen. Welche Fragen zum Podcasting gibt es? Wor&#252;ber w&#252;rden die Jungpodcaster_innen selber gerne podcasten? Wie f&#252;hrt man Gespr&#228;che? Ein gemeinsamer Podcast-Einstieg! Am Tisch begr&#252;ssen Euch heute Nele Heise und Simon D&#252;ckert...&#13;
-&#13;
-Es sind weitere Podcastpat_innen f&#252;r Fragen vor Ort.</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="67">tinowa</person>
-          <person id="57">Simon D&#252;ckert</person>
-        </persons>
-        <links>
-          <link href="http://das-sendezentrum.de/projekt/podcastpat_innen/">Infos zu den Podcastpat_innen</link>
         </links>
         <attachments/>
       </event>
