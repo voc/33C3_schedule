@@ -2259,6 +2259,60 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Postapocalyptic_jewellery", 
         "Has end time": []
     }, 
+    "Session:The curious world of four-dimensional geometry (Wondrous Mathematics)# cd40f28916d68c7e425a76cf4a5ce742": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1483020000"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "The space we live in is three-dimensional. But mathematically, we can imagine four dimensions. Curious phenomena unfold there! We'll take you on a short tour."
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall C.2", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.2", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Iblech", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Iblech", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:MatthiasHu", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:MatthiasHu", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "The curious world of four-dimensional geometry (Wondrous Mathematics)"
+        ], 
+        "Has duration": [
+            50
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:The_curious_world_of_four-dimensional_geometry_(Wondrous_Mathematics)", 
+        "Has end time": [
+            "1483023000"
+        ]
+    }, 
     "Session:3D printing for kids# 763f98007be32ed96646aa3082e2b203": {
         "Held in language": [
             "de - German"
@@ -9359,6 +9413,54 @@
             "1483027200"
         ]
     }, 
+    "Session:Exploring alternate mathematical universes with hypercomputation (Wondrous Mathematics)# 5fb8440a797a9dcbc799cf276254d886": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482933600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "This talk gives a leisurely introduction to constructive mathematics, a variant of classical mathematics where we drop some of the standard axioms of ordinary reasoning. This allows us to adopt classically inconsistent \"dream axioms\" and explore curious alternate mathematical universes. In the talk we'll focus on a wondrous connection to models of computation, both standard ones such as ordinary programming languages and exotic models such as hypercomputation which allow for infinitely many steps in finite time and which push the laws of physics to their limits. The special properties of these alternative universes then depend on the nature of our physical reality."
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall A.1", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Iblech", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Iblech", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Exploring alternate mathematical universes with hypercomputation (Wondrous Mathematics)"
+        ], 
+        "Has duration": [
+            50
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Exploring_alternate_mathematical_universes_with_hypercomputation_(Wondrous_Mathematics)", 
+        "Has end time": [
+            "1482936600"
+        ]
+    }, 
     "Session:Hacking democracy with MEP Marietje Schaake# 945f1586a6c6583e89e03bad18b89754": {
         "Held in language": [
             "en - English"
@@ -11665,6 +11767,54 @@
             "1482953400"
         ]
     }, 
+    "Session:Fun with infinitely large numbers (Wondrous Mathematics)# 9b3eeec30b0f110b656b2e9a13e5e443": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482850800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Is infinity plus one bigger than infinity? Or is it still just infinity? If you were bothered by this question at some point in your life, this talk is for you. It gives you the graphical tools to decide this question for yourself without any remaining doubt. Absolutely no mathematical prerequisites needed."
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall C.2", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.2", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Iblech", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Iblech", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Fun with infinitely large numbers (Wondrous Mathematics)"
+        ], 
+        "Has duration": [
+            45
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Fun_with_infinitely_large_numbers_(Wondrous_Mathematics)", 
+        "Has end time": [
+            "1482853500"
+        ]
+    }, 
     "Session:3D printing for beginners# a326479729629b0a0cfd1125de7285e1": {
         "Held in language": [
             "en - English"
@@ -12377,7 +12527,9 @@
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
+        "Has website": [
+            "https://www.hacknology.de/vortrag/2016/wrf/"
+        ], 
         "Has description": [
             "A workshop about running your own Numerical Weather Prediction (NWP) model."
         ], 
