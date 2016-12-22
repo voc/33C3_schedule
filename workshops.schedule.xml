@@ -31,7 +31,7 @@
           <link>https://events.ccc.de/congress/2016/wiki/Session:Subtitle_Coordinator_Angelmeetings</link>
         </links>
       </event>
-      <event id="1186" guid="efb088d3ad2beedd6f23811add22a097">
+      <event id="1185" guid="efb088d3ad2beedd6f23811add22a097">
         <logo/>
         <date>2016-12-26T21:00:00+01:00</date>
         <start>21:00</start>
@@ -904,7 +904,7 @@ During this Session we will introduce you to your dutys as a stage manager and t
           <link>https://events.ccc.de/congress/2016/wiki/Session:Stage_Manager_Angel_Introduction</link>
         </links>
       </event>
-      <event id="1185" guid="33d15813452eabff67587b00e4525369">
+      <event id="1186" guid="33d15813452eabff67587b00e4525369">
         <logo/>
         <date>2016-12-27T15:15:00+01:00</date>
         <start>15:15</start>
@@ -1097,6 +1097,28 @@ I would like to present research findings of the ongoing project (2016-2017) and
         <links>
           <link>http://make-it.io/</link>
           <link>https://events.ccc.de/congress/2016/wiki/Session:MAKE-IT:_Interactive_presentation_of_the_EU_research_project_about_the_Maker_Movement</link>
+        </links>
+      </event>
+      <event id="1224" guid="79a06dbfedb5cf587036255d578ee72a">
+        <logo/>
+        <date>2016-12-28T20:45:00+01:00</date>
+        <start>20:45</start>
+        <duration>1:55</duration>
+        <room>Hall C.1</room>
+        <slug/>
+        <title>You've hardened your OS- now harden your hacker community</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>Hackers don't thoughtlessly trust the mechanics of their computer, apps, or in general the world around them........So why would we trust the mechanics of the governments' justice system? In this workshop we'll discuss alternatives using texts and exercises.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2016/wiki/User:Ontological">Ontological</person>
+          <person id="0" href="https://events.ccc.de/congress/2016/wiki/User:Mdik">Mdik</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2016/wiki/Session:You%27ve_hardened_your_OS-_now_harden_your_hacker_community</link>
         </links>
       </event>
     </room>

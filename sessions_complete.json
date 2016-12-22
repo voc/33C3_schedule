@@ -1965,60 +1965,6 @@
             "1482883140"
         ]
     }, 
-    "Session:You've hardened your OS- now harden your hacker community# a97bca18449f34b1fa9232943dbb34df": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1482955200"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Hackers don't thoughtlessly trust the mechanics of their computer, apps, or in general the world around them........So why would we trust the mechanics of the governments' justice system? In this workshop we'll discuss alternatives using texts and exercises."
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:QueerFeministGeeks", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Assembly:QueerFeministGeeks", 
-                "namespace": 504, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Ontological", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Ontological", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:Mdik", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Mdik", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "You've hardened your OS- now harden your hacker community"
-        ], 
-        "Has duration": [
-            120
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:You%27ve_hardened_your_OS-_now_harden_your_hacker_community", 
-        "Has end time": [
-            "1482962400"
-        ]
-    }, 
     "Session:Erkl\u00e4rt Technik den Menschen?# fdc1365b52e9e1bcdf702e260b258032": {
         "Held in language": [
             "de - German"
@@ -6779,6 +6725,60 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Haftung_f%C3%BCr_Devices_und_Software_gestalten", 
         "Has end time": [
             "1482955200"
+        ]
+    }, 
+    "Session:You've hardened your OS- now harden your hacker community# 79a06dbfedb5cf587036255d578ee72a": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482957900"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Hackers don't thoughtlessly trust the mechanics of their computer, apps, or in general the world around them........So why would we trust the mechanics of the governments' justice system? In this workshop we'll discuss alternatives using texts and exercises."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall C.1", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.1", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Ontological", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Ontological", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Mdik", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Mdik", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "You've hardened your OS- now harden your hacker community"
+        ], 
+        "Has duration": [
+            115
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:You%27ve_hardened_your_OS-_now_harden_your_hacker_community", 
+        "Has end time": [
+            "1482964800"
         ]
     }, 
     "Session:An UnCivilization Commune ReWilded Life Shared with Squirrels# d87ba7a616616f20f5c0ae80deb957d5": {

@@ -192,7 +192,7 @@
         "speakers": "Ijon"
     }, 
     {
-        "event_id": 1185, 
+        "event_id": 1186, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -946,6 +946,18 @@
         "title": "MAKE-IT", 
         "abstract": " \nThis interactive session consists of a 10 minute presentation to present the EU research project MAKE-IT, followed by a 20 minute discussion with the participants. \n\nMAKE-IT is a Horizon2020 European ", 
         "speakers": "Janosch"
+    }, 
+    {
+        "event_id": 1224, 
+        "track_id": 10, 
+        "track_name": "Session", 
+        "room_id": 1131, 
+        "room_name": "Hall C.1", 
+        "start_time": "2016-12-28T20:45:00+01:00", 
+        "duration": 6900, 
+        "title": "You've hardened your OS- now harden your hacker community", 
+        "abstract": " \nHackers don't thoughtlessly trust the mechanics of their computer, apps, or in general the world around them........So why would we trust the mechanics of the governments' justice system? In this work", 
+        "speakers": "Ontological, Mdik"
     }, 
     {
         "event_id": 1042, 

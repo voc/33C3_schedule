@@ -43,7 +43,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1186, 
+                                "id": 1185, 
                                 "guid": "efb088d3ad2beedd6f23811add22a097", 
                                 "logo": null, 
                                 "date": "2016-12-26T21:00:00+01:00", 
@@ -1161,7 +1161,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1185, 
+                                "id": 1186, 
                                 "guid": "33d15813452eabff67587b00e4525369", 
                                 "logo": null, 
                                 "date": "2016-12-27T15:15:00+01:00", 
@@ -1400,6 +1400,38 @@
                                 "links": [
                                     "http://make-it.io/", 
                                     "https://events.ccc.de/congress/2016/wiki/Session:MAKE-IT:_Interactive_presentation_of_the_EU_research_project_about_the_Maker_Movement"
+                                ]
+                            }, 
+                            {
+                                "id": 1224, 
+                                "guid": "79a06dbfedb5cf587036255d578ee72a", 
+                                "logo": null, 
+                                "date": "2016-12-28T20:45:00+01:00", 
+                                "start": "20:45", 
+                                "duration": "1:55", 
+                                "room": "Hall C.1", 
+                                "slug": "", 
+                                "title": "You've hardened your OS- now harden your hacker community", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Hackers don't thoughtlessly trust the mechanics of their computer, apps, or in general the world around them........So why would we trust the mechanics of the governments' justice system? In this workshop we'll discuss alternatives using texts and exercises.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Ontological", 
+                                        "public_name": "Ontological"
+                                    }, 
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2016/wiki/User:Mdik", 
+                                        "public_name": "Mdik"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2016/wiki/Session:You%27ve_hardened_your_OS-_now_harden_your_hacker_community"
                                 ]
                             }
                         ], 
