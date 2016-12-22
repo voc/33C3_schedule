@@ -4072,12 +4072,12 @@
             "1482940800"
         ]
     }, 
-    "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
+    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1483102800"
+            "1482764400"
         ], 
         "Has event track": [
             "Session"
@@ -4096,7 +4096,7 @@
             }
         ], 
         "Has subtitle": [
-            "Abbaumeeting"
+            "Introduction Meeting for new angels"
         ], 
         "Is organized by": [
             {
@@ -4117,7 +4117,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
-            "1483106400"
+            "1482768000"
         ]
     }, 
     "Session:Cyberthingy# ac3e137e198cda248c6f4d44bd664362": {
@@ -5304,54 +5304,56 @@
             "1483096800"
         ]
     }, 
-    "Session:Skillconvention c# 15f21480446aabdd28aa3fe571253266": {
+    "Session:MAKE-IT: Interactive presentation of the EU research project about the Maker Movement# c46b6326e1bd62427baf22eeffef5893": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1483057800"
+            "1482942600"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [
-            "http://thereisnogame.de"
+            "http://make-it.io/"
         ], 
         "Has description": [
-            "all travelers of a certain skill will be invited to join their respective convention"
+            "This interactive session consists of a 10 minute presentation to present the EU research project MAKE-IT, followed by a 20 minute discussion with the participants about similarities, differences and interactions between the maker movement and the hacker scene.\n\nMAKE-IT is a Horizon2020 European research project focused on how the role of Collective Awareness Platforms (CAPS) enables the growth and governance of the Maker movement, particularly in relation to Information Technology, using and creating social innovations and achieving sustainability. \n\nThe international research consortium investigates ten makerspaces in eight different countries to learn about their \"organisation and governance\", \"peer and collaborative activities\" and \"value creation and impact\". \n\nI would like to present research findings of the ongoing project (2016-2017) and critically assess, enrich and validate them in an interactive discussion with the session participants. In particular, I am interested to discuss how the 'maker movement' is similar or different from and interacts with the 'hacker scene'. \n\nI wish to keep this workshop as informal and accessible as possible and look forward to your input!"
         ], 
         "Has session type": [
-            "Meeting"
+            "Discussion"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall A.1", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
+                "fulltext": "Room:Hall C.1", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.1", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [], 
+        "Has subtitle": [
+            "Discussion about similarities, differences and interactions between the maker movement and the hacker scene"
+        ], 
         "Is organized by": [
             {
-                "fulltext": "User:Reisende", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Reisende", 
+                "fulltext": "User:Janosch", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Janosch", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Skillconvention c"
+            "MAKE-IT"
         ], 
         "Has duration": [
-            60
+            30
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Skillconvention_c", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:MAKE-IT:_Interactive_presentation_of_the_EU_research_project_about_the_Maker_Movement", 
         "Has end time": [
-            "1483061400"
+            "1482944400"
         ]
     }, 
     "Session:Surface Mount Electronics Assembly for Terrified Beginners# a01901e1604e2bda7e4405917a4e766b": {
@@ -6921,56 +6923,6 @@
             "1482854400"
         ]
     }, 
-    "Session:MAKE-IT: Interactive presentation of the EU research project about the Maker Movement# 67401bc43789ad6fdd1191d39486f1ed": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1482942600"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "http://make-it.io/"
-        ], 
-        "Has description": [
-            "This interactive session consists of a 10 minute presentation to present the EU research project MAKE-IT, followed by a 20 minute discussion with the participants. \n\nMAKE-IT is a Horizon2020 European research project focused on how the role of Collective Awareness Platforms (CAPS) enables the growth and governance of the Maker movement, particularly in relation to Information Technology, using and creating social innovations and achieving sustainability. \n\nThe international research consortium investigates ten makerspaces in eight different countries to learn about their \"organisation and governance\", \"peer and collaborative activities\" and \"value creation and impact\". \n\nI would like to present research findings of the ongoing project (2016-2017) and critically assess, enrich and validate them in an interactive discussion with the session participants."
-        ], 
-        "Has session type": [
-            "Talk"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall C.1", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.1", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Janosch", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Janosch", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "MAKE-IT"
-        ], 
-        "Has duration": [
-            30
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:MAKE-IT:_Interactive_presentation_of_the_EU_research_project_about_the_Maker_Movement", 
-        "Has end time": [
-            "1482944400"
-        ]
-    }, 
     "Session:Dn42: Decentralised Network 42# 4a80950934f4ea3dbd5f529e36a5c8ff": {
         "Held in language": [
             "en - English"
@@ -7886,6 +7838,56 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Surface_Mount_Electronics_Assembly_for_Terrified_Beginners", 
         "Has end time": [
             "1483041600"
+        ]
+    }, 
+    "Session:Skillconvention c# 15f21480446aabdd28aa3fe571253266": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1483057800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://thereisnogame.de"
+        ], 
+        "Has description": [
+            "all travelers of a certain skill will be invited to join their respective convention"
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall A.1", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Reisende", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Reisende", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Skillconvention c"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Skillconvention_c", 
+        "Has end time": [
+            "1483061400"
         ]
     }, 
     "Session:There is no birthday party# 172955a48fe885c1b849ffea7ee016aa": {
@@ -12558,12 +12560,12 @@
             "1483056000"
         ]
     }, 
-    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
+    "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482764400"
+            "1483102800"
         ], 
         "Has event track": [
             "Session"
@@ -12582,7 +12584,7 @@
             }
         ], 
         "Has subtitle": [
-            "Introduction Meeting for new angels"
+            "Abbaumeeting"
         ], 
         "Is organized by": [
             {
@@ -12603,7 +12605,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
-            "1482768000"
+            "1483106400"
         ]
     }, 
     "Session:42birds: Missing RSS Feed? Create Your Own!# b86c3c8fc3a77d7f1486ceeaf014d506": {
