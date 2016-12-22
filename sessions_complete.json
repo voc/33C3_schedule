@@ -8537,6 +8537,56 @@
             "1483009200"
         ]
     }, 
+    "Session:Rust on the rad1o# 076a742f960202d697c620f2c02f055e": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482865200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://github.com/astro/rad1o-rust"
+        ], 
+        "Has description": [
+            "Write code in Rust, run on the rad1o from CCCamp15"
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall C.2", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.2", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Astro", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Astro", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Rust on the rad1o"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Rust_on_the_rad1o", 
+        "Has end time": [
+            "1482868800"
+        ]
+    }, 
     "Session:How to Make Humanoid Robots# 539cdd3e3d798ac3c3fe23c8b7003ee8": {
         "Held in language": [
             "de - German", 
