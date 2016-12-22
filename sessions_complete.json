@@ -878,54 +878,62 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Freifunk@GSoC2016", 
         "Has end time": []
     }, 
-    "Session:Subtitles-Angelmeetings# 33d15813452eabff67587b00e4525369": {
+    "Session:Open Education Workshop# afb476729e7b1c943d0120dec5187fcc": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482851700"
+            "1482940800"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [
-            "https://c3subtitles.de/"
+            "http://education.okfn.org/"
         ], 
         "Has description": [
-            "The Angelmeeting for the subtitles Angels.\nIf you want to be approved as a subtitles Angel, please visit!\nIf you are one already, this is the easiest way to meet and manage shifts etc.\nWelcome to the Subtitles Angelmeeting!"
+            "Despite high expectations, \"digital education\" has not much advanced beyond sharing single-purpose worksheets as pdf. Existing Open Educational Resources (OER) often tend to reinforce current teaching scenarios and top-down structures, missing out on the potential for new forms of participation. To prepare new education projects, we invite you to share your experiences and ideas: How can digital methods / concepts / tools contribute to a more inclusive pedagogy, enabling and motivating learners for co-creation? What else can we do within existing frameworks, and how to approach it effectively in class?"
         ], 
         "Has session type": [
-            "Meeting"
+            "Workshop"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall A.1", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
+                "fulltext": "Room:Hall C.4", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.4", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [], 
+        "Has subtitle": [
+            "New school, Old school - How can we hack education?"
+        ], 
         "Is organized by": [
             {
-                "fulltext": "User:Cube", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Cube", 
+                "fulltext": "User:NMarkus", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:NMarkus", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:PeterVanPan", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:PeterVanPan", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Subtitles-Angelmeetings"
+            "Open Education Workshop"
         ], 
         "Has duration": [
-            30
+            90
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Subtitles-Angelmeetings", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Open_Education_Workshop", 
         "Has end time": [
-            "1482853500"
+            "1482946200"
         ]
     }, 
     "Session:LearnToSolder# 0ea6a4d4288ec847b8b7da9a8e7cf319": {
@@ -2302,42 +2310,55 @@
             "1482937200"
         ]
     }, 
-    "Session:An UnCivilization Commune ReWilded Life Shared with Squirrels# d87ba7a616616f20f5c0ae80deb957d5": {
+    "Session:Subtitles-Angelmeetings# f48797b83b3006b88510ce3136aec9e2": {
         "Held in language": [
             "en - English"
         ], 
-        "Has start time": [], 
+        "Has start time": [
+            "1483024500"
+        ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [
-            "http://unciv.nl"
+            "https://c3subtitles.de/"
         ], 
         "Has description": [
-            "Looking forward to meet new and old friends interested in UnCivilization! \n\nWe are a group of people interested in intersection of technology & society, politics, activism, art, and critical of techno-optimism. We share a mailing list since 2012, called UnCivilization, inspired (but not otherwise connected to) Dark Mountain \"Uncivilization Manifesto\", as well as Ursula LeGuin, Derrick Jensen, Heather Marsh, John Zerzan, Naomi Klein, Daniel Quinn, Ursula Franklin, and other feminist, anarchist, anti-supremacist authors. \n\nGoal of this meetup is to catch-up, give each other hugs & support, and plan our activities for the next months & years (e.g. another LikaCamp?!)"
+            "The Angelmeeting for the subtitles Angels.\nIf you want to be approved as a subtitles Angel, please visit!\nIf you are one already, this is the easiest way to meet and manage shifts etc.\nWelcome to the Subtitles Angelmeeting!"
         ], 
         "Has session type": [
-            "Other"
+            "Meeting"
         ], 
-        "Has session location": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall F", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_F", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
         "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Becha", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Becha", 
+                "fulltext": "User:Cube", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Cube", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "An UnCivilization Commune ReWilded Life Shared with Squirrels"
+            "Subtitles-Angelmeetings"
         ], 
-        "Has duration": [], 
+        "Has duration": [
+            30
+        ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:An_UnCivilization_Commune_ReWilded_Life_Shared_with_Squirrels", 
-        "Has end time": []
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Subtitles-Angelmeetings", 
+        "Has end time": [
+            "1483026300"
+        ]
     }, 
     "Session:Bin\u00e4rgewitter H\u00f6rertreffen# bf538cd7b25b8b8a635527e3e91a64cc": {
         "Held in language": [
@@ -3596,6 +3617,56 @@
             "1482878700"
         ]
     }, 
+    "Session:42birds: Missing RSS Feed? Create Your Own!# 9d34de362856fcf24fe0ff321c43c850": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1483005600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "If your favoured website / podcast misses an RSS feed this discussion is for you! I'll show how-to extract the necessary data from the page and build your very own feed with it."
+        ], 
+        "Has session type": [
+            "Discussion"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall C.3", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.3", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Timeslot 3 #42birds"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Birdy1976", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Birdy1976", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "42birds"
+        ], 
+        "Has duration": [
+            42
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:42birds:_Missing_RSS_Feed%3F_Create_Your_Own!", 
+        "Has end time": [
+            "1483008120"
+        ]
+    }, 
     "Session:Prototype Fund - 1.2 Million Euros for Free Software Projects# e4648cc036bc044ba52e220226e31772": {
         "Held in language": [
             "en - English"
@@ -4095,12 +4166,12 @@
             "1482940800"
         ]
     }, 
-    "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
+    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1483102800"
+            "1482764400"
         ], 
         "Has event track": [
             "Session"
@@ -4119,7 +4190,7 @@
             }
         ], 
         "Has subtitle": [
-            "Abbaumeeting"
+            "Introduction Meeting for new angels"
         ], 
         "Is organized by": [
             {
@@ -4140,7 +4211,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
-            "1483106400"
+            "1482768000"
         ]
     }, 
     "Session:Cyberthingy# ac3e137e198cda248c6f4d44bd664362": {
@@ -5327,42 +5398,44 @@
             "1483096800"
         ]
     }, 
-    "Session:Coder Dojo# a2d3c9df94b90cd7240898885d1eb3ec": {
+    "Session:Skillconvention c# 15f21480446aabdd28aa3fe571253266": {
         "Held in language": [
-            "de - German"
+            "en - English"
         ], 
         "Has start time": [
-            "1482919200"
+            "1483057800"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
-        "Has description": [], 
+        "Has website": [
+            "http://thereisnogame.de"
+        ], 
+        "Has description": [
+            "all travelers of a certain skill will be invited to join their respective convention"
+        ], 
         "Has session type": [
-            "Workshop"
+            "Meeting"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall C.3", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.3", 
+                "fulltext": "Room:Hall A.1", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [
-            "Slot 0 Room 1"
-        ], 
+        "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Nana berlin", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Nana_berlin", 
+                "fulltext": "User:Reisende", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Reisende", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Coder Dojo"
+            "Skillconvention c"
         ], 
         "Has duration": [
             60
@@ -5370,9 +5443,9 @@
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Coder_Dojo", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Skillconvention_c", 
         "Has end time": [
-            "1482922800"
+            "1483061400"
         ]
     }, 
     "Session:Surface Mount Electronics Assembly for Terrified Beginners# a01901e1604e2bda7e4405917a4e766b": {
@@ -5425,60 +5498,56 @@
             "1482856200"
         ]
     }, 
-    "Session:33c3 Regiotreffen# 2433e2a8cd70d932310461fe68e98f92": {
+    "Session:42birds: Randomized Signature Block for Emails# e9230341f9e17fa69bd1339f35842306": {
         "Held in language": [
-            "de - German"
+            "en - English"
         ], 
         "Has start time": [
-            "1483030800"
+            "1482833700"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [
-            "https://ccc.de/regional"
+            "https://github.com/birdy1976/signature"
         ], 
         "Has description": [
-            "Das allj\u00e4hrliche Regiotreffen auf dem Congress"
+            "For years I updated the signature for my emails manually \u2013 until I got fed up\u2026 That\u2019s why I wrote a script to create a randomized signature block automatically from an RSS feed!"
         ], 
         "Has session type": [
-            "Meeting"
+            "Workshop"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall A.1", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
+                "fulltext": "Room:Hall C.3", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.3", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [], 
+        "Has subtitle": [
+            "Timeslot 1 #42birds"
+        ], 
         "Is organized by": [
             {
-                "fulltext": "User:Telegnom", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Telegnom", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:Sva", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Sva", 
+                "fulltext": "User:Birdy1976", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Birdy1976", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "33c3 Regiotreffen"
+            "42birds"
         ], 
         "Has duration": [
-            120
+            42
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:33c3_Regiotreffen", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:42birds:_Randomized_Signature_Block_for_Emails", 
         "Has end time": [
-            "1483038000"
+            "1482836220"
         ]
     }, 
     "Session:Create a rocket and reach orbit# e19e34c368150d9cba739e887820201e": {
@@ -5771,12 +5840,12 @@
             "1482880500"
         ]
     }, 
-    "Session:Subtitles-Angelmeetings# f48797b83b3006b88510ce3136aec9e2": {
+    "Session:Subtitles-Angelmeetings# 33d15813452eabff67587b00e4525369": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1483024500"
+            "1482851700"
         ], 
         "Has event track": [
             "Session"
@@ -5792,8 +5861,8 @@
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall F", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_F", 
+                "fulltext": "Room:Hall A.1", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
                 "namespace": 516, 
                 "exists": true
             }
@@ -5818,7 +5887,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Subtitles-Angelmeetings", 
         "Has end time": [
-            "1483026300"
+            "1482853500"
         ]
     }, 
     "Session:Off Grid: a videogame about hacking, data privacy, and surveillance# c5626b218dcaf7fe2c0ab1eff5125d93": {
@@ -6761,55 +6830,42 @@
             "1482955200"
         ]
     }, 
-    "Session:42birds: Randomized Signature Block for Emails# 8dc9fab4d6bb5e3847f0042b5d4cf7bb": {
+    "Session:An UnCivilization Commune ReWilded Life Shared with Squirrels# d87ba7a616616f20f5c0ae80deb957d5": {
         "Held in language": [
             "en - English"
         ], 
-        "Has start time": [
-            "1482833700"
-        ], 
+        "Has start time": [], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [
-            "https://github.com/birdy1976/signature"
+            "http://unciv.nl"
         ], 
         "Has description": [
-            "For years I updated the signature for my emails manually \u2013 until I got fed up\u2026 That\u2019s why I wrote a script to create a randomized signature block automatically from an RSS feed!"
+            "Looking forward to meet new and old friends interested in UnCivilization! \n\nWe are a group of people interested in intersection of technology & society, politics, activism, art, and critical of techno-optimism. We share a mailing list since 2012, called UnCivilization, inspired (but not otherwise connected to) Dark Mountain \"Uncivilization Manifesto\", as well as Ursula LeGuin, Derrick Jensen, Heather Marsh, John Zerzan, Naomi Klein, Daniel Quinn, Ursula Franklin, and other feminist, anarchist, anti-supremacist authors. \n\nGoal of this meetup is to catch-up, give each other hugs & support, and plan our activities for the next months & years (e.g. another LikaCamp?!)"
         ], 
         "Has session type": [
-            "Workshop"
+            "Other"
         ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall C.3", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.3", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
+        "Has session location": [], 
         "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Birdy1976", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Birdy1976", 
+                "fulltext": "User:Becha", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Becha", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "42birds"
+            "An UnCivilization Commune ReWilded Life Shared with Squirrels"
         ], 
-        "Has duration": [
-            30
-        ], 
+        "Has duration": [], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:42birds:_Randomized_Signature_Block_for_Emails", 
-        "Has end time": [
-            "1482835500"
-        ]
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:An_UnCivilization_Commune_ReWilded_Life_Shared_with_Squirrels", 
+        "Has end time": []
     }, 
     "Session:\u00a743# cbac18b64156cced64322ca0c4e60e99": {
         "Held in language": [
@@ -7744,6 +7800,56 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Freifunk_Webteam_Meetup", 
         "Has end time": []
     }, 
+    "Session:42birds: Learn Version Control with Git# 6aedf3e2b2e2079f04495ebf744dccd9": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1483092000"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "More to come ;-)"
+        ], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall C.3", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.3", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Timeslot 4 #42birds"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Birdy1976", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Birdy1976", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "42birds"
+        ], 
+        "Has duration": [
+            42
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:42birds:_Learn_Version_Control_with_Git", 
+        "Has end time": [
+            "1483094520"
+        ]
+    }, 
     "Session:Surface Mount Electronics Assembly for Terrified Beginners# 61a5509d9d46ea6fccc963286ccc18e8": {
         "Held in language": [
             "en - English"
@@ -7792,56 +7898,6 @@
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Surface_Mount_Electronics_Assembly_for_Terrified_Beginners", 
         "Has end time": [
             "1483041600"
-        ]
-    }, 
-    "Session:Skillconvention c# 15f21480446aabdd28aa3fe571253266": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1483057800"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "http://thereisnogame.de"
-        ], 
-        "Has description": [
-            "all travelers of a certain skill will be invited to join their respective convention"
-        ], 
-        "Has session type": [
-            "Meeting"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall A.1", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Reisende", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Reisende", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Skillconvention c"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Skillconvention_c", 
-        "Has end time": [
-            "1483061400"
         ]
     }, 
     "Session:There is no birthday party# 172955a48fe885c1b849ffea7ee016aa": {
@@ -8539,62 +8595,60 @@
             "1483055100"
         ]
     }, 
-    "Session:Open Education Workshop# afb476729e7b1c943d0120dec5187fcc": {
+    "Session:33c3 Regiotreffen# 2433e2a8cd70d932310461fe68e98f92": {
         "Held in language": [
-            "en - English"
+            "de - German"
         ], 
         "Has start time": [
-            "1482940800"
+            "1483030800"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [
-            "http://education.okfn.org/"
+            "https://ccc.de/regional"
         ], 
         "Has description": [
-            "Despite high expectations, \"digital education\" has not much advanced beyond sharing single-purpose worksheets as pdf. Existing Open Educational Resources (OER) often tend to reinforce current teaching scenarios and top-down structures, missing out on the potential for new forms of participation. To prepare new education projects, we invite you to share your experiences and ideas: How can digital methods / concepts / tools contribute to a more inclusive pedagogy, enabling and motivating learners for co-creation? What else can we do within existing frameworks, and how to approach it effectively in class?"
+            "Das allj\u00e4hrliche Regiotreffen auf dem Congress"
         ], 
         "Has session type": [
-            "Workshop"
+            "Meeting"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall C.4", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.4", 
+                "fulltext": "Room:Hall A.1", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_A.1", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [
-            "New school, Old school - How can we hack education?"
-        ], 
+        "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:NMarkus", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:NMarkus", 
+                "fulltext": "User:Telegnom", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Telegnom", 
                 "namespace": 2, 
                 "exists": true
             }, 
             {
-                "fulltext": "User:PeterVanPan", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:PeterVanPan", 
+                "fulltext": "User:Sva", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Sva", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Open Education Workshop"
+            "33c3 Regiotreffen"
         ], 
         "Has duration": [
-            90
+            120
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Open_Education_Workshop", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:33c3_Regiotreffen", 
         "Has end time": [
-            "1482946200"
+            "1483038000"
         ]
     }, 
     "Session:Skillconvention b# b71ce3ffa02dca5f83180aaf66581567": {
@@ -8745,42 +8799,42 @@
             "1483034400"
         ]
     }, 
-    "Session:FSaaS: Challenges for 'Free Software as a Service' in business# d132d8604f7ecac61db1cbf423ca9e6e": {
+    "Session:Coder Dojo# a2d3c9df94b90cd7240898885d1eb3ec": {
         "Held in language": [
-            "en - English"
+            "de - German"
         ], 
         "Has start time": [
-            "1482957000"
+            "1482919200"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
-        "Has description": [
-            "Of all the Free Software business models, Software-as-a-Service (SaaS) is one of the most appealing. Wordpresss blazed a path over a decade ago that few have managed to follow. How do Free Software businesses of this nature work? What are their biggest challenges? And why aren't there more of them? Bring your ideas for a discussion."
-        ], 
+        "Has description": [], 
         "Has session type": [
-            "Discussion"
+            "Workshop"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall 13-14", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_13-14", 
+                "fulltext": "Room:Hall C.3", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.3", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [], 
+        "Has subtitle": [
+            "Slot 0 Room 1"
+        ], 
         "Is organized by": [
             {
-                "fulltext": "User:Eal", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Eal", 
+                "fulltext": "User:Nana berlin", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Nana_berlin", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "FSaaS"
+            "Coder Dojo"
         ], 
         "Has duration": [
             60
@@ -8788,9 +8842,9 @@
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:FSaaS:_Challenges_for_%27Free_Software_as_a_Service%27_in_business", 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Coder_Dojo", 
         "Has end time": [
-            "1482960600"
+            "1482922800"
         ]
     }, 
     "Session:Skillconvention b# 390998a1ab9f42dbefdc4f9bf1f69e29": {
@@ -11004,56 +11058,6 @@
             "1482937200"
         ]
     }, 
-    "Session:42birds: Missing RSS Feed? Create Your Own!# ec7845871eaacd65dd6c2b5f3b407277": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1483005600"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "If your favoured website / podcast misses an RSS feed this discussion is for you! I'll show how-to extract the necessary data from the page and build your very own feed with it."
-        ], 
-        "Has session type": [
-            "Discussion"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall C.3", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_C.3", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Timeslot 3 #42birds"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Birdy1976", 
-                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Birdy1976", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "42birds"
-        ], 
-        "Has duration": [
-            45
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:42birds:_Missing_RSS_Feed%3F_Create_Your_Own!", 
-        "Has end time": [
-            "1483008300"
-        ]
-    }, 
     "Session:Off flavours in homebrewed beer# 06a0553985d2992394fd660075bbde7a": {
         "Held in language": [
             "en - English"
@@ -11864,6 +11868,54 @@
             "1482951600"
         ]
     }, 
+    "Session:FSaaS: Challenges for 'Free Software as a Service' in business# d132d8604f7ecac61db1cbf423ca9e6e": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1482957000"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Of all the Free Software business models, Software-as-a-Service (SaaS) is one of the most appealing. Wordpresss blazed a path over a decade ago that few have managed to follow. How do Free Software businesses of this nature work? What are their biggest challenges? And why aren't there more of them? Bring your ideas for a discussion."
+        ], 
+        "Has session type": [
+            "Discussion"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall 13-14", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/Room:Hall_13-14", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Eal", 
+                "fullurl": "https://events.ccc.de/congress/2016/wiki/User:Eal", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "FSaaS"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:FSaaS:_Challenges_for_%27Free_Software_as_a_Service%27_in_business", 
+        "Has end time": [
+            "1482960600"
+        ]
+    }, 
     "Session:Numerical Weather Prediction Tutorial# 1991d7c2adefc5daab2a75f4b429a67d": {
         "Held in language": [
             "en - English"
@@ -12405,12 +12457,12 @@
             "1483056000"
         ]
     }, 
-    "Session:Engelmeeting# 82605b18023ab9bf304023036613d153": {
+    "Session:Engelmeeting# a9980c368a3480f25ab2bd4588283ecf": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1482764400"
+            "1483102800"
         ], 
         "Has event track": [
             "Session"
@@ -12429,7 +12481,7 @@
             }
         ], 
         "Has subtitle": [
-            "Introduction Meeting for new angels"
+            "Abbaumeeting"
         ], 
         "Is organized by": [
             {
@@ -12450,7 +12502,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2016/wiki/Session:Engelmeeting", 
         "Has end time": [
-            "1482768000"
+            "1483106400"
         ]
     }, 
     "Session:Line-of-sight visualizer# 24d9aabcf7d4df6b349a03dbf75a5641": {
