@@ -7223,7 +7223,9 @@
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
+        "Has website": [
+            "https://events.ccc.de/congress/2016/wiki/Projects:Junghackertag"
+        ], 
         "Has description": [
             "Vorbesprechung f\u00fcr die Helfer des Chaos macht Schule-L\u00f6tworkshops"
         ], 
