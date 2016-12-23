@@ -204,7 +204,7 @@
         "speakers": "Ijon"
     }, 
     {
-        "event_id": 1199, 
+        "event_id": 1200, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -216,7 +216,19 @@
         "speakers": "Cube"
     }, 
     {
-        "event_id": 1068, 
+        "event_id": 1069, 
+        "track_id": 10, 
+        "track_name": "Session", 
+        "room_id": 1120, 
+        "room_name": "Hall B", 
+        "start_time": "2016-12-27T19:45:00+01:00", 
+        "duration": 1800, 
+        "title": "Engelmeeting", 
+        "abstract": "Angelmeeting Day 1 \n", 
+        "speakers": "Knuth"
+    }, 
+    {
+        "event_id": 1071, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1120, 
@@ -228,7 +240,7 @@
         "speakers": "Knuth"
     }, 
     {
-        "event_id": 1075, 
+        "event_id": 1078, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1120, 
@@ -237,18 +249,6 @@
         "duration": 3600, 
         "title": "Engelmeeting", 
         "abstract": "Angel meeting day 1 \n", 
-        "speakers": "Knuth"
-    }, 
-    {
-        "event_id": 1077, 
-        "track_id": 10, 
-        "track_name": "Session", 
-        "room_id": 1120, 
-        "room_name": "Hall B", 
-        "start_time": "2016-12-27T19:45:00+01:00", 
-        "duration": 1800, 
-        "title": "Engelmeeting", 
-        "abstract": "Angelmeeting Day 1 \n", 
         "speakers": "Knuth"
     }, 
     {
@@ -276,7 +276,7 @@
         "speakers": "Eal"
     }, 
     {
-        "event_id": 1165, 
+        "event_id": 1164, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1120, 
@@ -324,7 +324,7 @@
         "speakers": "Kali, Varac"
     }, 
     {
-        "event_id": 1164, 
+        "event_id": 1165, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1131, 
@@ -552,7 +552,7 @@
         "speakers": "Reisende"
     }, 
     {
-        "event_id": 1222, 
+        "event_id": 1223, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -564,7 +564,7 @@
         "speakers": "Sebalis"
     }, 
     {
-        "event_id": 1226, 
+        "event_id": 1227, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -828,24 +828,24 @@
         "speakers": "Haecksen, Melzai"
     }, 
     {
-        "event_id": 1176, 
+        "event_id": 1175, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
         "room_name": "Hall A.1", 
-        "start_time": "2016-12-29T01:30:00+01:00", 
+        "start_time": "2016-12-29T00:30:00+01:00", 
         "duration": 3600, 
         "title": "Skillconvention b", 
         "abstract": " \nall travelers of a certain skill will be invented to join their respective session", 
         "speakers": "Reisende"
     }, 
     {
-        "event_id": 1179, 
+        "event_id": 1177, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
         "room_name": "Hall A.1", 
-        "start_time": "2016-12-29T00:30:00+01:00", 
+        "start_time": "2016-12-29T01:30:00+01:00", 
         "duration": 3600, 
         "title": "Skillconvention b", 
         "abstract": " \nall travelers of a certain skill will be invented to join their respective session", 
@@ -864,7 +864,7 @@
         "speakers": "Ijon"
     }, 
     {
-        "event_id": 1201, 
+        "event_id": 1202, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -888,7 +888,7 @@
         "speakers": "Pf"
     }, 
     {
-        "event_id": 1070, 
+        "event_id": 1073, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1120, 
@@ -900,7 +900,7 @@
         "speakers": "Knuth"
     }, 
     {
-        "event_id": 1072, 
+        "event_id": 1075, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1120, 
@@ -1104,7 +1104,19 @@
         "speakers": "Nana berlin, Cyber-phil, Niccokunzmann"
     }, 
     {
-        "event_id": 1039, 
+        "event_id": 1038, 
+        "track_id": 10, 
+        "track_name": "Session", 
+        "room_id": 1133, 
+        "room_name": "Hall C.3", 
+        "start_time": "2016-12-28T11:00:00+01:00", 
+        "duration": 3600, 
+        "title": "Coder Dojo", 
+        "abstract": "Slot 1 Room 1 \nDas CoderDojo richtet sich an Kinder und Jugendliche zwischen 6 und 17 Jahren, die gerne Software und Hardware programmieren und hacken m\u00f6chten.\n\nF\u00fcr unsere Workshops braucht man keine Erfahrungen ode", 
+        "speakers": "Nana berlin, Cyber-phil, Niccokunzmann"
+    }, 
+    {
+        "event_id": 1043, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1133, 
@@ -1116,7 +1128,7 @@
         "speakers": "Nana berlin, Cyber-phil, Niccokunzmann"
     }, 
     {
-        "event_id": 1043, 
+        "event_id": 1046, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1133, 
@@ -1125,18 +1137,6 @@
         "duration": 3600, 
         "title": "Coder Dojo", 
         "abstract": "Slot 3 Room 1 \nDas CoderDojo richtet sich an Kinder und Jugendliche zwischen 6 und 17 Jahren, die gerne Software und Hardware programmieren und hacken m\u00f6chten.\n\nF\u00fcr unsere Workshops braucht man keine Erfahrungen ode", 
-        "speakers": "Nana berlin, Cyber-phil, Niccokunzmann"
-    }, 
-    {
-        "event_id": 1046, 
-        "track_id": 10, 
-        "track_name": "Session", 
-        "room_id": 1133, 
-        "room_name": "Hall C.3", 
-        "start_time": "2016-12-28T11:00:00+01:00", 
-        "duration": 3600, 
-        "title": "Coder Dojo", 
-        "abstract": "Slot 1 Room 1 \nDas CoderDojo richtet sich an Kinder und Jugendliche zwischen 6 und 17 Jahren, die gerne Software und Hardware programmieren und hacken m\u00f6chten.\n\nF\u00fcr unsere Workshops braucht man keine Erfahrungen ode", 
         "speakers": "Nana berlin, Cyber-phil, Niccokunzmann"
     }, 
     {
@@ -1205,10 +1205,10 @@
         "track_name": "Session", 
         "room_id": 1134, 
         "room_name": "Hall C.4", 
-        "start_time": "2016-12-28T11:00:00+01:00", 
+        "start_time": "2016-12-28T15:00:00+01:00", 
         "duration": 3600, 
         "title": "Coder Dojo", 
-        "abstract": "Slot 1 Room 2 \nDas CoderDojo richtet sich an Kinder und Jugendliche zwischen 6 und 17 Jahren, die gerne Software und Hardware programmieren und hacken m\u00f6chten.\n\nF\u00fcr unsere Workshops braucht man keine Erfahrungen ode", 
+        "abstract": "Slot 3 Room 2 \nDas CoderDojo richtet sich an Kinder und Jugendliche zwischen 6 und 17 Jahren, die gerne Software und Hardware programmieren und hacken m\u00f6chten.\n\nF\u00fcr unsere Workshops braucht man keine Erfahrungen ode", 
         "speakers": "Nana berlin, Cyber-phil, Niccokunzmann"
     }, 
     {
@@ -1229,10 +1229,10 @@
         "track_name": "Session", 
         "room_id": 1134, 
         "room_name": "Hall C.4", 
-        "start_time": "2016-12-28T12:00:00+01:00", 
+        "start_time": "2016-12-28T11:00:00+01:00", 
         "duration": 3600, 
         "title": "Coder Dojo", 
-        "abstract": "Slot 2 Room 2 \nDas CoderDojo richtet sich an Kinder und Jugendliche zwischen 6 und 17 Jahren, die gerne Software und Hardware programmieren und hacken m\u00f6chten.\n\nF\u00fcr unsere Workshops braucht man keine Erfahrungen ode", 
+        "abstract": "Slot 1 Room 2 \nDas CoderDojo richtet sich an Kinder und Jugendliche zwischen 6 und 17 Jahren, die gerne Software und Hardware programmieren und hacken m\u00f6chten.\n\nF\u00fcr unsere Workshops braucht man keine Erfahrungen ode", 
         "speakers": "Nana berlin, Cyber-phil, Niccokunzmann"
     }, 
     {
@@ -1241,10 +1241,10 @@
         "track_name": "Session", 
         "room_id": 1134, 
         "room_name": "Hall C.4", 
-        "start_time": "2016-12-28T15:00:00+01:00", 
+        "start_time": "2016-12-28T12:00:00+01:00", 
         "duration": 3600, 
         "title": "Coder Dojo", 
-        "abstract": "Slot 3 Room 2 \nDas CoderDojo richtet sich an Kinder und Jugendliche zwischen 6 und 17 Jahren, die gerne Software und Hardware programmieren und hacken m\u00f6chten.\n\nF\u00fcr unsere Workshops braucht man keine Erfahrungen ode", 
+        "abstract": "Slot 2 Room 2 \nDas CoderDojo richtet sich an Kinder und Jugendliche zwischen 6 und 17 Jahren, die gerne Software und Hardware programmieren und hacken m\u00f6chten.\n\nF\u00fcr unsere Workshops braucht man keine Erfahrungen ode", 
         "speakers": "Nana berlin, Cyber-phil, Niccokunzmann"
     }, 
     {
@@ -1344,7 +1344,7 @@
         "speakers": "Brightbyte"
     }, 
     {
-        "event_id": 1038, 
+        "event_id": 1039, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1230, 
@@ -1416,7 +1416,7 @@
         "speakers": "Eal"
     }, 
     {
-        "event_id": 1175, 
+        "event_id": 1176, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -1428,7 +1428,7 @@
         "speakers": "Reisende"
     }, 
     {
-        "event_id": 1177, 
+        "event_id": 1178, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -1440,7 +1440,7 @@
         "speakers": "Reisende"
     }, 
     {
-        "event_id": 1178, 
+        "event_id": 1179, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -1464,19 +1464,7 @@
         "speakers": "Eal"
     }, 
     {
-        "event_id": 1223, 
-        "track_id": 10, 
-        "track_name": "Session", 
-        "room_id": 1013, 
-        "room_name": "Hall 13-14", 
-        "start_time": "2016-12-28T19:40:00+01:00", 
-        "duration": 3000, 
-        "title": "Translation meetings", 
-        "abstract": "day 2, evening meeting \nThe translation angels (interpreters) meet twice per day to self-organise (day 0, evening to day 4, afternoon)", 
-        "speakers": "Sebalis"
-    }, 
-    {
-        "event_id": 1227, 
+        "event_id": 1220, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -1485,6 +1473,18 @@
         "duration": 3000, 
         "title": "Translation meetings", 
         "abstract": "day 2, afternoon meeting \nThe translation angels (interpreters) meet twice per day to self-organise (day 0, evening to day 4, afternoon)", 
+        "speakers": "Sebalis"
+    }, 
+    {
+        "event_id": 1224, 
+        "track_id": 10, 
+        "track_name": "Session", 
+        "room_id": 1013, 
+        "room_name": "Hall 13-14", 
+        "start_time": "2016-12-28T19:40:00+01:00", 
+        "duration": 3000, 
+        "title": "Translation meetings", 
+        "abstract": "day 2, evening meeting \nThe translation angels (interpreters) meet twice per day to self-organise (day 0, evening to day 4, afternoon)", 
         "speakers": "Sebalis"
     }, 
     {
@@ -1728,7 +1728,7 @@
         "speakers": "Ineiti"
     }, 
     {
-        "event_id": 1180, 
+        "event_id": 1181, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -1788,19 +1788,7 @@
         "speakers": ""
     }, 
     {
-        "event_id": 1074, 
-        "track_id": 10, 
-        "track_name": "Session", 
-        "room_id": 1120, 
-        "room_name": "Hall B", 
-        "start_time": "2016-12-29T13:00:00+01:00", 
-        "duration": 3600, 
-        "title": "Engelmeeting", 
-        "abstract": "Angelmeeting day 3 \n", 
-        "speakers": "Knuth"
-    }, 
-    {
-        "event_id": 1076, 
+        "event_id": 1068, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1120, 
@@ -1809,6 +1797,18 @@
         "duration": 1800, 
         "title": "Engelmeeting", 
         "abstract": "Angel meeting day 3 \n", 
+        "speakers": "Knuth"
+    }, 
+    {
+        "event_id": 1077, 
+        "track_id": 10, 
+        "track_name": "Session", 
+        "room_id": 1120, 
+        "room_name": "Hall B", 
+        "start_time": "2016-12-29T13:00:00+01:00", 
+        "duration": 3600, 
+        "title": "Engelmeeting", 
+        "abstract": "Angelmeeting day 3 \n", 
         "speakers": "Knuth"
     }, 
     {
@@ -2177,8 +2177,8 @@
         "track_name": "Session", 
         "room_id": 1230, 
         "room_name": "Hall F", 
-        "start_time": "2016-12-29T18:00:00+01:00", 
-        "duration": 8100, 
+        "start_time": "2016-12-29T21:00:00+01:00", 
+        "duration": 10800, 
         "title": "Film-Blocker", 
         "abstract": " \nBlocked for Film Screenings by Content Team", 
         "speakers": ""
@@ -2189,8 +2189,8 @@
         "track_name": "Session", 
         "room_id": 1230, 
         "room_name": "Hall F", 
-        "start_time": "2016-12-29T21:00:00+01:00", 
-        "duration": 10800, 
+        "start_time": "2016-12-29T18:00:00+01:00", 
+        "duration": 8100, 
         "title": "Film-Blocker", 
         "abstract": " \nBlocked for Film Screenings by Content Team", 
         "speakers": ""
@@ -2232,7 +2232,7 @@
         "speakers": ""
     }, 
     {
-        "event_id": 1202, 
+        "event_id": 1201, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1230, 
@@ -2292,12 +2292,12 @@
         "speakers": "Eal"
     }, 
     {
-        "event_id": 1181, 
+        "event_id": 1180, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
         "room_name": "Hall 13-14", 
-        "start_time": "2016-12-30T01:30:00+01:00", 
+        "start_time": "2016-12-30T00:30:00+01:00", 
         "duration": 3600, 
         "title": "Skillconvention c", 
         "abstract": " \nall travelers of a certain skill will be invited to join their respective convention", 
@@ -2309,7 +2309,7 @@
         "track_name": "Session", 
         "room_id": 1013, 
         "room_name": "Hall 13-14", 
-        "start_time": "2016-12-30T00:30:00+01:00", 
+        "start_time": "2016-12-30T01:30:00+01:00", 
         "duration": 3600, 
         "title": "Skillconvention c", 
         "abstract": " \nall travelers of a certain skill will be invited to join their respective convention", 
@@ -2328,7 +2328,7 @@
         "speakers": "Eal"
     }, 
     {
-        "event_id": 1220, 
+        "event_id": 1221, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -2340,7 +2340,7 @@
         "speakers": "Sebalis"
     }, 
     {
-        "event_id": 1225, 
+        "event_id": 1226, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -2376,7 +2376,7 @@
         "speakers": "MacSnider, Malik, teenagersexjohnny"
     }, 
     {
-        "event_id": 1078, 
+        "event_id": 1070, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1120, 
@@ -2472,7 +2472,7 @@
         "speakers": "Cadus"
     }, 
     {
-        "event_id": 1221, 
+        "event_id": 1222, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
