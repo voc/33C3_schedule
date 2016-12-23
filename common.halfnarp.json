@@ -144,7 +144,7 @@
         "speakers": "MacSnider, Mr. Eric S., @Genderbeitrag, Sven Schmidt, VanillaChief"
     }, 
     {
-        "event_id": 1104, 
+        "event_id": 1105, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -192,7 +192,7 @@
         "speakers": "Reisende"
     }, 
     {
-        "event_id": 1190, 
+        "event_id": 1192, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -336,7 +336,7 @@
         "speakers": "Obaz, UMT, CoopDot"
     }, 
     {
-        "event_id": 1196, 
+        "event_id": 1195, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1131, 
@@ -468,7 +468,7 @@
         "speakers": "Djim, Duisburch, Benni, Cbass, Stean"
     }, 
     {
-        "event_id": 1050, 
+        "event_id": 1049, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -768,7 +768,7 @@
         "speakers": "Envy"
     }, 
     {
-        "event_id": 1049, 
+        "event_id": 1048, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -804,7 +804,7 @@
         "speakers": "Jeffburdges"
     }, 
     {
-        "event_id": 1103, 
+        "event_id": 1104, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -840,7 +840,7 @@
         "speakers": "Reisende"
     }, 
     {
-        "event_id": 1191, 
+        "event_id": 1189, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -948,7 +948,7 @@
         "speakers": "Exul"
     }, 
     {
-        "event_id": 1047, 
+        "event_id": 1044, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1131, 
@@ -1020,7 +1020,7 @@
         "speakers": "Ontological, Mdik"
     }, 
     {
-        "event_id": 1038, 
+        "event_id": 1046, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1132, 
@@ -1128,6 +1128,18 @@
         "speakers": "Nana berlin"
     }, 
     {
+        "event_id": 1039, 
+        "track_id": 10, 
+        "track_name": "Session", 
+        "room_id": 1133, 
+        "room_name": "Hall C.3", 
+        "start_time": "2016-12-28T10:00:00+01:00", 
+        "duration": 3600, 
+        "title": "Coder Dojo", 
+        "abstract": "Slot 0 Room 1 \n", 
+        "speakers": "Nana berlin"
+    }, 
+    {
         "event_id": 1040, 
         "track_id": 10, 
         "track_name": "Session", 
@@ -1140,19 +1152,7 @@
         "speakers": "Nana berlin"
     }, 
     {
-        "event_id": 1042, 
-        "track_id": 10, 
-        "track_name": "Session", 
-        "room_id": 1133, 
-        "room_name": "Hall C.3", 
-        "start_time": "2016-12-28T10:00:00+01:00", 
-        "duration": 3600, 
-        "title": "Coder Dojo", 
-        "abstract": "Slot 0 Room 1 \n", 
-        "speakers": "Nana berlin"
-    }, 
-    {
-        "event_id": 1044, 
+        "event_id": 1045, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1133, 
@@ -1236,7 +1236,7 @@
         "speakers": "A.Vibrio.F."
     }, 
     {
-        "event_id": 1039, 
+        "event_id": 1038, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1134, 
@@ -1248,19 +1248,7 @@
         "speakers": "Nana berlin"
     }, 
     {
-        "event_id": 1041, 
-        "track_id": 10, 
-        "track_name": "Session", 
-        "room_id": 1134, 
-        "room_name": "Hall C.4", 
-        "start_time": "2016-12-28T11:00:00+01:00", 
-        "duration": 3600, 
-        "title": "Coder Dojo", 
-        "abstract": "Slot 1 Room 2 \n", 
-        "speakers": "Nana berlin"
-    }, 
-    {
-        "event_id": 1045, 
+        "event_id": 1042, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1134, 
@@ -1272,7 +1260,19 @@
         "speakers": "Nana berlin"
     }, 
     {
-        "event_id": 1046, 
+        "event_id": 1043, 
+        "track_id": 10, 
+        "track_name": "Session", 
+        "room_id": 1134, 
+        "room_name": "Hall C.4", 
+        "start_time": "2016-12-28T11:00:00+01:00", 
+        "duration": 3600, 
+        "title": "Coder Dojo", 
+        "abstract": "Slot 1 Room 2 \n", 
+        "speakers": "Nana berlin"
+    }, 
+    {
+        "event_id": 1047, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1134, 
@@ -1332,7 +1332,7 @@
         "speakers": "KaerF"
     }, 
     {
-        "event_id": 1197, 
+        "event_id": 1196, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1134, 
@@ -1380,7 +1380,7 @@
         "speakers": "Brightbyte"
     }, 
     {
-        "event_id": 1043, 
+        "event_id": 1041, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1230, 
@@ -1740,7 +1740,7 @@
         "speakers": "Maxigas"
     }, 
     {
-        "event_id": 1105, 
+        "event_id": 1103, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -1776,7 +1776,7 @@
         "speakers": "Reisende"
     }, 
     {
-        "event_id": 1192, 
+        "event_id": 1190, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -2160,7 +2160,7 @@
         "speakers": "Meingrundeinkommen"
     }, 
     {
-        "event_id": 1198, 
+        "event_id": 1197, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1134, 
@@ -2249,8 +2249,8 @@
         "track_name": "Session", 
         "room_id": 1230, 
         "room_name": "Hall F", 
-        "start_time": "2016-12-29T18:00:00+01:00", 
-        "duration": 8100, 
+        "start_time": "2016-12-29T21:00:00+01:00", 
+        "duration": 10800, 
         "title": "Movie Night", 
         "abstract": " \nBlocked for Film Screenings by Content Team", 
         "speakers": ""
@@ -2261,8 +2261,8 @@
         "track_name": "Session", 
         "room_id": 1230, 
         "room_name": "Hall F", 
-        "start_time": "2016-12-29T21:00:00+01:00", 
-        "duration": 10800, 
+        "start_time": "2016-12-29T18:00:00+01:00", 
+        "duration": 8100, 
         "title": "Movie Night", 
         "abstract": " \nBlocked for Film Screenings by Content Team", 
         "speakers": ""
@@ -2304,7 +2304,7 @@
         "speakers": "Eal"
     }, 
     {
-        "event_id": 1048, 
+        "event_id": 1050, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -2484,7 +2484,7 @@
         "speakers": "Stephan.schwichtenberg"
     }, 
     {
-        "event_id": 1199, 
+        "event_id": 1198, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1134, 
