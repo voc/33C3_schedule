@@ -1364,15 +1364,15 @@ Presented by Nik, a 26 year-old software developer and network admin from Bonn, 
           <link>https://events.ccc.de/congress/2016/wiki/Session:Coder_Dojo</link>
         </links>
       </event>
-      <event id="1039" guid="a2d3c9df94b90cd7240898885d1eb3ec">
+      <event id="1039" guid="82b6f15ab0e1d33b37e9817f997864d8">
         <logo/>
-        <date>2016-12-28T10:00:00+01:00</date>
-        <start>10:00</start>
+        <date>2016-12-28T11:00:00+01:00</date>
+        <start>11:00</start>
         <duration>1:00</duration>
         <room>Hall C.3</room>
         <slug/>
         <title>Coder Dojo</title>
-        <subtitle>Slot 0 Room 1</subtitle>
+        <subtitle>Slot 1 Room 1</subtitle>
         <track>self organized sessions</track>
         <type>workshop</type>
         <language>de</language>
@@ -1385,15 +1385,15 @@ Presented by Nik, a 26 year-old software developer and network admin from Bonn, 
           <link>https://events.ccc.de/congress/2016/wiki/Session:Coder_Dojo</link>
         </links>
       </event>
-      <event id="1040" guid="82b6f15ab0e1d33b37e9817f997864d8">
+      <event id="1040" guid="a2d3c9df94b90cd7240898885d1eb3ec">
         <logo/>
-        <date>2016-12-28T11:00:00+01:00</date>
-        <start>11:00</start>
+        <date>2016-12-28T10:00:00+01:00</date>
+        <start>10:00</start>
         <duration>1:00</duration>
         <room>Hall C.3</room>
         <slug/>
         <title>Coder Dojo</title>
-        <subtitle>Slot 1 Room 1</subtitle>
+        <subtitle>Slot 0 Room 1</subtitle>
         <track>self organized sessions</track>
         <type>workshop</type>
         <language>de</language>
