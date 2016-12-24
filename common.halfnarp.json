@@ -1121,10 +1121,10 @@
         "track_name": "Session", 
         "room_id": 1133, 
         "room_name": "Hall C.3", 
-        "start_time": "2016-12-28T10:00:00+01:00", 
+        "start_time": "2016-12-28T15:00:00+01:00", 
         "duration": 3600, 
         "title": "Coder Dojo", 
-        "abstract": "Slot 0 Room 1 \nDas CoderDojo richtet sich an Kinder und Jugendliche zwischen 6 und 17 Jahren, die gerne Software und Hardware programmieren und hacken m\u00f6chten.\n\nF\u00fcr unsere Workshops braucht man keine Erfahrungen ode", 
+        "abstract": "Slot 3 Room 1 \nDas CoderDojo richtet sich an Kinder und Jugendliche zwischen 6 und 17 Jahren, die gerne Software und Hardware programmieren und hacken m\u00f6chten.\n\nF\u00fcr unsere Workshops braucht man keine Erfahrungen ode", 
         "speakers": "Nana berlin, Cyber-phil, Niccokunzmann"
     }, 
     {
@@ -1133,10 +1133,10 @@
         "track_name": "Session", 
         "room_id": 1133, 
         "room_name": "Hall C.3", 
-        "start_time": "2016-12-28T15:00:00+01:00", 
+        "start_time": "2016-12-28T10:00:00+01:00", 
         "duration": 3600, 
         "title": "Coder Dojo", 
-        "abstract": "Slot 3 Room 1 \nDas CoderDojo richtet sich an Kinder und Jugendliche zwischen 6 und 17 Jahren, die gerne Software und Hardware programmieren und hacken m\u00f6chten.\n\nF\u00fcr unsere Workshops braucht man keine Erfahrungen ode", 
+        "abstract": "Slot 0 Room 1 \nDas CoderDojo richtet sich an Kinder und Jugendliche zwischen 6 und 17 Jahren, die gerne Software und Hardware programmieren und hacken m\u00f6chten.\n\nF\u00fcr unsere Workshops braucht man keine Erfahrungen ode", 
         "speakers": "Nana berlin, Cyber-phil, Niccokunzmann"
     }, 
     {
@@ -1241,10 +1241,10 @@
         "track_name": "Session", 
         "room_id": 1134, 
         "room_name": "Hall C.4", 
-        "start_time": "2016-12-28T10:00:00+01:00", 
+        "start_time": "2016-12-28T15:00:00+01:00", 
         "duration": 3600, 
         "title": "Coder Dojo", 
-        "abstract": "Slot 0 Room 2 \nDas CoderDojo richtet sich an Kinder und Jugendliche zwischen 6 und 17 Jahren, die gerne Software und Hardware programmieren und hacken m\u00f6chten.\n\nF\u00fcr unsere Workshops braucht man keine Erfahrungen ode", 
+        "abstract": "Slot 3 Room 2 \nDas CoderDojo richtet sich an Kinder und Jugendliche zwischen 6 und 17 Jahren, die gerne Software und Hardware programmieren und hacken m\u00f6chten.\n\nF\u00fcr unsere Workshops braucht man keine Erfahrungen ode", 
         "speakers": "Nana berlin, Cyber-phil, Niccokunzmann"
     }, 
     {
@@ -1253,10 +1253,10 @@
         "track_name": "Session", 
         "room_id": 1134, 
         "room_name": "Hall C.4", 
-        "start_time": "2016-12-28T15:00:00+01:00", 
+        "start_time": "2016-12-28T10:00:00+01:00", 
         "duration": 3600, 
         "title": "Coder Dojo", 
-        "abstract": "Slot 3 Room 2 \nDas CoderDojo richtet sich an Kinder und Jugendliche zwischen 6 und 17 Jahren, die gerne Software und Hardware programmieren und hacken m\u00f6chten.\n\nF\u00fcr unsere Workshops braucht man keine Erfahrungen ode", 
+        "abstract": "Slot 0 Room 2 \nDas CoderDojo richtet sich an Kinder und Jugendliche zwischen 6 und 17 Jahren, die gerne Software und Hardware programmieren und hacken m\u00f6chten.\n\nF\u00fcr unsere Workshops braucht man keine Erfahrungen ode", 
         "speakers": "Nana berlin, Cyber-phil, Niccokunzmann"
     }, 
     {
