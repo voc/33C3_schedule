@@ -156,7 +156,7 @@
         "speakers": ""
     }, 
     {
-        "event_id": 1104, 
+        "event_id": 1105, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -204,7 +204,7 @@
         "speakers": "Reisende"
     }, 
     {
-        "event_id": 1196, 
+        "event_id": 1199, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -348,7 +348,7 @@
         "speakers": "Obaz, UMT, CoopDot"
     }, 
     {
-        "event_id": 1204, 
+        "event_id": 1203, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1131, 
@@ -516,7 +516,7 @@
         "speakers": "Djim, Duisburch, Benni, Cbass, Stean"
     }, 
     {
-        "event_id": 1047, 
+        "event_id": 1045, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -816,7 +816,7 @@
         "speakers": "Envy"
     }, 
     {
-        "event_id": 1046, 
+        "event_id": 1047, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -852,7 +852,7 @@
         "speakers": "Jeffburdges"
     }, 
     {
-        "event_id": 1103, 
+        "event_id": 1104, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -888,7 +888,7 @@
         "speakers": "Reisende"
     }, 
     {
-        "event_id": 1197, 
+        "event_id": 1196, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -900,7 +900,7 @@
         "speakers": "Ijon"
     }, 
     {
-        "event_id": 1209, 
+        "event_id": 1210, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -1056,7 +1056,7 @@
         "speakers": "Ontological, Mdik"
     }, 
     {
-        "event_id": 1040, 
+        "event_id": 1039, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1132, 
@@ -1164,7 +1164,7 @@
         "speakers": "Nana berlin, Cyber-phil, Niccokunzmann"
     }, 
     {
-        "event_id": 1039, 
+        "event_id": 1040, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1133, 
@@ -1272,7 +1272,7 @@
         "speakers": "KaerF"
     }, 
     {
-        "event_id": 1205, 
+        "event_id": 1204, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1134, 
@@ -1668,7 +1668,7 @@
         "speakers": "Maxigas"
     }, 
     {
-        "event_id": 1105, 
+        "event_id": 1103, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -1716,7 +1716,7 @@
         "speakers": "Reisende"
     }, 
     {
-        "event_id": 1198, 
+        "event_id": 1197, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -2136,7 +2136,7 @@
         "speakers": "Meingrundeinkommen"
     }, 
     {
-        "event_id": 1206, 
+        "event_id": 1205, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1134, 
@@ -2153,8 +2153,8 @@
         "track_name": "Session", 
         "room_id": 1230, 
         "room_name": "Hall F", 
-        "start_time": "2016-12-29T18:00:00+01:00", 
-        "duration": 8100, 
+        "start_time": "2016-12-29T21:00:00+01:00", 
+        "duration": 10800, 
         "title": "Film-Abend", 
         "abstract": " \nBlocked for Film Screenings by Content Team", 
         "speakers": ""
@@ -2165,8 +2165,8 @@
         "track_name": "Session", 
         "room_id": 1230, 
         "room_name": "Hall F", 
-        "start_time": "2016-12-29T21:00:00+01:00", 
-        "duration": 10800, 
+        "start_time": "2016-12-29T18:00:00+01:00", 
+        "duration": 8100, 
         "title": "Film-Abend", 
         "abstract": " \nBlocked for Film Screenings by Content Team", 
         "speakers": ""
@@ -2213,8 +2213,8 @@
         "track_name": "Session", 
         "room_id": 1230, 
         "room_name": "Hall F", 
-        "start_time": "2016-12-29T21:00:00+01:00", 
-        "duration": 10800, 
+        "start_time": "2016-12-29T18:00:00+01:00", 
+        "duration": 8100, 
         "title": "Movie Night", 
         "abstract": " \nBlocked for Film Screenings by Content Team", 
         "speakers": ""
@@ -2225,14 +2225,14 @@
         "track_name": "Session", 
         "room_id": 1230, 
         "room_name": "Hall F", 
-        "start_time": "2016-12-29T18:00:00+01:00", 
-        "duration": 8100, 
+        "start_time": "2016-12-29T21:00:00+01:00", 
+        "duration": 10800, 
         "title": "Movie Night", 
         "abstract": " \nBlocked for Film Screenings by Content Team", 
         "speakers": ""
     }, 
     {
-        "event_id": 1210, 
+        "event_id": 1209, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1230, 
@@ -2256,7 +2256,7 @@
         "speakers": "Eal"
     }, 
     {
-        "event_id": 1045, 
+        "event_id": 1046, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -2460,7 +2460,7 @@
         "speakers": "Stephan.schwichtenberg"
     }, 
     {
-        "event_id": 1202, 
+        "event_id": 1206, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1134, 
