@@ -204,7 +204,7 @@
         "speakers": "Reisende"
     }, 
     {
-        "event_id": 1206, 
+        "event_id": 1208, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -216,7 +216,7 @@
         "speakers": "Ijon"
     }, 
     {
-        "event_id": 1218, 
+        "event_id": 1220, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -348,7 +348,7 @@
         "speakers": "Obaz, UMT, CoopDot"
     }, 
     {
-        "event_id": 1214, 
+        "event_id": 1216, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1131, 
@@ -516,7 +516,7 @@
         "speakers": "Djim, Duisburch, Benni, Cbass, Stean"
     }, 
     {
-        "event_id": 1047, 
+        "event_id": 1045, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -816,7 +816,7 @@
         "speakers": "Envy"
     }, 
     {
-        "event_id": 1046, 
+        "event_id": 1047, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -900,7 +900,7 @@
         "speakers": "Reisende"
     }, 
     {
-        "event_id": 1207, 
+        "event_id": 1209, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -1092,7 +1092,7 @@
         "speakers": "Ontological, Mdik"
     }, 
     {
-        "event_id": 1036, 
+        "event_id": 1038, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1132, 
@@ -1188,7 +1188,7 @@
         "speakers": "Nana berlin, Cyber-phil, Niccokunzmann"
     }, 
     {
-        "event_id": 1038, 
+        "event_id": 1039, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1133, 
@@ -1260,7 +1260,7 @@
         "speakers": "Njumaen"
     }, 
     {
-        "event_id": 1039, 
+        "event_id": 1036, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1134, 
@@ -1332,7 +1332,7 @@
         "speakers": "KaerF"
     }, 
     {
-        "event_id": 1212, 
+        "event_id": 1214, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1134, 
@@ -1716,18 +1716,6 @@
         "speakers": "Uwe premium"
     }, 
     {
-        "event_id": 1057, 
-        "track_id": 10, 
-        "track_name": "Session", 
-        "room_id": 1111, 
-        "room_name": "Hall A.1", 
-        "start_time": "2016-12-29T16:00:00+01:00", 
-        "duration": 3600, 
-        "title": "Der 33 Jahrer\u00fcckblick", 
-        "abstract": " \nThis is the follow-up discussion on the lecture in the official program:\n\nThe proper relationship of technology and politics and thereby the percentage each covers in the Congress schedule have been t", 
-        "speakers": "Maxigas"
-    }, 
-    {
         "event_id": 1108, 
         "track_id": 10, 
         "track_name": "Session", 
@@ -1776,7 +1764,7 @@
         "speakers": "Reisende"
     }, 
     {
-        "event_id": 1208, 
+        "event_id": 1206, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -2196,7 +2184,7 @@
         "speakers": "Meingrundeinkommen"
     }, 
     {
-        "event_id": 1216, 
+        "event_id": 1212, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1134, 
@@ -2285,8 +2273,8 @@
         "track_name": "Session", 
         "room_id": 1230, 
         "room_name": "Hall F", 
-        "start_time": "2016-12-29T21:00:00+01:00", 
-        "duration": 10800, 
+        "start_time": "2016-12-29T18:00:00+01:00", 
+        "duration": 8100, 
         "title": "Movie Night", 
         "abstract": " \nBlocked for Film Screenings by Content Team", 
         "speakers": ""
@@ -2297,8 +2285,8 @@
         "track_name": "Session", 
         "room_id": 1230, 
         "room_name": "Hall F", 
-        "start_time": "2016-12-29T18:00:00+01:00", 
-        "duration": 8100, 
+        "start_time": "2016-12-29T21:00:00+01:00", 
+        "duration": 10800, 
         "title": "Movie Night", 
         "abstract": " \nBlocked for Film Screenings by Content Team", 
         "speakers": ""
@@ -2316,7 +2304,7 @@
         "speakers": "Fluktusdukt, Konfusius"
     }, 
     {
-        "event_id": 1220, 
+        "event_id": 1217, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1230, 
@@ -2340,7 +2328,7 @@
         "speakers": "Eal"
     }, 
     {
-        "event_id": 1045, 
+        "event_id": 1046, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -2544,7 +2532,7 @@
         "speakers": "Stephan.schwichtenberg"
     }, 
     {
-        "event_id": 1215, 
+        "event_id": 1213, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1134, 
