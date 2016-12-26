@@ -108,6 +108,18 @@
         "speakers": "tinowa"
     }, 
     {
+        "event_id": 416, 
+        "track_id": 10, 
+        "track_name": "Podcastingtisch", 
+        "room_id": 1051, 
+        "room_name": "Podcastingtisch", 
+        "start_time": "2016-12-27T15:00:00+01:00", 
+        "duration": 3600, 
+        "title": "Talentschmiede", 
+        "abstract": "", 
+        "speakers": "RikschaAndi, Lukas Rinke"
+    }, 
+    {
         "event_id": 392, 
         "track_id": 10, 
         "track_name": "Podcastingtisch", 
@@ -204,7 +216,7 @@
         "speakers": "Reisende"
     }, 
     {
-        "event_id": 1214, 
+        "event_id": 1215, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -216,7 +228,7 @@
         "speakers": "Ijon"
     }, 
     {
-        "event_id": 1226, 
+        "event_id": 1225, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -540,7 +552,7 @@
         "speakers": "Djim, Duisburch, Benni, Cbass, Stean"
     }, 
     {
-        "event_id": 1049, 
+        "event_id": 1047, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -840,7 +852,7 @@
         "speakers": "Envy"
     }, 
     {
-        "event_id": 1048, 
+        "event_id": 1049, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -924,7 +936,7 @@
         "speakers": "Reisende"
     }, 
     {
-        "event_id": 1215, 
+        "event_id": 1214, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -936,7 +948,7 @@
         "speakers": "Ijon"
     }, 
     {
-        "event_id": 1225, 
+        "event_id": 1227, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -1116,7 +1128,7 @@
         "speakers": "Ontological, Mdik"
     }, 
     {
-        "event_id": 1041, 
+        "event_id": 1039, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1132, 
@@ -1212,7 +1224,7 @@
         "speakers": "Nana berlin, Cyber-phil, Niccokunzmann"
     }, 
     {
-        "event_id": 1038, 
+        "event_id": 1040, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1133, 
@@ -1224,7 +1236,7 @@
         "speakers": "Nana berlin, Cyber-phil, Niccokunzmann"
     }, 
     {
-        "event_id": 1040, 
+        "event_id": 1041, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1133, 
@@ -1246,6 +1258,30 @@
         "title": "Discussing Postcolonial Computing", 
         "abstract": " \nFrom artificial intolerance to decolonizing our programming: We want to discuss who is speaking? who is writing the code and what do we have to do about it? \nEver heard of \u201eMy friend's not a gorilla\u201c ", 
         "speakers": "Al-Badri Nelles"
+    }, 
+    {
+        "event_id": 1067, 
+        "track_id": 10, 
+        "track_name": "Session", 
+        "room_id": 1133, 
+        "room_name": "Hall C.3", 
+        "start_time": "2016-12-28T14:00:00+01:00", 
+        "duration": 5400, 
+        "title": "Einstieg in App-Programmierung und Scratch (f\u00fcr Kids)", 
+        "abstract": "Workshop 1 \nEinstieg in App-Programmierung und Scratch, 2 Workshops mit jeweils 90 Minuten f\u00fcr bis zu 10 Kids, organisiert von App Camps und Code+Design", 
+        "speakers": "InaW"
+    }, 
+    {
+        "event_id": 1068, 
+        "track_id": 10, 
+        "track_name": "Session", 
+        "room_id": 1133, 
+        "room_name": "Hall C.3", 
+        "start_time": "2016-12-28T15:30:00+01:00", 
+        "duration": 5400, 
+        "title": "Einstieg in App-Programmierung und Scratch (f\u00fcr Kids)", 
+        "abstract": "Workshop 2 \nEinstieg in App-Programmierung und Scratch, 2 Workshops mit jeweils 90 Minuten f\u00fcr bis zu 10 Kids, organisiert von App Camps und Code+Design", 
+        "speakers": "InaW"
     }, 
     {
         "event_id": 1117, 
@@ -1284,7 +1320,7 @@
         "speakers": "Njumaen"
     }, 
     {
-        "event_id": 1039, 
+        "event_id": 1038, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1134, 
@@ -2352,7 +2388,7 @@
         "speakers": "Fluktusdukt, Konfusius"
     }, 
     {
-        "event_id": 1228, 
+        "event_id": 1226, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1230, 
@@ -2376,7 +2412,7 @@
         "speakers": "Eal"
     }, 
     {
-        "event_id": 1047, 
+        "event_id": 1048, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -2568,7 +2604,7 @@
         "speakers": "Iblech"
     }, 
     {
-        "event_id": 1227, 
+        "event_id": 1228, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1131, 
