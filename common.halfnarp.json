@@ -156,7 +156,7 @@
         "speakers": ""
     }, 
     {
-        "event_id": 1114, 
+        "event_id": 1115, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -204,7 +204,7 @@
         "speakers": "Reisende"
     }, 
     {
-        "event_id": 1223, 
+        "event_id": 1221, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -216,24 +216,24 @@
         "speakers": "Ijon"
     }, 
     {
-        "event_id": 1232, 
+        "event_id": 1231, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
         "room_name": "Hall A.1", 
-        "start_time": "2016-12-27T15:15:00+01:00", 
+        "start_time": "2016-12-27T10:00:00+01:00", 
         "duration": 1800, 
         "title": "Subtitles-Angelmeetings", 
         "abstract": " \nThe Angelmeeting for the subtitles Angels.\nIf you want to be approved as a subtitles Angel, please visit!\nIf you are one already, this is the easiest way to meet and manage shifts etc.\nWelcome to the ", 
         "speakers": "Cube"
     }, 
     {
-        "event_id": 1234, 
+        "event_id": 1235, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
         "room_name": "Hall A.1", 
-        "start_time": "2016-12-27T10:00:00+01:00", 
+        "start_time": "2016-12-27T15:15:00+01:00", 
         "duration": 1800, 
         "title": "Subtitles-Angelmeetings", 
         "abstract": " \nThe Angelmeeting for the subtitles Angels.\nIf you want to be approved as a subtitles Angel, please visit!\nIf you are one already, this is the easiest way to meet and manage shifts etc.\nWelcome to the ", 
@@ -360,7 +360,7 @@
         "speakers": "Obaz, UMT, CoopDot"
     }, 
     {
-        "event_id": 1228, 
+        "event_id": 1230, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1131, 
@@ -451,7 +451,7 @@
         "room_name": "Hall C.3", 
         "start_time": "2016-12-27T10:15:00+01:00", 
         "duration": 2520, 
-        "title": "42birds", 
+        "title": "42birds: Randomized Signature Block for Emails", 
         "abstract": " \nFor years I updated the signature for my emails manually \u2013 until I got fed up\u2026 That\u2019s why I wrote a script to create a randomized signature block automatically from an RSS feed!", 
         "speakers": "Birdy1976"
     }, 
@@ -535,7 +535,7 @@
         "room_name": "Hall C.4", 
         "start_time": "2016-12-27T19:30:00+01:00", 
         "duration": 5400, 
-        "title": "Radio Lockdown Directive", 
+        "title": "Radio Lockdown Directive: coordinating future steps", 
         "abstract": " \nThis will be a meeting for political organisations and individuals who work on the Radio Lockdown Directive.", 
         "speakers": "Eal"
     }, 
@@ -552,7 +552,7 @@
         "speakers": "Djim, Duisburch, Benni, Cbass, Stean"
     }, 
     {
-        "event_id": 1050, 
+        "event_id": 1052, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -859,7 +859,7 @@
         "room_name": "Hall A.1", 
         "start_time": "2016-12-28T10:00:00+01:00", 
         "duration": 2520, 
-        "title": "42birds", 
+        "title": "42birds: Creative Coding with Processing", 
         "abstract": " \nProcessing is a flexible software sketchbook and a language for learning how to code within the context of the visual arts. In this workshop you'll make your first steps!", 
         "speakers": "Birdy1976"
     }, 
@@ -876,7 +876,7 @@
         "speakers": "Envy"
     }, 
     {
-        "event_id": 1052, 
+        "event_id": 1051, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -912,7 +912,7 @@
         "speakers": "Jeffburdges"
     }, 
     {
-        "event_id": 1113, 
+        "event_id": 1114, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -972,7 +972,7 @@
         "speakers": "Ijon"
     }, 
     {
-        "event_id": 1231, 
+        "event_id": 1232, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -1123,7 +1123,7 @@
         "room_name": "Hall C.1", 
         "start_time": "2016-12-28T16:30:00+01:00", 
         "duration": 1800, 
-        "title": "MAKE-IT", 
+        "title": "MAKE-IT: Interactive presentation of the EU research project about the Maker Movement", 
         "abstract": "Discussion about similarities, differences and interactions between the maker movement and the hacker scene \nThis interactive session consists of a 10 minute presentation to present the EU research project MAKE-IT, followed by a 20 minute discussion with the participants about similarities, differences and i", 
         "speakers": "Janosch"
     }, 
@@ -1135,7 +1135,7 @@
         "room_name": "Hall C.1", 
         "start_time": "2016-12-28T17:00:00+01:00", 
         "duration": 3600, 
-        "title": "ValueShuffle", 
+        "title": "ValueShuffle: Mixing Confidential Transactions for Full Privacy in Bitcoin", 
         "abstract": " \nI'll talk about one of our research projects to improve anonymity in Bitcoin by peer-to-peer coin mixing.\nIn particular, I'll present ValueShuffle, the first coin mixing protocol that is compatible wi", 
         "speakers": "Real-or-random"
     }, 
@@ -1152,7 +1152,7 @@
         "speakers": "Ontological, Mdik"
     }, 
     {
-        "event_id": 1044, 
+        "event_id": 1040, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1132, 
@@ -1248,18 +1248,6 @@
         "speakers": "DerMicha"
     }, 
     {
-        "event_id": 1040, 
-        "track_id": 10, 
-        "track_name": "Session", 
-        "room_id": 1133, 
-        "room_name": "Hall C.3", 
-        "start_time": "2016-12-28T10:00:00+01:00", 
-        "duration": 3600, 
-        "title": "Coder Dojo", 
-        "abstract": "Slot 0 Room 1 \nDas CoderDojo richtet sich an Kinder und Jugendliche zwischen 6 und 17 Jahren, die gerne Software und Hardware programmieren und hacken m\u00f6chten.\n\nF\u00fcr unsere Workshops braucht man keine Erfahrungen ode", 
-        "speakers": "Nana berlin, Cyber-phil, Niccokunzmann"
-    }, 
-    {
         "event_id": 1041, 
         "track_id": 10, 
         "track_name": "Session", 
@@ -1272,7 +1260,7 @@
         "speakers": "Nana berlin, Cyber-phil, Niccokunzmann"
     }, 
     {
-        "event_id": 1043, 
+        "event_id": 1042, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1133, 
@@ -1281,6 +1269,18 @@
         "duration": 3600, 
         "title": "Coder Dojo", 
         "abstract": "Slot 2 Room 1 \nDas CoderDojo richtet sich an Kinder und Jugendliche zwischen 6 und 17 Jahren, die gerne Software und Hardware programmieren und hacken m\u00f6chten.\n\nF\u00fcr unsere Workshops braucht man keine Erfahrungen ode", 
+        "speakers": "Nana berlin, Cyber-phil, Niccokunzmann"
+    }, 
+    {
+        "event_id": 1043, 
+        "track_id": 10, 
+        "track_name": "Session", 
+        "room_id": 1133, 
+        "room_name": "Hall C.3", 
+        "start_time": "2016-12-28T10:00:00+01:00", 
+        "duration": 3600, 
+        "title": "Coder Dojo", 
+        "abstract": "Slot 0 Room 1 \nDas CoderDojo richtet sich an Kinder und Jugendliche zwischen 6 und 17 Jahren, die gerne Software und Hardware programmieren und hacken m\u00f6chten.\n\nF\u00fcr unsere Workshops braucht man keine Erfahrungen ode", 
         "speakers": "Nana berlin, Cyber-phil, Niccokunzmann"
     }, 
     {
@@ -1301,10 +1301,10 @@
         "track_name": "Session", 
         "room_id": 1133, 
         "room_name": "Hall C.3", 
-        "start_time": "2016-12-28T15:30:00+01:00", 
+        "start_time": "2016-12-28T14:00:00+01:00", 
         "duration": 5400, 
         "title": "Einstieg in App-Programmierung und Scratch (f\u00fcr Kids)", 
-        "abstract": "Workshop 2 \nEinstieg in App-Programmierung und Scratch, 2 Workshops mit jeweils 90 Minuten f\u00fcr bis zu 10 Kids, organisiert von App Camps und Code+Design", 
+        "abstract": "Workshop 1 \nEinstieg in App-Programmierung und Scratch, 2 Workshops mit jeweils 90 Minuten f\u00fcr bis zu 10 Kids, organisiert von App Camps und Code+Design", 
         "speakers": "InaW"
     }, 
     {
@@ -1313,10 +1313,10 @@
         "track_name": "Session", 
         "room_id": 1133, 
         "room_name": "Hall C.3", 
-        "start_time": "2016-12-28T14:00:00+01:00", 
+        "start_time": "2016-12-28T15:30:00+01:00", 
         "duration": 5400, 
         "title": "Einstieg in App-Programmierung und Scratch (f\u00fcr Kids)", 
-        "abstract": "Workshop 1 \nEinstieg in App-Programmierung und Scratch, 2 Workshops mit jeweils 90 Minuten f\u00fcr bis zu 10 Kids, organisiert von App Camps und Code+Design", 
+        "abstract": "Workshop 2 \nEinstieg in App-Programmierung und Scratch, 2 Workshops mit jeweils 90 Minuten f\u00fcr bis zu 10 Kids, organisiert von App Camps und Code+Design", 
         "speakers": "InaW"
     }, 
     {
@@ -1356,7 +1356,7 @@
         "speakers": "Njumaen"
     }, 
     {
-        "event_id": 1042, 
+        "event_id": 1044, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1134, 
@@ -1435,12 +1435,12 @@
         "room_name": "Hall C.4", 
         "start_time": "2016-12-28T19:00:00+01:00", 
         "duration": 3600, 
-        "title": "Radio Lockdown", 
+        "title": "Radio Lockdown: Community WiFis unite!", 
         "abstract": " \nThe Radio Equipment Directive (2014/53/EU) contains a provision requiring hardware manufacturers to check all software installable on their devices. Community WiFi projects heavily rely on (free softw", 
         "speakers": "KaerF"
     }, 
     {
-        "event_id": 1230, 
+        "event_id": 1227, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1134, 
@@ -1507,7 +1507,7 @@
         "room_name": "Hall 13-14", 
         "start_time": "2016-12-28T20:30:00+01:00", 
         "duration": 3600, 
-        "title": "FSaaS", 
+        "title": "FSaaS: Challenges for 'Free Software as a Service' in business", 
         "abstract": " \nOf all the Free Software business models, Software-as-a-Service (SaaS) is one of the most appealing. Wordpresss blazed a path over a decade ago that few have managed to follow. How do Free Software bu", 
         "speakers": "Eal"
     }, 
@@ -1848,7 +1848,7 @@
         "speakers": "AndyC4"
     }, 
     {
-        "event_id": 1115, 
+        "event_id": 1113, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -1896,7 +1896,7 @@
         "speakers": "Reisende"
     }, 
     {
-        "event_id": 1221, 
+        "event_id": 1222, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -2035,7 +2035,7 @@
         "room_name": "Hall C.1", 
         "start_time": "2016-12-29T13:15:00+01:00", 
         "duration": 2700, 
-        "title": "DSM, EIF, RED", 
+        "title": "DSM, EIF, RED: Acronyms on the EU level and why they matter for software freedom", 
         "abstract": " \nIn the coming years, the EU is determined to bring its industries to the digital market and acquire a leading position on the global tech market. In order to achieve this ambitious goal of allowing Eu", 
         "speakers": "Eal"
     }, 
@@ -2143,7 +2143,7 @@
         "room_name": "Hall C.2", 
         "start_time": "2016-12-29T12:30:00+01:00", 
         "duration": 5400, 
-        "title": "SOSDF(H)B", 
+        "title": "SOSDF(H)B: Salt-Orchestrated Software Defined Freifunk (Hochstift) Backbone: DataCenter und Carrier Techniken f\u00fcr Freifunk abgucken", 
         "abstract": " \n", 
         "speakers": "Barbarossa"
     }, 
@@ -2179,7 +2179,7 @@
         "room_name": "Hall C.3", 
         "start_time": "2016-12-29T10:00:00+01:00", 
         "duration": 2520, 
-        "title": "42birds", 
+        "title": "42birds: Missing RSS Feed? Create Your Own!", 
         "abstract": " \nIf your favoured website / podcast misses an RSS feed this discussion is for you! I'll show how-to extract the necessary data from the page and build your very own feed with it.", 
         "speakers": "Birdy1976"
     }, 
@@ -2191,7 +2191,7 @@
         "room_name": "Hall C.3", 
         "start_time": "2016-12-29T11:00:00+01:00", 
         "duration": 3600, 
-        "title": "Can't touch this", 
+        "title": "Can't touch this: Introduction to self defense for women", 
         "abstract": " \nClick for a German and an English description.\n\nLearn the legal frame of self defence in Germany/Switzerland, and five easy techniques to avoid sexual harassment and to counter physical attacks, inclu", 
         "speakers": "NinaLaFleur"
     }, 
@@ -2203,7 +2203,7 @@
         "room_name": "Hall C.3", 
         "start_time": "2016-12-29T12:00:00+01:00", 
         "duration": 5400, 
-        "title": "IoT by beginners for beginners", 
+        "title": "IoT by beginners for beginners: Getting started with NodeMCU", 
         "abstract": "The ESP 8266 WiFi SoC \nGetting started with the Internet of Things using the ESP8266 WiFi SoC. A basic how-to for beginners by beginners: \n- which software you need to install - how to flash the NoceMCU Firmware - how to st", 
         "speakers": "TobiOrNotTobi, Trema"
     }, 
@@ -2251,7 +2251,7 @@
         "room_name": "Hall C.4", 
         "start_time": "2016-12-29T18:00:00+01:00", 
         "duration": 7200, 
-        "title": "Dn42", 
+        "title": "Dn42: Decentralised Network 42", 
         "abstract": "Presentations and Discussion \ndn42 is a big dynamic VPN, which employs Internet technologies (BGP, whois database, DNS, etc). Participants connect to each other using network tunnels (GRE, OpenVPN, Tinc, IPsec) and exchange routes", 
         "speakers": "Irl, Ana"
     }, 
@@ -2304,7 +2304,7 @@
         "speakers": "Meingrundeinkommen"
     }, 
     {
-        "event_id": 1226, 
+        "event_id": 1228, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1134, 
@@ -2321,8 +2321,8 @@
         "track_name": "Session", 
         "room_id": 1230, 
         "room_name": "Hall F", 
-        "start_time": "2016-12-29T21:00:00+01:00", 
-        "duration": 10800, 
+        "start_time": "2016-12-29T18:00:00+01:00", 
+        "duration": 8100, 
         "title": "Film-Abend", 
         "abstract": " \nBlocked for Film Screenings by Content Team", 
         "speakers": ""
@@ -2333,8 +2333,8 @@
         "track_name": "Session", 
         "room_id": 1230, 
         "room_name": "Hall F", 
-        "start_time": "2016-12-29T18:00:00+01:00", 
-        "duration": 8100, 
+        "start_time": "2016-12-29T21:00:00+01:00", 
+        "duration": 10800, 
         "title": "Film-Abend", 
         "abstract": " \nBlocked for Film Screenings by Content Team", 
         "speakers": ""
@@ -2383,7 +2383,7 @@
         "room_name": "Hall F", 
         "start_time": "2016-12-29T20:15:00+01:00", 
         "duration": 2700, 
-        "title": "Kurzfilm-Screening", 
+        "title": "Kurzfilm-Screening: \"61-Tage\" Deutschland auf der Flucht", 
         "abstract": "Kurzfilm screening \nKurzfilm-Screening 61 Tage - Deutschland auf der Flucht  -  Was w\u00e4re, wenn WIR fliehen m\u00fcssten!?", 
         "speakers": "DerNiko"
     }, 
@@ -2424,7 +2424,7 @@
         "speakers": "Fluktusdukt, Konfusius"
     }, 
     {
-        "event_id": 1235, 
+        "event_id": 1236, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1230, 
@@ -2448,7 +2448,7 @@
         "speakers": "Eal"
     }, 
     {
-        "event_id": 1051, 
+        "event_id": 1050, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -2671,7 +2671,7 @@
         "room_name": "Hall C.3", 
         "start_time": "2016-12-30T10:00:00+01:00", 
         "duration": 2520, 
-        "title": "42birds", 
+        "title": "42birds: Learn Version Control with Git", 
         "abstract": " \nIf you'll ever attend a hackathon, hack day, hackfest or codefest sooner or later you'll have to deal with Git \u2013 a free version control system for coders / hackers.", 
         "speakers": "Birdy1976"
     }, 
@@ -2700,7 +2700,7 @@
         "speakers": "Stephan.schwichtenberg"
     }, 
     {
-        "event_id": 1229, 
+        "event_id": 1226, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1134, 
