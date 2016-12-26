@@ -1088,7 +1088,7 @@
         "start_time": "2016-12-28T17:00:00+01:00", 
         "duration": 3600, 
         "title": "ValueShuffle", 
-        "abstract": " \nTalk about ValueShuffle, a project to improve privacy in Bitcoin (more to be announced)", 
+        "abstract": " \nI'll talk about one of our research projects to improve anonymity in Bitcoin by peer-to-peer coin mixing.\nIn particular, I'll present ValueShuffle, the first coin mixing protocol that is compatible wi", 
         "speakers": "Real-or-random"
     }, 
     {
