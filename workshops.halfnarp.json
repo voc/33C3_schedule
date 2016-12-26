@@ -2112,7 +2112,19 @@
         "speakers": "Jwacalex, V0tti, Felixs"
     }, 
     {
-        "event_id": 1258, 
+        "event_id": 1257, 
+        "track_id": 10, 
+        "track_name": "Session", 
+        "room_id": 1131, 
+        "room_name": "Hall C.1", 
+        "start_time": "2016-12-28T17:00:00+01:00", 
+        "duration": 3600, 
+        "title": "ValueShuffle", 
+        "abstract": "I'll talk about one of our research projects to improve anonymity in Bitcoin by peer-to-peer coin mixing.\nIn particular, I'll present ValueShuffle, the first coin mixing protocol that is compatible with Confidential Transactions, a proposal to hide monetary values in Bitcoin transactions. Combined together, ValueShuffle and Confidential Transaction provide strong privacy on the blockchain. I'll also explain CoinShuffle++, a very efficient peer-to-peer coin mixing protocol which forms the basis for ValueShuffle.", 
+        "speakers": "Real-or-random"
+    }, 
+    {
+        "event_id": 1259, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1132, 
@@ -2124,7 +2136,7 @@
         "speakers": "Eal"
     }, 
     {
-        "event_id": 1259, 
+        "event_id": 1260, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 0, 
@@ -2136,7 +2148,7 @@
         "speakers": "Mischk*"
     }, 
     {
-        "event_id": 1260, 
+        "event_id": 1261, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1120, 
@@ -2148,7 +2160,7 @@
         "speakers": "Jeffburdges"
     }, 
     {
-        "event_id": 1261, 
+        "event_id": 1262, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1120, 
@@ -2160,7 +2172,7 @@
         "speakers": "Jeffburdges"
     }, 
     {
-        "event_id": 1262, 
+        "event_id": 1263, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1120, 
@@ -2172,7 +2184,7 @@
         "speakers": "Jeffburdges"
     }, 
     {
-        "event_id": 1265, 
+        "event_id": 1266, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -2184,7 +2196,7 @@
         "speakers": "Eal"
     }, 
     {
-        "event_id": 1266, 
+        "event_id": 1267, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -2196,7 +2208,7 @@
         "speakers": "Blackspear"
     }, 
     {
-        "event_id": 1268, 
+        "event_id": 1269, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1134, 
@@ -2208,7 +2220,7 @@
         "speakers": "Eal"
     }, 
     {
-        "event_id": 1269, 
+        "event_id": 1270, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1134, 
@@ -2220,7 +2232,7 @@
         "speakers": "Brightbyte"
     }, 
     {
-        "event_id": 1270, 
+        "event_id": 1271, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1131, 
@@ -2232,7 +2244,7 @@
         "speakers": "Ontological, Mdik"
     }, 
     {
-        "event_id": 1271, 
+        "event_id": 1272, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1133, 
