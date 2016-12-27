@@ -1728,6 +1728,18 @@
         "speakers": "informatom, Daniel Me\u00dfner"
     }, 
     {
+        "event_id": 385, 
+        "track_id": 10, 
+        "track_name": "Podcastingtisch", 
+        "room_id": 1051, 
+        "room_name": "Podcastingtisch", 
+        "start_time": "2016-12-29T15:00:00+01:00", 
+        "duration": 3600, 
+        "title": "The InSnider - Mein erstes Mal Congres", 
+        "abstract": "", 
+        "speakers": "MacSnider, Malik, teenagersexjohnny"
+    }, 
+    {
         "event_id": 374, 
         "track_id": 10, 
         "track_name": "Podcastingtisch", 
