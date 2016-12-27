@@ -968,7 +968,7 @@
         "start_time": "2016-12-29T11:00:00+01:00", 
         "duration": 2700, 
         "title": "How to train - and reprogram - your quadcopter", 
-        "abstract": "This talk will be about how I hacked a nano quadcopter, and how (and why) you should too !", 
+        "abstract": "This talk will be about how I hacked a nano quadcopter, and how (and why) you should too !\nThis is a small introduction to hardware reverse engineering and embedded programming, from a newby in the hacker world.", 
         "speakers": "Salamandar"
     }, 
     {
