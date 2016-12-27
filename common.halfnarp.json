@@ -2568,6 +2568,18 @@
         "speakers": "Sebalis"
     }, 
     {
+        "event_id": 418, 
+        "track_id": 10, 
+        "track_name": "Sendezentrumsb\u00fchne", 
+        "room_id": 1050, 
+        "room_name": "Sendezentrumsb\u00fchne", 
+        "start_time": "2016-12-30T12:05:00+01:00", 
+        "duration": 7200, 
+        "title": "Chaosradio", 
+        "abstract": "", 
+        "speakers": ""
+    }, 
+    {
         "event_id": 380, 
         "track_id": 10, 
         "track_name": "Podcastingtisch", 
