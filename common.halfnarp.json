@@ -216,12 +216,12 @@
         "speakers": "Ijon"
     }, 
     {
-        "event_id": 1244, 
+        "event_id": 1243, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
         "room_name": "Hall A.1", 
-        "start_time": "2016-12-27T15:15:00+01:00", 
+        "start_time": "2016-12-27T10:00:00+01:00", 
         "duration": 1800, 
         "title": "Subtitles-Angelmeetings", 
         "abstract": " \nThe Angelmeeting for the subtitles Angels.\nIf you want to be approved as a subtitles Angel, please visit!\nIf you are one already, this is the easiest way to meet and manage shifts etc.\nWelcome to the ", 
@@ -233,7 +233,7 @@
         "track_name": "Session", 
         "room_id": 1111, 
         "room_name": "Hall A.1", 
-        "start_time": "2016-12-27T10:00:00+01:00", 
+        "start_time": "2016-12-27T15:15:00+01:00", 
         "duration": 1800, 
         "title": "Subtitles-Angelmeetings", 
         "abstract": " \nThe Angelmeeting for the subtitles Angels.\nIf you want to be approved as a subtitles Angel, please visit!\nIf you are one already, this is the easiest way to meet and manage shifts etc.\nWelcome to the ", 
@@ -576,7 +576,7 @@
         "speakers": "Swest"
     }, 
     {
-        "event_id": 1112, 
+        "event_id": 1113, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -584,7 +584,7 @@
         "start_time": "2016-12-27T22:00:00+01:00", 
         "duration": 3600, 
         "title": "Hacker workflows", 
-        "abstract": "Hackbases I \n", 
+        "abstract": " \nWHAT DO YOU USE FOR X?\nCall out the best and worst open source software, websites, and practices. Relaxed get-together + Pad note-taking + Learn.\nFocus: Groupware / Collaboration / \"Workflow\".", 
         "speakers": "Dcht00"
     }, 
     {
@@ -1524,7 +1524,7 @@
         "speakers": "Eal"
     }, 
     {
-        "event_id": 1111, 
+        "event_id": 1112, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -2760,15 +2760,15 @@
         "speakers": "Cube"
     }, 
     {
-        "event_id": 1113, 
+        "event_id": 1111, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
         "room_name": "Hall 13-14", 
         "start_time": "2016-12-30T18:00:00+01:00", 
         "duration": 3600, 
-        "title": "Hacker workflows", 
-        "abstract": "Hackbases II \n", 
+        "title": "Hackbases 5 years", 
+        "abstract": " \nHackbases are similar to hackerspaces but people also live in them.", 
         "speakers": "Dcht00"
     }, 
     {
