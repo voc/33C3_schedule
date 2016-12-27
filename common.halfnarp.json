@@ -156,7 +156,7 @@
         "speakers": ""
     }, 
     {
-        "event_id": 1114, 
+        "event_id": 1115, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -204,7 +204,7 @@
         "speakers": "Reisende"
     }, 
     {
-        "event_id": 1228, 
+        "event_id": 1226, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -228,7 +228,7 @@
         "speakers": "Cube"
     }, 
     {
-        "event_id": 1242, 
+        "event_id": 1238, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -360,7 +360,7 @@
         "speakers": "Obaz, UMT, CoopDot"
     }, 
     {
-        "event_id": 1232, 
+        "event_id": 1234, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1131, 
@@ -552,7 +552,7 @@
         "speakers": "Djim, Duisburch, Benni, Cbass, Stean"
     }, 
     {
-        "event_id": 1050, 
+        "event_id": 1051, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -876,7 +876,7 @@
         "speakers": "Envy"
     }, 
     {
-        "event_id": 1052, 
+        "event_id": 1050, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -912,7 +912,7 @@
         "speakers": "Jeffburdges"
     }, 
     {
-        "event_id": 1116, 
+        "event_id": 1114, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -960,7 +960,7 @@
         "speakers": "Reisende"
     }, 
     {
-        "event_id": 1229, 
+        "event_id": 1228, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -1152,7 +1152,7 @@
         "speakers": "Ontological, Mdik"
     }, 
     {
-        "event_id": 1041, 
+        "event_id": 1043, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1132, 
@@ -1248,6 +1248,18 @@
         "speakers": "DerMicha"
     }, 
     {
+        "event_id": 1040, 
+        "track_id": 10, 
+        "track_name": "Session", 
+        "room_id": 1133, 
+        "room_name": "Hall C.3", 
+        "start_time": "2016-12-28T10:00:00+01:00", 
+        "duration": 3600, 
+        "title": "Coder Dojo", 
+        "abstract": "Slot 0 Room 1 \nDas CoderDojo richtet sich an Kinder und Jugendliche zwischen 6 und 17 Jahren, die gerne Software und Hardware programmieren und hacken m\u00f6chten.\n\nF\u00fcr unsere Workshops braucht man keine Erfahrungen ode", 
+        "speakers": "Nana berlin, Cyber-phil, Niccokunzmann"
+    }, 
+    {
         "event_id": 1042, 
         "track_id": 10, 
         "track_name": "Session", 
@@ -1260,7 +1272,7 @@
         "speakers": "Nana berlin, Cyber-phil, Niccokunzmann"
     }, 
     {
-        "event_id": 1043, 
+        "event_id": 1044, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1133, 
@@ -1269,18 +1281,6 @@
         "duration": 3600, 
         "title": "Coder Dojo", 
         "abstract": "Slot 2 Room 1 \nDas CoderDojo richtet sich an Kinder und Jugendliche zwischen 6 und 17 Jahren, die gerne Software und Hardware programmieren und hacken m\u00f6chten.\n\nF\u00fcr unsere Workshops braucht man keine Erfahrungen ode", 
-        "speakers": "Nana berlin, Cyber-phil, Niccokunzmann"
-    }, 
-    {
-        "event_id": 1044, 
-        "track_id": 10, 
-        "track_name": "Session", 
-        "room_id": 1133, 
-        "room_name": "Hall C.3", 
-        "start_time": "2016-12-28T10:00:00+01:00", 
-        "duration": 3600, 
-        "title": "Coder Dojo", 
-        "abstract": "Slot 0 Room 1 \nDas CoderDojo richtet sich an Kinder und Jugendliche zwischen 6 und 17 Jahren, die gerne Software und Hardware programmieren und hacken m\u00f6chten.\n\nF\u00fcr unsere Workshops braucht man keine Erfahrungen ode", 
         "speakers": "Nana berlin, Cyber-phil, Niccokunzmann"
     }, 
     {
@@ -1356,7 +1356,7 @@
         "speakers": "Njumaen"
     }, 
     {
-        "event_id": 1040, 
+        "event_id": 1041, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1134, 
@@ -1440,7 +1440,7 @@
         "speakers": "KaerF"
     }, 
     {
-        "event_id": 1234, 
+        "event_id": 1236, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1134, 
@@ -1848,7 +1848,7 @@
         "speakers": "AndyC4"
     }, 
     {
-        "event_id": 1115, 
+        "event_id": 1116, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -1896,7 +1896,7 @@
         "speakers": "Reisende"
     }, 
     {
-        "event_id": 1226, 
+        "event_id": 1227, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -2304,7 +2304,7 @@
         "speakers": "Meingrundeinkommen"
     }, 
     {
-        "event_id": 1235, 
+        "event_id": 1232, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1134, 
@@ -2393,8 +2393,8 @@
         "track_name": "Session", 
         "room_id": 1230, 
         "room_name": "Hall F", 
-        "start_time": "2016-12-29T21:00:00+01:00", 
-        "duration": 10800, 
+        "start_time": "2016-12-29T18:00:00+01:00", 
+        "duration": 8100, 
         "title": "Movie Night", 
         "abstract": " \nBlocked for Film Screenings by Content Team", 
         "speakers": ""
@@ -2405,8 +2405,8 @@
         "track_name": "Session", 
         "room_id": 1230, 
         "room_name": "Hall F", 
-        "start_time": "2016-12-29T18:00:00+01:00", 
-        "duration": 8100, 
+        "start_time": "2016-12-29T21:00:00+01:00", 
+        "duration": 10800, 
         "title": "Movie Night", 
         "abstract": " \nBlocked for Film Screenings by Content Team", 
         "speakers": ""
@@ -2424,7 +2424,7 @@
         "speakers": "Fluktusdukt, Konfusius"
     }, 
     {
-        "event_id": 1238, 
+        "event_id": 1240, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1230, 
@@ -2448,7 +2448,7 @@
         "speakers": "Eal"
     }, 
     {
-        "event_id": 1051, 
+        "event_id": 1052, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -2664,7 +2664,7 @@
         "speakers": "Iblech"
     }, 
     {
-        "event_id": 1240, 
+        "event_id": 1241, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1131, 
@@ -2712,7 +2712,7 @@
         "speakers": "Stephan.schwichtenberg"
     }, 
     {
-        "event_id": 1233, 
+        "event_id": 1235, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1134, 
