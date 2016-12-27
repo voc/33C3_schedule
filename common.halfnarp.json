@@ -228,7 +228,7 @@
         "speakers": "Ijon"
     }, 
     {
-        "event_id": 1258, 
+        "event_id": 1260, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -240,7 +240,7 @@
         "speakers": "Cube"
     }, 
     {
-        "event_id": 1261, 
+        "event_id": 1262, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -257,18 +257,6 @@
         "track_name": "Session", 
         "room_id": 1120, 
         "room_name": "Hall B", 
-        "start_time": "2016-12-27T19:45:00+01:00", 
-        "duration": 1800, 
-        "title": "Engelmeeting", 
-        "abstract": "Angelmeeting Day 1 \n", 
-        "speakers": "Knuth"
-    }, 
-    {
-        "event_id": 1076, 
-        "track_id": 10, 
-        "track_name": "Session", 
-        "room_id": 1120, 
-        "room_name": "Hall B", 
         "start_time": "2016-12-27T15:00:00+01:00", 
         "duration": 3600, 
         "title": "Engelmeeting", 
@@ -276,7 +264,7 @@
         "speakers": "Knuth"
     }, 
     {
-        "event_id": 1083, 
+        "event_id": 1081, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1120, 
@@ -285,6 +273,18 @@
         "duration": 3600, 
         "title": "Engelmeeting", 
         "abstract": "Angel meeting day 1 \n", 
+        "speakers": "Knuth"
+    }, 
+    {
+        "event_id": 1083, 
+        "track_id": 10, 
+        "track_name": "Session", 
+        "room_id": 1120, 
+        "room_name": "Hall B", 
+        "start_time": "2016-12-27T19:45:00+01:00", 
+        "duration": 1800, 
+        "title": "Engelmeeting", 
+        "abstract": "Angelmeeting Day 1 \n", 
         "speakers": "Knuth"
     }, 
     {
@@ -324,7 +324,7 @@
         "speakers": "Obaz, UMT, CoopDot"
     }, 
     {
-        "event_id": 1019, 
+        "event_id": 1020, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1131, 
@@ -624,7 +624,7 @@
         "speakers": "Reisende"
     }, 
     {
-        "event_id": 1287, 
+        "event_id": 1285, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -636,7 +636,7 @@
         "speakers": "Sebalis"
     }, 
     {
-        "event_id": 1291, 
+        "event_id": 1289, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -977,19 +977,19 @@
         "track_name": "Session", 
         "room_id": 1111, 
         "room_name": "Hall A.1", 
-        "start_time": "2016-12-29T00:30:00+01:00", 
+        "start_time": "2016-12-29T01:30:00+01:00", 
         "duration": 3600, 
         "title": "Skillconvention b", 
         "abstract": " \nall travelers of a certain skill will be invented to join their respective session", 
         "speakers": "Reisende"
     }, 
     {
-        "event_id": 1237, 
+        "event_id": 1238, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
         "room_name": "Hall A.1", 
-        "start_time": "2016-12-29T01:30:00+01:00", 
+        "start_time": "2016-12-29T00:30:00+01:00", 
         "duration": 3600, 
         "title": "Skillconvention b", 
         "abstract": " \nall travelers of a certain skill will be invented to join their respective session", 
@@ -1008,7 +1008,7 @@
         "speakers": "Ijon"
     }, 
     {
-        "event_id": 1259, 
+        "event_id": 1258, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -1032,7 +1032,7 @@
         "speakers": "Pf"
     }, 
     {
-        "event_id": 1078, 
+        "event_id": 1076, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1120, 
@@ -1044,7 +1044,7 @@
         "speakers": "Knuth"
     }, 
     {
-        "event_id": 1080, 
+        "event_id": 1078, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1120, 
@@ -1541,19 +1541,19 @@
         "track_name": "Session", 
         "room_id": 1013, 
         "room_name": "Hall 13-14", 
-        "start_time": "2016-12-29T00:30:00+01:00", 
+        "start_time": "2016-12-29T01:30:00+01:00", 
         "duration": 3600, 
         "title": "Skillconvention b", 
         "abstract": " \nall travelers of a certain skill will be invented to join their respective session", 
         "speakers": "Reisende"
     }, 
     {
-        "event_id": 1238, 
+        "event_id": 1237, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
         "room_name": "Hall 13-14", 
-        "start_time": "2016-12-29T01:30:00+01:00", 
+        "start_time": "2016-12-29T02:30:00+01:00", 
         "duration": 3600, 
         "title": "Skillconvention b", 
         "abstract": " \nall travelers of a certain skill will be invented to join their respective session", 
@@ -1565,7 +1565,7 @@
         "track_name": "Session", 
         "room_id": 1013, 
         "room_name": "Hall 13-14", 
-        "start_time": "2016-12-29T02:30:00+01:00", 
+        "start_time": "2016-12-29T00:30:00+01:00", 
         "duration": 3600, 
         "title": "Skillconvention b", 
         "abstract": " \nall travelers of a certain skill will be invented to join their respective session", 
@@ -1584,19 +1584,7 @@
         "speakers": "Eal"
     }, 
     {
-        "event_id": 1284, 
-        "track_id": 10, 
-        "track_name": "Session", 
-        "room_id": 1013, 
-        "room_name": "Hall 13-14", 
-        "start_time": "2016-12-28T19:40:00+01:00", 
-        "duration": 3000, 
-        "title": "Translation meetings", 
-        "abstract": "day 2, evening meeting \nThe translation angels (interpreters) meet twice per day to self-organise (day 0, evening to day 4, afternoon)", 
-        "speakers": "Sebalis"
-    }, 
-    {
-        "event_id": 1288, 
+        "event_id": 1286, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -1605,6 +1593,18 @@
         "duration": 3000, 
         "title": "Translation meetings", 
         "abstract": "day 2, afternoon meeting \nThe translation angels (interpreters) meet twice per day to self-organise (day 0, evening to day 4, afternoon)", 
+        "speakers": "Sebalis"
+    }, 
+    {
+        "event_id": 1290, 
+        "track_id": 10, 
+        "track_name": "Session", 
+        "room_id": 1013, 
+        "room_name": "Hall 13-14", 
+        "start_time": "2016-12-28T19:40:00+01:00", 
+        "duration": 3000, 
+        "title": "Translation meetings", 
+        "abstract": "day 2, evening meeting \nThe translation angels (interpreters) meet twice per day to self-organise (day 0, evening to day 4, afternoon)", 
         "speakers": "Sebalis"
     }, 
     {
@@ -1860,7 +1860,7 @@
         "speakers": "Ineiti"
     }, 
     {
-        "event_id": 1240, 
+        "event_id": 1242, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -1920,19 +1920,7 @@
         "speakers": ""
     }, 
     {
-        "event_id": 1073, 
-        "track_id": 10, 
-        "track_name": "Session", 
-        "room_id": 1120, 
-        "room_name": "Hall B", 
-        "start_time": "2016-12-29T19:45:00+01:00", 
-        "duration": 1800, 
-        "title": "Engelmeeting", 
-        "abstract": "Angel meeting day 3 \n", 
-        "speakers": "Knuth"
-    }, 
-    {
-        "event_id": 1082, 
+        "event_id": 1080, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1120, 
@@ -1941,6 +1929,18 @@
         "duration": 3600, 
         "title": "Engelmeeting", 
         "abstract": "Angelmeeting day 3 \n", 
+        "speakers": "Knuth"
+    }, 
+    {
+        "event_id": 1082, 
+        "track_id": 10, 
+        "track_name": "Session", 
+        "room_id": 1120, 
+        "room_name": "Hall B", 
+        "start_time": "2016-12-29T19:45:00+01:00", 
+        "duration": 1800, 
+        "title": "Engelmeeting", 
+        "abstract": "Angel meeting day 3 \n", 
         "speakers": "Knuth"
     }, 
     {
@@ -1968,7 +1968,7 @@
         "speakers": "Melzai"
     }, 
     {
-        "event_id": 1244, 
+        "event_id": 1245, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1120, 
@@ -2076,7 +2076,7 @@
         "speakers": "Dawning-sun"
     }, 
     {
-        "event_id": 1245, 
+        "event_id": 1244, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1131, 
@@ -2556,7 +2556,7 @@
         "speakers": "Maxigas"
     }, 
     {
-        "event_id": 1241, 
+        "event_id": 1240, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -2568,7 +2568,7 @@
         "speakers": "Reisende"
     }, 
     {
-        "event_id": 1242, 
+        "event_id": 1241, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -2592,7 +2592,7 @@
         "speakers": "Eal"
     }, 
     {
-        "event_id": 1286, 
+        "event_id": 1284, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -2604,7 +2604,7 @@
         "speakers": "Sebalis"
     }, 
     {
-        "event_id": 1289, 
+        "event_id": 1287, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -2664,7 +2664,7 @@
         "speakers": "Morricone"
     }, 
     {
-        "event_id": 1075, 
+        "event_id": 1073, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1120, 
@@ -2700,7 +2700,7 @@
         "speakers": "Txt.file, Zaurak, Sva"
     }, 
     {
-        "event_id": 1020, 
+        "event_id": 1019, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1131, 
@@ -2724,7 +2724,7 @@
         "speakers": "Iblech"
     }, 
     {
-        "event_id": 1260, 
+        "event_id": 1259, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1131, 
@@ -2832,7 +2832,7 @@
         "speakers": "Blinry"
     }, 
     {
-        "event_id": 1290, 
+        "event_id": 1288, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
