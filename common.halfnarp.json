@@ -180,7 +180,7 @@
         "speakers": "Kire"
     }, 
     {
-        "event_id": 1221, 
+        "event_id": 1224, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -228,7 +228,7 @@
         "speakers": "Ijon"
     }, 
     {
-        "event_id": 1260, 
+        "event_id": 1263, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -240,7 +240,7 @@
         "speakers": "Cube"
     }, 
     {
-        "event_id": 1261, 
+        "event_id": 1265, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -413,10 +413,10 @@
         "track_name": "Session", 
         "room_id": 1132, 
         "room_name": "Hall C.2", 
-        "start_time": "2016-12-27T17:30:00+01:00", 
+        "start_time": "2016-12-27T16:00:00+01:00", 
         "duration": 4200, 
         "title": "Space Hacking", 
-        "abstract": "KulturKunstPartyPolitik! - Teil2: Urban Intervention \nKulturKunstPartyPolitik!\n\nEin Schiff als Arena schwimmender Spontandemos, Wandbild-Brigaden f\u00fcr internationalistische Politikarbeit. \nVisuelle Grenzen\u00fcberschreitungen an scheinbar unzug\u00e4nglichen Orten", 
+        "abstract": "KulturKunstPartyPolitik! - Teil1: Collective Space \nKulturKunstPartyPolitik!\n\nEin Schiff als Arena schwimmender Spontandemos, Wandbild-Brigaden f\u00fcr internationalistische Politikarbeit. \nVisuelle Grenzen\u00fcberschreitungen an scheinbar unzug\u00e4nglichen Orten", 
         "speakers": "Jona"
     }, 
     {
@@ -425,10 +425,10 @@
         "track_name": "Session", 
         "room_id": 1132, 
         "room_name": "Hall C.2", 
-        "start_time": "2016-12-27T16:00:00+01:00", 
+        "start_time": "2016-12-27T17:30:00+01:00", 
         "duration": 4200, 
         "title": "Space Hacking", 
-        "abstract": "KulturKunstPartyPolitik! - Teil1: Collective Space \nKulturKunstPartyPolitik!\n\nEin Schiff als Arena schwimmender Spontandemos, Wandbild-Brigaden f\u00fcr internationalistische Politikarbeit. \nVisuelle Grenzen\u00fcberschreitungen an scheinbar unzug\u00e4nglichen Orten", 
+        "abstract": "KulturKunstPartyPolitik! - Teil2: Urban Intervention \nKulturKunstPartyPolitik!\n\nEin Schiff als Arena schwimmender Spontandemos, Wandbild-Brigaden f\u00fcr internationalistische Politikarbeit. \nVisuelle Grenzen\u00fcberschreitungen an scheinbar unzug\u00e4nglichen Orten", 
         "speakers": "Jona"
     }, 
     {
@@ -657,7 +657,7 @@
         "duration": 1800, 
         "title": "Hallo Welt! Begr\u00fc\u00dfung der G\u00e4ste des Junghackertags", 
         "abstract": "", 
-        "speakers": "Marcus Richter"
+        "speakers": ""
     }, 
     {
         "event_id": 396, 
@@ -876,7 +876,7 @@
         "speakers": "Envy"
     }, 
     {
-        "event_id": 1052, 
+        "event_id": 1051, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -1008,7 +1008,7 @@
         "speakers": "Ijon"
     }, 
     {
-        "event_id": 1263, 
+        "event_id": 1260, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -1085,10 +1085,10 @@
         "track_name": "Session", 
         "room_id": 1120, 
         "room_name": "Hall B", 
-        "start_time": "2016-12-28T15:00:00+01:00", 
-        "duration": 13500, 
+        "start_time": "2016-12-28T18:45:00+01:00", 
+        "duration": 3600, 
         "title": "We Fix the Net", 
-        "abstract": "We Fix The Net Short Talks \nWe Fix the Net session will include talks on developing secure alternatives to current internet protocols.  We might hold an organized discussion or panel as well.  This session is organized by GNUnet", 
+        "abstract": "Opertunistic Email Encryption \nWe Fix the Net session will include talks on developing secure alternatives to current internet protocols.  We might hold an organized discussion or panel as well.  This session is organized by GNUnet", 
         "speakers": "Jeffburdges"
     }, 
     {
@@ -1097,10 +1097,10 @@
         "track_name": "Session", 
         "room_id": 1120, 
         "room_name": "Hall B", 
-        "start_time": "2016-12-28T18:45:00+01:00", 
+        "start_time": "2016-12-28T14:00:00+01:00", 
         "duration": 3600, 
         "title": "We Fix the Net", 
-        "abstract": "Opertunistic Email Encryption \nWe Fix the Net session will include talks on developing secure alternatives to current internet protocols.  We might hold an organized discussion or panel as well.  This session is organized by GNUnet", 
+        "abstract": "MinimaLT in Ethos with Jon A. Solworth and Janosch Rux \nWe Fix the Net session will include talks on developing secure alternatives to current internet protocols.  We might hold an organized discussion or panel as well.  This session is organized by GNUnet", 
         "speakers": "Jeffburdges"
     }, 
     {
@@ -1109,10 +1109,10 @@
         "track_name": "Session", 
         "room_id": 1120, 
         "room_name": "Hall B", 
-        "start_time": "2016-12-28T14:00:00+01:00", 
-        "duration": 3600, 
+        "start_time": "2016-12-28T15:00:00+01:00", 
+        "duration": 13500, 
         "title": "We Fix the Net", 
-        "abstract": "MinimaLT in Ethos with Jon A. Solworth and Janosch Rux \nWe Fix the Net session will include talks on developing secure alternatives to current internet protocols.  We might hold an organized discussion or panel as well.  This session is organized by GNUnet", 
+        "abstract": "We Fix The Net Short Talks \nWe Fix the Net session will include talks on developing secure alternatives to current internet protocols.  We might hold an organized discussion or panel as well.  This session is organized by GNUnet", 
         "speakers": "Jeffburdges"
     }, 
     {
@@ -1200,7 +1200,7 @@
         "speakers": "Janosch"
     }, 
     {
-        "event_id": 1223, 
+        "event_id": 1222, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1131, 
@@ -1476,7 +1476,7 @@
         "speakers": "Eal"
     }, 
     {
-        "event_id": 1115, 
+        "event_id": 1116, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -1944,7 +1944,7 @@
         "speakers": "Stk, Vavoida"
     }, 
     {
-        "event_id": 1222, 
+        "event_id": 1221, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1120, 
@@ -2268,7 +2268,7 @@
         "speakers": "Lu cyp, Kyravram"
     }, 
     {
-        "event_id": 1069, 
+        "event_id": 1070, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1134, 
@@ -2448,7 +2448,7 @@
         "speakers": "Fluktusdukt, Konfusius"
     }, 
     {
-        "event_id": 1262, 
+        "event_id": 1264, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1230, 
@@ -2484,7 +2484,7 @@
         "speakers": "Eal"
     }, 
     {
-        "event_id": 1051, 
+        "event_id": 1052, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -2664,7 +2664,7 @@
         "speakers": "Knuth"
     }, 
     {
-        "event_id": 1224, 
+        "event_id": 1223, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1120, 
@@ -2712,7 +2712,7 @@
         "speakers": "Iblech"
     }, 
     {
-        "event_id": 1264, 
+        "event_id": 1261, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1131, 
@@ -2796,7 +2796,7 @@
         "speakers": "Nikola"
     }, 
     {
-        "event_id": 1116, 
+        "event_id": 1115, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
