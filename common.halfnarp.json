@@ -156,7 +156,7 @@
         "speakers": ""
     }, 
     {
-        "event_id": 1130, 
+        "event_id": 1129, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -180,7 +180,7 @@
         "speakers": "Kire"
     }, 
     {
-        "event_id": 1237, 
+        "event_id": 1236, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -228,7 +228,7 @@
         "speakers": "Ijon"
     }, 
     {
-        "event_id": 1273, 
+        "event_id": 1274, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -540,7 +540,7 @@
         "speakers": "Djim, Duisburch, Benni, Cbass, Stean"
     }, 
     {
-        "event_id": 1053, 
+        "event_id": 1054, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -888,7 +888,7 @@
         "speakers": "Envy"
     }, 
     {
-        "event_id": 1055, 
+        "event_id": 1053, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -936,7 +936,7 @@
         "speakers": "Jeffburdges"
     }, 
     {
-        "event_id": 1129, 
+        "event_id": 1131, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -1085,10 +1085,10 @@
         "track_name": "Session", 
         "room_id": 1120, 
         "room_name": "Hall B", 
-        "start_time": "2016-12-28T15:00:00+01:00", 
-        "duration": 13500, 
+        "start_time": "2016-12-28T14:00:00+01:00", 
+        "duration": 3600, 
         "title": "We Fix the Net", 
-        "abstract": "We Fix The Net Short Talks \nWe Fix the Net session will include talks on developing secure alternatives to current internet protocols.  We might hold an organized discussion or panel as well.  This session is organized by GNUnet", 
+        "abstract": "MinimaLT in Ethos with Jon A. Solworth and Janosch Rux \nWe Fix the Net session will include talks on developing secure alternatives to current internet protocols.  We might hold an organized discussion or panel as well.  This session is organized by GNUnet", 
         "speakers": "Jeffburdges"
     }, 
     {
@@ -1097,10 +1097,10 @@
         "track_name": "Session", 
         "room_id": 1120, 
         "room_name": "Hall B", 
-        "start_time": "2016-12-28T18:45:00+01:00", 
-        "duration": 3600, 
+        "start_time": "2016-12-28T15:00:00+01:00", 
+        "duration": 13500, 
         "title": "We Fix the Net", 
-        "abstract": "Opertunistic Email Encryption \nWe Fix the Net session will include talks on developing secure alternatives to current internet protocols.  We might hold an organized discussion or panel as well.  This session is organized by GNUnet", 
+        "abstract": "We Fix The Net Short Talks \nWe Fix the Net session will include talks on developing secure alternatives to current internet protocols.  We might hold an organized discussion or panel as well.  This session is organized by GNUnet", 
         "speakers": "Jeffburdges"
     }, 
     {
@@ -1109,10 +1109,10 @@
         "track_name": "Session", 
         "room_id": 1120, 
         "room_name": "Hall B", 
-        "start_time": "2016-12-28T14:00:00+01:00", 
+        "start_time": "2016-12-28T18:45:00+01:00", 
         "duration": 3600, 
         "title": "We Fix the Net", 
-        "abstract": "MinimaLT in Ethos with Jon A. Solworth and Janosch Rux \nWe Fix the Net session will include talks on developing secure alternatives to current internet protocols.  We might hold an organized discussion or panel as well.  This session is organized by GNUnet", 
+        "abstract": "Opertunistic Email Encryption \nWe Fix the Net session will include talks on developing secure alternatives to current internet protocols.  We might hold an organized discussion or panel as well.  This session is organized by GNUnet", 
         "speakers": "Jeffburdges"
     }, 
     {
@@ -1150,18 +1150,6 @@
         "title": "Eine Botschaft an Au\u00dferirdische (Wondrous Mathematics)", 
         "abstract": " \nVor etwa 15 Jahren schickte die Menschheit eine Radiobotschaft an ausgew\u00e4hlte Sterne, in der Hoffnung, dass die Nachricht Au\u00dferirdische erreicht, diese die Nachricht verstehen und uns antworten. Die N", 
         "speakers": "Iblech"
-    }, 
-    {
-        "event_id": 1109, 
-        "track_id": 10, 
-        "track_name": "Session", 
-        "room_id": 1131, 
-        "room_name": "Hall C.1", 
-        "start_time": "2016-12-28T15:00:00+01:00", 
-        "duration": 3600, 
-        "title": "Freifunk und die VDS", 
-        "abstract": " \nPhilip von Freifunk Rheinland gibt einen Ein- und \u00dcberblick \u00fcber die aktuellen Entwicklungen zur VDS, den aktuellen Status der Klage sowie Infos zu unserem Antrag auf Aussetzung und den Konsequenzen f", 
-        "speakers": "Pberndro"
     }, 
     {
         "event_id": 1128, 
@@ -1212,7 +1200,7 @@
         "speakers": "Janosch"
     }, 
     {
-        "event_id": 1239, 
+        "event_id": 1238, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1131, 
@@ -1896,7 +1884,7 @@
         "speakers": "AndyC4"
     }, 
     {
-        "event_id": 1131, 
+        "event_id": 1130, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -1906,6 +1894,18 @@
         "title": "Haecksenraum", 
         "abstract": "Meet & Greet \nRoom A.2: Dedicated workshop area for women* and other minorities. Meet people, learn new things, discuss topics, host your own workshop here! We still have open slots :)", 
         "speakers": "Haecksen, Melzai"
+    }, 
+    {
+        "event_id": 1175, 
+        "track_id": 10, 
+        "track_name": "Session", 
+        "room_id": 1111, 
+        "room_name": "Hall A.1", 
+        "start_time": "2016-12-29T19:00:00+01:00", 
+        "duration": 3600, 
+        "title": "LOC Teardown Meeting", 
+        "abstract": " \nLOC Teardown Meeting.", 
+        "speakers": "Psy"
     }, 
     {
         "event_id": 1224, 
@@ -2004,7 +2004,7 @@
         "speakers": "Stk, Vavoida"
     }, 
     {
-        "event_id": 1238, 
+        "event_id": 1237, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1120, 
@@ -2110,6 +2110,18 @@
         "title": "Design in Free Software & Open Source", 
         "abstract": " \nDesign in free software & open source is improving in recent years, but we still have a lot to do. If we want people to use free software, it needs to be as simple & easy to use as proprietary counter", 
         "speakers": "Eal"
+    }, 
+    {
+        "event_id": 1109, 
+        "track_id": 10, 
+        "track_name": "Session", 
+        "room_id": 1131, 
+        "room_name": "Hall C.1", 
+        "start_time": "2016-12-29T15:00:00+01:00", 
+        "duration": 3600, 
+        "title": "Freifunk und die VDS", 
+        "abstract": " \nPhilip von Freifunk Rheinland gibt einen Ein- und \u00dcberblick \u00fcber die aktuellen Entwicklungen zur VDS, den aktuellen Status der Klage sowie Infos zu unserem Antrag auf Aussetzung und den Konsequenzen f", 
+        "speakers": "Pberndro"
     }, 
     {
         "event_id": 1111, 
@@ -2412,18 +2424,6 @@
         "speakers": "Sva"
     }, 
     {
-        "event_id": 1175, 
-        "track_id": 10, 
-        "track_name": "Session", 
-        "room_id": 1134, 
-        "room_name": "Hall C.4", 
-        "start_time": "2016-12-29T14:00:00+01:00", 
-        "duration": 3600, 
-        "title": "LOC Teardown Meeting", 
-        "abstract": " \nLOC Teardown Meeting.", 
-        "speakers": "Psy"
-    }, 
-    {
         "event_id": 1206, 
         "track_id": 10, 
         "track_name": "Session", 
@@ -2604,7 +2604,7 @@
         "speakers": "Eal"
     }, 
     {
-        "event_id": 1054, 
+        "event_id": 1055, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -2784,7 +2784,7 @@
         "speakers": "Knuth"
     }, 
     {
-        "event_id": 1236, 
+        "event_id": 1239, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1120, 
