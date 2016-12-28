@@ -192,19 +192,7 @@
         "speakers": "Melzai"
     }, 
     {
-        "event_id": 1243, 
-        "track_id": 10, 
-        "track_name": "Session", 
-        "room_id": 1111, 
-        "room_name": "Hall A.1", 
-        "start_time": "2016-12-28T01:00:00+01:00", 
-        "duration": 3600, 
-        "title": "Skillconvention a", 
-        "abstract": " \nall travelers with a certain skill will be invited to these sessions.", 
-        "speakers": "Reisende"
-    }, 
-    {
-        "event_id": 1244, 
+        "event_id": 1241, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -216,7 +204,19 @@
         "speakers": "Reisende"
     }, 
     {
-        "event_id": 1262, 
+        "event_id": 1244, 
+        "track_id": 10, 
+        "track_name": "Session", 
+        "room_id": 1111, 
+        "room_name": "Hall A.1", 
+        "start_time": "2016-12-28T01:00:00+01:00", 
+        "duration": 3600, 
+        "title": "Skillconvention a", 
+        "abstract": " \nall travelers with a certain skill will be invited to these sessions.", 
+        "speakers": "Reisende"
+    }, 
+    {
+        "event_id": 1260, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -228,7 +228,7 @@
         "speakers": "Ijon"
     }, 
     {
-        "event_id": 1267, 
+        "event_id": 1269, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -240,7 +240,7 @@
         "speakers": "Cube"
     }, 
     {
-        "event_id": 1271, 
+        "event_id": 1272, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -257,22 +257,22 @@
         "track_name": "Session", 
         "room_id": 1120, 
         "room_name": "Hall B", 
-        "start_time": "2016-12-27T15:00:00+01:00", 
-        "duration": 3600, 
+        "start_time": "2016-12-27T19:45:00+01:00", 
+        "duration": 1800, 
         "title": "Engelmeeting", 
-        "abstract": "Introduction meeting for new angels \n", 
+        "abstract": "Angelmeeting Day 1 \n", 
         "speakers": "Knuth"
     }, 
     {
-        "event_id": 1088, 
+        "event_id": 1083, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1120, 
         "room_name": "Hall B", 
-        "start_time": "2016-12-27T13:00:00+01:00", 
+        "start_time": "2016-12-27T15:00:00+01:00", 
         "duration": 3600, 
         "title": "Engelmeeting", 
-        "abstract": "Angel meeting day 1 \n", 
+        "abstract": "Introduction meeting for new angels \n", 
         "speakers": "Knuth"
     }, 
     {
@@ -281,10 +281,10 @@
         "track_name": "Session", 
         "room_id": 1120, 
         "room_name": "Hall B", 
-        "start_time": "2016-12-27T19:45:00+01:00", 
-        "duration": 1800, 
+        "start_time": "2016-12-27T13:00:00+01:00", 
+        "duration": 3600, 
         "title": "Engelmeeting", 
-        "abstract": "Angelmeeting Day 1 \n", 
+        "abstract": "Angel meeting day 1 \n", 
         "speakers": "Knuth"
     }, 
     {
@@ -413,10 +413,10 @@
         "track_name": "Session", 
         "room_id": 1132, 
         "room_name": "Hall C.2", 
-        "start_time": "2016-12-27T17:30:00+01:00", 
+        "start_time": "2016-12-27T16:00:00+01:00", 
         "duration": 4200, 
         "title": "Space Hacking", 
-        "abstract": "KulturKunstPartyPolitik! - Teil2: Urban Intervention \nKulturKunstPartyPolitik!\n\nEin Schiff als Arena schwimmender Spontandemos, Wandbild-Brigaden f\u00fcr internationalistische Politikarbeit. \nVisuelle Grenzen\u00fcberschreitungen an scheinbar unzug\u00e4nglichen Orten", 
+        "abstract": "KulturKunstPartyPolitik! - Teil1: Collective Space \nKulturKunstPartyPolitik!\n\nEin Schiff als Arena schwimmender Spontandemos, Wandbild-Brigaden f\u00fcr internationalistische Politikarbeit. \nVisuelle Grenzen\u00fcberschreitungen an scheinbar unzug\u00e4nglichen Orten", 
         "speakers": "Jona"
     }, 
     {
@@ -425,10 +425,10 @@
         "track_name": "Session", 
         "room_id": 1132, 
         "room_name": "Hall C.2", 
-        "start_time": "2016-12-27T16:00:00+01:00", 
+        "start_time": "2016-12-27T17:30:00+01:00", 
         "duration": 4200, 
         "title": "Space Hacking", 
-        "abstract": "KulturKunstPartyPolitik! - Teil1: Collective Space \nKulturKunstPartyPolitik!\n\nEin Schiff als Arena schwimmender Spontandemos, Wandbild-Brigaden f\u00fcr internationalistische Politikarbeit. \nVisuelle Grenzen\u00fcberschreitungen an scheinbar unzug\u00e4nglichen Orten", 
+        "abstract": "KulturKunstPartyPolitik! - Teil2: Urban Intervention \nKulturKunstPartyPolitik!\n\nEin Schiff als Arena schwimmender Spontandemos, Wandbild-Brigaden f\u00fcr internationalistische Politikarbeit. \nVisuelle Grenzen\u00fcberschreitungen an scheinbar unzug\u00e4nglichen Orten", 
         "speakers": "Jona"
     }, 
     {
@@ -540,7 +540,7 @@
         "speakers": "Djim, Duisburch, Benni, Cbass, Stean"
     }, 
     {
-        "event_id": 1053, 
+        "event_id": 1054, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -600,7 +600,7 @@
         "speakers": "Kirils"
     }, 
     {
-        "event_id": 1241, 
+        "event_id": 1242, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -612,7 +612,7 @@
         "speakers": "Reisende"
     }, 
     {
-        "event_id": 1242, 
+        "event_id": 1243, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -624,7 +624,7 @@
         "speakers": "Reisende"
     }, 
     {
-        "event_id": 1297, 
+        "event_id": 1299, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -636,7 +636,7 @@
         "speakers": "Sebalis"
     }, 
     {
-        "event_id": 1301, 
+        "event_id": 1303, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -888,7 +888,7 @@
         "speakers": "Envy"
     }, 
     {
-        "event_id": 1054, 
+        "event_id": 1052, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -984,19 +984,7 @@
         "speakers": "Vavoida"
     }, 
     {
-        "event_id": 1246, 
-        "track_id": 10, 
-        "track_name": "Session", 
-        "room_id": 1111, 
-        "room_name": "Hall A.1", 
-        "start_time": "2016-12-29T00:30:00+01:00", 
-        "duration": 3600, 
-        "title": "Skillconvention b", 
-        "abstract": " \nall travelers of a certain skill will be invented to join their respective session", 
-        "speakers": "Reisende"
-    }, 
-    {
-        "event_id": 1248, 
+        "event_id": 1245, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -1008,7 +996,19 @@
         "speakers": "Reisende"
     }, 
     {
-        "event_id": 1260, 
+        "event_id": 1248, 
+        "track_id": 10, 
+        "track_name": "Session", 
+        "room_id": 1111, 
+        "room_name": "Hall A.1", 
+        "start_time": "2016-12-29T00:30:00+01:00", 
+        "duration": 3600, 
+        "title": "Skillconvention b", 
+        "abstract": " \nall travelers of a certain skill will be invented to join their respective session", 
+        "speakers": "Reisende"
+    }, 
+    {
+        "event_id": 1262, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -1020,7 +1020,7 @@
         "speakers": "Ijon"
     }, 
     {
-        "event_id": 1272, 
+        "event_id": 1267, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -1056,7 +1056,7 @@
         "speakers": "Pf"
     }, 
     {
-        "event_id": 1083, 
+        "event_id": 1085, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1120, 
@@ -1068,7 +1068,7 @@
         "speakers": "Knuth"
     }, 
     {
-        "event_id": 1085, 
+        "event_id": 1087, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1120, 
@@ -1097,10 +1097,10 @@
         "track_name": "Session", 
         "room_id": 1120, 
         "room_name": "Hall B", 
-        "start_time": "2016-12-28T15:00:00+01:00", 
-        "duration": 13500, 
+        "start_time": "2016-12-28T14:00:00+01:00", 
+        "duration": 3600, 
         "title": "We Fix the Net", 
-        "abstract": "We Fix The Net Short Talks \nWe Fix the Net session will include talks on developing secure alternatives to current internet protocols.  We might hold an organized discussion or panel as well.  This session is organized by GNUnet", 
+        "abstract": "MinimaLT in Ethos with Jon A. Solworth and Janosch Rux \nWe Fix the Net session will include talks on developing secure alternatives to current internet protocols.  We might hold an organized discussion or panel as well.  This session is organized by GNUnet", 
         "speakers": "Jeffburdges"
     }, 
     {
@@ -1109,10 +1109,10 @@
         "track_name": "Session", 
         "room_id": 1120, 
         "room_name": "Hall B", 
-        "start_time": "2016-12-28T18:45:00+01:00", 
-        "duration": 3600, 
+        "start_time": "2016-12-28T15:00:00+01:00", 
+        "duration": 13500, 
         "title": "We Fix the Net", 
-        "abstract": "Opertunistic Email Encryption \nWe Fix the Net session will include talks on developing secure alternatives to current internet protocols.  We might hold an organized discussion or panel as well.  This session is organized by GNUnet", 
+        "abstract": "We Fix The Net Short Talks \nWe Fix the Net session will include talks on developing secure alternatives to current internet protocols.  We might hold an organized discussion or panel as well.  This session is organized by GNUnet", 
         "speakers": "Jeffburdges"
     }, 
     {
@@ -1121,10 +1121,10 @@
         "track_name": "Session", 
         "room_id": 1120, 
         "room_name": "Hall B", 
-        "start_time": "2016-12-28T14:00:00+01:00", 
+        "start_time": "2016-12-28T18:45:00+01:00", 
         "duration": 3600, 
         "title": "We Fix the Net", 
-        "abstract": "MinimaLT in Ethos with Jon A. Solworth and Janosch Rux \nWe Fix the Net session will include talks on developing secure alternatives to current internet protocols.  We might hold an organized discussion or panel as well.  This session is organized by GNUnet", 
+        "abstract": "Opertunistic Email Encryption \nWe Fix the Net session will include talks on developing secure alternatives to current internet protocols.  We might hold an organized discussion or panel as well.  This session is organized by GNUnet", 
         "speakers": "Jeffburdges"
     }, 
     {
@@ -1548,12 +1548,12 @@
         "speakers": "Eal"
     }, 
     {
-        "event_id": 1245, 
+        "event_id": 1246, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
         "room_name": "Hall 13-14", 
-        "start_time": "2016-12-29T02:30:00+01:00", 
+        "start_time": "2016-12-29T01:30:00+01:00", 
         "duration": 3600, 
         "title": "Skillconvention b", 
         "abstract": " \nall travelers of a certain skill will be invented to join their respective session", 
@@ -1565,7 +1565,7 @@
         "track_name": "Session", 
         "room_id": 1013, 
         "room_name": "Hall 13-14", 
-        "start_time": "2016-12-29T00:30:00+01:00", 
+        "start_time": "2016-12-29T02:30:00+01:00", 
         "duration": 3600, 
         "title": "Skillconvention b", 
         "abstract": " \nall travelers of a certain skill will be invented to join their respective session", 
@@ -1577,7 +1577,7 @@
         "track_name": "Session", 
         "room_id": 1013, 
         "room_name": "Hall 13-14", 
-        "start_time": "2016-12-29T01:30:00+01:00", 
+        "start_time": "2016-12-29T00:30:00+01:00", 
         "duration": 3600, 
         "title": "Skillconvention b", 
         "abstract": " \nall travelers of a certain skill will be invented to join their respective session", 
@@ -1596,19 +1596,7 @@
         "speakers": "Eal"
     }, 
     {
-        "event_id": 1298, 
-        "track_id": 10, 
-        "track_name": "Session", 
-        "room_id": 1013, 
-        "room_name": "Hall 13-14", 
-        "start_time": "2016-12-28T15:10:00+01:00", 
-        "duration": 3000, 
-        "title": "Translation meetings", 
-        "abstract": "day 2, afternoon meeting \nThe translation angels (interpreters) meet twice per day to self-organise (day 0, evening to day 4, afternoon)", 
-        "speakers": "Sebalis"
-    }, 
-    {
-        "event_id": 1302, 
+        "event_id": 1296, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -1617,6 +1605,18 @@
         "duration": 3000, 
         "title": "Translation meetings", 
         "abstract": "day 2, evening meeting \nThe translation angels (interpreters) meet twice per day to self-organise (day 0, evening to day 4, afternoon)", 
+        "speakers": "Sebalis"
+    }, 
+    {
+        "event_id": 1300, 
+        "track_id": 10, 
+        "track_name": "Session", 
+        "room_id": 1013, 
+        "room_name": "Hall 13-14", 
+        "start_time": "2016-12-28T15:10:00+01:00", 
+        "duration": 3000, 
+        "title": "Translation meetings", 
+        "abstract": "day 2, afternoon meeting \nThe translation angels (interpreters) meet twice per day to self-organise (day 0, evening to day 4, afternoon)", 
         "speakers": "Sebalis"
     }, 
     {
@@ -1920,7 +1920,7 @@
         "speakers": "Reisende"
     }, 
     {
-        "event_id": 1261, 
+        "event_id": 1263, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -1968,19 +1968,7 @@
         "speakers": ""
     }, 
     {
-        "event_id": 1087, 
-        "track_id": 10, 
-        "track_name": "Session", 
-        "room_id": 1120, 
-        "room_name": "Hall B", 
-        "start_time": "2016-12-29T13:00:00+01:00", 
-        "duration": 3600, 
-        "title": "Engelmeeting", 
-        "abstract": "Angelmeeting day 3 \n", 
-        "speakers": "Knuth"
-    }, 
-    {
-        "event_id": 1089, 
+        "event_id": 1080, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1120, 
@@ -1989,6 +1977,18 @@
         "duration": 1800, 
         "title": "Engelmeeting", 
         "abstract": "Angel meeting day 3 \n", 
+        "speakers": "Knuth"
+    }, 
+    {
+        "event_id": 1089, 
+        "track_id": 10, 
+        "track_name": "Session", 
+        "room_id": 1120, 
+        "room_name": "Hall B", 
+        "start_time": "2016-12-29T13:00:00+01:00", 
+        "duration": 3600, 
+        "title": "Engelmeeting", 
+        "abstract": "Angelmeeting day 3 \n", 
         "speakers": "Knuth"
     }, 
     {
@@ -2016,7 +2016,7 @@
         "speakers": "Melzai"
     }, 
     {
-        "event_id": 1254, 
+        "event_id": 1255, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1120, 
@@ -2136,7 +2136,7 @@
         "speakers": "Guedou"
     }, 
     {
-        "event_id": 1255, 
+        "event_id": 1254, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1131, 
@@ -2340,7 +2340,7 @@
         "speakers": "Lu cyp, Kyravram"
     }, 
     {
-        "event_id": 1073, 
+        "event_id": 1072, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1134, 
@@ -2417,8 +2417,8 @@
         "track_name": "Session", 
         "room_id": 1230, 
         "room_name": "Hall F", 
-        "start_time": "2016-12-29T18:00:00+01:00", 
-        "duration": 8100, 
+        "start_time": "2016-12-29T21:00:00+01:00", 
+        "duration": 10800, 
         "title": "Film-Abend", 
         "abstract": " \nBlocked for Film Screenings by Content Team", 
         "speakers": ""
@@ -2429,8 +2429,8 @@
         "track_name": "Session", 
         "room_id": 1230, 
         "room_name": "Hall F", 
-        "start_time": "2016-12-29T21:00:00+01:00", 
-        "duration": 10800, 
+        "start_time": "2016-12-29T18:00:00+01:00", 
+        "duration": 8100, 
         "title": "Film-Abend", 
         "abstract": " \nBlocked for Film Screenings by Content Team", 
         "speakers": ""
@@ -2520,7 +2520,7 @@
         "speakers": "Fluktusdukt, Konfusius"
     }, 
     {
-        "event_id": 1269, 
+        "event_id": 1271, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1230, 
@@ -2556,7 +2556,7 @@
         "speakers": "Eal"
     }, 
     {
-        "event_id": 1052, 
+        "event_id": 1053, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -2652,7 +2652,7 @@
         "speakers": "Eal"
     }, 
     {
-        "event_id": 1296, 
+        "event_id": 1298, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -2664,7 +2664,7 @@
         "speakers": "Sebalis"
     }, 
     {
-        "event_id": 1299, 
+        "event_id": 1301, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -2724,7 +2724,7 @@
         "speakers": "Morricone"
     }, 
     {
-        "event_id": 1080, 
+        "event_id": 1082, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1120, 
@@ -2916,7 +2916,7 @@
         "speakers": "Blinry"
     }, 
     {
-        "event_id": 1300, 
+        "event_id": 1302, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
