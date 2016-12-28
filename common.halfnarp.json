@@ -156,7 +156,7 @@
         "speakers": ""
     }, 
     {
-        "event_id": 1124, 
+        "event_id": 1125, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -180,7 +180,7 @@
         "speakers": "Kire"
     }, 
     {
-        "event_id": 1227, 
+        "event_id": 1224, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -228,7 +228,7 @@
         "speakers": "Ijon"
     }, 
     {
-        "event_id": 1266, 
+        "event_id": 1264, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -240,7 +240,7 @@
         "speakers": "Cube"
     }, 
     {
-        "event_id": 1268, 
+        "event_id": 1267, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -624,7 +624,7 @@
         "speakers": "Reisende"
     }, 
     {
-        "event_id": 1292, 
+        "event_id": 1293, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -636,7 +636,7 @@
         "speakers": "Sebalis"
     }, 
     {
-        "event_id": 1296, 
+        "event_id": 1297, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -924,7 +924,7 @@
         "speakers": "Jeffburdges"
     }, 
     {
-        "event_id": 1123, 
+        "event_id": 1124, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -1080,7 +1080,19 @@
         "speakers": "Julius"
     }, 
     {
-        "event_id": 1310, 
+        "event_id": 1311, 
+        "track_id": 10, 
+        "track_name": "Session", 
+        "room_id": 1120, 
+        "room_name": "Hall B", 
+        "start_time": "2016-12-28T15:00:00+01:00", 
+        "duration": 13500, 
+        "title": "We Fix the Net", 
+        "abstract": "We Fix The Net Short Talks \nWe Fix the Net session will include talks on developing secure alternatives to current internet protocols.  We might hold an organized discussion or panel as well.  This session is organized by GNUnet", 
+        "speakers": "Jeffburdges"
+    }, 
+    {
+        "event_id": 1312, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1120, 
@@ -1092,7 +1104,7 @@
         "speakers": "Jeffburdges"
     }, 
     {
-        "event_id": 1311, 
+        "event_id": 1313, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1120, 
@@ -1101,18 +1113,6 @@
         "duration": 3600, 
         "title": "We Fix the Net", 
         "abstract": "MinimaLT in Ethos with Jon A. Solworth and Janosch Rux \nWe Fix the Net session will include talks on developing secure alternatives to current internet protocols.  We might hold an organized discussion or panel as well.  This session is organized by GNUnet", 
-        "speakers": "Jeffburdges"
-    }, 
-    {
-        "event_id": 1312, 
-        "track_id": 10, 
-        "track_name": "Session", 
-        "room_id": 1120, 
-        "room_name": "Hall B", 
-        "start_time": "2016-12-28T15:00:00+01:00", 
-        "duration": 13500, 
-        "title": "We Fix the Net", 
-        "abstract": "We Fix The Net Short Talks \nWe Fix the Net session will include talks on developing secure alternatives to current internet protocols.  We might hold an organized discussion or panel as well.  This session is organized by GNUnet", 
         "speakers": "Jeffburdges"
     }, 
     {
@@ -1212,7 +1212,7 @@
         "speakers": "Guedou"
     }, 
     {
-        "event_id": 1225, 
+        "event_id": 1226, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1131, 
@@ -1224,7 +1224,7 @@
         "speakers": "Melzai"
     }, 
     {
-        "event_id": 1306, 
+        "event_id": 1307, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1131, 
@@ -1236,7 +1236,7 @@
         "speakers": "Real-or-random"
     }, 
     {
-        "event_id": 1321, 
+        "event_id": 1322, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1131, 
@@ -1284,7 +1284,7 @@
         "speakers": "Eal"
     }, 
     {
-        "event_id": 1308, 
+        "event_id": 1309, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1132, 
@@ -1356,7 +1356,7 @@
         "speakers": "Leodin, Xilent"
     }, 
     {
-        "event_id": 1300, 
+        "event_id": 1301, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1133, 
@@ -1440,7 +1440,7 @@
         "speakers": "KaerF"
     }, 
     {
-        "event_id": 1290, 
+        "event_id": 1291, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1134, 
@@ -1452,7 +1452,7 @@
         "speakers": "Dawning-sun"
     }, 
     {
-        "event_id": 1318, 
+        "event_id": 1319, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1134, 
@@ -1464,7 +1464,7 @@
         "speakers": "Margott"
     }, 
     {
-        "event_id": 1319, 
+        "event_id": 1320, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1134, 
@@ -1500,7 +1500,7 @@
         "speakers": "Eal"
     }, 
     {
-        "event_id": 1118, 
+        "event_id": 1117, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -1596,7 +1596,7 @@
         "speakers": "Eal"
     }, 
     {
-        "event_id": 1293, 
+        "event_id": 1294, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -1608,7 +1608,7 @@
         "speakers": "Sebalis"
     }, 
     {
-        "event_id": 1297, 
+        "event_id": 1298, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -1620,7 +1620,7 @@
         "speakers": "Sebalis"
     }, 
     {
-        "event_id": 1315, 
+        "event_id": 1316, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -1848,7 +1848,7 @@
         "speakers": "AndyC4"
     }, 
     {
-        "event_id": 1125, 
+        "event_id": 1123, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -1908,7 +1908,7 @@
         "speakers": "Jeffburdges"
     }, 
     {
-        "event_id": 1316, 
+        "event_id": 1317, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -1968,7 +1968,7 @@
         "speakers": "Stk, Vavoida"
     }, 
     {
-        "event_id": 1224, 
+        "event_id": 1225, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1120, 
@@ -2208,7 +2208,19 @@
         "speakers": "Barbarossa, Takt, Lars, ThomasDOTwtf"
     }, 
     {
-        "event_id": 1299, 
+        "event_id": 1290, 
+        "track_id": 10, 
+        "track_name": "Session", 
+        "room_id": 1132, 
+        "room_name": "Hall C.2", 
+        "start_time": "2016-12-29T22:00:00+01:00", 
+        "duration": 5400, 
+        "title": "Tor Relays Operators Meetup", 
+        "abstract": " \nYou operate Tor relays?\nYou don't, but you have questions?\n\nCome meet us!", 
+        "speakers": "Nicoo"
+    }, 
+    {
+        "event_id": 1300, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1132, 
@@ -2268,7 +2280,7 @@
         "speakers": "Paz"
     }, 
     {
-        "event_id": 1322, 
+        "event_id": 1323, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1133, 
@@ -2304,7 +2316,7 @@
         "speakers": "Lu cyp, Kyravram"
     }, 
     {
-        "event_id": 1070, 
+        "event_id": 1069, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1134, 
@@ -2453,8 +2465,8 @@
         "track_name": "Session", 
         "room_id": 1230, 
         "room_name": "Hall F", 
-        "start_time": "2016-12-29T18:00:00+01:00", 
-        "duration": 8100, 
+        "start_time": "2016-12-29T21:00:00+01:00", 
+        "duration": 10800, 
         "title": "Movie Night", 
         "abstract": " \nBlocked for Film Screenings by Content Team", 
         "speakers": ""
@@ -2465,8 +2477,8 @@
         "track_name": "Session", 
         "room_id": 1230, 
         "room_name": "Hall F", 
-        "start_time": "2016-12-29T21:00:00+01:00", 
-        "duration": 10800, 
+        "start_time": "2016-12-29T18:00:00+01:00", 
+        "duration": 8100, 
         "title": "Movie Night", 
         "abstract": " \nBlocked for Film Screenings by Content Team", 
         "speakers": ""
@@ -2484,7 +2496,7 @@
         "speakers": "Fluktusdukt, Konfusius"
     }, 
     {
-        "event_id": 1267, 
+        "event_id": 1266, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1230, 
@@ -2616,7 +2628,7 @@
         "speakers": "Eal"
     }, 
     {
-        "event_id": 1291, 
+        "event_id": 1292, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -2628,7 +2640,7 @@
         "speakers": "Sebalis"
     }, 
     {
-        "event_id": 1294, 
+        "event_id": 1295, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -2700,7 +2712,7 @@
         "speakers": "Knuth"
     }, 
     {
-        "event_id": 1226, 
+        "event_id": 1227, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1120, 
@@ -2748,7 +2760,7 @@
         "speakers": "Iblech"
     }, 
     {
-        "event_id": 1264, 
+        "event_id": 1265, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1131, 
@@ -2820,7 +2832,7 @@
         "speakers": "Nikola"
     }, 
     {
-        "event_id": 1117, 
+        "event_id": 1118, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -2856,7 +2868,7 @@
         "speakers": "Blinry"
     }, 
     {
-        "event_id": 1295, 
+        "event_id": 1296, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
