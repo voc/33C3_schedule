@@ -125,7 +125,7 @@
         "track_name": "Session", 
         "room_id": 1131, 
         "room_name": "Hall C.1", 
-        "start_time": "2016-12-27T12:00:00+01:00", 
+        "start_time": "2016-12-30T12:00:00+01:00", 
         "duration": 3600, 
         "title": "An UnCivilization Commune ReWilded Life Shared with Squirrels", 
         "abstract": "Looking forward to meet new and old friends interested in UnCivilization! \n\nWe are a group of people interested in intersection of technology & society, politics, activism, art, and critical of techno-optimism. We share a mailing list since 2012, called UnCivilization, inspired (but not otherwise connected to) Dark Mountain \"Uncivilization Manifesto\", as well as Ursula LeGuin, Derrick Jensen, Heather Marsh, John Zerzan, Naomi Klein, Daniel Quinn, Ursula Franklin, and other feminist, anarchist, anti-supremacist authors. \n\nGoal of this meetup is to catch-up, give each other hugs & support, and plan our activities for the next months & years (e.g. another LikaCamp?!)", 
@@ -137,7 +137,7 @@
         "track_name": "Session", 
         "room_id": 1131, 
         "room_name": "Hall C.1", 
-        "start_time": "2016-12-30T12:00:00+01:00", 
+        "start_time": "2016-12-27T12:00:00+01:00", 
         "duration": 3600, 
         "title": "An UnCivilization Commune ReWilded Life Shared with Squirrels", 
         "abstract": "Looking forward to meet new and old friends interested in UnCivilization! \n\nWe are a group of people interested in intersection of technology & society, politics, activism, art, and critical of techno-optimism. We share a mailing list since 2012, called UnCivilization, inspired (but not otherwise connected to) Dark Mountain \"Uncivilization Manifesto\", as well as Ursula LeGuin, Derrick Jensen, Heather Marsh, John Zerzan, Naomi Klein, Daniel Quinn, Ursula Franklin, and other feminist, anarchist, anti-supremacist authors. \n\nGoal of this meetup is to catch-up, give each other hugs & support, and plan our activities for the next months & years (e.g. another LikaCamp?!)", 
@@ -965,7 +965,7 @@
         "track_name": "Session", 
         "room_id": 1131, 
         "room_name": "Hall C.1", 
-        "start_time": "2016-12-30T13:45:00+01:00", 
+        "start_time": "2016-12-30T14:00:00+01:00", 
         "duration": 3000, 
         "title": "How space travel is revolutionized with this one weird trick from chaos theory (Wondrous Mathematics)", 
         "abstract": "\"The easy part is getting to space. The hard part is staying there.\" Crash course on orbital mechanics and introduction to low-energy transfers.", 
@@ -1731,18 +1731,6 @@
         "event_id": 1239, 
         "track_id": 10, 
         "track_name": "Session", 
-        "room_id": 1111, 
-        "room_name": "Hall A.1", 
-        "start_time": "2016-12-27T12:00:00+01:00", 
-        "duration": 3600, 
-        "title": "Schiko-Meeting", 
-        "abstract": "Internal Schiko-Meeting", 
-        "speakers": "Melzai"
-    }, 
-    {
-        "event_id": 1240, 
-        "track_id": 10, 
-        "track_name": "Session", 
         "room_id": 1120, 
         "room_name": "Hall B", 
         "start_time": "2016-12-29T12:00:00+01:00", 
@@ -1752,7 +1740,7 @@
         "speakers": "Melzai"
     }, 
     {
-        "event_id": 1241, 
+        "event_id": 1240, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1131, 
@@ -1764,12 +1752,24 @@
         "speakers": "Melzai"
     }, 
     {
-        "event_id": 1242, 
+        "event_id": 1241, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1120, 
         "room_name": "Hall B", 
         "start_time": "2016-12-30T12:00:00+01:00", 
+        "duration": 3600, 
+        "title": "Schiko-Meeting", 
+        "abstract": "Internal Schiko-Meeting", 
+        "speakers": "Melzai"
+    }, 
+    {
+        "event_id": 1242, 
+        "track_id": 10, 
+        "track_name": "Session", 
+        "room_id": 1111, 
+        "room_name": "Hall A.1", 
+        "start_time": "2016-12-27T12:00:00+01:00", 
         "duration": 3600, 
         "title": "Schiko-Meeting", 
         "abstract": "Internal Schiko-Meeting", 
@@ -2103,9 +2103,9 @@
         "event_id": 1274, 
         "track_id": 10, 
         "track_name": "Session", 
-        "room_id": 1131, 
-        "room_name": "Hall C.1", 
-        "start_time": "2016-12-30T15:15:00+01:00", 
+        "room_id": 1111, 
+        "room_name": "Hall A.1", 
+        "start_time": "2016-12-27T10:00:00+01:00", 
         "duration": 1800, 
         "title": "Subtitles-Angelmeetings", 
         "abstract": "The Angelmeeting for the subtitles Angels.\nIf you want to be approved as a subtitles Angel, please visit!\nIf you are one already, this is the easiest way to meet and manage shifts etc.\nWelcome to the Subtitles Angelmeeting!", 
@@ -2115,9 +2115,9 @@
         "event_id": 1275, 
         "track_id": 10, 
         "track_name": "Session", 
-        "room_id": 1111, 
-        "room_name": "Hall A.1", 
-        "start_time": "2016-12-27T15:15:00+01:00", 
+        "room_id": 1131, 
+        "room_name": "Hall C.1", 
+        "start_time": "2016-12-30T15:15:00+01:00", 
         "duration": 1800, 
         "title": "Subtitles-Angelmeetings", 
         "abstract": "The Angelmeeting for the subtitles Angels.\nIf you want to be approved as a subtitles Angel, please visit!\nIf you are one already, this is the easiest way to meet and manage shifts etc.\nWelcome to the Subtitles Angelmeeting!", 
@@ -2129,7 +2129,7 @@
         "track_name": "Session", 
         "room_id": 1111, 
         "room_name": "Hall A.1", 
-        "start_time": "2016-12-27T10:00:00+01:00", 
+        "start_time": "2016-12-27T15:15:00+01:00", 
         "duration": 1800, 
         "title": "Subtitles-Angelmeetings", 
         "abstract": "The Angelmeeting for the subtitles Angels.\nIf you want to be approved as a subtitles Angel, please visit!\nIf you are one already, this is the easiest way to meet and manage shifts etc.\nWelcome to the Subtitles Angelmeeting!", 
@@ -2508,19 +2508,7 @@
         "speakers": "Mischk*"
     }, 
     {
-        "event_id": 1322, 
-        "track_id": 10, 
-        "track_name": "Session", 
-        "room_id": 1120, 
-        "room_name": "Hall B", 
-        "start_time": "2016-12-28T14:00:00+01:00", 
-        "duration": 3600, 
-        "title": "We Fix the Net", 
-        "abstract": "We Fix the Net session will include talks on developing secure alternatives to current internet protocols.  We might hold an organized discussion or panel as well.  This session is organized by GNUnet and pEp, and acts as a successor to the YBTI sessions of previous years.", 
-        "speakers": "Jeffburdges"
-    }, 
-    {
-        "event_id": 1323, 
+        "event_id": 1324, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1120, 
@@ -2532,7 +2520,7 @@
         "speakers": "Jeffburdges"
     }, 
     {
-        "event_id": 1324, 
+        "event_id": 1325, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1120, 
@@ -2544,7 +2532,19 @@
         "speakers": "Jeffburdges"
     }, 
     {
-        "event_id": 1327, 
+        "event_id": 1326, 
+        "track_id": 10, 
+        "track_name": "Session", 
+        "room_id": 1120, 
+        "room_name": "Hall B", 
+        "start_time": "2016-12-28T14:00:00+01:00", 
+        "duration": 3600, 
+        "title": "We Fix the Net", 
+        "abstract": "We Fix the Net session will include talks on developing secure alternatives to current internet protocols.  We might hold an organized discussion or panel as well.  This session is organized by GNUnet and pEp, and acts as a successor to the YBTI sessions of previous years.", 
+        "speakers": "Jeffburdges"
+    }, 
+    {
+        "event_id": 1329, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -2556,7 +2556,7 @@
         "speakers": "Eal"
     }, 
     {
-        "event_id": 1328, 
+        "event_id": 1330, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -2568,7 +2568,7 @@
         "speakers": "Blackspear"
     }, 
     {
-        "event_id": 1330, 
+        "event_id": 1332, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1134, 
@@ -2580,7 +2580,7 @@
         "speakers": "Margott"
     }, 
     {
-        "event_id": 1331, 
+        "event_id": 1333, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1134, 
@@ -2592,7 +2592,7 @@
         "speakers": "Brightbyte"
     }, 
     {
-        "event_id": 1333, 
+        "event_id": 1335, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1134, 
@@ -2604,7 +2604,7 @@
         "speakers": "Ipse"
     }, 
     {
-        "event_id": 1334, 
+        "event_id": 1336, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1131, 
@@ -2616,7 +2616,7 @@
         "speakers": "Ontological, Mdik"
     }, 
     {
-        "event_id": 1335, 
+        "event_id": 1337, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1133, 
