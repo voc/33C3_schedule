@@ -156,7 +156,7 @@
         "speakers": ""
     }, 
     {
-        "event_id": 1131, 
+        "event_id": 1130, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -180,7 +180,7 @@
         "speakers": "Kire"
     }, 
     {
-        "event_id": 1241, 
+        "event_id": 1240, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -216,7 +216,7 @@
         "speakers": "Reisende"
     }, 
     {
-        "event_id": 1269, 
+        "event_id": 1268, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -228,7 +228,7 @@
         "speakers": "Ijon"
     }, 
     {
-        "event_id": 1275, 
+        "event_id": 1273, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -240,7 +240,7 @@
         "speakers": "Cube"
     }, 
     {
-        "event_id": 1277, 
+        "event_id": 1275, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -413,10 +413,10 @@
         "track_name": "Session", 
         "room_id": 1132, 
         "room_name": "Hall C.2", 
-        "start_time": "2016-12-27T17:30:00+01:00", 
+        "start_time": "2016-12-27T16:00:00+01:00", 
         "duration": 4200, 
         "title": "Space Hacking", 
-        "abstract": "KulturKunstPartyPolitik! - Teil2: Urban Intervention \nKulturKunstPartyPolitik!\n\nEin Schiff als Arena schwimmender Spontandemos, Wandbild-Brigaden f\u00fcr internationalistische Politikarbeit. \nVisuelle Grenzen\u00fcberschreitungen an scheinbar unzug\u00e4nglichen Orten", 
+        "abstract": "KulturKunstPartyPolitik! - Teil1: Collective Space \nKulturKunstPartyPolitik!\n\nEin Schiff als Arena schwimmender Spontandemos, Wandbild-Brigaden f\u00fcr internationalistische Politikarbeit. \nVisuelle Grenzen\u00fcberschreitungen an scheinbar unzug\u00e4nglichen Orten", 
         "speakers": "Jona"
     }, 
     {
@@ -425,10 +425,10 @@
         "track_name": "Session", 
         "room_id": 1132, 
         "room_name": "Hall C.2", 
-        "start_time": "2016-12-27T16:00:00+01:00", 
+        "start_time": "2016-12-27T17:30:00+01:00", 
         "duration": 4200, 
         "title": "Space Hacking", 
-        "abstract": "KulturKunstPartyPolitik! - Teil1: Collective Space \nKulturKunstPartyPolitik!\n\nEin Schiff als Arena schwimmender Spontandemos, Wandbild-Brigaden f\u00fcr internationalistische Politikarbeit. \nVisuelle Grenzen\u00fcberschreitungen an scheinbar unzug\u00e4nglichen Orten", 
+        "abstract": "KulturKunstPartyPolitik! - Teil2: Urban Intervention \nKulturKunstPartyPolitik!\n\nEin Schiff als Arena schwimmender Spontandemos, Wandbild-Brigaden f\u00fcr internationalistische Politikarbeit. \nVisuelle Grenzen\u00fcberschreitungen an scheinbar unzug\u00e4nglichen Orten", 
         "speakers": "Jona"
     }, 
     {
@@ -540,7 +540,7 @@
         "speakers": "Djim, Duisburch, Benni, Cbass, Stean"
     }, 
     {
-        "event_id": 1054, 
+        "event_id": 1055, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -888,7 +888,7 @@
         "speakers": "Envy"
     }, 
     {
-        "event_id": 1055, 
+        "event_id": 1054, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -936,7 +936,7 @@
         "speakers": "Jeffburdges"
     }, 
     {
-        "event_id": 1130, 
+        "event_id": 1129, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -1188,7 +1188,7 @@
         "speakers": "Janosch"
     }, 
     {
-        "event_id": 1239, 
+        "event_id": 1242, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1131, 
@@ -1488,7 +1488,7 @@
         "speakers": "Eal"
     }, 
     {
-        "event_id": 1124, 
+        "event_id": 1123, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -1872,7 +1872,7 @@
         "speakers": "AndyC4"
     }, 
     {
-        "event_id": 1129, 
+        "event_id": 1131, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -2004,7 +2004,7 @@
         "speakers": "Stk, Vavoida"
     }, 
     {
-        "event_id": 1242, 
+        "event_id": 1241, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1120, 
@@ -2573,8 +2573,8 @@
         "track_name": "Session", 
         "room_id": 1230, 
         "room_name": "Hall F", 
-        "start_time": "2016-12-29T21:00:00+01:00", 
-        "duration": 10800, 
+        "start_time": "2016-12-29T18:00:00+01:00", 
+        "duration": 8100, 
         "title": "Movie Night", 
         "abstract": " \n18:00 Zero Days\n\n20:00 61 Tage\n\n21:00 Traceroute\n\nSee https://events.ccc.de/2016/12/28/33c3-movie-night-33c3-filmabend/", 
         "speakers": ""
@@ -2585,8 +2585,8 @@
         "track_name": "Session", 
         "room_id": 1230, 
         "room_name": "Hall F", 
-        "start_time": "2016-12-29T18:00:00+01:00", 
-        "duration": 8100, 
+        "start_time": "2016-12-29T21:00:00+01:00", 
+        "duration": 10800, 
         "title": "Movie Night", 
         "abstract": " \n18:00 Zero Days\n\n20:00 61 Tage\n\n21:00 Traceroute\n\nSee https://events.ccc.de/2016/12/28/33c3-movie-night-33c3-filmabend/", 
         "speakers": ""
@@ -2604,7 +2604,7 @@
         "speakers": "Fluktusdukt, Konfusius"
     }, 
     {
-        "event_id": 1273, 
+        "event_id": 1277, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1230, 
@@ -2820,7 +2820,7 @@
         "speakers": "Knuth"
     }, 
     {
-        "event_id": 1240, 
+        "event_id": 1239, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1120, 
@@ -2988,7 +2988,7 @@
         "speakers": "FiloSottile"
     }, 
     {
-        "event_id": 1123, 
+        "event_id": 1124, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
