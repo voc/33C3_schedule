@@ -2028,7 +2028,7 @@
         "speakers": "Uebelhacker, Anna Fuchs, Ysf"
     }, 
     {
-        "event_id": 1293, 
+        "event_id": 1294, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1120, 
@@ -2880,7 +2880,7 @@
         "speakers": "Melzai"
     }, 
     {
-        "event_id": 1294, 
+        "event_id": 1293, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1120, 
@@ -3041,10 +3041,10 @@
         "track_name": "Session", 
         "room_id": 1134, 
         "room_name": "Hall C.4", 
-        "start_time": "2016-12-30T15:30:00+01:00", 
-        "duration": 5400, 
+        "start_time": "2016-12-30T14:30:00+01:00", 
+        "duration": 3600, 
         "title": "Neuropil", 
-        "abstract": "coding & testing \nmaking and breaking of neuropil :-)\nwe would like to set up an neuropil network together with the participants and try to identify vulnerabilities ...", 
+        "abstract": "introduction & buidling blocks \nmaking and breaking of neuropil :-)\nwe would like to set up an neuropil network together with the participants and try to identify vulnerabilities ...", 
         "speakers": "Stephan.schwichtenberg"
     }, 
     {
@@ -3053,10 +3053,10 @@
         "track_name": "Session", 
         "room_id": 1134, 
         "room_name": "Hall C.4", 
-        "start_time": "2016-12-30T14:30:00+01:00", 
-        "duration": 3600, 
+        "start_time": "2016-12-30T15:30:00+01:00", 
+        "duration": 5400, 
         "title": "Neuropil", 
-        "abstract": "introduction & buidling blocks \nmaking and breaking of neuropil :-)\nwe would like to set up an neuropil network together with the participants and try to identify vulnerabilities ...", 
+        "abstract": "coding & testing \nmaking and breaking of neuropil :-)\nwe would like to set up an neuropil network together with the participants and try to identify vulnerabilities ...", 
         "speakers": "Stephan.schwichtenberg"
     }, 
     {
