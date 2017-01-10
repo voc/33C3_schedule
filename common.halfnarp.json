@@ -156,7 +156,7 @@
         "speakers": ""
     }, 
     {
-        "event_id": 1138, 
+        "event_id": 1137, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -180,7 +180,7 @@
         "speakers": "Kire"
     }, 
     {
-        "event_id": 1253, 
+        "event_id": 1256, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -240,7 +240,7 @@
         "speakers": "Cube"
     }, 
     {
-        "event_id": 1300, 
+        "event_id": 1298, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -936,7 +936,7 @@
         "speakers": "Jeffburdges"
     }, 
     {
-        "event_id": 1137, 
+        "event_id": 1139, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -996,7 +996,7 @@
         "speakers": "Reisende"
     }, 
     {
-        "event_id": 1299, 
+        "event_id": 1300, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -1188,7 +1188,7 @@
         "speakers": "Janosch"
     }, 
     {
-        "event_id": 1255, 
+        "event_id": 1254, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1131, 
@@ -1872,7 +1872,7 @@
         "speakers": "AndyC4"
     }, 
     {
-        "event_id": 1139, 
+        "event_id": 1138, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -2004,7 +2004,7 @@
         "speakers": "Stk, Vavoida"
     }, 
     {
-        "event_id": 1254, 
+        "event_id": 1253, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1120, 
@@ -2028,7 +2028,7 @@
         "speakers": "Uebelhacker, Anna Fuchs, Ysf"
     }, 
     {
-        "event_id": 1294, 
+        "event_id": 1293, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1120, 
@@ -2640,7 +2640,7 @@
         "speakers": "Vavoida"
     }, 
     {
-        "event_id": 1298, 
+        "event_id": 1299, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1230, 
@@ -2868,7 +2868,7 @@
         "speakers": "Knuth"
     }, 
     {
-        "event_id": 1256, 
+        "event_id": 1255, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1120, 
@@ -2880,7 +2880,7 @@
         "speakers": "Melzai"
     }, 
     {
-        "event_id": 1293, 
+        "event_id": 1294, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1120, 
