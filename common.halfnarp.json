@@ -324,7 +324,7 @@
         "speakers": "Obaz, UMT, CoopDot"
     }, 
     {
-        "event_id": 1025, 
+        "event_id": 1024, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1131, 
@@ -2904,7 +2904,7 @@
         "speakers": "Txt.file, Zaurak, Sva"
     }, 
     {
-        "event_id": 1024, 
+        "event_id": 1025, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1131, 
