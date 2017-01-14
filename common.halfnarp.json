@@ -156,7 +156,7 @@
         "speakers": ""
     }, 
     {
-        "event_id": 1138, 
+        "event_id": 1137, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -180,7 +180,7 @@
         "speakers": "Kire"
     }, 
     {
-        "event_id": 1254, 
+        "event_id": 1256, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -233,19 +233,19 @@
         "track_name": "Session", 
         "room_id": 1111, 
         "room_name": "Hall A.1", 
-        "start_time": "2016-12-27T15:15:00+01:00", 
+        "start_time": "2016-12-27T10:00:00+01:00", 
         "duration": 1800, 
         "title": "Subtitles-Angelmeetings", 
         "abstract": " \nThe Angelmeeting for the subtitles Angels.\nIf you want to be approved as a subtitles Angel, please visit!\nIf you are one already, this is the easiest way to meet and manage shifts etc.\nWelcome to the ", 
         "speakers": "Cube"
     }, 
     {
-        "event_id": 1301, 
+        "event_id": 1299, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
         "room_name": "Hall A.1", 
-        "start_time": "2016-12-27T10:00:00+01:00", 
+        "start_time": "2016-12-27T15:15:00+01:00", 
         "duration": 1800, 
         "title": "Subtitles-Angelmeetings", 
         "abstract": " \nThe Angelmeeting for the subtitles Angels.\nIf you want to be approved as a subtitles Angel, please visit!\nIf you are one already, this is the easiest way to meet and manage shifts etc.\nWelcome to the ", 
@@ -936,7 +936,7 @@
         "speakers": "Jeffburdges"
     }, 
     {
-        "event_id": 1137, 
+        "event_id": 1139, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -996,7 +996,7 @@
         "speakers": "Reisende"
     }, 
     {
-        "event_id": 1300, 
+        "event_id": 1301, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -1073,10 +1073,10 @@
         "track_name": "Session", 
         "room_id": 1120, 
         "room_name": "Hall B", 
-        "start_time": "2016-12-28T14:00:00+01:00", 
-        "duration": 3600, 
+        "start_time": "2016-12-28T15:00:00+01:00", 
+        "duration": 13500, 
         "title": "We Fix the Net", 
-        "abstract": "MinimaLT in Ethos with Jon A. Solworth and Janosch Rux \nWe Fix the Net session will include talks on developing secure alternatives to current internet protocols.  We might hold an organized discussion or panel as well.  This session is organized by GNUnet", 
+        "abstract": "We Fix The Net Short Talks \nWe Fix the Net session will include talks on developing secure alternatives to current internet protocols.  We might hold an organized discussion or panel as well.  This session is organized by GNUnet", 
         "speakers": "Jeffburdges"
     }, 
     {
@@ -1085,10 +1085,10 @@
         "track_name": "Session", 
         "room_id": 1120, 
         "room_name": "Hall B", 
-        "start_time": "2016-12-28T15:00:00+01:00", 
-        "duration": 13500, 
+        "start_time": "2016-12-28T18:45:00+01:00", 
+        "duration": 3600, 
         "title": "We Fix the Net", 
-        "abstract": "We Fix The Net Short Talks \nWe Fix the Net session will include talks on developing secure alternatives to current internet protocols.  We might hold an organized discussion or panel as well.  This session is organized by GNUnet", 
+        "abstract": "Opertunistic Email Encryption \nWe Fix the Net session will include talks on developing secure alternatives to current internet protocols.  We might hold an organized discussion or panel as well.  This session is organized by GNUnet", 
         "speakers": "Jeffburdges"
     }, 
     {
@@ -1097,10 +1097,10 @@
         "track_name": "Session", 
         "room_id": 1120, 
         "room_name": "Hall B", 
-        "start_time": "2016-12-28T18:45:00+01:00", 
+        "start_time": "2016-12-28T14:00:00+01:00", 
         "duration": 3600, 
         "title": "We Fix the Net", 
-        "abstract": "Opertunistic Email Encryption \nWe Fix the Net session will include talks on developing secure alternatives to current internet protocols.  We might hold an organized discussion or panel as well.  This session is organized by GNUnet", 
+        "abstract": "MinimaLT in Ethos with Jon A. Solworth and Janosch Rux \nWe Fix the Net session will include talks on developing secure alternatives to current internet protocols.  We might hold an organized discussion or panel as well.  This session is organized by GNUnet", 
         "speakers": "Jeffburdges"
     }, 
     {
@@ -1188,7 +1188,7 @@
         "speakers": "Janosch"
     }, 
     {
-        "event_id": 1256, 
+        "event_id": 1254, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1131, 
@@ -1872,7 +1872,7 @@
         "speakers": "AndyC4"
     }, 
     {
-        "event_id": 1139, 
+        "event_id": 1138, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -2004,7 +2004,7 @@
         "speakers": "Stk, Vavoida"
     }, 
     {
-        "event_id": 1255, 
+        "event_id": 1253, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1120, 
@@ -2028,7 +2028,7 @@
         "speakers": "Uebelhacker, Anna Fuchs, Ysf"
     }, 
     {
-        "event_id": 1293, 
+        "event_id": 1294, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1120, 
@@ -2436,7 +2436,7 @@
         "speakers": "Lu cyp, Kyravram"
     }, 
     {
-        "event_id": 1075, 
+        "event_id": 1076, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1134, 
@@ -2640,7 +2640,7 @@
         "speakers": "Vavoida"
     }, 
     {
-        "event_id": 1299, 
+        "event_id": 1300, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1230, 
@@ -2868,7 +2868,7 @@
         "speakers": "Knuth"
     }, 
     {
-        "event_id": 1253, 
+        "event_id": 1255, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1120, 
@@ -2880,7 +2880,7 @@
         "speakers": "Melzai"
     }, 
     {
-        "event_id": 1294, 
+        "event_id": 1293, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1120, 
@@ -3041,10 +3041,10 @@
         "track_name": "Session", 
         "room_id": 1134, 
         "room_name": "Hall C.4", 
-        "start_time": "2016-12-30T15:30:00+01:00", 
-        "duration": 5400, 
+        "start_time": "2016-12-30T14:30:00+01:00", 
+        "duration": 3600, 
         "title": "Neuropil", 
-        "abstract": "coding & testing \nmaking and breaking of neuropil :-)\nwe would like to set up an neuropil network together with the participants and try to identify vulnerabilities ...", 
+        "abstract": "introduction & buidling blocks \nmaking and breaking of neuropil :-)\nwe would like to set up an neuropil network together with the participants and try to identify vulnerabilities ...", 
         "speakers": "Stephan.schwichtenberg"
     }, 
     {
@@ -3053,10 +3053,10 @@
         "track_name": "Session", 
         "room_id": 1134, 
         "room_name": "Hall C.4", 
-        "start_time": "2016-12-30T14:30:00+01:00", 
-        "duration": 3600, 
+        "start_time": "2016-12-30T15:30:00+01:00", 
+        "duration": 5400, 
         "title": "Neuropil", 
-        "abstract": "introduction & buidling blocks \nmaking and breaking of neuropil :-)\nwe would like to set up an neuropil network together with the participants and try to identify vulnerabilities ...", 
+        "abstract": "coding & testing \nmaking and breaking of neuropil :-)\nwe would like to set up an neuropil network together with the participants and try to identify vulnerabilities ...", 
         "speakers": "Stephan.schwichtenberg"
     }, 
     {
